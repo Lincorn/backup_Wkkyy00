@@ -1,0 +1,35 @@
+name: Sync Wkkyy00 GitHub Pages
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # 每天 UTC 时间 0 点自动同步（北京时间早上 8 点）
+  workflow_dispatch:  # 支持手动触发
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout your repository
+        uses: actions/checkout@v2
+
+      - name: Set up Git
+        run: |
+          git config --global user.name "Lemonas"  # 替换成你的 GitHub 用户名
+          git config --global user.email "lemonas@example.com"  # 替换为你的邮箱
+
+      - name: Clone Wkkyy00.github.io repository
+        run: |
+          git clone https://github.com/Wkkyy00/Wkkyy00.github.io.git temp-sync
+          cp -rf temp-sync/* .
+          rm -rf temp-sync
+
+      - name: Commit and Push changes
+        run: |
+          git add .
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -m "Sync from Wkkyy00.github.io"
+            git push origin main
+          else
+            echo "No changes to commit."
+          fi
