@@ -10215,6 +10215,41 @@ Author: huami
 Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
 Name: 抖音魔术师
 
+Package: com.huami.dyyy.dao
+Version: 2.2-7-0609
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 1996
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.dyyy.dao_2.2-7-0609_iphoneos-arm64e.deb
+Size: 1327986
+MD5sum: 255e833c4cdde2cb4b8e6fa896619fb8
+SHA1: 7582e3f5c4b6f899cd15b98a7caa42f252df47d9
+SHA256: 794ecd5f91176689a1db31abef85735f5b2302f0ebf30ba10d5aff809ada7a1b
+Section: 抖音插件
+Description: 基于DYYY定制，双入口：首页双指长按为魔术师UI；设置入口为Vita's DYYY！仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: 抖音魔术师
+
+Package: com.huami.dyyy.dao
+Version: 2.2-7-0609
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 1996
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.dyyy.dao_2.2-7-0609_iphoneos-arm64.deb
+Size: 469032
+MD5sum: 9dfe64b2ca8c9a7ffbe1bb35a88f7e7d
+SHA1: df4f879973a358cd7f87f0d44e81e30a33519b0d
+SHA256: 2b9ca827ae7b30c008f047b98f6edbe37a4a07c7dcf27ba75d9c4bfaa7f54624
+Section: 抖音插件
+Description: 基于DYYY定制，双入口：首页双指长按为魔术师UI；设置入口为Vita's DYYY！仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: 抖音魔术师
+
 Package: com.huami.kbstyle
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -15710,6 +15745,41 @@ Size: 1391354
 MD5sum: 54a619668f2e5ebd153388f904d0838d
 SHA1: ff2984573e98c8c3e735f61663a64a401264cf2e
 SHA256: 7c21371ca4c47ff0b3a3e45374636b268a93e097955c4d176c0382658099596d
+Section: 微信插件
+Description: 微信插件，支持聊天按钮布局自定义等。
+Author: 愫 茶
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatEnhance
+
+Package: com.wechat.enhance
+Version: 1.4-5
+Architecture: iphoneos-arm64
+Maintainer: 愫 茶
+Installed-Size: 2060
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wechat.enhance_1.4-5_iphoneos-arm64.deb
+Size: 475976
+MD5sum: 65fb27a2b18b3b7b7e5151ed5507fab1
+SHA1: 2c6bf03036a70c4c4754c426fe1a896bde037e18
+SHA256: 075a4b2cf75250513f693b52956723e16856c9269838bb610bb3fa76b3c190ba
+Section: 微信插件
+Description: 微信插件，支持聊天按钮布局自定义等。
+Author: 愫 茶
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatEnhance
+
+Package: com.wechat.enhance
+Version: 1.4-5
+Architecture: iphoneos-arm64e
+Maintainer: 愫 茶
+Installed-Size: 2060
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wechat.enhance_1.4-5_iphoneos-arm64e.deb
+Size: 1388100
+MD5sum: 5a7e7dc569731500b861854e3b8f4ab9
+SHA1: 9dfd4b8eef525aceba0a5847e87def2f97b4cec1
+SHA256: c8d1a26bb758b9b1ff0e6e58406375f60ea0f38c33eb441877daf2ba233570ae
 Section: 微信插件
 Description: 微信插件，支持聊天按钮布局自定义等。
 Author: 愫 茶
