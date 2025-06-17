@@ -15255,6 +15255,41 @@ Author: 愫 茶
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WeChatEnhance
 
+Package: com.wechat.enhance
+Version: 1.4-7
+Architecture: iphoneos-arm64e
+Maintainer: 愫 茶
+Installed-Size: 2060
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wechat.enhance_1.4-7_iphoneos-arm64e.deb
+Size: 1453012
+MD5sum: acb7946702e83273e705cf1439fbe9af
+SHA1: 72cb22aeab5e3cb91dff4092ec0ee0c1e9f13614
+SHA256: 7a8a8fc892057461efb3ed7e12c7dec5d7679240f10d561cc65fe708a0d62cc5
+Section: 微信插件
+Description: 微信插件，支持聊天按钮布局自定义等。
+Author: 愫 茶
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatEnhance
+
+Package: com.wechat.enhance
+Version: 1.4-7
+Architecture: iphoneos-arm64
+Maintainer: 愫 茶
+Installed-Size: 2060
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wechat.enhance_1.4-7_iphoneos-arm64.deb
+Size: 496308
+MD5sum: f1befc19efcbb9f817223b334bc331a7
+SHA1: 0a05d15554114e2a8f980a1869188deffe848345
+SHA256: 0f2d1006f61005a0835ef135f57aef27a35f9f26b4b53e664f934459750cf714
+Section: 微信插件
+Description: 微信插件，支持聊天按钮布局自定义等。
+Author: 愫 茶
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatEnhance
+
 Package: com.wechat.xuanzhuan
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -17287,6 +17322,39 @@ Description: 仅支持RootHide越狱
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/06/75dc8800d1c97029204392465be466b4.jpeg
 Name: 皮卡丘注销动画3.0
+
+Package: com.wkk.zzhook
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/com.wkk.zzhook_1.0_iphoneos-arm64e.deb
+Size: 4544
+MD5sum: fd07bcf326beb0a0f11f39975042c454
+SHA1: 0a2522b96b92a20323e34cd9748dffc5332fea36
+SHA256: 9b3238f98812be7f0bb1e771f2bf72eba75bdef2772e0de6308514d1291d4029
+Section: 去广告
+Description: 去开屏，版本：11.12.5
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/06/16/4d8b76fc09393fdae4119792925bf6da.png
+Name: 转转NoAds
+
+Package: com.wkk.zzhook
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/com.wkk.zzhook_1.0_iphoneos-arm64.deb
+Size: 3212
+MD5sum: 64f1ddb078dc3a72ffcd025a43711ec1
+SHA1: 7f0133b1b45901bece0e4cd80530042cd44a6866
+SHA256: aa616454de38ffedb5ce588895d1a0065d674681abc3dcab9a3fafa7d79b09ef
+Section: 去广告
+Description: 去开屏，版本：11.12.5
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/06/16/4d8b76fc09393fdae4119792925bf6da.png
+Name: 转转NoAds
 
 Package: com.wkkyy0.pikaqiuzhuxiao
 Version: 1.0
