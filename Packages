@@ -8194,6 +8194,22 @@ Description: AppTools for iOS15-16 Roothide
 Author: aReo
 Name: AppTools15-16(Roothide)
 
+Package: com.flex2areo.apptools15roothide
+Version: 2.0.1
+Architecture: iphoneos-arm64e
+Maintainer: aReo
+Installed-Size: 1812
+Depends: mobilesubstrate
+Filename: ./debs/com.flex2areo.apptools15roothide_2.0.1_iphoneos-arm64e.deb
+Size: 431968
+MD5sum: acffe5fe861b4dc4fc2c495166e575d6
+SHA1: 68e20a3e4d5ed1eaf245ab9b56e8964a0f8b7f59
+SHA256: f713349822dee10860daadd4d16b5790905f801858a66d0ce7c36cc74090e319
+Section: Tweaks
+Description: AppTools for iOS15-16 Roothide
+Author: aReo
+Name: AppTools15-16(Roothide)
+
 Package: com.flex2areo.apptools15rootless
 Version: 2.0.0
 Architecture: iphoneos-arm64
@@ -8205,6 +8221,22 @@ Size: 435484
 MD5sum: 40e2268636fed5c4d5014af0325ed792
 SHA1: 56b5aa6a06cfb82edf45d2b186d15c09aeaffcf4
 SHA256: 155ef2af212e6b3206cdad7bc41fe02f84ee68de8fe8e96b957186b4cffdef08
+Section: Tweaks
+Description: AppTools for iOS15-16 Rootless
+Author: aReo
+Name: AppTools15-16(Rootless)
+
+Package: com.flex2areo.apptools15rootless
+Version: 2.0.1
+Architecture: iphoneos-arm64
+Maintainer: aReo
+Installed-Size: 1844
+Depends: mobilesubstrate
+Filename: ./debs/com.flex2areo.apptools15rootless_2.0.1_iphoneos-arm64.deb
+Size: 440510
+MD5sum: f3e4f9f94d705fcf1885a37f80b8b93e
+SHA1: ccc4a360fe2375af2b8e0ecca1a99eb186de111e
+SHA256: b48d5e8392ab3ca5af9b0d891508652eeb9a3729d21401c6bc990410acbd21b0
 Section: Tweaks
 Description: AppTools for iOS15-16 Rootless
 Author: aReo
@@ -14886,6 +14918,41 @@ Author: WeChat
 Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
 Name: 主题盒子
 
+Package: com.tencent.themebox
+Version: 2.0.8-1
+Architecture: iphoneos-arm64e
+Maintainer: WeChat
+Installed-Size: 6132
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tencent.themebox_2.0.8-1_iphoneos-arm64e.deb
+Size: 10713408
+MD5sum: a4ea4c573ab586d3cec3b5f5a3625c41
+SHA1: a638ccf1702ff72fb8d16ea7520f042f9e0e3bdc
+SHA256: a1843671c1c4cb814f35a3305453c3bbaf19df233992c3f9879994a0d7883b39
+Section: 微信插件
+Description: 学习交流。
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+Name: 主题盒子
+
+Package: com.tencent.themebox
+Version: 2.0.8-1
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tencent.themebox_2.0.8-1_iphoneos-arm64.deb
+Size: 4006540
+MD5sum: 64c87520e28a300cbe7f86c18ac71f9c
+SHA1: 2da89fc7ac9e8378427a148616ccff788637690f
+SHA256: 3a563eb304e8a0d64c58492a0e5489e78a33a9ff9e3e3084ca0f77e330022d58
+Section: 微信插件
+Description: 学习交流。
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+Name: 主题盒子
+
 Package: com.teslaman3092.popoutbuttons
 Version: 1.0.1
 Architecture: iphoneos-arm64
@@ -15672,6 +15739,41 @@ Size: 489308
 MD5sum: 997c16c9766385dc0aea05280f49918a
 SHA1: 4916c019facabfc2b05ae1134cd8b86f87b196b5
 SHA256: 1358da3cc8c77d3ec57a3ec69fa2da65b2965a2102d158e7e89b686d0d4dcc22
+Section: 微信插件
+Description: 微信插件，支持聊天按钮布局自定义等。
+Author: 愫 茶
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatEnhance
+
+Package: com.wechat.enhance
+Version: 1.4-9
+Architecture: iphoneos-arm64
+Maintainer: 愫 茶
+Installed-Size: 2060
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wechat.enhance_1.4-9_iphoneos-arm64.deb
+Size: 500300
+MD5sum: fd12a3dea64228c3e4c7b37859961f26
+SHA1: 775cc2a3c032bc3caaec60178db1cc0132baff37
+SHA256: 636a4748963265fbe874bf73bb6cf6144970a62744d60e9004364279d891de73
+Section: 微信插件
+Description: 微信插件，支持聊天按钮布局自定义等。
+Author: 愫 茶
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatEnhance
+
+Package: com.wechat.enhance
+Version: 1.4-9
+Architecture: iphoneos-arm64e
+Maintainer: 愫 茶
+Installed-Size: 2060
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wechat.enhance_1.4-9_iphoneos-arm64e.deb
+Size: 1462810
+MD5sum: 560284d291cf45f1d2ccc805d536c1e6
+SHA1: 16899ac07bb88f9cdbe9afff242929a55d7a40cc
+SHA256: 10ddc40616a971a9cac379599c48ef174ebb3ad23f6ffe07f4bfeb7f47b47cf4
 Section: 微信插件
 Description: 微信插件，支持聊天按钮布局自定义等。
 Author: 愫 茶
@@ -16816,6 +16918,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: 一键解压deb(自用)
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/jydeb.json
+
+Package: com.wkk.kaiguan
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: com.spark.snowboard, com.spark.snowboard.ui, com.spark.snowboard.masks, com.spark.snowboard.effects
+Filename: ./debs/com.wkk.kaiguan_1.0_iphoneos-arm64.deb
+Size: 3277908
+MD5sum: 243733c4a6f9c9b1295f7e46bc225705
+SHA1: caae783c37eb67d1f2922b3cdbf2c15fe43f649e
+SHA256: 588608002e0975d972b37f172c69f560d21547d9c879478ed895473573fcb74c
+Section: 一切美化的东西都是垃圾
+Description: 54款开关大集合！直装！告别四处求爷爷告奶奶的日子，需要snowboard扩展。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/21/f6fc596574b95a93ba343da65e2e6964.png
+Name: snowboard开关集合
+Sponsor: wkk
+
+Package: com.wkk.kaiguan
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: com.spark.snowboard, com.spark.snowboard.ui, com.spark.snowboard.masks, com.spark.snowboard.effects
+Filename: ./debs/com.wkk.kaiguan_1.0_iphoneos-arm64e.deb
+Size: 6649436
+MD5sum: 08f37a7185e3dfa8131fd8f44b15a4c6
+SHA1: 2a31e97d3fec7de8a037553e073fd0d26e6701fb
+SHA256: 04ea5e80fa0d3be06963697226295861cd693a4fb092e1572ccb0334137c2067
+Section: 一切美化的东西都是垃圾
+Description: 54款开关大集合！直装！告别四处求爷爷告奶奶的日子，需要snowboard扩展。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/21/f6fc596574b95a93ba343da65e2e6964.png
+Name: snowboard开关集合
+Sponsor: wkk
 
 Package: com.wkk.kbapp
 Version: 1.5
