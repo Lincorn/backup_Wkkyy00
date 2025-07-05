@@ -6910,6 +6910,45 @@ Icon: file:///var/jb/Applications/TweakSettings.app/icon_large.png
 Name: TweakSettings
 Sileodepiction: https://creaturecoding.com/sileo/depiction/?package_id=tweaksettings
 
+Package: com.cureux.cc26
+Version: 0.4.9.1b
+Architecture: iphoneos-arm64e
+Maintainer: therealhoodboy
+Installed-Size: 204
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0), firmware (< 18.0)
+Conflicts: com.dvntm.cc18
+Provides: com.cureux.cc26
+Filename: ./debs/com.cureux.cc26_0.4.9.1b_iphoneos-arm64e.deb
+Size: 20730
+MD5sum: 49c71b32a0ca0f105d8ecaf3fcbdec97
+SHA1: 260f744127133e06ee50ccc8cf0e80b54fe9e8e2
+SHA256: bd5d8130336afc1ec057576d15137c3072e9eb60efeaea56f2248ad6439c190a
+Section: Tweaks
+Description: A sleek reimagination of Control Center
+Author: therealhoodboy
+Icon: https://raw.githubusercontent.com/therealhoodboy/coreux/7cef61c0b96f05e285d17d030f9135c4e951e420/assets/tweak-icons/cc26.png
+Name: CC26
+
+Package: com.cureux.cc26
+Version: 0.4.9.1b
+Architecture: iphoneos-arm64
+Maintainer: therealhoodboy
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0), firmware (< 18.0)
+Conflicts: com.dvntm.cc18
+Provides: com.cureux.cc26
+Filename: ./debs/com.cureux.cc26_0.4.9.1b_iphoneos-arm64.deb
+Size: 15362
+MD5sum: 43e05841fb7d5d4b79d3bf1d1412a5d4
+SHA1: b1a6da97e581783788f612776e469ed7ec6565e4
+SHA256: 168fb5154cdb546c20c62d2f4aaf5051b76a7002f8af55049c9fb96e8ac1d42c
+Section: Tweaks
+Description: A sleek reimagination of Control Center
+Author: therealhoodboy
+Icon: https://raw.githubusercontent.com/therealhoodboy/coreux/7cef61c0b96f05e285d17d030f9135c4e951e420/assets/tweak-icons/cc26.png
+Name: CC26
+
 Package: com.curtin.pkc
 Version: 0.7-0
 Architecture: iphoneos-arm64e
@@ -8226,6 +8265,22 @@ Description: AppTools for iOS15-16 Roothide
 Author: aReo
 Name: AppTools15-16(Roothide)
 
+Package: com.flex2areo.apptools15roothide
+Version: 2.1.4
+Architecture: iphoneos-arm64e
+Maintainer: aReo
+Installed-Size: 1872
+Depends: mobilesubstrate
+Filename: ./debs/com.flex2areo.apptools15roothide_2.1.4_iphoneos-arm64e.deb
+Size: 447292
+MD5sum: 91903fa179eeb64c702334b0eb186344
+SHA1: 21421564e962f615db1bee31bbc30ee3a8bcdd30
+SHA256: 6f8f0ffdd73ae7b04c677a4677ace9fd2fcd71eb17966d99ba9191a5c623e0ea
+Section: Tweaks
+Description: AppTools for iOS15-16 Roothide
+Author: aReo
+Name: AppTools15-16(Roothide)
+
 Package: com.flex2areo.apptools15rootless
 Version: 2.0.0
 Architecture: iphoneos-arm64
@@ -8269,6 +8324,22 @@ Size: 454074
 MD5sum: e4bb43c347622d77c6573559cd294d35
 SHA1: 72f4755e9c3bdbf00e9e56a7b2cfe8e7959d39a2
 SHA256: bdbf1be281352f9ef249019623c6407e182630e3169179e99249db2a67f562f4
+Section: Tweaks
+Description: AppTools for iOS15-16 Rootless
+Author: aReo
+Name: AppTools15-16(Rootless)
+
+Package: com.flex2areo.apptools15rootless
+Version: 2.1.4
+Architecture: iphoneos-arm64
+Maintainer: aReo
+Installed-Size: 1924
+Depends: mobilesubstrate
+Filename: ./debs/com.flex2areo.apptools15rootless_2.1.4_iphoneos-arm64.deb
+Size: 459570
+MD5sum: b76a7882ee63a8372cd46146076cfd48
+SHA1: 946e8c3a6a8bdbf969ae7806d415dfc6aa9778fd
+SHA256: 8a7d2d9d4f1d2e26847e0fe3b189619293f5a1818c6f87aec691c2b37089570a
 Section: Tweaks
 Description: AppTools for iOS15-16 Rootless
 Author: aReo
@@ -16521,6 +16592,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/11/b8e549c210944f75bdf8d198a3d74e92.jpeg
 Name: 大众点评NoAds
 
+Package: com.wkk.dzdphook
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.dzdphook_1.1_iphoneos-arm64.deb
+Size: 3228
+MD5sum: f0370418ef2f21445eac88bbd01ab4aa
+SHA1: f6dfd1696a488ee13ccdf0ea27f96c974703174b
+SHA256: ffa5364b0853578cb5ce9c8aa9f906b7fdb9d451ddb2aefe7ee853135f1fa1e5
+Section: 去广告
+Description: 去开屏广告，测试版本：11.43.13
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/11/b8e549c210944f75bdf8d198a3d74e92.jpeg
+Name: 大众点评NoAds
+
+Package: com.wkk.dzdphook
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.dzdphook_1.1_iphoneos-arm64e.deb
+Size: 4564
+MD5sum: 9cf3446318f24ebd70ea4f80d3297edb
+SHA1: 0312402227d79d963db18ef6b041e182684d1ee6
+SHA256: 1fc8cdc8e4e2b8089af9c4480c3fb176778096c037dbd769f5cc37024b7c93a3
+Section: 去广告
+Description: 去开屏广告，测试版本：11.43.13
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/11/b8e549c210944f75bdf8d198a3d74e92.jpeg
+Name: 大众点评NoAds
+
 Package: com.wkk.ersatz
 Version: 1.0.1
 Architecture: iphoneos-arm64
@@ -17158,6 +17264,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/19/b3ce34062200bdb9cd7730bd71a79d58.jpeg
 Name: 重启用户空间启动logo
 
+Package: com.wkk.mtwmhook
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.mtwmhook_1.0_iphoneos-arm64.deb
+Size: 3724
+MD5sum: c1e524e77da704c3cf252191a6b99e2e
+SHA1: 38be397efae3ef108b9b595dbc68e4bb36e73f02
+SHA256: a25e3137cbbbbf6523450a22161fcad0544420e0718862976bab729d43493e54
+Section: 去广告
+Description: 去开屏广告+小优化（无法注入 app无框架），测试版本：8.53.0（源内相同类插件对应的app不建议升级 找准对应测试版本降级即可 这类的app可以用就行了 小学生勿扰）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/07/05/4c47ba0f7be3c4ed094d026ae1dac6ba.jpeg
+Name: 美团外卖NoAds
+
+Package: com.wkk.mtwmhook
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.mtwmhook_1.0_iphoneos-arm64e.deb
+Size: 5342
+MD5sum: 429347c377103f7533e69328ca714389
+SHA1: 7b495b0a0648dbfe9adbf840ac806aa8e4f46c8a
+SHA256: c6d688a191e3aee56ddd559eb8b3992a0cb9f3456b2f4c50fe24b3231c2171f8
+Section: 去广告
+Description: 去开屏广告+小优化（无法注入 app无框架），测试版本：8.53.0（源内相同类插件对应的app不建议升级 找准对应测试版本降级即可 这类的app可以用就行了 小学生勿扰）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/07/05/4c47ba0f7be3c4ed094d026ae1dac6ba.jpeg
+Name: 美团外卖NoAds
+
 Package: com.wkk.nndxguazai
 Version: 2.0
 Architecture: iphoneos-arm64
@@ -17697,6 +17838,39 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/21/cefa1464e01eef8261e06c01ade556d9.png
 Name: 百款精选提醒声
 
+Package: com.wkk.tpphook
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/com.wkk.tpphook_1.0_iphoneos-arm64.deb
+Size: 2992
+MD5sum: 1234211817659bacd7a88235d9a69d86
+SHA1: 1f4733558b4bd622a8c8021d02351e2fe6a45e9a
+SHA256: bfccde191eb5a0c831539588a842096030f4decedd5158bd2bca07c0f854f3fe
+Section: 去广告
+Description: 去开屏，版本：11.17.6
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/07/04/b8c954e42df7ff7695e3c5495ea9acd5.png
+Name: 淘票票NoAds
+
+Package: com.wkk.tpphook
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/com.wkk.tpphook_1.0_iphoneos-arm64e.deb
+Size: 4278
+MD5sum: f00cac3b3fca0d36ba223745c6e68d9a
+SHA1: d06ac63e0e325b0a16efe934ada09508a75bf8da
+SHA256: 4efa251db45d4eba58d61fa344eda283772708a3e5e1344974cdbf030a95f355
+Section: 去广告
+Description: 去开屏，版本：11.17.6
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/07/04/b8c954e42df7ff7695e3c5495ea9acd5.png
+Name: 淘票票NoAds
+
 Package: com.wkk.txsphook
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -17897,6 +18071,41 @@ Description: 去开屏，版本：11.1.15
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/06/15/b316043d10ba63ae984e22bc0c193efd.png
 Name: 什么值得买NoAds
+
+Package: com.wkk.zgdxhook
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.zgdxhook_1.0_iphoneos-arm64e.deb
+Size: 4526
+MD5sum: dd080bf98d277e5b9d2fe5b812cbd7d8
+SHA1: ed86e15f37d08b90c3fdc87bd16b56777383c7b2
+SHA256: e818fdc7cf3453209b4fa479be23744f0bf6cecafe5978ee07131b54bf032045
+Section: 去广告
+Description: 自用9.0版本（推荐），最新版我测试不完美（也能用）不想用最新版（9.0不支持注入）。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/07/05/a5778ca861ddac510494241b6e58cb06.jpeg
+Name: 中国电信NoAds
+
+Package: com.wkk.zgdxhook
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.zgdxhook_1.0_iphoneos-arm64.deb
+Size: 3116
+MD5sum: 9ab0322467c71941a3369c628f1bc64f
+SHA1: e953f4f380c0f4a75e5bdd51c87bfd9063120385
+SHA256: e41135cc22f6a8e26e7dc70a48f860a79bd40bcabc75a66658d7e740a41f4be4
+Section: 去广告
+Description: 自用9.0版本（推荐），最新版我测试不完美（也能用）不想用最新版（9.0不支持注入）。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/07/05/a5778ca861ddac510494241b6e58cb06.jpeg
+Name: 中国电信NoAds
 
 Package: com.wkk.zhihuhook
 Version: 1.0
