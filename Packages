@@ -1573,6 +1573,43 @@ Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.
 Name: 微信助手
 Sponsor: admin@25mao.com
 
+Package: com.25mao.miyou.rootless
+Version: 3.8-7
+Architecture: iphoneos-arm64e
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.25mao.miyou.rootless_3.8-7_iphoneos-arm64e.deb
+Size: 16625486
+MD5sum: 2854ff0aaac4ddafe9cfdc21bcb364e6
+SHA1: 645c4771c133983a47f8b7a64345e4c63ab14448
+SHA256: 99b4af301cb4401412aac42b127e65f0f81b40c58d6368ac0f97c7e00ce2c686
+Section: 微信插件
+Priority: optional
+Description: 微信助手
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信助手
+Sponsor: admin@25mao.com
+
+Package: com.25mao.miyou.rootless
+Version: 3.8-7
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.25mao.miyou.rootless_3.8-7_iphoneos-arm64.deb
+Size: 6234344
+MD5sum: 80bddf382f1acd59164763da8a316398
+SHA1: 3bd59befa978708ea6142257f5c129859d40ee5a
+SHA256: 0017285e9a0b0729e8c50d0ecc0a8017aeec769659c216f292be20f852f83b8b
+Section: 微信插件
+Priority: optional
+Description: 微信助手
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信助手
+Sponsor: admin@25mao.com
+
 Package: com.25mao.msgfilt
 Version: 1.0-5.1
 Architecture: iphoneos-arm64
@@ -13187,6 +13224,41 @@ Author: SGWC
 Icon: https://s1.imagehub.cc/images/2025/02/07/2e759b7639963ed967fa1888a9113c58.png
 Name: Events
 
+Package: com.shiftcmdk.bookmarkicons
+Version: 1.0-1+debug
+Architecture: iphoneos-arm64
+Maintainer: shiftcmdk
+Installed-Size: 232
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.bookmarkicons_1.0-1+debug_iphoneos-arm64.deb
+Size: 16908
+MD5sum: 61e9266e82a62bc2d2e07d9762d38cbd
+SHA1: 786eeb4b8f0b03ba51afd8dd7cdf95db7466e603
+SHA256: 5d5a2190ed1c87d7e62c8570ef58d614114b5f127ebfbcd71292e5967c3eb542
+Section: 插件
+Description: 为Safari浏览器书签设置自定义图标。
+Author: shiftcmdk
+Icon: https://TrollStoreX.Github.io/sileodepiction/BookmarkIcons/icon.png
+Name: SafariBookmarkIcons
+
+Package: com.shiftcmdk.bookmarkicons
+Version: 1.0-1+debug
+Architecture: iphoneos-arm64e
+Maintainer: shiftcmdk
+Installed-Size: 232
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.bookmarkicons_1.0-1+debug_iphoneos-arm64e.deb
+Size: 22830
+MD5sum: c15891992e3b71c2b71ff950ff824c92
+SHA1: ca8af481497d18be31bb0505867270b1f6bb374b
+SHA256: f05a65db684bfea39b209da68731703989bd9acffbd2bb5326dcd0a420de24e8
+Section: 插件
+Description: 为Safari浏览器书签设置自定义图标。
+Author: shiftcmdk
+Icon: https://TrollStoreX.Github.io/sileodepiction/BookmarkIcons/icon.png
+Name: SafariBookmarkIcons
+
 Package: com.shtm.flexibleexpression
 Version: 1.1.0
 Architecture: iphoneos-arm64e
@@ -14026,6 +14098,40 @@ Description: 哈啰去广告，版本：6.88.5
 Author: sttt
 Icon: https://Mieing.Github.io/repo/file/haluo.png
 Name: EasyBikeNoAds
+
+Package: com.sudo.debra
+Version: 2.9.9
+Architecture: iphoneos-arm
+Maintainer: Sudo
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), gzip, sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.sudo.debra_2.9.9_iphoneos-arm.deb
+Size: 22784
+MD5sum: ecbf5208b0a15997c21d012281348efe
+SHA1: 938b05aea4d6459b48662c45e1cb6dd81fa0f8d1
+SHA256: b3b491b268abe2bd88f0a18013486b5d66458e1900fa6439ad6cb585b6f06c78
+Section: Utilities
+Description: Deb Repackaging Assistant. Simply type 'debra' into a terminal.
+Author: Sudo
+Depiction: https://sudo9000.github.io/depictions/debra/index.html
+Icon: https://sudo9000.github.io/depictions/debra/assets/icon.png
+Name: Debra
+
+Package: com.sudo.debra
+Version: 2.9.9
+Architecture: iphoneos-arm64
+Maintainer: Sudo
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), gzip, sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.sudo.debra_2.9.9_iphoneos-arm64.deb
+Size: 24316
+MD5sum: b97e9db16f43f66b17e72a2707277616
+SHA1: a10cb219666b4591c2e14e531495ebdd8db84a9f
+SHA256: 9d8dd39bab8f3e336b7fd3cc73ac6c2dd5a3b38c2f136b6cee6dd0e31cfb7d23
+Section: Utilities
+Description: Deb Repackaging Assistant. Simply type 'debra' into a terminal.
+Author: Sudo
+Depiction: https://sudo9000.github.io/depictions/debra/index.html
+Icon: https://sudo9000.github.io/depictions/debra/assets/icon.png
+Name: Debra
 
 Package: com.sunshinesong.split-view-pro
 Version: 1.4.0
