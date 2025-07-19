@@ -8415,6 +8415,22 @@ Description: AppTools for iOS15-16 Roothide
 Author: aReo
 Name: AppTools15-16(Roothide)
 
+Package: com.flex2areo.apptools15roothide
+Version: 2.1.8
+Architecture: iphoneos-arm64e
+Maintainer: aReo
+Installed-Size: 1920
+Depends: mobilesubstrate
+Filename: ./debs/com.flex2areo.apptools15roothide_2.1.8_iphoneos-arm64e.deb
+Size: 464922
+MD5sum: 07e52b7693f50b5ae0eb833c158d1319
+SHA1: 04499d979bd144add25fc472fd730bb0309bb971
+SHA256: 349c588b7b39451dfda171c4284f69899abae7a9348aa2732c14e8519c4161f5
+Section: Tweaks
+Description: AppTools for iOS15-16 Roothide
+Author: aReo
+Name: AppTools15-16(Roothide)
+
 Package: com.flex2areo.apptools15rootless
 Version: 2.0.0
 Architecture: iphoneos-arm64
@@ -8522,6 +8538,22 @@ Size: 469678
 MD5sum: 70e7c8fff79b930512331f44d4a67c11
 SHA1: 63f375ff85d532b62a51cb220287c7072d450795
 SHA256: 6f0c1bf2df0c70b5446949584ddf25c2e29c640a1ba5a9550cd047c398700244
+Section: Tweaks
+Description: AppTools for iOS15-16 Rootless
+Author: aReo
+Name: AppTools15-16(Rootless)
+
+Package: com.flex2areo.apptools15rootless
+Version: 2.1.8
+Architecture: iphoneos-arm64
+Maintainer: aReo
+Installed-Size: 2004
+Depends: mobilesubstrate
+Filename: ./debs/com.flex2areo.apptools15rootless_2.1.8_iphoneos-arm64.deb
+Size: 480602
+MD5sum: 2dec3d4327178b51284d37339386e2cc
+SHA1: 3fc0ef630065478779e2680dba558fb3c22d9e7a
+SHA256: 9cc0fe6ebb56ab15a5eda968112239aebac5f8c1865acccbdfe4d0dfc114c5b9
 Section: Tweaks
 Description: AppTools for iOS15-16 Rootless
 Author: aReo
@@ -14377,6 +14409,39 @@ Author: 苏苏
 Icon: https://s1.imagehub.cc/images/2025/02/14/a2e56499e255b0a754bebf8803f037c8.png
 Name: NoPreferencesTips
 
+Package: com.susu.photos
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: 苏苏
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.susu.photos_1.0.0_iphoneos-arm64e.deb
+Size: 4916
+MD5sum: 0b41fa5ce2f349c2f3e1e81ca26e1737
+SHA1: bbd91f0b85b622ed44e009f9d222b89c46f565eb
+SHA256: 041fc2d881659030153c60cd973213823c533cbdc68c7642591a336147c18668
+Section: Tweaks
+Description: 删除原生相册无用的窗口
+Author: 苏苏
+Name: SuPhotos
+
+Package: com.susu.photos
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 168
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.susu.photos_1.0.0_iphoneos-arm64.deb
+Size: 3572
+MD5sum: 15876d7e90c6c0442e3cb0da12b13a8c
+SHA1: 48340c8563e703b16df105e0299e800d0544d5a6
+SHA256: 07c09914ecae84784017cba4b945caa4cd4be10332f18dfc89009fdb10b8cb9d
+Section: Tweaks
+Description: 删除原生相册无用的窗口
+Author: 苏苏
+Name: SuPhotos
+
 Package: com.susu.powermenu
 Version: 1.0.6
 Architecture: iphoneos-arm64
@@ -16606,6 +16671,22 @@ Description: 备份。20250409。
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/28/5d3f253f3ccddbc8c8bc3f13771a9af0.png
 Name: SquidExtender26&9
+
+Package: com.wkk.SwipeExtenderXpz
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.SwipeExtenderXpz_1.0_iphoneos-arm64.deb
+Size: 1648
+MD5sum: 03a700a5c12e22cbab0853f2dcfc2500
+SHA1: 1ba487e51d1971aa27a4c51fa8cb22426a0219bc
+SHA256: a02c8296e5169e9a057db4cac130bc5868b75be4ab9334945516c78d9a738581
+Section: 插件配置
+Description: 下载后在/var/mobile/Documents/New preset.plist。自行恢复备份。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: SwipeExtenderX配置(自用)
 
 Package: com.wkk.apptoolsmh
 Version: 1.0
