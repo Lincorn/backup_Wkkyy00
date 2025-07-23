@@ -8338,6 +8338,38 @@ Description: FLEX (中文版) - 支持iOS 9.0及以上设备
 Author: FLEX Team & pxx917144686
 Name: FLEX 调试工具
 
+Package: com.flex2areo.appprotectroothide
+Version: 2.0.7
+Architecture: iphoneos-arm64e
+Maintainer: aReo
+Installed-Size: 2044
+Depends: mobilesubstrate,preferenceloader
+Filename: ./debs/com.flex2areo.appprotectroothide_2.0.7_iphoneos-arm64e.deb
+Size: 515086
+MD5sum: 653cacf078411d50b07fa4cb0928d359
+SHA1: d658da32b853e4cc43601140133e73a496e4e433
+SHA256: f0e2ccbdf6ee92ca217bee7f1e56cde5ea285da877d355a4a81880b1be7e3bc8
+Section: Tweaks
+Description: App 隐私保护
+Author: aReo
+Name: AppProtect(Roothide)
+
+Package: com.flex2areo.appprotectrootless
+Version: 2.0.7
+Architecture: iphoneos-arm64
+Maintainer: aReo
+Installed-Size: 2144
+Depends: mobilesubstrate,preferenceloader
+Filename: ./debs/com.flex2areo.appprotectrootless_2.0.7_iphoneos-arm64.deb
+Size: 541454
+MD5sum: 4f42fb7eea1889ae0b9832bbbc293505
+SHA1: 2974df3e484fec42fdd92b8c9850121ca92ef416
+SHA256: dd23d27f194fc265a105b667dd2b2cb8c234a988ff5f67701ea0407b0ac45887
+Section: Tweaks
+Description: App 隐私保护
+Author: aReo
+Name: AppProtect(Rootless)
+
 Package: com.flex2areo.apptools15roothide
 Version: 2.0.0
 Architecture: iphoneos-arm64e
@@ -8482,6 +8514,22 @@ Description: AppTools for iOS15-16 Roothide
 Author: aReo
 Name: AppTools15-16(Roothide)
 
+Package: com.flex2areo.apptools15roothide
+Version: 2.2.0
+Architecture: iphoneos-arm64e
+Maintainer: aReo
+Installed-Size: 2060
+Depends: mobilesubstrate
+Filename: ./debs/com.flex2areo.apptools15roothide_2.2.0_iphoneos-arm64e .deb
+Size: 479922
+MD5sum: b82c533a533cba1f626281160b5f81e9
+SHA1: 62de70499e67ef7bc4fa162a2827d225810e5118
+SHA256: b575a798b227e88b956fc5e9712ceebd09835a254e0fa2813d480c89d02c5e61
+Section: Tweaks
+Description: AppTools for iOS15-16 Roothide
+Author: aReo
+Name: AppTools15-16(Roothide)
+
 Package: com.flex2areo.apptools15rootless
 Version: 2.0.0
 Architecture: iphoneos-arm64
@@ -8621,6 +8669,22 @@ Size: 476956
 MD5sum: 846d333a13c5ef79109732502d58e5fb
 SHA1: e7ecb44f6e09b86a4e29b172dba9aa443fba934e
 SHA256: d2e6c9434ccbade89b89a8feb5f8eb09d8838c863a9d51248bddccb443cf0bb9
+Section: Tweaks
+Description: AppTools for iOS15-16 Rootless
+Author: aReo
+Name: AppTools15-16(Rootless)
+
+Package: com.flex2areo.apptools15rootless
+Version: 2.2.0
+Architecture: iphoneos-arm64
+Maintainer: aReo
+Installed-Size: 2104
+Depends: mobilesubstrate
+Filename: ./debs/com.flex2areo.apptools15rootless_2.2.0_iphoneos-arm64 .deb
+Size: 497678
+MD5sum: 4f5f2fb5f28608f2118440bc3fb16e29
+SHA1: 715369920df799b513e9aef51a21a879f67248e3
+SHA256: e713c65848011daa214942c74837624e313a55d940eaadb2a8d34e53f6104402
 Section: Tweaks
 Description: AppTools for iOS15-16 Rootless
 Author: aReo
@@ -13599,6 +13663,42 @@ Icon: https://postbox.news/depicts/app/icon.png
 Name: PostBox
 Sileodepiction: https://postbox.news/depicts/app/fancydeps.json
 
+Package: com.sini921.cylinderreborn
+Version: 1.1.2-2
+Architecture: iphoneos-arm64e
+Maintainer: Ryan Nair & SINI
+Installed-Size: 1336
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.6011), preferenceloader
+Filename: ./debs/com.sini921.cylinderreborn_1.1.2-2_iphoneos-arm64e.deb
+Size: 213924
+MD5sum: 40d73f3c6a51732a01ddce23e158ca1a
+SHA1: 157ab5e4808ea07113e7c7464b5a21c4f5db28d2
+SHA256: 219c576dca59ce8c21e3477e1ca62259254e215a3969f7edc17563e1e76a82ec
+Section: 插件
+Description: 有点意思的桌面图标动画（小改了一下lua，选最后一个动画Zoom and Fade (alt)），基于开源优化编译，修正汉化，适配支持roothide。
+Author: Ryan Nair & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/cylinderreborn.png
+Name: CylinderReborn(roothide)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/cylinderreborn/js.json
+
+Package: com.sini921.cylinderreborn
+Version: 1.1.2-2
+Architecture: iphoneos-arm64
+Maintainer: Ryan Nair & SINI
+Installed-Size: 1336
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.6011), preferenceloader
+Filename: ./debs/com.sini921.cylinderreborn_1.1.2-2_iphoneos-arm64.deb
+Size: 214768
+MD5sum: 9180a1043d8dc1d962153a54128556e5
+SHA1: e0d09f0f1ca901a2b9385b590291c214439b2b59
+SHA256: 321fa40bc29c5c963353b9a3d7169b8939fc0b824b636ff76bed0b95cf232a1d
+Section: 插件
+Description: 有点意思的桌面图标动画（小改了一下lua，选最后一个动画Zoom and Fade (alt)），基于开源优化编译，修正汉化，适配支持roothide。
+Author: Ryan Nair & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/cylinderreborn.png
+Name: CylinderReborn(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/cylinderreborn/js.json
+
 Package: com.sini921.showmytouches
 Version: 1.2.0
 Architecture: iphoneos-arm64
@@ -14274,7 +14374,7 @@ Maintainer: liwhs
 Installed-Size: 168
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
-Filename: ./debs/com.starry6.lunanoad_1.0_iphoneos-arm64e-1.deb
+Filename: ./debs/com.starry6.lunanoad_1.0_iphoneos-arm64e.deb
 Size: 6110
 MD5sum: 7a61a8ddaed3453b3425e612009f0c0e
 SHA1: 15a610e4dbf609eafc6237cdf9a3f1dc95fe27d1
