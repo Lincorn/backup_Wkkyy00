@@ -2612,6 +2612,22 @@ Author: HuangBai <QQ:1343309363@qq.com>
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: 黄白助手
 
+Package: com.HBWechatHelper.ailun
+Version: 1.8.9
+Architecture: iphoneos-arm64
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.HBWechatHelper.ailun_1.8.9_iphoneos-arm64.deb
+Size: 11536076
+MD5sum: 70f3a1acc44035d2e6cacb3fa13a0063
+SHA1: f9b9426e922c8ee038d546a45c549942bf002470
+SHA256: 6f804dc1bf74387c8ddd4df9f52861683d369c33ea551092f07a110d60c1b130
+Section: 微信插件
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 黄白助手
+
 Package: com.Purifyads
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -8546,6 +8562,38 @@ Description: AppTools for iOS15-16 Roothide
 Author: aReo
 Name: AppTools15-16(Roothide)
 
+Package: com.flex2areo.apptools15roothide
+Version: 2.2.2
+Architecture: iphoneos-arm64e
+Maintainer: aReo
+Installed-Size: 2124
+Depends: mobilesubstrate
+Filename: ./debs/com.flex2areo.apptools15roothide_2.2.2_iphoneos-arm64e.deb
+Size: 511326
+MD5sum: 741cb45f2b48e636a318e8ee73c20ab3
+SHA1: 314ca58f21851b26e5897808f6f4d1375fbc2553
+SHA256: 55ea67303683d43b7faf5708e2859e6ef40ccc807c5364da5bbde544b3d4fcbd
+Section: Tweaks
+Description: AppTools for iOS15-16 Roothide
+Author: aReo
+Name: AppTools15-16(Roothide)
+
+Package: com.flex2areo.apptools15roothide
+Version: 2.2.3
+Architecture: iphoneos-arm64e
+Maintainer: aReo
+Installed-Size: 2128
+Depends: mobilesubstrate
+Filename: ./debs/com.flex2areo.apptools15roothide_2.2.3_iphoneos-arm64e.deb
+Size: 512722
+MD5sum: bdea84b81680b19fa2a176fced5427e0
+SHA1: 5acbed750726759b93aaee53d4eff1e6012e5e05
+SHA256: d2420e744a0d0d075aeef0727f86f5ae7372356e76204b3542aa9ac033b17874
+Section: Tweaks
+Description: AppTools for iOS15-16 Roothide
+Author: aReo
+Name: AppTools15-16(Roothide)
+
 Package: com.flex2areo.apptools15rootless
 Version: 2.0.0
 Architecture: iphoneos-arm64
@@ -8717,6 +8765,38 @@ Size: 516844
 MD5sum: 50a27e66deebcfd2a47e3398144fb8d5
 SHA1: 8d604990f43713dc2e5e8f689d494a4b39e3fb69
 SHA256: 9e610b814790a7ba67d350875c58c15699ff0aad8fc11e274471633ac9022105
+Section: Tweaks
+Description: AppTools for iOS15-16 Rootless
+Author: aReo
+Name: AppTools15-16(Rootless)
+
+Package: com.flex2areo.apptools15rootless
+Version: 2.2.2
+Architecture: iphoneos-arm64
+Maintainer: aReo
+Installed-Size: 2220
+Depends: mobilesubstrate
+Filename: ./debs/com.flex2areo.apptools15rootless_2.2.2_iphoneos-arm64.deb
+Size: 522148
+MD5sum: f68b7bf614bc1cafedf42c53cea8ec1e
+SHA1: af18176370b822a5e4771e01d529576c6a166be8
+SHA256: d7afef120f4bda58714e054aec77de1ee103db0f9b4567a5ef5503594a840bfb
+Section: Tweaks
+Description: AppTools for iOS15-16 Rootless
+Author: aReo
+Name: AppTools15-16(Rootless)
+
+Package: com.flex2areo.apptools15rootless
+Version: 2.2.3
+Architecture: iphoneos-arm64
+Maintainer: aReo
+Installed-Size: 2232
+Depends: mobilesubstrate
+Filename: ./debs/com.flex2areo.apptools15rootless_2.2.3_iphoneos-arm64.deb
+Size: 520796
+MD5sum: afb7c2b374ae8485c37910333462a62b
+SHA1: a0c41e7a1194e2bc1321bd86843b05236c90f365
+SHA256: 665103aeaf9c0b306d68f62d5d0abea0b577fd2226fa037adb34adb84b454b02
 Section: Tweaks
 Description: AppTools for iOS15-16 Rootless
 Author: aReo
@@ -11541,6 +11621,25 @@ Size: 20741656
 MD5sum: 811014fd44ef98dd861b6320f2a87c82
 SHA1: 7db18ef17cf84b1ad2ab5836fb686ff4b6c3becd
 SHA256: 5d84894bd7019a340153c200fcac32b377a17804e74e54c7b372140bd5c7fb9b
+Section: 微信插件
+Priority: optional
+Description: 微信多功能插件。
+Author: Mikoto
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: Mikoto 助手
+
+Package: com.mikotohelper.wechat
+Version: 1.3.6-V3
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: Mikoto
+Depends: mobilesubstrate
+Conflicts: mikotohelper
+Filename: ./debs/com.mikotohelper.wechat_1.3.6-V3_iphoneos-arm64.deb
+Size: 21014484
+MD5sum: 660ee457f239d02ecdf5e57e4259e6c0
+SHA1: 399079eb8de110c58e56b79276ae24a9154ae280
+SHA256: be88c78150a7731792b74a41e83465cd52776871ccd4439321a408178ff38aa7
 Section: 微信插件
 Priority: optional
 Description: 微信多功能插件。
@@ -15200,14 +15299,14 @@ Maintainer: 苏苏
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.susu.wcfrostedglass_1.0.5_iphoneos-arm64.deb
-Size: 4860
-MD5sum: 7f85f2fd62e6b5ce2bfa9faa8e1870bb
-SHA1: 13ca9b3fb6488782cf416ff14a9e62a83c0cb56d
-SHA256: 7b2d90a98cb8fb1f341ca8f0a0df29c415f26106b27e1118f06d166d78f48d53
+Size: 4888
+MD5sum: 373e0a77dc19ce8fb5002cf1c4bee664
+SHA1: dc4575143c1a9c4a40931cbd8ea894867ffcbe4c
+SHA256: 1638b02f4ed0cea9c044c2e83ccd8ab535e8afb95c94f5e13c5031ebd3c3bc6c
 Section: 微信插件
 Description: 微信界面上下添加毛玻璃效果，作者源：https://susubaby.top/0107/
 Author: 苏苏
-Icon: https://www.susubaby.top/images/wechat.png
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: SuWCFrostedGlass
 
 Package: com.swing.padswitcher
@@ -17565,6 +17664,39 @@ Author: CydiaGeek
 Icon: https://s1.imagehub.cc/images/2025/01/05/2f42e79413d50394252055690756dfaf.png
 Name: Dock显示app名称
 Sponsor: wkk
+
+Package: com.wkk.dy
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.dy_1.0_iphoneos-arm64.deb
+Size: 2573176
+MD5sum: 6435cb6a743f1bdab95b22f05a79c0e1
+SHA1: 77ec8d79ad7e6db88c40a116dd1dba567e79cb62
+SHA256: 0e2cfc073329991df0e78211b487c064752a98135ee0f4d36d273d90c6dd2d0e
+Section: 插件配置
+Description: 下载后在/var/mobile/Documents/ 自行注入恢复备份，抖音版本：34.5.0
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: dyyy个人配置(自用)
+
+Package: com.wkk.dy
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.dy_1.0_iphoneos-arm64e.deb
+Size: 5391770
+MD5sum: 7f5e2f6577502a7d045d0678b15f5fb1
+SHA1: 60b5f5fa73facb601c9ef7576222ac456fd03da0
+SHA256: 11429381e552e7207a614bc385befe478bbea5522da687ca267bf7289a7dea76
+Section: 插件配置
+Description: 下载后在/var/mobile/Documents/ 自行注入恢复备份，抖音版本：34.5.0
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: dyyy个人配置(自用)
 
 Package: com.wkk.dyhook
 Version: 1.0
@@ -20507,6 +20639,41 @@ Size: 2277648
 MD5sum: 1d3ab52933eef9d4c5f1e3c131cae948
 SHA1: 460895c4734df090b32b3495f2db13dd64ec31a3
 SHA256: 87ed5c88c4023084141c3f083bebe2051ca966f099e33b21df62d1a822fc1899
+Section: Tweaks
+Description: Clipboard history manager for iOS!
+Author: TomT000
+Name: CopyLog
+
+Package: me.tomt000.copylog
+Version: 1.7.1
+Architecture: iphoneos-arm64
+Maintainer: TomT000
+Installed-Size: 2240
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.0xkuj.copylogfix16
+Filename: ./debs/me.tomt000.copylog_1.7.1_iphoneos-arm64.deb
+Size: 1036486
+MD5sum: f2bf1fcf8a527899aa9eb5e26b01654a
+SHA1: 00ec4c52cf5080af19f4a114374001c52f6323fb
+SHA256: e496acbeeed3ac5a98d2f7176652c232c67b08fccde996f24ebae815d4aaa392
+Section: Tweaks
+Description: Clipboard history manager for iOS!
+Author: TomT000
+Name: CopyLog
+
+Package: me.tomt000.copylog
+Version: 1.7.1
+Architecture: iphoneos-arm64e
+Maintainer: TomT000
+Installed-Size: 2240
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.0xkuj.copylogfix16
+Filename: ./debs/me.tomt000.copylog_1.7.1_iphoneos-arm64e.deb
+Size: 2204044
+MD5sum: 2dc1d5fdc23f7e31c1ab041cf543afaa
+SHA1: 4690d55d5bf21d6c73159356db6a247227ce6f23
+SHA256: 2661803df47765f002c8b11fb37ba36362080f1f6f6969ec725f72e5fd233dbf
 Section: Tweaks
 Description: Clipboard history manager for iOS!
 Author: TomT000
