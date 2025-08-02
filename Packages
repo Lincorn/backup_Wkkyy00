@@ -9386,6 +9386,45 @@ Depiction: https://chariz.com/get/reboothelper
 Icon: https://img.chariz.cloud/icon/reboothelper/icon@3x.png
 Name: Reboot Helper (Beta)
 
+Package: com.hg13.reboothelper
+Version: 2.0.0-1
+Architecture: iphoneos-arm64
+Maintainer: hg13 <hg13bs@gmail.com>
+Installed-Size: 544
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.17), firmware (>= 13.0)
+Filename: ./debs/com.hg13.reboothelper_2.0.0-1_iphoneos-arm64.deb
+Size: 63308
+MD5sum: cf1072ce5aaa0748f4db37da87f0d137
+SHA1: df6b266c73536357693393d60d36a376c347a59d
+SHA256: ff2657852ece65ad213e985052c652eb87f8476320ad80f054597bd5b151b3cd
+Section: Tweaks
+Description: Tweak to automate common jailbreak actions like Respring and Userspace Reboots etc, with button sequences.
+Tag: compatible_min::ios13.0
+Author: hg13 <hg13bs@gmail.com>
+Depiction: https://chariz.com/get/reboothelper
+Icon: https://img.chariz.cloud/icon/reboothelper/icon@3x.png
+Name: Reboot Helper (Beta)
+
+Package: com.hg13.reboothelper
+Version: 2.0.0-1
+Architecture: iphoneos-arm64e
+Maintainer: hg13 <hg13bs@gmail.com>
+Installed-Size: 544
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.17), firmware (>= 13.0)
+Filename: ./debs/com.hg13.reboothelper_2.0.0-1_iphoneos-arm64e.deb
+Size: 84774
+MD5sum: e6e665b5427eead0255db4b422cd2ae7
+SHA1: aca5c35e674d1ea767a9d7631b3389adb09e9d00
+SHA256: 73148b1a49f62204ebba133bd0bb56cb472456ccf25fa45c1e0093adde47936a
+Section: Tweaks
+Description: Tweak to automate common jailbreak actions like Respring and Userspace Reboots etc, with button sequences.
+Tag: compatible_min::ios13.0
+Author: hg13 <hg13bs@gmail.com>
+Depiction: https://chariz.com/get/reboothelper
+Icon: https://img.chariz.cloud/icon/reboothelper/icon@3x.png
+Name: Reboot Helper (Beta)
+
 Package: com.hidenotificationbadge
 Version: 0.0.1
 Architecture: iphoneos-arm64e
@@ -10060,6 +10099,43 @@ Size: 105360
 MD5sum: c942f725a43f49104067edc2a1850c31
 SHA1: 5ecbc2e6f375a1d6fa3e33372d85fb3813280eff
 SHA256: b723c501fbbf220ebda9790533ed31142ff935b119811a66a9b23330a845a825
+Section: 微信插件
+Description: WCPulse
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCPulse
+Sileodepiction: http://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/WCPulse.json
+
+Package: com.huami.WCPulse
+Version: 1.1-6
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 240
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.WCPulse_1.1-6_iphoneos-arm64e.deb
+Size: 172376
+MD5sum: c945d3f07d66e11bd528c87dbc3daa1c
+SHA1: cc59be1a3ca4de69a9163d91dc64ca6fb1b8a31e
+SHA256: c9954b2a94a2553b3edb35d5835d9c4ac4e7e186fad4ad486fa6e936f462058a
+Section: 微信插件
+Description: WCPulse
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCPulse
+Sileodepiction: http://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/WCPulse.json
+
+Package: com.huami.WCPulse
+Version: 1.1-6
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 240
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.WCPulse_1.1-6_iphoneos-arm64.deb
+Size: 120096
+MD5sum: 0a6a87d5807b86765021b1a51f2da62d
+SHA1: 1ed338c1ce25a34a88437f6f9e7ad804615ee1ec
+SHA256: e8e4556d78bd47a98d32b68cef3b71008c0f4334e4b8b7ddfe6422a1a0bb0467
 Section: 微信插件
 Description: WCPulse
 Author: huami
