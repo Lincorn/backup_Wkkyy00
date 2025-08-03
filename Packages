@@ -10143,6 +10143,80 @@ Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.
 Name: WCPulse
 Sileodepiction: http://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/WCPulse.json
 
+Package: com.huami.WCPulse
+Version: 1.1-7
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 240
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.WCPulse_1.1-7_iphoneos-arm64.deb
+Size: 132148
+MD5sum: 75307b9ec3d85ba3cd7c6a30221ebbc4
+SHA1: 9a0d3097ada25092c897b85ba089f60a66777a2f
+SHA256: 0b85083803026dbf7584660149db40d898c9251b15ce7b9fb632ffa162b60cd9
+Section: 微信插件
+Description: WCPulse
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCPulse
+Sileodepiction: http://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/WCPulse.json
+
+Package: com.huami.WCPulse
+Version: 1.1-7
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 240
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.WCPulse_1.1-7_iphoneos-arm64e.deb
+Size: 188756
+MD5sum: 5c16246180f32f96408eae215373b12b
+SHA1: 09ebc19416c60096c0cfc50814c30b5329972d22
+SHA256: f134bb8ce06356da1477d411df912ef07bbbb82dfbf4c9ad7993548602899e3f
+Section: 微信插件
+Description: WCPulse
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCPulse
+Sileodepiction: http://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/WCPulse.json
+
+Package: com.huami.WCPulse
+Version: 1.1-8
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 240
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.WCPulse_1.1-8_iphoneos-arm64e.deb
+Size: 189364
+MD5sum: 0c4537fb3f20eaf2f367567523a79fd9
+SHA1: 72d0380c310b958dfd7623663ab096bea4547c06
+SHA256: a3f27ffe988d34b47a4cc670e8748702a4b167b1d3b816607856ebe8b12ff5af
+Section: 微信插件
+Description: WCPulse
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCPulse
+Sileodepiction: http://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/WCPulse.json
+
+Package: com.huami.WCPulse
+Version: 1.1-8
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 240
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.WCPulse_1.1-8_iphoneos-arm64.deb
+Size: 132316
+MD5sum: c8761773f347692a1c93cc86c61e41ad
+SHA1: df4372084af3c726f49ff6586b9b94484eb9b823
+SHA256: 9a9ef8cc10d74037b80420c2452c097556750c4588c08ef7301140b699f4da91
+Section: 微信插件
+Description: WCPulse
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCPulse
+Sileodepiction: http://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/WCPulse.json
+
 Package: com.huami.WCPulse2
 Version: 1.1-5+fix2
 Architecture: iphoneos-arm64e
@@ -11335,6 +11409,24 @@ Description: 使用方法：Filza进入/var/mobile/Documents/tweak_tool/目录�
 Author: 预言小猫
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: 一键备份和恢复工具
+
+Package: com.kk.crane
+Version: 1.3.14-6
+Architecture: iphoneos-arm64e
+Maintainer: opa334
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>= 1.0.5), com.opa334.libsandy, com.opa334.libundirect (>= 1.1.4) | firmware (<< 14.0)
+Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices, com.opa334.crane
+Filename: ./debs/com.kk.crane_1.3.14-6_iphoneos-arm64e.deb
+Size: 1462720
+MD5sum: d4cf86634e0b2ee140cf8a6333b70cf5
+SHA1: 32b216952c229e4ee6fd1fb4c761b8137896fbac
+SHA256: f4e25778bb473bbaff80f6d8449b5831ad335fa4a5fb2f74f11eba1e5b6f311b
+Section: 插件
+Description: 仅备份。
+Author: opa334
+Icon: https://sini921.github.io/repo/sileodepiction/icon/crane.png
+Name: Crane
 
 Package: com.kk.crane
 Version: 1.3.14-6
@@ -12848,6 +12940,41 @@ Author: Nightwind
 Icon: https://sini921.github.io/repo/sileodepiction/icon/onesett.png
 Name: OneSettings插件归类
 Sponsor: k
+
+Package: com.opa334.crane
+Version: 1.3.16-4
+Architecture: iphoneos-arm64
+Maintainer: opa334
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
+Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
+Filename: ./debs/com.opa334.crane_1.3.16-4_iphoneos-arm64.deb
+Size: 602348
+MD5sum: 6aebde4332db90a9fa9d28e6916c3db3
+SHA1: 60e6c4a8f470a8b37b83ee750cbea7614f0a33c7
+SHA256: 7a3316c8fe3a42f65764b47e1e8448ece4d444acd54904c54e71dd8d75fbc4bc
+Section: Tweaks
+Description: 正版砸壳备份，请支持正版。
+Author: opa334
+Icon: https://sini921.github.io/repo/sileodepiction/icon/crane.png
+Name: Crane
+
+Package: com.opa334.crane
+Version: 1.3.16-4
+Architecture: iphoneos-arm64e
+Maintainer: opa334
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
+Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
+Filename: ./debs/com.opa334.crane_1.3.16-4_iphoneos-arm64e.deb
+Size: 1551268
+MD5sum: 3e073116b2cb9383ef3e996945ef90e6
+SHA1: 9a220d08c398e28a742171a144665ac8f09c6125
+SHA256: bb63f45bebeed6deb001907b4e904d2fe8414a406ec9663f6df1f25f8286a5a6
+Section: Tweaks
+Description: 正版砸壳备份，请支持正版。
+Author: opa334
+Icon: https://sini921.github.io/repo/sileodepiction/icon/crane.png
+Name: Crane
 
 Package: com.opa334.trollstorehelper
 Version: 2.0.13
@@ -16081,6 +16208,41 @@ Author: WeChat
 Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
 Name: 主题盒子
 
+Package: com.tencent.themebox
+Version: 2.1.2
+Architecture: iphoneos-arm64e
+Maintainer: WeChat
+Installed-Size: 6132
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tencent.themebox_2.1.2_iphoneos-arm64e.deb
+Size: 11592756
+MD5sum: 8f097e0075c244beb358e441c7daaec5
+SHA1: 00dccb16bf6a5148e0dd6a4a917cc0233745ff34
+SHA256: 3bfc81b0c77cfdd76145b20ce463b402515da1f0dc67b59ee514ebd1a8fc3032
+Section: 微信插件
+Description: 学习交流。
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+Name: 主题盒子
+
+Package: com.tencent.themebox
+Version: 2.1.2
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tencent.themebox_2.1.2_iphoneos-arm64.deb
+Size: 4318012
+MD5sum: ce2ce63767df0c5091ce26e7da9106a0
+SHA1: 36ed79c6c3252bc81bf178de4f4453ce84fe0cb0
+SHA256: de22226fdcbc897c081837a7635a327c3c9ccdfe7ffc2ad9aef72b9a83c139ba
+Section: 微信插件
+Description: 学习交流。
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+Name: 主题盒子
+
 Package: com.teslaman3092.popoutbuttons
 Version: 1.0.1
 Architecture: iphoneos-arm64e
@@ -18307,6 +18469,22 @@ Description: 隐藏App所有角标。（即使来通知也没有，强迫症患�
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/04/01/9907d147c9ab5cc57a511ed0496cf4d8.jpeg
 Name: HideIconBadge
+
+Package: com.wkk.hookcc
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.wkk.hookcc_1.0_iphoneos-arm64e.deb
+Size: 5536
+MD5sum: 4f1e4da575886f797cf615467718caf5
+SHA1: 12e2ae4c56fd3adf847e81a672b3aa31f6f3cc14
+SHA256: 493050453dce711d6d2b8a0b87e81bb9a8efb45e1549a1206103c177f4f94da1
+Section: Tweaks
+Description: 音量亮度增加百分比。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: HookCc
 
 Package: com.wkk.iconx
 Version: 1.0
