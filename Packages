@@ -10463,6 +10463,43 @@ Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.
 Name: WCPulse
 Sileodepiction: http://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/WCPulse.json
 
+Package: com.huami.WCPulse
+Version: 1.2-1
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 240
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.WCPulse_1.2-1_iphoneos-arm64e.deb
+Size: 216738
+MD5sum: f8648d173c8524703e9d8d5d1f24d456
+SHA1: d0971a58b0c9e9bf0f5ae376da4a3aed26ffaa84
+SHA256: 1af3e304524c6a5fcd5bbb7041e34de25628bcc0263d3a3550c2404eee102960
+Section: 微信插件
+Description: WCPulse
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCPulse
+Sileodepiction: http://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/WCPulse.json
+
+Package: com.huami.WCPulse
+Version: 1.2-1
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 240
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.WCPulse_1.2-1_iphoneos-arm64.deb
+Size: 151260
+MD5sum: 62c7162c37ceb949008d231b3fed572c
+SHA1: b98fb4448526a5759a12e2bbbc919b6f693e53eb
+SHA256: ebc3ac0519b4c9df3af2bf31df3826a9a66fa0c602cbb03fdca961e1aa8aff29
+Section: 微信插件
+Description: WCPulse
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCPulse
+Sileodepiction: http://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/WCPulse.json
+
 Package: com.huami.WCPulse2
 Version: 1.1-5+fix2
 Architecture: iphoneos-arm64e
@@ -11656,41 +11693,6 @@ Author: 预言小猫
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: 一键备份和恢复工具
 
-Package: com.kk.crane
-Version: 1.3.14-6
-Architecture: iphoneos-arm64e
-Maintainer: opa334
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>= 1.0.5), com.opa334.libsandy, com.opa334.libundirect (>= 1.1.4) | firmware (<< 14.0)
-Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices, com.opa334.crane
-Filename: ./debs/com.kk.crane_1.3.14-6_iphoneos-arm64e.deb
-Size: 1462720
-MD5sum: d4cf86634e0b2ee140cf8a6333b70cf5
-SHA1: 32b216952c229e4ee6fd1fb4c761b8137896fbac
-SHA256: f4e25778bb473bbaff80f6d8449b5831ad335fa4a5fb2f74f11eba1e5b6f311b
-Section: 插件
-Description: 仅备份。
-Author: opa334
-Icon: https://sini921.github.io/repo/sileodepiction/icon/crane.png
-Name: Crane
-
-Package: com.kk.crane
-Version: 1.3.14-6
-Architecture: iphoneos-arm64
-Maintainer: opa334
-Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>= 1.0.5), com.opa334.libsandy, com.opa334.libundirect (>= 1.1.4) | firmware (<< 14.0)
-Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices, com.opa334.crane
-Filename: ./debs/com.kk.crane_1.3.14-6_iphoneos-arm64.deb
-Size: 570988
-MD5sum: df3c827b8739ec43b6a39f5e4a026ea4
-SHA1: 4d67b267f4b28a635db732be46538731688876d8
-SHA256: fcb5944092a51168240a711fb4b609a8c16224790e52e24f3dd1bd842df294a8
-Section: 插件
-Description: 仅备份。
-Author: opa334
-Icon: https://sini921.github.io/repo/sileodepiction/icon/crane.png
-Name: Crane
-
 Package: com.krashkop
 Version: 1.0.2
 Architecture: iphoneos-arm64
@@ -12412,6 +12414,23 @@ SHA1: a308cf81dd6d98cd28fa1a2dc0c04381e30d923c
 SHA256: 8bae490f3397ae95ee8c84e1e2d3eef3fa43d46efdb26de4c383c0d53a908371
 Section: Tweaks
 Description: A modern crash reporter for iOS
+Author: Muirey03
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: Cr4shed
+
+Package: com.muirey03.cr4shed
+Version: 4.3.2
+Architecture: iphoneos-arm64
+Maintainer: Muirey03
+Installed-Size: 2488
+Depends: mobilesubstrate, firmware (>= 9.0), ws.hbang.common (>= 1.11), com.opa334.libsandy, ldid
+Filename: ./debs/com.muirey03.cr4shed_4.3.2_iphoneos-arm64.deb
+Size: 228096
+MD5sum: 5c2982ece4fb1c4d63963bd09f1bfbeb
+SHA1: 5842667b6da28815470fc778e704347b3b064083
+SHA256: da5ddbb72e90c4f5cd2667ec2e331f2180a742e62e15051e8bb527d18d11c816
+Section: Tweaks
+Description: 系统崩溃报告器
 Author: Muirey03
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: Cr4shed
@@ -14952,6 +14971,24 @@ Name: SnowBoard
 
 Package: com.spark.snowboard.dock
 Version: 1.1.3~Beta4-rootless
+Architecture: iphoneos-arm64e
+Maintainer: Spark
+Installed-Size: 440
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Filename: ./debs/com.spark.snowboard.dock_1.1.3~Beta4-rootless_iphoneos-arm64e.deb
+Size: 44624
+MD5sum: dec21545d6f28cbbd53eb8ba289e206c
+SHA1: f4ad5e8e36cf87e1781db663c2efc39a7ee2193a
+SHA256: 2c8f2fc9889d1f911c8b3f9ad58ac268846a2fb41d700ecc2593c37032d64b2f
+Section: SnowBoard
+Description: Dock栏扩展，倒影，阴影反射等，此源仅作备份与注释。
+Author: Spark
+Icon: https://s1.imagehub.cc/images/2025/02/16/6184f5a172c0da2db10df7ddce6977bc.png
+Name: SnowBoard Dock Extension
+
+Package: com.spark.snowboard.dock
+Version: 1.1.3~Beta4-rootless
 Architecture: iphoneos-arm64
 Maintainer: Spark
 Installed-Size: 440
@@ -14984,6 +15021,45 @@ Author: Spark
 Icon: https://s1.imagehub.cc/images/2025/02/16/6184f5a172c0da2db10df7ddce6977bc.png
 Name: SnowBoard Icon Effects Extension
 
+Package: com.spark.snowboard.effects
+Version: 1.2.2-Beta2-rootless
+Architecture: iphoneos-arm64e
+Maintainer: Spark
+Installed-Size: 412
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Filename: ./debs/com.spark.snowboard.effects_1.2.2-Beta2-rootless_iphoneos-arm64e.deb
+Size: 45970
+MD5sum: f457568c2a2c91d9bc772b908e9d6869
+SHA1: 9395f6cef63de8c0f3a9744b0bac7bbcb6d81d7d
+SHA256: 7552ada327c5d6952b4c73c3393472661c7f3dd34120f93da072176efe5ec829
+Section: SnowBoard
+Description: App图标本身的效果扩展，自备素材，此源仅作备份与注释。
+Author: Spark
+Icon: https://s1.imagehub.cc/images/2025/02/16/6184f5a172c0da2db10df7ddce6977bc.png
+Name: SnowBoard Icon Effects Extension
+
+Package: com.spark.snowboard.fonts
+Version: 1.1.0~Beta4-rootless
+Architecture: iphoneos-arm64e
+Maintainer: Spark
+Installed-Size: 392
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Conflicts: com.ipr.bytafont, com.bytafont.bytafont3
+Replaces: com.ipr.bytafont, com.bytafont.bytafont3
+Provides: com.ipr.bytafont, com.bytafont.bytafont3
+Filename: ./debs/com.spark.snowboard.fonts_1.1.0~Beta4-rootless_iphoneos-arm64e.deb
+Size: 27638
+MD5sum: 2817e7730d30242b5a6d603fee96ff5f
+SHA1: 3d3b4003d7a98d6a3fca339c5e14c2ef7b718bba
+SHA256: b4879068aed83aa229c02d6498ec94d3423904e5190160de1d579bc6031fcf58
+Section: SnowBoard
+Description: 字体扩展。此源仅作备份与注释。
+Author: Spark
+Icon: https://s1.imagehub.cc/images/2025/02/16/6184f5a172c0da2db10df7ddce6977bc.png
+Name: SnowBoard Fonts Extension
+
 Package: com.spark.snowboard.fonts
 Version: 1.1.0~Beta4-rootless
 Architecture: iphoneos-arm64
@@ -15003,6 +15079,24 @@ Description: 字体扩展。此源仅作备份与注释。
 Author: Spark
 Icon: https://s1.imagehub.cc/images/2025/02/16/6184f5a172c0da2db10df7ddce6977bc.png
 Name: SnowBoard Fonts Extension
+
+Package: com.spark.snowboard.labels
+Version: 1.1.1~Beta4-rootless
+Architecture: iphoneos-arm64e
+Maintainer: Spark
+Installed-Size: 432
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Filename: ./debs/com.spark.snowboard.labels_1.1.1~Beta4-rootless_iphoneos-arm64e.deb
+Size: 34128
+MD5sum: f465b779d2a37397c3ee7ee5d86bb613
+SHA1: 751bc5d9e63fcf4017e77916a751ceadd3fe2fa5
+SHA256: d5d7e357aef214dc2ed9b1a34c17114ed7f9924b43a417ad503b2d46f03b0385
+Section: SnowBoard
+Description: App角标扩展，自备素材，此源仅作备份与注释。
+Author: Spark
+Icon: https://s1.imagehub.cc/images/2025/02/16/6184f5a172c0da2db10df7ddce6977bc.png
+Name: SnowBoard Labels Extension
 
 Package: com.spark.snowboard.labels
 Version: 1.1.1~Beta4-rootless
@@ -15038,6 +15132,42 @@ Author: Spark
 Icon: https://s1.imagehub.cc/images/2025/02/16/6184f5a172c0da2db10df7ddce6977bc.png
 Name: SnowBoard Icon Masks Extension
 
+Package: com.spark.snowboard.masks
+Version: 1.2.2-Beta2-rootless
+Architecture: iphoneos-arm64e
+Maintainer: Spark
+Installed-Size: 340
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Filename: ./debs/com.spark.snowboard.masks_1.2.2-Beta2-rootless_iphoneos-arm64e.deb
+Size: 25946
+MD5sum: da5c553074ee946c00f68eae6e7cb2d7
+SHA1: 09b9d6335878f0c963616add6c0b95f7a753d229
+SHA256: fc5966fdd39debdd92b9fbca4ce98029d2fc5316543708ece7710661b8997012
+Section: SnowBoard
+Description: App图标遮罩扩展，源内有整理好的素材，告别四处求爷爷告奶奶的日子，此源仅作备份与注释。
+Author: Spark
+Icon: https://s1.imagehub.cc/images/2025/02/16/6184f5a172c0da2db10df7ddce6977bc.png
+Name: SnowBoard Icon Masks Extension
+
+Package: com.spark.snowboard.presetextension
+Version: 1.1.0~Beta4-rootless
+Architecture: iphoneos-arm64e
+Maintainer: Spark
+Installed-Size: 488
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, com.spark.snowboard (>> 1.2.22)
+Filename: ./debs/com.spark.snowboard.presetextension_1.1.0~Beta4-rootless_iphoneos-arm64e.deb
+Size: 57888
+MD5sum: 89da5949306294484cce6944596af1cb
+SHA1: cf625b536f3b63c279ae0451ee28f7b007048962
+SHA256: cbc0efafbf86dc28eb84d17ea7853b925b685ac6c9ba882c0017011f32a77f3e
+Section: SnowBoard
+Description: 保存主题的预设（可保存多项）并在它们之间快速切换，此源仅作备份与注释。
+Author: Spark
+Icon: https://s1.imagehub.cc/images/2025/02/16/6184f5a172c0da2db10df7ddce6977bc.png
+Name: SnowBoard Preset Extension
+
 Package: com.spark.snowboard.presetextension
 Version: 1.1.0~Beta4-rootless
 Architecture: iphoneos-arm64
@@ -15071,6 +15201,42 @@ Description: 设置app里每个功能前的icon扩展，自备主题素材，此
 Author: Spark
 Icon: https://s1.imagehub.cc/images/2025/02/16/6184f5a172c0da2db10df7ddce6977bc.png
 Name: SnowBoard Settings Icons Extension
+
+Package: com.spark.snowboard.settingsicons
+Version: 1.0.26~Beta3-rootless
+Architecture: iphoneos-arm64e
+Maintainer: Spark
+Installed-Size: 340
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Filename: ./debs/com.spark.snowboard.settingsicons_1.0.26~Beta3-rootless_iphoneos-arm64e.deb
+Size: 24244
+MD5sum: 851f046addd99cea44c13d18d7d4ff12
+SHA1: deb2163d8b2225467b1a5b9a5b6cc2149e486768
+SHA256: b5d1be7407bcfb920027e955c3677e306b12ee38394165b6c13a225c323ce9e3
+Section: SnowBoard
+Description: 设置app里每个功能前的icon扩展，自备主题素材，此源仅作备份与注释。
+Author: Spark
+Icon: https://s1.imagehub.cc/images/2025/02/16/6184f5a172c0da2db10df7ddce6977bc.png
+Name: SnowBoard Settings Icons Extension
+
+Package: com.spark.snowboard.statusbar
+Version: 1.1.0-Beta4-rootless
+Architecture: iphoneos-arm64e
+Maintainer: Spark
+Installed-Size: 364
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Filename: ./debs/com.spark.snowboard.statusbar_1.1.0-Beta4-rootless_iphoneos-arm64e.deb
+Size: 36750
+MD5sum: aa58f4f2e9bc601fadf1cb06d41be615
+SHA1: 646061faa317bcefc09bbfbcb05d73a5cf55f6e8
+SHA256: f7180e828b592f1b99d75f75ec77cdd40a06b5e7f7745f0604685daecec59b51
+Section: SnowBoard
+Description: 状态栏美化扩展，对非刘海和灵动岛以外设备可能会有bug，自己测试，此源仅作备份与注释。
+Author: Spark
+Icon: https://s1.imagehub.cc/images/2025/02/16/6184f5a172c0da2db10df7ddce6977bc.png
+Name: SnowBoard StatusBar Extension
 
 Package: com.spark.snowboard.statusbar
 Version: 1.1.0-Beta4-rootless
@@ -15106,6 +15272,24 @@ Author: Spark
 Icon: https://s1.imagehub.cc/images/2025/02/16/6184f5a172c0da2db10df7ddce6977bc.png
 Name: SnowBoard UI Extension
 
+Package: com.spark.snowboard.ui
+Version: 1.3.0~Beta2-rootless
+Architecture: iphoneos-arm64e
+Maintainer: Spark
+Installed-Size: 476
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, com.spark.snowboard (>> 1.2.22)
+Filename: ./debs/com.spark.snowboard.ui_1.3.0~Beta2-rootless_iphoneos-arm64e.deb
+Size: 92706
+MD5sum: f76df86caface1e1dde325b8e5b3ebf8
+SHA1: f20e643541ca8d89d711d5de17b8e5be8e5a0ddf
+SHA256: fa32d252a6daf91a8e71b90899e78c8fdd3346028b547e1b153538d775793c96
+Section: SnowBoard
+Description: 可以对SF Symbols，开关等元素进行美化的扩展，源内有开关素材，告别四处求爷爷告奶奶的日子，此源仅作备份与注释。
+Author: Spark
+Icon: https://s1.imagehub.cc/images/2025/02/16/6184f5a172c0da2db10df7ddce6977bc.png
+Name: SnowBoard UI Extension
+
 Package: com.spark.snowboardapplication
 Version: 1.1.0~Beta4-rootless
 Architecture: iphoneos-arm64
@@ -15117,6 +15301,24 @@ Size: 608116
 MD5sum: c7d97f2941322326f0cfa43e7872de68
 SHA1: f28a2365c60ec295c1923005d4a40daf11d14c19
 SHA256: 434fe40b5396f2587e60ba8e891bdc8e644f20f5e693a8a28da0dee6d9f847b2
+Section: SnowBoard
+Description: 桌面snowboard图标。此源仅作备份与注释。
+Author: Spark
+Icon: https://s1.imagehub.cc/images/2025/02/16/6184f5a172c0da2db10df7ddce6977bc.png
+Name: SnowBoard
+
+Package: com.spark.snowboardapplication
+Version: 1.1.0~Beta4-rootless
+Architecture: iphoneos-arm64e
+Maintainer: Spark
+Installed-Size: 992
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: com.spark.snowboard
+Filename: ./debs/com.spark.snowboardapplication_1.1.0~Beta4-rootless_iphoneos-arm64e.deb
+Size: 629780
+MD5sum: 8dc262123e5fbd8f8b2a6d77a085d4ff
+SHA1: 3ea71db6c4cab80ac8a4d3ee059c494b72d1beb2
+SHA256: c29715d57fcf9d547bcc2e12916866c0030248051c19d360c162a30ebe54d6f6
 Section: SnowBoard
 Description: 桌面snowboard图标。此源仅作备份与注释。
 Author: Spark
@@ -18827,16 +19029,16 @@ Version: 1.0
 Architecture: iphoneos-arm64e
 Maintainer: wkk
 Depends: firmware (>= 14.0), mobilesubstrate
-Filename: ./debs/com.wkk.hookcc_1.0_iphoneos-arm64e.deb
-Size: 5536
-MD5sum: 4f1e4da575886f797cf615467718caf5
-SHA1: 12e2ae4c56fd3adf847e81a672b3aa31f6f3cc14
-SHA256: 493050453dce711d6d2b8a0b87e81bb9a8efb45e1549a1206103c177f4f94da1
-Section: Tweaks
-Description: 音量亮度增加百分比。
+Filename: ./debs/com.wkk.hookcc.deb
+Size: 5552
+MD5sum: 432dacfaf52c048ff88d78bbb5c1919b
+SHA1: e44b35f9354e471e83f5c5c5ce59550a1783da4a
+SHA256: a0a1f0ce46a43b01d8a666c3ff8a3ed51909230911a03c0171f9de02e565e6ac
+Section: 控制中心
+Description: 控制中心音量亮度增加百分比。
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: HookCc
+Name: 控制中心音量亮度增加百分比
 
 Package: com.wkk.iconx
 Version: 1.0
@@ -19152,21 +19354,21 @@ Icon: https://s1.imagehub.cc/images/2025/02/19/b3ce34062200bdb9cd7730bd71a79d58.
 Name: 重启用户空间启动logo
 
 Package: com.wkk.luping
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm64e
 Maintainer: null
 Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/com.wkk.luping_1.0_iphoneos-arm64e.deb
-Size: 38612
-MD5sum: 8fba196cd99e7330c09dfd1dd7c4fba8
-SHA1: 2b08e2e45ac3ee0625f058ff13bcf31d1db02ce6
-SHA256: 5b9cea51cab14f03e54d38baf67f72922357440acd66bbe8deed8e982f416c06
+Filename: ./debs/com.wkk.luping_1.1_iphoneos-arm64e.deb
+Size: 38664
+MD5sum: 8269bf68a2c8c9c6561747023f44825c
+SHA1: bd8eb93dad30438f0619cd9730d83bbabffc1e8e
+SHA256: 596af3df9d12157ccfc145d527efe3bd53897c7c196297511426ec0c1ef7a93a
 Section: Dopamine挂载
-Description: 隐根挂载后直装，重新越狱也不会失效。
+Description: 隐根挂载后直装，重新越狱也不会失效。（已修改调整至1.1 完美了）
   * 挂载:/Applications/ReplayKitAngel.app/sc_compact_leading_v2-D73.ca
   * 挂载:/Applications/ReplayKitAngel.app/sc_compact_minimal_v2-D73.ca
-Author: null
-Icon: https://www.susubaby.top//images/luping.png
+Author: wkk
+Icon: https://www.susuboy.cn//images/luping.png
 Name: 灵动岛录屏写轮眼
 
 Package: com.wkk.mtwmhook
@@ -20030,36 +20232,36 @@ Icon: https://s1.imagehub.cc/images/2025/02/07/42d027a2f16f489f6b6c2bf94a16cbb1.
 Name: 知乎NoAds
 
 Package: com.wkk.zhuanjixuanzhuan
-Version: 1.0
-Architecture: iphoneos-arm64e
+Version: 1.1
+Architecture: iphoneos-arm64
 Maintainer: wkk
-Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/com.wkk.zhuanjixuanzhuan_1.0_iphoneos-arm64e.deb
-Size: 5466
-MD5sum: c3471f1998a310e014a3a4f9b9d01242
-SHA1: 40e675e2115bbc587f7f14493349e06be6379c9a
-SHA256: 0acd1f82d5ac7382151a33f93a2665b5371da0a2d4adc96d20196c87fc78c55b
+Filename: ./debs/com.wkk.zhuanjixuanzhuan_1.1_iphoneos-arm64.deb
+Size: 4116
+MD5sum: 2c0c2497e0a397d49b7deb59c8d53b65
+SHA1: fe2eaed7fd897f874323017ac4074292a9b1af51
+SHA256: fac40403ed931cb077593edeab24768453c677eac460d6fc319ab6b33841a1b9
 Section: Dopamine挂载
-Description: 仅支持ios16无根越狱，将你的灵动岛音乐专辑变成圆形并且旋转！
+Description: 仅支持ios16（灵动岛设备）无根隐根越狱（挂载后直装）将你的灵动岛音乐专辑变成圆形并且旋转（已调整完美）
   * 灵动岛音乐专辑路径：/System/Library/PrivateFrameworks/MediaControls.framework/ActivityArtwork.ca
-  * 注意：先挂载灵动岛音乐专辑路径再下载此插件，重启Springboard如果未生效，重启用户空间即可。
+  * 注意：先挂载灵动岛音乐专辑路径再下载此插件，注销生效。
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/21/d786b2d348e397824b9499df7082cde1.png
 Name: 灵动岛音乐专辑旋转
 
 Package: com.wkk.zhuanjixuanzhuan
-Version: 1.0
-Architecture: iphoneos-arm64
+Version: 1.1
+Architecture: iphoneos-arm64e
 Maintainer: wkk
-Filename: ./debs/com.wkk.zhuanjixuanzhuan_1.0_iphoneos-arm64.deb
-Size: 4084
-MD5sum: ad5448738936b1c33c324283300eb6bf
-SHA1: 2d00e095347e27e9740a71109b2b659efa65953f
-SHA256: 596ee1e7832b4cde0cd847eccfbaf4a716e4975b4b15d7f4301a5ab0f97e3d04
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.wkk.zhuanjixuanzhuan_1.1_iphoneos-arm64e.deb
+Size: 5528
+MD5sum: 9b68eba5dc9082ed1b1df41b4d20cb59
+SHA1: 5a1a14cfa6312503e26ba3a7ba9d43936008e8ff
+SHA256: 3ad25de998495eb65c3cb5094d5abbda4b1246ff149393fc0fd0efc494a3e8dd
 Section: Dopamine挂载
-Description: 仅支持ios16无根越狱，将你的灵动岛音乐专辑变成圆形并且旋转！
+Description: 仅支持ios16（灵动岛设备）无根隐根越狱（挂载后直装）将你的灵动岛音乐专辑变成圆形并且旋转（已调整完美）
   * 灵动岛音乐专辑路径：/System/Library/PrivateFrameworks/MediaControls.framework/ActivityArtwork.ca
-  * 注意：先挂载灵动岛音乐专辑路径再下载此插件，重启Springboard如果未生效，重启用户空间即可。
+  * 注意：先挂载灵动岛音乐专辑路径再下载此插件，注销生效。
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/21/d786b2d348e397824b9499df7082cde1.png
 Name: 灵动岛音乐专辑旋转
@@ -20527,17 +20729,70 @@ Author: Dcsyhi
 Icon: https://sini921.github.io/repo/sileodepiction/icon/zetsu.png
 Name: Zetsu
 
+Package: com.zhezhaojihe.2
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: bdzt
+Depends: com.spark.snowboard, com.spark.snowboard.ui, com.spark.snowboard.masks, com.spark.snowboard.effects
+Filename: ./debs/com.zhezhaojihe.2_1.0_iphoneos-arm64.deb
+Size: 54568
+MD5sum: 363be3798a9d8e01bba278209af55db1
+SHA1: 041e99fd79d0afadd142b8eaab5ed82c1fab40d4
+SHA256: 44e0a7e57ef148d6058762df08ff0d30a58cfdde9235193148104118cf3bd6b0
+Section: 一切美化的东西都是垃圾
+Description: 四款好看的立体遮罩，素材来自威锋网友。
+Author: null
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 四款立体遮罩
+Sponsor: null
+
+Package: com.zhezhaojihe.2
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: bdzt
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: com.spark.snowboard, com.spark.snowboard.ui, com.spark.snowboard.masks, com.spark.snowboard.effects
+Filename: ./debs/com.zhezhaojihe.2_1.0_iphoneos-arm64e.deb
+Size: 56282
+MD5sum: 371edd608d3d428f5c123be332c27f43
+SHA1: f15a9317fa9f312780492bfdca1a31334394bb62
+SHA256: aa130407ea743dacf57c3c9c1f74c738790dab59647d95baa3e639ba1c698291
+Section: 一切美化的东西都是垃圾
+Description: 四款好看的立体遮罩，素材来自威锋网友。
+Author: null
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 四款立体遮罩
+Sponsor: null
+
+Package: com.zhezhaojihe.baidu
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: bdzt
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: com.spark.snowboard, com.spark.snowboard.ui, com.spark.snowboard.masks, com.spark.snowboard.effects
+Filename: ./debs/com.zhezhaojihe.baidu_1.0_iphoneos-arm64e.deb
+Size: 2077566
+MD5sum: 222451dc1b34abc591fa100c6f3b848c
+SHA1: e5478993d5e0e9ef8f4a834539b396c1498776f9
+SHA256: 61e6ab052dabad4a59d28fd641fc30181d23624e0d622b4c4d4ef5321b743532
+Section: 一切美化的东西都是垃圾
+Description: 十八款好看的遮罩大集合！
+Author: bdzt
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 遮罩集合大全
+Sponsor: bdzt
+
 Package: com.zhezhaojihe.baidu
 Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: bdzt
 Depends: com.spark.snowboard, com.spark.snowboard.ui, com.spark.snowboard.masks, com.spark.snowboard.effects
 Filename: ./debs/com.zhezhaojihe.baidu_1.0_iphoneos-arm64.deb
-Size: 1017356
-MD5sum: 07b012d2a7739a9ec4d00e6ee224b90f
-SHA1: 97c980a4f59b9bc444c3cff57db5d44f7b405fa0
-SHA256: 9c6353a3d20539682db36f1497567104a06a1065717f468747fe50f2b0718cea
-Section: 插件
+Size: 1017576
+MD5sum: 1806efb8286b4260d0f9e5104fb33887
+SHA1: c84da30762a1be2d2b886f747d0d0e430738d834
+SHA256: 89719ede363171174c716b4e2d3cf74e4407a73bf56f8fa2661931a31637454e
+Section: 一切美化的东西都是垃圾
 Description: 十八款好看的遮罩大集合！
 Author: bdzt
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
