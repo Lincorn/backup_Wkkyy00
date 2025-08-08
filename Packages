@@ -8489,6 +8489,22 @@ Description: App 隐私保护
 Author: aReo
 Name: AppProtect(Roothide)
 
+Package: com.flex2areo.appprotectroothide
+Version: 2.1.0
+Architecture: iphoneos-arm64e
+Maintainer: aReo
+Installed-Size: 2128
+Depends: mobilesubstrate,preferenceloader
+Filename: ./debs/com.flex2areo.appprotectroothide_2.1.0_iphoneos-arm64e.deb
+Size: 539542
+MD5sum: e924112c78651cc25f8b149bda43cb7a
+SHA1: 3c3a5a1411d5fed34eb00cd64e12c3db446f8ada
+SHA256: 65aecfcf0b7e1a981307ee089246a47d90208b1f401915feda2d461530729e1c
+Section: Tweaks
+Description: App 隐私保护
+Author: aReo
+Name: AppProtect(Roothide)
+
 Package: com.flex2areo.appprotectrootless
 Version: 2.0.7
 Architecture: iphoneos-arm64
@@ -8500,6 +8516,22 @@ Size: 541454
 MD5sum: 4f42fb7eea1889ae0b9832bbbc293505
 SHA1: 2974df3e484fec42fdd92b8c9850121ca92ef416
 SHA256: dd23d27f194fc265a105b667dd2b2cb8c234a988ff5f67701ea0407b0ac45887
+Section: Tweaks
+Description: App 隐私保护
+Author: aReo
+Name: AppProtect(Rootless)
+
+Package: com.flex2areo.appprotectrootless
+Version: 2.1.0
+Architecture: iphoneos-arm64
+Maintainer: aReo
+Installed-Size: 2196
+Depends: mobilesubstrate,preferenceloader
+Filename: ./debs/com.flex2areo.appprotectrootless_2.1.0_iphoneos-arm64.deb
+Size: 552188
+MD5sum: c2d011f6f045028fd8a8e456cf80651e
+SHA1: 27acc1d82691560243fe180e8a044ffe50a8f6ac
+SHA256: 2e0abf513a216886344faee6bc65b2f97a19926250b5195f971ad3dc0ff2485b
 Section: Tweaks
 Description: App 隐私保护
 Author: aReo
@@ -10493,6 +10525,43 @@ Size: 151260
 MD5sum: 62c7162c37ceb949008d231b3fed572c
 SHA1: b98fb4448526a5759a12e2bbbc919b6f693e53eb
 SHA256: ebc3ac0519b4c9df3af2bf31df3826a9a66fa0c602cbb03fdca961e1aa8aff29
+Section: 微信插件
+Description: WCPulse
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCPulse
+Sileodepiction: http://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/WCPulse.json
+
+Package: com.huami.WCPulse
+Version: 1.2-2
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 240
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.WCPulse_1.2-2_iphoneos-arm64.deb
+Size: 171456
+MD5sum: adbe1dcd2adad76b7739d41c1516fe84
+SHA1: 05a33aa91884b8f78cf49d201dcc01fbd396c707
+SHA256: 6a53e24a14411bd901f2dd6d9e5dd2ee12b8065e5227c6b5e1118cab0607e7a6
+Section: 微信插件
+Description: WCPulse
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCPulse
+Sileodepiction: http://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/WCPulse.json
+
+Package: com.huami.WCPulse
+Version: 1.2-2
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 240
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.WCPulse_1.2-2_iphoneos-arm64e.deb
+Size: 247838
+MD5sum: 49733be68805c76c65ac02bd1560d03a
+SHA1: 86ba5915efac3b3a2b10d845d1af438894a291be
+SHA256: b579a6a580bed0380b449fba009f5c282f3a47532122b5831e61a8a404e949db
 Section: 微信插件
 Description: WCPulse
 Author: huami
