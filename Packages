@@ -8864,6 +8864,22 @@ Description: AppTools for iOS15-16 Roothide
 Author: aReo
 Name: AppTools15-16(Roothide)
 
+Package: com.flex2areo.apptools15roothide
+Version: 2.3.3
+Architecture: iphoneos-arm64e
+Maintainer: aReo
+Installed-Size: 2556
+Depends: mobilesubstrate
+Filename: ./debs/com.flex2areo.apptools15roothide_2.3.3_iphoneos-arm64e.deb
+Size: 624204
+MD5sum: 7040935f6f543357cd90711eeb3ee32a
+SHA1: bbf974d1cbf2bf1c762ff64354420109d5ec3899
+SHA256: 346b60b19ab137dda1091fdb5ab84ec2d403b8fb12a2eb2e28b4fd8e573d582d
+Section: Tweaks
+Description: AppTools for iOS15-16 Roothide
+Author: aReo
+Name: AppTools15-16(Roothide)
+
 Package: com.flex2areo.apptools15rootless
 Version: 2.0.0
 Architecture: iphoneos-arm64
@@ -9115,6 +9131,22 @@ Size: 640564
 MD5sum: 8d6fb216ac35e9b0c22be1967fafd3df
 SHA1: 598e83c38e2b44b3805fbbc7e8fcdb930d947ff5
 SHA256: 244f1ca6234be0106cec86887459cd950f9981b16ff37b70c0ba8c81490f697d
+Section: Tweaks
+Description: AppTools for iOS15-16 Rootless
+Author: aReo
+Name: AppTools15-16(Rootless)
+
+Package: com.flex2areo.apptools15rootless
+Version: 2.3.3
+Architecture: iphoneos-arm64
+Maintainer: aReo
+Installed-Size: 2636
+Depends: mobilesubstrate
+Filename: ./debs/com.flex2areo.apptools15rootless_2.3.3_iphoneos-arm64.deb
+Size: 641118
+MD5sum: 27053917d9808194a46d9db9568b3b14
+SHA1: 6b9ecfb5bf8f2e4ae072d0be1d9b04b1348ccacd
+SHA256: cd80cfcdc9072bfed03837ecb184ea7bd9412f0e8f9d5f3b38f3fe0d7ce0ebda
 Section: Tweaks
 Description: AppTools for iOS15-16 Rootless
 Author: aReo
@@ -17225,6 +17257,41 @@ Size: 12660094
 MD5sum: 2a9268dd5a942da25f4d81feb767a31e
 SHA1: 387a94da2821d030212e015970340a3afd5de024
 SHA256: 6c1c90c7ccb41a0e60b6ce3716ac605d72f4bd2bb7306f7ed89289250eac5d3a
+Section: 微信插件
+Description: 学习交流。
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+Name: 主题盒子
+
+Package: com.tencent.themebox
+Version: 2.1.5
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tencent.themebox_2.1.5_iphoneos-arm64.deb
+Size: 4726284
+MD5sum: 8e19f3448caeef5c1e55353fe7487e8f
+SHA1: 96e36bf13fde1e2d5890c3250aa099c1c4519119
+SHA256: 92a99e15ac2ef7bd85edf79b9ea2a6a8724388529d628c19205c8f2f80f24883
+Section: 微信插件
+Description: 学习交流。
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+Name: 主题盒子
+
+Package: com.tencent.themebox
+Version: 2.1.5
+Architecture: iphoneos-arm64e
+Maintainer: WeChat
+Installed-Size: 6132
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tencent.themebox_2.1.5_iphoneos-arm64e.deb
+Size: 12812366
+MD5sum: e58e679aceb38ff5237fd6b99be40587
+SHA1: 94159047f745f72ce307395ae7a8c068f8dc33fe
+SHA256: b4eb7716f7729a8e66f9345b6409e7e5887ef36445374fb8953b3da1d410f360
 Section: 微信插件
 Description: 学习交流。
 Author: WeChat
