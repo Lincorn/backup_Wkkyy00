@@ -6445,6 +6445,43 @@ Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.
 Name: floatingView
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
 
+Package: com.be-huge.floating-view
+Version: 1.5.6-7
+Architecture: iphoneos-arm64e
+Maintainer: be-huge
+Installed-Size: 2692
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.be-huge.floating-view_1.5.6-7_iphoneos-arm64e.deb
+Size: 1677532
+MD5sum: 4362245a4778cc09f6a99e9bd7289168
+SHA1: 1c69d49aa5c9c4ac22851ad3e7c34c8d3e73f30f
+SHA256: ab5b05331da627d4161778af8bf22761645e43e8cdd29fca920ab9baa1f0d348
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+Name: floatingView
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Version: 1.5.6-7
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 2692
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.be-huge.floating-view_1.5.6-7_iphoneos-arm64.deb
+Size: 626280
+MD5sum: b3e561f174038052ffdf72f50a2d713c
+SHA1: 884dbf7aee67255c862cf4e11735f9f7d000e0fd
+SHA256: ce482cb193120a58cfbf6a1dcd05c1feabc07d24f05af92df9ff9e17be2363e7
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+Name: floatingView
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
 Package: com.be-huge.tie-gesture
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -12509,6 +12546,41 @@ Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.
 Name: 微信增强
 Sileodepiction: https://api.lxink.cn/WCEhanceLog.json
 
+Package: com.lxcloud.WCEhance
+Version: 1.2-2
+Architecture: iphoneos-arm64
+Maintainer: Lxcloud
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.lxcloud.WCEhance_1.2-2_iphoneos-arm64.deb
+Size: 1730428
+MD5sum: 35135a3ca6974bfe57e7310d01969aa9
+SHA1: 247a332c598ce64d02847c1ef9e2c82b5b709ba1
+SHA256: 5b18f2f80df2feb12db8ca6d7cd1b0580e01045fcc3386b03ee05c60745a5c74
+Section: 微信插件
+Priority: optional
+Description: 微信增强,用于优化一些反人类设计和增强功能。
+Author: huami&Lxcloud
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信增强
+
+Package: com.lxcloud.WCEhance
+Version: 1.2-2
+Architecture: iphoneos-arm64e
+Maintainer: Lxcloud
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.lxcloud.WCEhance_1.2-2_iphoneos-arm64e.deb
+Size: 4878186
+MD5sum: baf173659fd964cf4aba3f34cde94cfb
+SHA1: 26f7e6a15dcd29585b1179cf39be50e7dc69a4b9
+SHA256: d0375c25b539ed775fa7cbb6cbe07287aad33489b2eb04545d3fd57fa748a380
+Section: 微信插件
+Priority: optional
+Description: 微信增强,用于优化一些反人类设计和增强功能。
+Author: huami&Lxcloud
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信增强
+
 Package: com.marie
 Version: 1.0.6
 Architecture: iphoneos-arm64
@@ -15049,6 +15121,23 @@ Author: dvntm & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/showmytouches.png
 Name: ShowMyTouches
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/showmytouches/js.json
+
+Package: com.sini921.zoomanimation
+Version: 0.0.1-5
+Architecture: iphoneos-arm64e
+Maintainer: SINI
+Installed-Size: 392
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.sini921.zoomanimation_0.0.1-5_iphoneos-arm64e.deb
+Size: 23212
+MD5sum: 04fba3c814f54fe6710f58a31f1ccc50
+SHA1: cff43043fed3946570480d34b1be64f5e0c3fcff
+SHA256: 5eb1b453ca3eb750de705ebd602beb376bb77be30dc952dbb4c489fe9ee1bb59
+Section: 插件
+Description: 桌面缩放动画，灵感来自SpringAnimations插件，但是不喜欢他的转圈。注意！roothide请使用roothide专用包，通过转换rootless包可能无法使用。（备份）
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/zoomanimation.png
+Name: ZoomAnimation
 
 Package: com.skypain.flexloader
 Version: 5.25.19-1
