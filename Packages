@@ -2741,6 +2741,108 @@ Author: 82Flex <82flex@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/08/31/25640d16bc4c40fca6253bad212cf556.png
 Name: TrollVNC
 
+Package: com.82flex.trollvnc
+Version: 1.5
+Architecture: iphoneos-arm64
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 5260
+Depends: firmware (>= 14.0)
+Filename: ./debs/com.82flex.trollvnc_1.5_iphoneos-arm64.deb
+Size: 1434680
+MD5sum: 1a26479cff160a163b5e7be4cb6566ec
+SHA1: fcbf9690824b71faf72155df54d3960349dff361
+SHA256: 888f2663a629384f6d03c08b6cc417f699017fca830a9954d09c12ead9760d0c
+Section: 应用程序
+Description: TrollVNC is a VNC server for iOS devices, allowing remote access and control of the device’s screen.
+Author: 82Flex <82flex@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/08/31/25640d16bc4c40fca6253bad212cf556.png
+Name: TrollVNC
+
+Package: com.82flex.trollvnc
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 5260
+Depends: firmware (>= 14.0)
+Filename: ./debs/com.82flex.trollvnc_1.5_iphoneos-arm.deb
+Size: 1434524
+MD5sum: ae3e3f6f325cb6100841906c2624f67f
+SHA1: 5a7595fb0e218fe599ea858f7b621fa51ee2f021
+SHA256: ae35bf6393272209bcaa83b9433e54a8a3bbb8742384e773cbcea577879a687d
+Section: 应用程序
+Description: TrollVNC is a VNC server for iOS devices, allowing remote access and control of the device’s screen.
+Author: 82Flex <82flex@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/08/31/25640d16bc4c40fca6253bad212cf556.png
+Name: TrollVNC
+
+Package: com.82flex.trollvnc
+Version: 1.5
+Architecture: iphoneos-arm64e
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 5260
+Depends: firmware (>= 14.0)
+Filename: ./debs/com.82flex.trollvnc_1.5_iphoneos-arm64e.deb
+Size: 1434752
+MD5sum: 6c406f65218b23607ea6e0d6e6c0e9ed
+SHA1: bc0f4af090572f200a8c9bb50881e1064ceca5ba
+SHA256: a77c28bad4137ad8a01de29be850764e92a9a766c4b3e0c51ac853dae81cba07
+Section: 应用程序
+Description: TrollVNC is a VNC server for iOS devices, allowing remote access and control of the device’s screen.
+Author: 82Flex <82flex@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/08/31/25640d16bc4c40fca6253bad212cf556.png
+Name: TrollVNC
+
+Package: com.82flex.trollvnc
+Version: 1.6
+Architecture: iphoneos-arm
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 5280
+Depends: firmware (>= 14.0), preferenceloader
+Filename: ./debs/com.82flex.trollvnc_1.6_iphoneos-arm.deb
+Size: 1438936
+MD5sum: 8812bf88caf39699e115a1d80791355a
+SHA1: b895752332a87fb80987e0910b7e1e84b586ba6d
+SHA256: f1c6a53fbd7ae3eefe4d8339d2232bfbac1c50db1557f03c96caa6e21f4c99bf
+Section: 应用程序
+Description: TrollVNC is a VNC server for iOS devices, allowing remote access and control of the device’s screen.
+Author: 82Flex <82flex@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/08/31/25640d16bc4c40fca6253bad212cf556.png
+Name: TrollVNC
+
+Package: com.82flex.trollvnc
+Version: 1.6
+Architecture: iphoneos-arm64e
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 5264
+Depends: firmware (>= 14.0), preferenceloader
+Filename: ./debs/com.82flex.trollvnc_1.6_iphoneos-arm64e.deb
+Size: 1437064
+MD5sum: 9dce39a06fb8317fdd2b28010ef13821
+SHA1: 54759da7e91943113a0b4c12d0e0ed01c7d21ec3
+SHA256: 5094a844de5caa62f7d6c30871baf43cb65207cad2dc3ec343bd170421cad36c
+Section: 应用程序
+Description: TrollVNC is a VNC server for iOS devices, allowing remote access and control of the device’s screen.
+Author: 82Flex <82flex@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/08/31/25640d16bc4c40fca6253bad212cf556.png
+Name: TrollVNC
+
+Package: com.82flex.trollvnc
+Version: 1.6
+Architecture: iphoneos-arm64
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 5264
+Depends: firmware (>= 14.0), preferenceloader
+Filename: ./debs/com.82flex.trollvnc_1.6_iphoneos-arm64.deb
+Size: 1437608
+MD5sum: b9b5a53034692b7435aab6dcd6abced6
+SHA1: 761dd6d93efcc64f51d21556955007d006bebb77
+SHA256: a91bd64d05142a6be02e99f62548ad1d03c2e224ccee479890481386b3a61388
+Section: 应用程序
+Description: TrollVNC is a VNC server for iOS devices, allowing remote access and control of the device’s screen.
+Author: 82Flex <82flex@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/08/31/25640d16bc4c40fca6253bad212cf556.png
+Name: TrollVNC
+
 Package: com.82flex.wtvrbglauncher
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -8988,6 +9090,22 @@ Description: App 隐私保护
 Author: aReo
 Name: AppProtect(Roothide)
 
+Package: com.flex2areo.appprotectroothide
+Version: 2.1.2
+Architecture: iphoneos-arm64e
+Maintainer: aReo
+Installed-Size: 2160
+Depends: mobilesubstrate,preferenceloader
+Filename: ./debs/com.flex2areo.appprotectroothide_2.1.2_iphoneos-arm64e.deb
+Size: 552606
+MD5sum: cd57b74f066948a8596328a4d00e8657
+SHA1: 8ef3d0f9ee9b4c365497a0ffccd488f459682a76
+SHA256: ca38c251bc24aa8cc8b80a798db1847fe52235a781da83f1ba2b4ca0da8d5305
+Section: Tweaks
+Description: App 隐私保护
+Author: aReo
+Name: AppProtect(Roothide)
+
 Package: com.flex2areo.appprotectrootless
 Version: 2.0.7
 Architecture: iphoneos-arm64
@@ -9031,6 +9149,22 @@ Size: 556836
 MD5sum: 82af937192dce073b4da9448f637cbf3
 SHA1: 86a379713cc0ee912d291cb5e2a72b0c1313cfd3
 SHA256: e056485992f8a99e972c3d79f7ad4488d279f4d08baaa723b2fc9403bf94a2e4
+Section: Tweaks
+Description: App 隐私保护
+Author: aReo
+Name: AppProtect(Rootless)
+
+Package: com.flex2areo.appprotectrootless
+Version: 2.1.2
+Architecture: iphoneos-arm64
+Maintainer: aReo
+Installed-Size: 2276
+Depends: mobilesubstrate,preferenceloader
+Filename: ./debs/com.flex2areo.appprotectrootless_2.1.2_iphoneos-arm64.deb
+Size: 585124
+MD5sum: 60d32f1247a9d6c5bc8bb0f0a8a13abc
+SHA1: 08dfcd79dad8bbf599ec20f5f21f947c96f96f8d
+SHA256: 11c0c3a4b87f9c20b036bb62c4ad21b963446754e94fe580421e49387a51f362
 Section: Tweaks
 Description: App 隐私保护
 Author: aReo
@@ -15409,6 +15543,39 @@ Description: 录制视频时，可以手动暂停/恢复，非常好用！支持
 Author: PoomSmart
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: RecordPause
+
+Package: com.rexinxuegao.WCElite
+Version: 1.3-7
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.rexinxuegao.WCElite_1.3-7_iphoneos-arm64e.deb
+Size: 1599376
+MD5sum: 8a82c36a3a2691d20e1de6f07f2c8a74
+SHA1: 9dd3374cb7ebb345321c694a22dad12677eb5833
+SHA256: 22765c511f986a1bb7612d761007f3797fa32833264d1870059901abad025d77
+Section: 微信插件
+Priority: optional
+Description: 微信优化，基于WechatEnhance 1.1-9开源版优化。
+Author: 热心网友＆雪糕
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCElite
+
+Package: com.rexinxuegao.WCElite
+Version: 1.3-7
+Architecture: iphoneos-arm64
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.rexinxuegao.WCElite_1.3-7_iphoneos-arm64.deb
+Size: 545744
+MD5sum: 95679b3e8bf5e66771a36a8a9251fe98
+SHA1: d7ca7555e2a20705f7749c0c303f44365a765116
+SHA256: 03ae5c514f3235d21872320606ad9bbfc1ba35a8d61a7f4a02170af86a8955e9
+Section: 微信插件
+Priority: optional
+Description: 微信优化，基于WechatEnhance 1.1-9开源版优化。
+Author: 热心网友＆雪糕
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCElite
 
 Package: com.roothide.manager
 Version: 1.2
