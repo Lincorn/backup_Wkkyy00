@@ -2894,6 +2894,108 @@ Author: 82Flex <82flex@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/08/31/25640d16bc4c40fca6253bad212cf556.png
 Name: TrollVNC
 
+Package: com.82flex.trollvnc
+Version: 1.9
+Architecture: iphoneos-arm
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 5280
+Depends: firmware (>= 14.0), preferenceloader
+Filename: ./debs/com.82flex.trollvnc_1.9_iphoneos-arm.deb
+Size: 1439660
+MD5sum: ac91a436d96f47ed16bf6fd5628014db
+SHA1: 8b6035ddb4b1c8f83e0394b7bf63bdb9178a5824
+SHA256: ed6f6f75af3bf04c60593a34c36c258da1cfbd158c9657ce60dfc4ef9b6e8a8c
+Section: 应用程序
+Description: TrollVNC is a VNC server for iOS devices, allowing remote access and control of the device’s screen.
+Author: 82Flex <82flex@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/08/31/25640d16bc4c40fca6253bad212cf556.png
+Name: TrollVNC
+
+Package: com.82flex.trollvnc
+Version: 1.9
+Architecture: iphoneos-arm64e
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 5280
+Depends: firmware (>= 14.0), preferenceloader
+Filename: ./debs/com.82flex.trollvnc_1.9_iphoneos-arm64e.deb
+Size: 1439580
+MD5sum: ccfeee9660b4ba14d812b112e6de0b4a
+SHA1: 3329f8bcdff21c70ff59eeff1f53aee5bfe96243
+SHA256: 0c0cb8ab234ee994c9768039dac56cadbaa033e8c2043910a7cc520be89c7f23
+Section: 应用程序
+Description: TrollVNC is a VNC server for iOS devices, allowing remote access and control of the device’s screen.
+Author: 82Flex <82flex@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/08/31/25640d16bc4c40fca6253bad212cf556.png
+Name: TrollVNC
+
+Package: com.82flex.trollvnc
+Version: 1.9
+Architecture: iphoneos-arm64
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 5280
+Depends: firmware (>= 14.0), preferenceloader
+Filename: ./debs/com.82flex.trollvnc_1.9_iphoneos-arm64.deb
+Size: 1439132
+MD5sum: 6c137e4fc5ee4e5896dedc95944e3df0
+SHA1: 06e10a5dc5a7df21f92437a929ffd10fb9d13b11
+SHA256: 659a6b43dfb34e9fe9b6b3849edcd9cd5576b1d7655c7a3b2f2a1309c9a29679
+Section: 应用程序
+Description: TrollVNC is a VNC server for iOS devices, allowing remote access and control of the device’s screen.
+Author: 82Flex <82flex@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/08/31/25640d16bc4c40fca6253bad212cf556.png
+Name: TrollVNC
+
+Package: com.82flex.trollvnc
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 5320
+Depends: firmware (>= 14.0), preferenceloader
+Filename: ./debs/com.82flex.trollvnc_2.0_iphoneos-arm.deb
+Size: 1452304
+MD5sum: c744fd86ae98b00e8fdd06cba9a108a8
+SHA1: 6a383f0bcbce819c7ffaddc222d0b5e16e6ed2b7
+SHA256: 5ed8c4132588176e9bc52b0ca9c4e455553250c696025302b57de38b46856d35
+Section: 应用程序
+Description: TrollVNC is a VNC server for iOS devices, allowing remote access and control of the device’s screen.
+Author: 82Flex <82flex@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/08/31/25640d16bc4c40fca6253bad212cf556.png
+Name: TrollVNC
+
+Package: com.82flex.trollvnc
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 5320
+Depends: firmware (>= 14.0), preferenceloader
+Filename: ./debs/com.82flex.trollvnc_2.0_iphoneos-arm64.deb
+Size: 1451480
+MD5sum: 6ce4b74e9df9a80e340cc96be85d5a1f
+SHA1: 92e9da093c0ea768e34406b808f8ea98207b5914
+SHA256: 2c455031c67afe928b7ac7c92dfe388c9c4d16f15930494b20cab833a6f6e766
+Section: 应用程序
+Description: TrollVNC is a VNC server for iOS devices, allowing remote access and control of the device’s screen.
+Author: 82Flex <82flex@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/08/31/25640d16bc4c40fca6253bad212cf556.png
+Name: TrollVNC
+
+Package: com.82flex.trollvnc
+Version: 2.0
+Architecture: iphoneos-arm64e
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 5320
+Depends: firmware (>= 14.0), preferenceloader
+Filename: ./debs/com.82flex.trollvnc_2.0_iphoneos-arm64e.deb
+Size: 1451380
+MD5sum: 4faf2f3eba980511b97c23bc1d881f61
+SHA1: e5e695015c99f4b21508cac013505a9f6fba9b2c
+SHA256: 0d0ff1c82b2ba5791a5a860b0a6bd58f3e194d9a4e6756055293be74f7257dcd
+Section: 应用程序
+Description: TrollVNC is a VNC server for iOS devices, allowing remote access and control of the device’s screen.
+Author: 82Flex <82flex@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/08/31/25640d16bc4c40fca6253bad212cf556.png
+Name: TrollVNC
+
 Package: com.82flex.wtvrbglauncher
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -9157,6 +9259,22 @@ Description: App 隐私保护
 Author: aReo
 Name: AppProtect(Roothide)
 
+Package: com.flex2areo.appprotectroothide
+Version: 2.1.3
+Architecture: iphoneos-arm64e
+Maintainer: aReo
+Installed-Size: 2160
+Depends: mobilesubstrate,preferenceloader
+Filename: ./debs/com.flex2areo.appprotectroothide_2.1.3_iphoneos-arm64e.deb
+Size: 554764
+MD5sum: 46b2d517805cb1e712f72364f7b744cd
+SHA1: 5912e3500d6bb052078991a73bd570a39952a739
+SHA256: 63c962bf64733f76ffdf37da99bab3f7b9fb7a02620688ae865765247c226e6d
+Section: Tweaks
+Description: App 隐私保护
+Author: aReo
+Name: AppProtect(Roothide)
+
 Package: com.flex2areo.appprotectrootless
 Version: 2.0.7
 Architecture: iphoneos-arm64
@@ -9216,6 +9334,22 @@ Size: 585124
 MD5sum: 60d32f1247a9d6c5bc8bb0f0a8a13abc
 SHA1: 08dfcd79dad8bbf599ec20f5f21f947c96f96f8d
 SHA256: 11c0c3a4b87f9c20b036bb62c4ad21b963446754e94fe580421e49387a51f362
+Section: Tweaks
+Description: App 隐私保护
+Author: aReo
+Name: AppProtect(Rootless)
+
+Package: com.flex2areo.appprotectrootless
+Version: 2.1.3
+Architecture: iphoneos-arm64
+Maintainer: aReo
+Installed-Size: 2276
+Depends: mobilesubstrate,preferenceloader
+Filename: ./debs/com.flex2areo.appprotectrootless_2.1.3_iphoneos-arm64.deb
+Size: 585086
+MD5sum: 86209f1c69bf7487605dd721baf1a8b1
+SHA1: cfbfcd36a03426485fba42fea747adcb9ffb9159
+SHA256: bd156698e718e559f5653e02f4f7b571813d1622a8b478306c6aa96319eb253b
 Section: Tweaks
 Description: App 隐私保护
 Author: aReo
@@ -14600,6 +14734,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/onesett.png
 Name: OneSettings插件归类
 Sponsor: k
 
+Package: com.opa334.altlist
+Version: 1.0.11
+Architecture: iphoneos-arm64e
+Maintainer: opa334
+Installed-Size: 340
+Depends: firmware (>=7.0)
+Filename: ./debs/com.opa334.altlist_1.0.11_iphoneos-arm64e.deb
+Size: 27902
+MD5sum: f1cfdb97679bc2b30b2918220ee9351f
+SHA1: 9eef53971a1a30e13cfc2adf3a18b655dd2d9eb2
+SHA256: 7d145977d3fbcd5030564dc429e18f7456c29f92020c36f32e61d4a82418f737
+Section: System
+Description: A modern AppList alternative
+Tag: role::developer
+Author: opa334
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=altlistDp
+Name: AltList
+
 Package: com.opa334.crane
 Version: 1.3.16-4
 Architecture: iphoneos-arm64
@@ -18775,23 +18927,384 @@ Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.
 Name: 通知分组展开
 
 Package: com.udevs.dockx
+Version: 2.4.6-3
+Architecture: iphoneos-arm64
+Maintainer: udevs
+Installed-Size: 1596
+Depends: mobilesubstrate, preferenceloader, firmware(>=15.0)
+Conflicts: com.restiveconch.actionbar
+Filename: ./debs/com.udevs.dockx_2.4.6-3_iphoneos-arm64.deb
+Size: 293574
+MD5sum: f2f03397af610723c6f43f166af96ad8
+SHA1: 1e4e016db5d7240077dd12e41b248ed4bd321395
+SHA256: 8ffd169c4632fd361dc5ac3c14c4a2ea3fadfd9b4361b56059cb54c0b18b0c18
+Section: Tweaks
+Description: Pasteboard shortcuts on your keyboard dock!
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+Name: DockX
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
+
+Package: com.udevs.dockx
+Version: 2.4.6-3
+Architecture: iphoneos-arm64e
+Maintainer: udevs
+Installed-Size: 1596
+Depends: mobilesubstrate, preferenceloader, firmware(>=15.0)
+Conflicts: com.restiveconch.actionbar
+Filename: ./debs/com.udevs.dockx_2.4.6-3_iphoneos-arm64e.deb
+Size: 293718
+MD5sum: 6bbebbc92d96752172f1c2230cf24f4c
+SHA1: c17201a5da0748014e025f0384e6bf6cc985b5b4
+SHA256: a882616e1b2cbbd194efd85de0e51be530c95b22a1d904d93798f865deb66a98
+Section: Tweaks
+Description: Pasteboard shortcuts on your keyboard dock!
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+Name: DockX
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
+
+Package: com.udevs.dockx
+Version: 2.4.7-2
+Architecture: iphoneos-arm64e
+Maintainer: udevs
+Installed-Size: 1596
+Depends: mobilesubstrate, preferenceloader, firmware(>=15.0)
+Conflicts: com.restiveconch.actionbar
+Filename: ./debs/com.udevs.dockx_2.4.7-2_iphoneos-arm64e.deb
+Size: 295332
+MD5sum: 8a254d4ecaa5777cf774103c55d0ff60
+SHA1: feb6e0ea71f91f5341a6158fc35f032500c526b8
+SHA256: ec714c00e67a0dd28fbc94aae245cff5f3943134a3d0376a4296bd062df7b905
+Section: Tweaks
+Description: Pasteboard shortcuts on your keyboard dock!
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+Name: DockX
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
+
+Package: com.udevs.dockx
+Version: 2.4.7-2
+Architecture: iphoneos-arm64
+Maintainer: udevs
+Installed-Size: 1580
+Depends: mobilesubstrate, preferenceloader, firmware(>=15.0)
+Conflicts: com.restiveconch.actionbar
+Filename: ./debs/com.udevs.dockx_2.4.7-2_iphoneos-arm64.deb
+Size: 292988
+MD5sum: 8a8e71a8d49c7d84657e4182891fba58
+SHA1: 4bc8027173a67e37933d463f484ab1a5b33d098c
+SHA256: bda63c9cf092d60cefa68acf24670df5a4ab3729a71ca38a4f5e9cafc506f60f
+Section: Tweaks
+Description: Pasteboard shortcuts on your keyboard dock!
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+Name: DockX
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
+
+Package: com.udevs.dockx
+Version: 2.5.0
+Architecture: iphoneos-arm64e
+Maintainer: udevs
+Installed-Size: 1604
+Depends: mobilesubstrate, preferenceloader, firmware(>=15.0)
+Conflicts: com.restiveconch.actionbar
+Filename: ./debs/com.udevs.dockx_2.5.0_iphoneos-arm64e.deb
+Size: 295228
+MD5sum: d2ce144532aa206b87956ceb43ecb283
+SHA1: aee54e03dce2817b9ea0f0b89d6de19c64800153
+SHA256: 142d1ecbe6e316ced5389dfd9da7286169cd3f477bde7848aa2d31c1f55e892a
+Section: Tweaks
+Description: Pasteboard shortcuts on your keyboard dock!
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+Name: DockX
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
+
+Package: com.udevs.dockx
+Version: 2.5.0
+Architecture: iphoneos-arm64
+Maintainer: udevs
+Installed-Size: 1604
+Depends: mobilesubstrate, preferenceloader, firmware(>=15.0)
+Conflicts: com.restiveconch.actionbar
+Filename: ./debs/com.udevs.dockx_2.5.0_iphoneos-arm64.deb
+Size: 297920
+MD5sum: f9ce5ed605b7481ab5e854195675916c
+SHA1: 73b83a1f22b31677c4b6b5091377081a9a4ed659
+SHA256: 5bf757ad584848b0b9687f890a5645b4c792a733144dbc4fb23ba2ff7912df5e
+Section: Tweaks
+Description: Pasteboard shortcuts on your keyboard dock!
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+Name: DockX
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
+
+Package: com.udevs.dockx
+Version: 2.5.4
+Architecture: iphoneos-arm64
+Maintainer: udevs
+Installed-Size: 1628
+Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
+Conflicts: com.restiveconch.actionbar
+Filename: ./debs/com.udevs.dockx_2.5.4_iphoneos-arm64.deb
+Size: 299326
+MD5sum: ef105c710a007265c52784c5fbaa2da2
+SHA1: 61db04df89e128b460ef286390d15cf666007ad9
+SHA256: 8d909c669fb7bb73b4be231fc59d4e5b98287f2d829cdd281e287321560bbcc3
+Section: Tweaks
+Description: Pasteboard shortcuts on your keyboard dock!
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+Name: DockX
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
+
+Package: com.udevs.dockx
+Version: 2.5.4
+Architecture: iphoneos-arm64e
+Maintainer: udevs
+Installed-Size: 1644
+Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
+Conflicts: com.restiveconch.actionbar
+Filename: ./debs/com.udevs.dockx_2.5.4_iphoneos-arm64e.deb
+Size: 303104
+MD5sum: 80cbeb23249d9e853554222c077ddb53
+SHA1: 11ee544815f6f0d81184b9cbe8144cb54a7bf0f8
+SHA256: 6ccdc812209ce8fedd85e31c67f3cf8e3a5141540e8a9b0527ac96c48377b3c4
+Section: Tweaks
+Description: Pasteboard shortcuts on your keyboard dock!
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+Name: DockX
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
+
+Package: com.udevs.dockx
+Version: 2.5.4
+Architecture: iphoneos-arm
+Maintainer: udevs
+Installed-Size: 1632
+Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
+Conflicts: com.restiveconch.actionbar
+Filename: ./debs/com.udevs.dockx_2.5.4_iphoneos-arm.deb
+Size: 301682
+MD5sum: 0a77c1118ea0fd51a5a42b37171c2631
+SHA1: 213922d417fcaf4568ef07c2d01da6efbca12321
+SHA256: 11641554cdd29e3baf1cfc94da070ce7d09405a80e8a4f48f4b47fe4abbdf06f
+Section: Tweaks
+Description: Pasteboard shortcuts on your keyboard dock!
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+Name: DockX
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
+
+Package: com.udevs.dockx
+Version: 2.5.5-1
+Architecture: iphoneos-arm
+Maintainer: udevs
+Installed-Size: 1632
+Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
+Conflicts: com.restiveconch.actionbar
+Filename: ./debs/com.udevs.dockx_2.5.5-1_iphoneos-arm.deb
+Size: 301246
+MD5sum: 9c73063d641c885d64c982dee5eb477e
+SHA1: d148566207fd117c639af666b0433d8a07476f34
+SHA256: a2860a39e04526dcfa3554e97a59145d8b5c0fcd5aabd46d04435f34245202fc
+Section: Tweaks
+Description: Pasteboard shortcuts on your keyboard dock!
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+Name: DockX
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
+
+Package: com.udevs.dockx
+Version: 2.5.5-1
+Architecture: iphoneos-arm64
+Maintainer: udevs
+Installed-Size: 1628
+Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
+Conflicts: com.restiveconch.actionbar
+Filename: ./debs/com.udevs.dockx_2.5.5-1_iphoneos-arm64.deb
+Size: 299660
+MD5sum: dcefbbc7237495b5d1d24ff407dc3c2a
+SHA1: 186781fa927f5343252760d55cbecf30f55aa85e
+SHA256: 182358131c3314f5b8884ad1f59051c381861cf593ea62fbbc9f58830a738881
+Section: Tweaks
+Description: Pasteboard shortcuts on your keyboard dock!
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+Name: DockX
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
+
+Package: com.udevs.dockx
+Version: 2.5.5-1
+Architecture: iphoneos-arm64e
+Maintainer: udevs
+Installed-Size: 1644
+Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
+Conflicts: com.restiveconch.actionbar
+Filename: ./debs/com.udevs.dockx_2.5.5-1_iphoneos-arm64e.deb
+Size: 304010
+MD5sum: 9997de121dbe0e876cbeb6fdeee4d89e
+SHA1: a3fd3fc79e5040ea189b4ffd15b4fb27ca948b17
+SHA256: 5dcf2482915bf91463b0228ef9712673cb935eddc6ec603beacadf38babe8b8c
+Section: Tweaks
+Description: Pasteboard shortcuts on your keyboard dock!
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+Name: DockX
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
+
+Package: com.udevs.dockx
+Version: 2.6.0
+Architecture: iphoneos-arm
+Maintainer: udevs
+Installed-Size: 1648
+Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
+Conflicts: com.restiveconch.actionbar
+Filename: ./debs/com.udevs.dockx_2.6.0_iphoneos-arm.deb
+Size: 307172
+MD5sum: 342e95d7943b3124da07c346f49dde63
+SHA1: 6661c7f1fc3dbdac8fe23dfc3cc904d943f6b8bc
+SHA256: a988c5f6aa216d4554f1067a150477012bc2d26cbe510dafd81da0f46a42ce39
+Section: Tweaks
+Description: Pasteboard shortcuts on your keyboard dock!
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+Name: DockX
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
+
+Package: com.udevs.dockx
+Version: 2.6.0
+Architecture: iphoneos-arm64
+Maintainer: udevs
+Installed-Size: 1648
+Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
+Conflicts: com.restiveconch.actionbar
+Filename: ./debs/com.udevs.dockx_2.6.0_iphoneos-arm64.deb
+Size: 306520
+MD5sum: 67065436522ada0af35bda9cf517473c
+SHA1: adbc9cf78bd36a2055b03ddcae0f322db4011601
+SHA256: b6cdb79568eaa24d75dc99ed5b126909bde0745c7745af7cb6876255a2701edf
+Section: Tweaks
+Description: Pasteboard shortcuts on your keyboard dock!
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+Name: DockX
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
+
+Package: com.udevs.dockx
+Version: 2.6.0
+Architecture: iphoneos-arm64e
+Maintainer: udevs
+Installed-Size: 1664
+Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
+Conflicts: com.restiveconch.actionbar
+Filename: ./debs/com.udevs.dockx_2.6.0_iphoneos-arm64e.deb
+Size: 303932
+MD5sum: 5a7ae3134f679464c0d87dbd14036d56
+SHA1: 9796bfc5de1d9f4642bfe0c817ac93b41b50508c
+SHA256: 6245da60b62a9be8084593904d6357beb47d41ace7a2b4fdd3b8993106d01c8f
+Section: Tweaks
+Description: Pasteboard shortcuts on your keyboard dock!
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+Name: DockX
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
+
+Package: com.udevs.dockx
+Version: 2.6.1
+Architecture: iphoneos-arm64
+Maintainer: udevs
+Installed-Size: 2036
+Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
+Conflicts: com.restiveconch.actionbar
+Filename: ./debs/com.udevs.dockx_2.6.1_iphoneos-arm64.deb
+Size: 420890
+MD5sum: 0f51c21b07b078d17a16d28a5562994c
+SHA1: bc87a9ef8278f2a7c43c60fabde35a1c98ec37df
+SHA256: 2c0e17bf81bb7c95240045d6d5fb6bcfd67db6ed46ebb0cbee8892dc09206aaf
+Section: Tweaks
+Description: Pasteboard shortcuts on your keyboard dock!
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+Name: DockX
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
+
+Package: com.udevs.dockx
+Version: 2.6.1
+Architecture: iphoneos-arm64e
+Maintainer: udevs
+Installed-Size: 2036
+Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
+Conflicts: com.restiveconch.actionbar
+Filename: ./debs/com.udevs.dockx_2.6.1_iphoneos-arm64e.deb
+Size: 414646
+MD5sum: c3f5171a432da953ed5e77b2a28a6a17
+SHA1: 3cb3e53d7cc4679d8e855c8ccb931bad86323641
+SHA256: 118ee2e4d49c5d48565e9356f9b8e6a9c6ccb5f93fa0146ecdb536a6958ecc4e
+Section: Tweaks
+Description: Pasteboard shortcuts on your keyboard dock!
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+Name: DockX
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
+
+Package: com.udevs.dockx
+Version: 2.6.1
+Architecture: iphoneos-arm
+Maintainer: udevs
+Installed-Size: 2068
+Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
+Conflicts: com.restiveconch.actionbar
+Filename: ./debs/com.udevs.dockx_2.6.1_iphoneos-arm.deb
+Size: 424080
+MD5sum: 6bbfa60f4cd55ae2839a465c48872a09
+SHA1: 4d5fe88ecba031000d8000d8c43ce75ca0697463
+SHA256: e3fd56bb50aefe2d1ebab044c836b37dba02b63df71dd064a29b702c31cc2a2b
+Section: Tweaks
+Description: Pasteboard shortcuts on your keyboard dock!
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+Name: DockX
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
+
+Package: com.udevs.dockx
+Version: 2.6.2
+Architecture: iphoneos-arm
+Maintainer: udevs
+Installed-Size: 2100
+Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
+Conflicts: com.restiveconch.actionbar
+Filename: ./debs/com.udevs.dockx_2.6.2_iphoneos-arm.deb
+Size: 422914
+MD5sum: 2699494e8fbd97a8bf3d04ff8af013f4
+SHA1: e20d4db5e68fb468ec5b3d29a0a56caf0947214a
+SHA256: b393acd06ccfafc031c6323c6efeca047943e7fa6e4d958871fe88f9728dd48a
+Section: Tweaks
+Description: Pasteboard shortcuts on your keyboard dock!
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+Name: DockX
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
+
+Package: com.udevs.dockx
 Version: 2.6.2
 Architecture: iphoneos-arm64e
 Maintainer: udevs
-Installed-Size: 2068
-Pre-Depends: rootless-compat(>= 0.9)
+Installed-Size: 2036
 Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
 Conflicts: com.restiveconch.actionbar
 Filename: ./debs/com.udevs.dockx_2.6.2_iphoneos-arm64e.deb
-Size: 598564
-MD5sum: 97d9b61dcdd792f64a9d73589d404be4
-SHA1: 9cc8906b81607c0f4a2cca191c654bf83cde1a6d
-SHA256: 3fd5d29dccfdf339088d22b226171a338e9f3709dd609941d54a699268701755
-Section: 插件
-Description: 键盘底部增加：全选，复制，粘贴等按钮，支持iOS15-16无根隐根，仅备份。
+Size: 415820
+MD5sum: 0e3d9fc803df4ba22950b4b132ac1057
+SHA1: 81599710c26c51d79148c054c262f85253c2f96a
+SHA256: 17bbec40c6e8d06627c3d5cb1f2f875f31f80ef5a9e92d306dcd145d64d57f39
+Section: Tweaks
+Description: Pasteboard shortcuts on your keyboard dock!
 Author: udevs
-Icon: https://s1.imagehub.cc/images/2025/02/16/70da186c338dbef6e9af2fd730a997d4.png
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
 Name: DockX
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
 
 Package: com.udevs.dockx
 Version: 2.6.2
@@ -18801,15 +19314,16 @@ Installed-Size: 2068
 Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
 Conflicts: com.restiveconch.actionbar
 Filename: ./debs/com.udevs.dockx_2.6.2_iphoneos-arm64.deb
-Size: 421208
-MD5sum: c3afae82c4269120687b6d588063e0e0
-SHA1: 6d1f01f1b1419ee905417813dc6ab536a0966cfe
-SHA256: 68f80f05af8fd47db1ca6d43ac0c26839b34a554028b6161c08b076820ff1b88
-Section: 插件
-Description: 键盘底部增加：全选，复制，粘贴等按钮，支持iOS15-16无根隐根，仅备份。
+Size: 421324
+MD5sum: 8171e4c2e0c183339702549d8d922736
+SHA1: c13175b8cc7cab09bf930986b5fdee6eea999d02
+SHA256: a8030df0d19128ee6e010396327f5dcabe0d31885615fab9234580398f46b826
+Section: Tweaks
+Description: Pasteboard shortcuts on your keyboard dock!
 Author: udevs
-Icon: https://s1.imagehub.cc/images/2025/02/16/70da186c338dbef6e9af2fd730a997d4.png
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
 Name: DockX
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
 
 Package: com.udevs.vpnindicator
 Version: 1.2.0
