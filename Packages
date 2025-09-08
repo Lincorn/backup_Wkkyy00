@@ -3490,6 +3490,22 @@ Author: HuangBai <QQ:1343309363@qq.com>
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: 黄白助手
 
+Package: com.HBWechatHelper.ailun
+Version: 1.9.3
+Architecture: iphoneos-arm64
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.HBWechatHelper.ailun_1.9.3_iphoneos-arm64.deb
+Size: 12233124
+MD5sum: 063a658630ac62d25a35bf01642bd852
+SHA1: 94faaf968f210bb34eed11df985a0e8cb680511d
+SHA256: 8473121a45041f4376e22f22cd128226b834fbdf1c6e6ec607e309b7b8263961
+Section: 微信插件
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 黄白助手
+
 Package: com.Purifyads
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -7974,6 +7990,22 @@ Author: Netskao <qiaozhani000@163.com>
 Icon: https://axs66.github.io/repo/icon/ClassicKeyboard.png
 Name: ClassicKeyboardXS
 
+Package: com.classickeyboardxs
+Version: 1.1-9
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.classickeyboardxs_1.1-9_iphoneos-arm64.deb
+Size: 275908
+MD5sum: c07187c5a3ea335cb0e070eab3f612c9
+SHA1: 08f2da2ef0698a002101b7b96e69123dbff627fa
+SHA256: df5f16eb9cc43b6657d32084a04fcfe8de312d751869d547dfa328213b691942
+Section: 插件
+Description: 自定义键盘高度。
+Author: Netskao <qiaozhani000@163.com>
+Icon: https://axs66.github.io/repo/icon/ClassicKeyboard.png
+Name: ClassicKeyboardXS
+
 Package: com.cozybadges
 Version: 2.1
 Architecture: iphoneos-arm64
@@ -9550,6 +9582,22 @@ Size: 585086
 MD5sum: 86209f1c69bf7487605dd721baf1a8b1
 SHA1: cfbfcd36a03426485fba42fea747adcb9ffb9159
 SHA256: bd156698e718e559f5653e02f4f7b571813d1622a8b478306c6aa96319eb253b
+Section: Tweaks
+Description: App 隐私保护
+Author: aReo
+Name: AppProtect(Rootless)
+
+Package: com.flex2areo.appprotectrootless
+Version: 2.1.4
+Architecture: iphoneos-arm64
+Maintainer: aReo
+Installed-Size: 2292
+Depends: mobilesubstrate,preferenceloader
+Filename: ./debs/com.flex2areo.appprotectrootless_2.1.4_iphoneos-arm64.deb
+Size: 593300
+MD5sum: 1c5ae8c2ed94b44e80cf4a3a087eab40
+SHA1: 577b539a63f74e55b832199ad276d05c474d059e
+SHA256: 905d0f09e616b960016c621b53572aefcc2b3a91a0dbd4eb658457f361535b8d
 Section: Tweaks
 Description: App 隐私保护
 Author: aReo
@@ -14425,6 +14473,23 @@ Description: 全权限砸壳神器。上架备份。
 Author: Netskao
 Icon: https://s1.imagehub.cc/images/2025/01/21/4a33ca43d96d8af81a6a2a5c7aa18993.png
 Name: DumpDecrypter
+
+Package: com.netskao.injectipa
+Version: 1.4-9
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 852
+Depends: firmware (>= 14.0)
+Filename: ./debs/com.netskao.injectipa_1.4-9_iphoneos-arm64.deb
+Size: 269952
+MD5sum: 867d09474d6b12f296cb60c5f8d97671
+SHA1: ad6179e48a9410d1349534ef9c8c4ab05c317e6f
+SHA256: 5dd44471ceb2f246cfb03ce7d60f69d954f949410945d06ed3f5b889f3293b90
+Section: 插件
+Description: InjectIPA Tool
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: injectipa
 
 Package: com.netskao.storeswitchaccounts
 Version: 1.1-4
