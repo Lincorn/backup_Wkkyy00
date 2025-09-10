@@ -1671,6 +1671,39 @@ Author: 0xkuj
 Icon: https://s1.imagehub.cc/images/2025/01/01/0b8d820e9bbcacd9a6035ad65d7f9e3f.png
 Name: SafariX
 
+Package: com.0xkuj.safarix
+Version: 1.9.9.1
+Architecture: iphoneos-arm64e
+Maintainer: 0xkuj
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.0xkuj.safarix_1.9.9.1_iphoneos-arm64e.deb
+Size: 371644
+MD5sum: f0e4a5a5ae4516566a467ce3c7d04685
+SHA1: b16a76d1925b162341929aa676a76842804be7f9
+SHA256: c9506a411870d8e036003ed17d12ef8e42fbae6322785bf9bb2b3e89df9abb44
+Section: 插件
+Description: Safari浏览器增强。
+Author: 0xkuj
+Icon: https://sini921.github.io/repo/sileodepiction/icon/safarix.png
+Name: SafariX
+
+Package: com.0xkuj.safarix
+Version: 1.9.9.1
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.0xkuj.safarix_1.9.9.1_iphoneos-arm64.deb
+Size: 322132
+MD5sum: 40199d63165e3f360f48edfb24d81dea
+SHA1: e2e1bcac108e5d312162da3592914d4507a9208d
+SHA256: aabb14253d58ad555c5300761d118aec20df48bc6dca7856f787ab9f9d7620e2
+Section: 插件
+Description: Safari浏览器增强。
+Author: 0xkuj
+Icon: https://sini921.github.io/repo/sileodepiction/icon/safarix.png
+Name: SafariX
+
 Package: com.25mao.doutu.rootless
 Version: 3.1-6
 Architecture: iphoneos-arm64
@@ -9544,6 +9577,55 @@ Description: Your Banners, Reimagined!
 Author: EllaSP
 Name: Floaty
 
+Package: com.ellasp.floaty
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: EllaSP
+Installed-Size: 512
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: ./debs/com.ellasp.floaty_1.2_iphoneos-arm64e.deb
+Size: 78188
+MD5sum: 665645dcb4092465c86f3883f29ef815
+SHA1: 561c7b131de1a60ed907b8b64d9c050f01a9734a
+SHA256: b1c4214ad431c26756d6b5174420185aad9638931b66fc688e1c80a450fea1ba
+Section: Tweaks
+Description: Your Banners, Reimagined!
+Author: EllaSP
+Name: Floaty
+
+Package: com.ellasp.floaty
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: EllaSP
+Installed-Size: 512
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: ./debs/com.ellasp.floaty_1.2_iphoneos-arm64.deb
+Size: 59008
+MD5sum: dde740bd46e34397594339c3c5feaf39
+SHA1: c61f4946cd6294c0c0bb6c58229b9dd0b43f8cda
+SHA256: 4051e83607143d3a9207c735d5d57ab4629816cfec05da3c90c1e4c400c9e09d
+Section: Tweaks
+Description: Your Banners, Reimagined!
+Author: EllaSP
+Name: Floaty
+
+Package: com.ellasp.looky
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: EllaSP
+Installed-Size: 460
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: ./debs/com.ellasp.looky_1.2_iphoneos-arm64.deb
+Size: 55532
+MD5sum: a929eac8fafe6cb5814015a5935db67a
+SHA1: 7f315fe8537a21c5e5f422cfa016d74aecd4a74b
+SHA256: 73b0969a755dd86d5bff796db81c7bb35a9705399a5c52eb6c56abc6b80f78b2
+Section: Tweaks
+Description: Effortless Elegant lock screen notification experience!
+Author: EllaSP
+Name: Looky
+
 Package: com.ethanrdoesmc.dawn
 Version: 1.1
 Architecture: iphoneos-arm64e
@@ -12215,6 +12297,57 @@ Description: 微信消息直达。
 Author: huami
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WCPush2Chat
+
+Package: com.huami.WCSafeMode
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.WCSafeMode_1.0-1_iphoneos-arm64.deb
+Size: 3952
+MD5sum: b6c5b5bec5a311f6505f01f9b88ac97f
+SHA1: d8bc3bf139e96b0216e73d3b8f850f0263bb3a2b
+SHA256: c99fc9c25d4c24e4390049ae111c56a91f6ed22053d52c051d605b2280492fbd
+Section: 微信插件
+Description: 长按「我」页面头像1秒手动触发微信安全模式（资源清理）
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCSafeMode
+
+Package: com.huami.WCSafeMode
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.WCSafeMode_1.0-1_iphoneos-arm64e.deb
+Size: 3884
+MD5sum: 217c8af93180bcbe9f355dcdcc9569b3
+SHA1: f625085ea1f5ef4eb32b71f4f54c3cd356bd2a48
+SHA256: cbcda0bb98f552cc63df97a9da55aa86679878d187e890a760c66600025f1b48
+Section: 微信插件
+Description: 长按「我」页面头像1秒手动触发微信安全模式（资源清理）
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCSafeMode
+
+Package: com.huami.WCSafeMode
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: huami
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.WCSafeMode_1.0-1_iphoneos-arm.deb
+Size: 3868
+MD5sum: 84e05c8b8b657c35ad833e09087c4c2f
+SHA1: da14961ac689abe98ff0e538bd254d0d8bd763b2
+SHA256: 71771fce91b70c271fe763a0c26382980004875fddd763d4ae5d22951a424d4b
+Section: 微信插件
+Description: 长按「我」页面头像1秒手动触发微信安全模式（资源清理）
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCSafeMode
 
 Package: com.huami.dyyy
 Version: 1.9
@@ -25147,6 +25280,41 @@ Section: Tweaks
 Description: Stage Manager Reimagined for iPhone
 Author: tomt000
 Name: Dynamic Stage
+
+Package: me.zsaaiq.springhooker
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: zSaaiq
+Installed-Size: 428
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: ./debs/me.zsaaiq.springhooker_1.1_iphoneos-arm64e.deb
+Size: 58244
+MD5sum: d7ac3d8513e16fbc1878a5ba06da5f25
+SHA1: 436637de260c308e56c9f92951c1f5dc03b4690c
+SHA256: f63026c111903b7dcc1c9d0e2bfc6300a19726325f269b43661697753369146d
+Section: Tweaks
+Description: 比较小众的插件，具体功能下载自己玩吧，已汉化。
+Author: zSaaiq
+Icon: https://zsaaiq.github.io/jailbreakrepo/images/iconFullSize.png
+Name: SpringHooker
+
+Package: me.zsaaiq.springhooker
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: zSaaiq
+Installed-Size: 428
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: ./debs/me.zsaaiq.springhooker_1.1_iphoneos-arm64.deb
+Size: 50920
+MD5sum: 5bbddd3bf0380c5c26ce546a204829cc
+SHA1: 9d232665fbd0cd0975d2d01a0ac8f983ffca360f
+SHA256: 3ce2fe731ae4af19b4b111a7a5d1550f26f2951d7cca0c0d2f87c46f8f674b82
+Section: Tweaks
+Description: 比较小众的插件，具体功能下载自己玩吧，已汉化。
+Author: zSaaiq
+Icon: https://zsaaiq.github.io/jailbreakrepo/images/iconFullSize.png
+Name: SpringHooker
 
 Package: net.disableshuttersound
 Version: 1.1-2
