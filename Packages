@@ -15864,6 +15864,40 @@ Author: 平凡
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: 虚拟视频
 
+Package: com.pixelomer.shijima-ios
+Version: 1.3.2-drmfree
+Architecture: iphoneos-arm64
+Maintainer: pixelomer
+Installed-Size: 4692
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Recommends: libarchive13 (>= 3.7.2), com.opa334.altlist (>= 1.0.10)
+Filename: ./debs/com.pixelomer.shijima-ios_1.3.2-drmfree_iphoneos-arm64.deb
+Size: 955836
+MD5sum: 86bd648d20678d3c34bbd22bf5b9fd55
+SHA1: af0d116f1cca3c16838e55b5135739140945c30e
+SHA256: 4855f1f9b5b1e11b7a03567b0dfcce5bef6252270bbe9369f496756fd011f88b
+Section: Tweaks
+Description: A shimeji simulator for iOS
+Author: pixelomer
+Name: Shijima for iOS
+
+Package: com.pixelomer.shijima-ios
+Version: 1.3.2-drmfree
+Architecture: iphoneos-arm
+Maintainer: pixelomer
+Installed-Size: 4708
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Recommends: libarchive13 (>= 3.7.2), com.opa334.altlist (>= 1.0.10)
+Filename: ./debs/com.pixelomer.shijima-ios_1.3.2-drmfree_iphoneos-arm.deb
+Size: 953866
+MD5sum: 13cbb79fbd5a415691715078292f997a
+SHA1: fec0908556e15387af93979191ca36c35fcb4fb6
+SHA256: e79d5641ce7f735b4e8226ec08e11e09671364156db6f691a4db518ba0998c76
+Section: Tweaks
+Description: A shimeji simulator for iOS
+Author: pixelomer
+Name: Shijima for iOS
+
 Package: com.powersettings
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -23490,6 +23524,41 @@ SHA1: 96d21526ed9cb7ff78e80c89b7334d2981202f56
 SHA256: 24ce6542dba131fdfd78f7deda8cff2bf772dd31d6bcd14c0015ce587db33a5e
 Section: 去广告
 Description: 去开屏广告，测试版本：7.19.20
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/10/a5283dbf3147309ebb76288c6e395ab4.png
+Name: 闲鱼NoAds
+
+Package: com.wkk.xianyuhook
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.xianyuhook_1.1_iphoneos-arm64e.deb
+Size: 6486
+MD5sum: 7aebb35c594a56ed12dc36a1ef07e907
+SHA1: 837a9f90197b929578a2820cf46f9f6c68557bba
+SHA256: f60c4c8e7d3e7b058bba7d2ad3dc881b0eb1a279a06a41ff9e681fdc24836f54
+Section: 去广告
+Description: 去开屏广告，测试版本：7.22.80
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/10/a5283dbf3147309ebb76288c6e395ab4.png
+Name: 闲鱼NoAds
+
+Package: com.wkk.xianyuhook
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.xianyuhook_1.1_iphoneos-arm64.deb
+Size: 4752
+MD5sum: 1a01c89914e3d2b8f133618481dae328
+SHA1: f83d91a662d755332d5f35aa992925c0d1181b87
+SHA256: f351d77effabf361ea03adadee85b6b801612c4fa7ec57b37c66447fc9abd2bc
+Section: 去广告
+Description: 去开屏广告，测试版本：7.22.80
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/10/a5283dbf3147309ebb76288c6e395ab4.png
 Name: 闲鱼NoAds
