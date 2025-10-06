@@ -6445,6 +6445,43 @@ Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.
 Name: floatingView
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
 
+Package: com.be-huge.floating-view
+Version: 1.5.6-9
+Architecture: iphoneos-arm64e
+Maintainer: be-huge
+Installed-Size: 2692
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.be-huge.floating-view_1.5.6-9_iphoneos-arm64e.deb
+Size: 1703926
+MD5sum: 295f4e671591eca47a6f7ac5b6a34327
+SHA1: d7ac934d89c7e3f3b08f0d5d02f201e50a68d447
+SHA256: c233d2ef4e6447f6127dcf2b0e72de68f7da88043823b1e45bc3b953b02305c8
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+Name: floatingView
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Version: 1.5.6-9
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 2692
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.be-huge.floating-view_1.5.6-9_iphoneos-arm64.deb
+Size: 637456
+MD5sum: 39f4b907c6f6038079c216c22c119964
+SHA1: 6cc5ace6fca2b9138c2f3bc28f92787437e34799
+SHA256: f11bd4a26e4f4eaca94a25bc3545c6723991570814dc8843cd672bd5f792e3de
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+Name: floatingView
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
 Package: com.be-huge.tie-gesture
 Version: 1.0.0
 Architecture: iphoneos-arm64e
@@ -18588,6 +18625,43 @@ Author: Korboy <korboybeats@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: TransparentPIPGrabber
 
+Package: com.twistnturn
+Version: 1.3
+Architecture: iphoneos-arm64e
+Maintainer: Maxim Shnirman
+Installed-Size: 1016
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist
+Filename: ./debs/com.twistnturn_1.3_iphoneos-arm64e.deb
+Size: 537252
+MD5sum: fdfa67c21d9895648a724112de32bdd3
+SHA1: 6dc7531a0f5b6b9f90e9469bc6379943cea312c8
+SHA256: 6614817d4599f03acf52e8d0fc88721d96365915bd28c0e5ab63183afb61fd8b
+Section: 插件
+Description: 智能旋转。
+Author: Maxim Shnirman
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: TwistNTurn
+Sponsor: Maxim Shnirman
+
+Package: com.twistnturn
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: Maxim Shnirman
+Installed-Size: 1016
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist
+Filename: ./debs/com.twistnturn_1.3_iphoneos-arm64.deb
+Size: 512888
+MD5sum: 70ac7c48aa1315dcdc873f217a2b5871
+SHA1: fcd259a1bb515e83753be031f03ef4fcfddc4975
+SHA256: eb5281384b910f3d26cc99334ff606df2941d5a8ad91abbfdb2ad5015399cf29
+Section: 插件
+Description: 智能旋转。
+Author: Maxim Shnirman
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: TwistNTurn
+Sponsor: Maxim Shnirman
+
 Package: com.tzfzdd
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -19861,6 +19935,41 @@ Size: 1662912
 MD5sum: ca57df2518837231fe71ad9ecb6e1e02
 SHA1: b27845e5c45c9c54ad5848aa0a0ee657a36f0592
 SHA256: 36084d6fbc601fd96c3618423e1055a0f992022324d403d6513914d289601c1c
+Section: 微信插件
+Description: 微信插件，支持聊天按钮布局自定义等。
+Author: 愫 茶
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatEnhance
+
+Package: com.wechat.enhance
+Version: 1.6-3
+Architecture: iphoneos-arm64
+Maintainer: 愫 茶
+Installed-Size: 2060
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wechat.enhance_1.6-3_iphoneos-arm64.deb
+Size: 308704
+MD5sum: 200b2fa4231fb327d53ccca0a0a4c8f2
+SHA1: 4d10022813b6af3e2e7153f7527410c17d3c0a42
+SHA256: ea21f4cf88cc1aea29ee5f7c369291f623979a2fdd7dfc6818bf54579ba3770c
+Section: 微信插件
+Description: 微信插件，支持聊天按钮布局自定义等。
+Author: 愫 茶
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatEnhance
+
+Package: com.wechat.enhance
+Version: 1.6-3
+Architecture: iphoneos-arm64e
+Maintainer: 愫 茶
+Installed-Size: 2060
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wechat.enhance_1.6-3_iphoneos-arm64e.deb
+Size: 436118
+MD5sum: f02590fd61dab6ee88f7131255f82ca8
+SHA1: 7b8ec17d968151636711fa2170eac0795fc15baf
+SHA256: 6468a91279f2ddafef982a02a015650550edc7aa44f106f82f57389c87456ae7
 Section: 微信插件
 Description: 微信插件，支持聊天按钮布局自定义等。
 Author: 愫 茶
