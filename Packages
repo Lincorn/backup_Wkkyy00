@@ -19976,6 +19976,41 @@ Author: 愫 茶
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WeChatEnhance
 
+Package: com.wechat.enhance
+Version: 1.6-4
+Architecture: iphoneos-arm64
+Maintainer: 愫 茶
+Installed-Size: 2060
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wechat.enhance_1.6-4_iphoneos-arm64.deb
+Size: 308620
+MD5sum: 93a04468474d3774c7726404c3b4884a
+SHA1: f56eb7c742ce499e4c8c33ac4fc47d8ef2e93fee
+SHA256: e4c9f655d513ebcf1a171d022f9f06cfd5276a81a20e3ca21ad473a7c58abd95
+Section: 微信插件
+Description: 微信插件，支持聊天按钮布局自定义等。
+Author: 愫 茶
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatEnhance
+
+Package: com.wechat.enhance
+Version: 1.6-4
+Architecture: iphoneos-arm64e
+Maintainer: 愫 茶
+Installed-Size: 2060
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wechat.enhance_1.6-4_iphoneos-arm64e.deb
+Size: 435700
+MD5sum: b8cab8b01a2c4915fbb87b631d277e57
+SHA1: 0abf8c34e4b3493e5fe9125319194eb4afde8d06
+SHA256: 8115ab7b483c770955efe2b80b9236be35497990347566f1cd4a0595875ba874
+Section: 微信插件
+Description: 微信插件，支持聊天按钮布局自定义等。
+Author: 愫 茶
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatEnhance
+
 Package: com.wechat.xuanzhuan
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -21753,6 +21788,111 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/10/04/217340c30ed0dfd05970462e023a6221.png
 Name: 酷狗音乐Streamline
 
+Package: com.wkk.kugouhook
+Version: 1.4-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.kugouhook_1.4-1_iphoneos-arm64e.deb
+Size: 8432
+MD5sum: b1adc822c8f72ec5f15a2a5b0e9b06b1
+SHA1: ba873e0fa761b20d75ba965ce5f7bea475f25ca6
+SHA256: d43b5fb43ca8c4bc3960578264a74215d88db9c7e58b48a89b8189f48230392f
+Section: 去广告
+Description: 精简一些杂项。看起来更清爽。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/10/04/217340c30ed0dfd05970462e023a6221.png
+Name: 酷狗音乐Streamline
+
+Package: com.wkk.kugouhook
+Version: 1.4-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.kugouhook_1.4-1_iphoneos-arm64.deb
+Size: 6388
+MD5sum: baa0ab92a7d4d8bb9570988509d03d30
+SHA1: 3e8024370b69273eb9308ad88acc1ad14684d183
+SHA256: 764b6de279ab8fa8ac1e99919bb3b90fa6c204e629221b989fedc9d8ccd87d78
+Section: 去广告
+Description: 精简一些杂项。看起来更清爽。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/10/04/217340c30ed0dfd05970462e023a6221.png
+Name: 酷狗音乐Streamline
+
+Package: com.wkk.kugouhook
+Version: 1.4-2
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.kugouhook_1.4-2_iphoneos-arm64e.deb
+Size: 8914
+MD5sum: a609e88cdbf33fa196066cd2532eed42
+SHA1: 4ddf2a4011988c3f56035ac497753e5aefc732fc
+SHA256: c4d0032ca644aff08c842e66160a45bf12b81ad183ded3cacff0808ced913552
+Section: 去广告
+Description: 支持TrollFools注入，精简一些杂项，看起来更清爽。（弹窗类hook全部重写 不会再有卡住问题）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/10/04/217340c30ed0dfd05970462e023a6221.png
+Name: 酷狗音乐Streamline
+
+Package: com.wkk.kugouhook
+Version: 1.4-2
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.kugouhook_1.4-2_iphoneos-arm64.deb
+Size: 6676
+MD5sum: e94a03d056d26af2fa1d5983a53ca89d
+SHA1: 5daddbf0429d0d1136157cdd3b2cabe4f606de2f
+SHA256: 29171305c8667e11e8ad9e3562ae894c44f1d76628c6e4143edfe777c44663f6
+Section: 去广告
+Description: 支持TrollFools注入，精简一些杂项，看起来更清爽。（弹窗类hook全部重写 不会再有卡住问题）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/10/04/217340c30ed0dfd05970462e023a6221.png
+Name: 酷狗音乐Streamline
+
+Package: com.wkk.kugouhook
+Version: 1.4-3
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.kugouhook_1.4-3_iphoneos-arm64e.deb
+Size: 8820
+MD5sum: a6efe515bf024cafee25c7e0f70864b4
+SHA1: 2db78ff05e8338faa2a59ddd85d589a025aff7f2
+SHA256: 03ee76723a6e0db93c1cef973dab824a096e82aa66ca102e8c15abcaa991f1c8
+Section: 去广告
+Description: 支持TrollFools注入，精简一些杂项，看起来更清爽。（弹窗类hook全部重写 不会再有卡住问题）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/10/04/217340c30ed0dfd05970462e023a6221.png
+Name: 酷狗音乐Streamline
+
+Package: com.wkk.kugouhook
+Version: 1.4-3
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.kugouhook_1.4-3_iphoneos-arm64.deb
+Size: 6536
+MD5sum: 74d638bf4ce7813a085d5e8b86590ee8
+SHA1: c1ed30372e5afdf6d648e589eff9cac039c7b856
+SHA256: 93d285af2871ea5b32fe59c4ee20895a0024915f491c5f6cbf9ee51121bbe8fb
+Section: 去广告
+Description: 支持TrollFools注入，精简一些杂项，看起来更清爽。（弹窗类hook全部重写 不会再有卡住问题）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/10/04/217340c30ed0dfd05970462e023a6221.png
+Name: 酷狗音乐Streamline
+
 Package: com.wkk.lockmusic
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -23302,6 +23442,39 @@ Description: 修改「合并转发」聊天记录预览内容文本。
 Author: BypassWechatMSG
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: BypassWechatMSG
+
+Package: com.ylr.wifimasterkeyadkiller
+Version: 1.5.5
+Architecture: iphoneos-arm64
+Maintainer: ylr <ylr638058@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate,firmware (>= 14.0)
+Filename: ./debs/com.ylr.wifimasterkeyadkiller_1.5.5_iphoneos-arm64.deb
+Size: 11132
+MD5sum: 097847f96d5a4b2346ce9012e601aa14
+SHA1: f7453da4a4945a7a677c4e500c9a3eee376f32f8
+SHA256: 1dbe08a6a3ec920b540cf44f0851570aede25483e097d1ab5051cb7f5e6fb2f0
+Section: 去广告
+Description: 尝试hookwifi万能钥匙去开屏、首页、用户页以及列表页等烦人广告！
+Author: ylr <ylr638058@gmail.com>
+Name: WiFi Master Key AdKiiler
+
+Package: com.ylr.wifimasterkeyadkiller
+Version: 1.5.5
+Architecture: iphoneos-arm64e
+Maintainer: ylr <ylr638058@gmail.com>
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate,firmware (>= 14.0)
+Filename: ./debs/com.ylr.wifimasterkeyadkiller_1.5.5_iphoneos-arm64e.deb
+Size: 14552
+MD5sum: 373f8db742ca99eedcaf494c2a7b1914
+SHA1: 34a3aa0768cb0fa5d1eb61adb68516458a632d32
+SHA256: 4b46da92908fec2d1633ba8036537106928df533ae8652ae565a81f67b2bb8a5
+Section: 去广告
+Description: 尝试hookwifi万能钥匙去开屏、首页、用户页以及列表页等烦人广告！
+Author: ylr <ylr638058@gmail.com>
+Name: WiFi Master Key AdKiiler
 
 Package: com.yourepo.arm64-debs.settingswidgets
 Version: 1.2.2
