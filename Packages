@@ -13126,25 +13126,6 @@ Icon: https://s1.imagehub.cc/images/2025/01/09/06130549c430dd824cd811789f56a47b.
 Name: Applecard
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/Applecard.json
 
-Package: com.leftyfl1p.carbridge13
-Version: 2.0.15
-Architecture: iphoneos-arm64
-Maintainer: leftyfl1p
-Installed-Size: 7344
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, com.opa334.altlist (>= 1.0.10)
-Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
-Filename: ./debs/com.leftyfl1p.carbridge13_v2.0.15_iphoneos-arm64.deb
-Size: 434014
-MD5sum: 41d08859adf77ad7c97293b8202c38c3
-SHA1: 8713093819e84c9cb846b46cdcf9994d881d9e76
-SHA256: 4315b6d97ef2b07e47cc9d7e3b1b70a16692f42e30dd99122141bb3521ddb5a1
-Section: Tweaks
-Description: Open any app in CarPlay!
-Tag: cydia::commercial
-Author: leftyfl1p <carbridge@havoc.app>
-Depiction: https://havoc.app/package/carbridge
-Name: CarBridge
-
 Package: com.lenglengyu.afakerxi
 Version: 1.0.3
 Architecture: iphoneos-arm64
@@ -15592,45 +15573,6 @@ Author: c1d3r
 Icon: https://s1.imagehub.cc/images/2025/01/21/7dd8ed70cad1d12060d8f9319d5bdb14.png
 Name: PullOver Pro
 
-Package: com.qiop1379.swipeextenderx
-Version: 1.6.1~2
-Architecture: iphoneos-arm64
-Maintainer: MiRO <tweaks_support@miro92.com>
-Installed-Size: 614
-Depends: firmware (>=14.0), mobilesubstrate, org.thebigboss.libcolorpicker
-Filename: ./debs/com.qiop1379.swipeextenderx_1.6.1~2_iphoneos-arm64.deb
-Size: 86084
-MD5sum: d4992f8c6db6f8b1ce17c242d3be0d0e
-SHA1: 3beeec5c769e585675e0466e4898fd1eea711c00
-SHA256: 41e789dcae7e3195b1b6a21804aad35a7fcabc5e170acb24fade92ce1c002877
-Section: Tweaks
-Description: Reinvent your keyboard with this full remake of the legendary SwipeExpander tweak, designed to work on modern iOS!
-Tag: compatible_min::ios14.0
-Author: MiRO <tweaks_support@miro92.com>
-Depiction: https://chariz.com/get/swipeextenderx
-Icon: https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
-Name: SwipeExtenderX
-
-Package: com.qiop1379.swipeextenderx
-Version: 1.6.1~2
-Architecture: iphoneos-arm64e
-Maintainer: MiRO <tweaks_support@miro92.com>
-Installed-Size: 614
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>=14.0), mobilesubstrate, org.thebigboss.libcolorpicker
-Filename: ./debs/com.qiop1379.swipeextenderx_1.6.1~2_iphoneos-arm64e.deb
-Size: 119104
-MD5sum: 454460a046263ffcee86a3c48ca51d31
-SHA1: 3befbb8b7d6a9373d031c65d11d5f391e64b3dde
-SHA256: 8424642fe20eec0e5b8d3988bf6f7028af3d47d91e2479006f01f1be4cd47b07
-Section: Tweaks
-Description: Reinvent your keyboard with this full remake of the legendary SwipeExpander tweak, designed to work on modern iOS!
-Tag: compatible_min::ios14.0
-Author: MiRO <tweaks_support@miro92.com>
-Depiction: https://chariz.com/get/swipeextenderx
-Icon: https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
-Name: SwipeExtenderX
-
 Package: com.qqnotiavatar
 Version: 1.2-2
 Architecture: iphoneos-arm64
@@ -17355,14 +17297,14 @@ Maintainer: susu
 Installed-Size: 104
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.susu.fuckwechatads_1.0.2_iphoneos-arm64.deb
-Size: 16876
-MD5sum: b0243f9872e872519b350d65838555a2
-SHA1: 7615a667b46f9d213959873620b56709e5b9ab9f
-SHA256: ae2556aec122685bbcfbcd2401aa5bc53fbf7d2a231a14c123411ba61b494768
+Size: 16880
+MD5sum: 6b2988916c2db953942643a59d069e5a
+SHA1: 89bdf663f3889e0bbfc2ec0767fd89c57c78f804
+SHA256: f37a858852d42ae41b4917513343119c1bf5a4275a9b07cd92c96516e368f279
 Section: 微信插件
 Description: No WeChatAds
 Author: susu
-Icon: https://www.susuboy.cn/images/wechat.png
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: FuckWeChatAds
 
 Package: com.susu.fuckwechatads
@@ -17373,14 +17315,14 @@ Installed-Size: 104
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.susu.fuckwechatads_1.0.2_iphoneos-arm64e.deb
-Size: 22554
-MD5sum: 970bfc6c6930317d5f7801cf007be707
-SHA1: dc675e8acc9fa50a5aec1528e4aa74f6e87f25b4
-SHA256: f88033e3a5552b284c83f9f6b93661878c605422fa7fc13edb001fd170c8042a
+Size: 17772
+MD5sum: a0cc4457b8866b407fb627296192bd4d
+SHA1: ec9267a02cfae25a5c9eeb40f0c7c57db956ebde
+SHA256: 2ba95d3a8b4aa4f8a99fa9f543fd5c9f191546aea345557596f2b2bf36e67193
 Section: 微信插件
 Description: No WeChatAds
 Author: susu
-Icon: https://www.susuboy.cn/images/wechat.png
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: FuckWeChatAds
 
 Package: com.susu.hidekbsettings
@@ -18975,6 +18917,55 @@ Section: 插件
 Description: 支持Telegram、Swiftgram的功能插件，能保存频道限制下载文件、禁用广告等；底部「设置」—>长按倒数第三个按钮「Telegram官方客服」打开插件；如果打不开插件设置，先把语言切换自带的英文或者香港中文等—>再长按倒数第三个按钮。
 Icon: https://s1.imagehub.cc/images/2025/05/26/f21a05fd34535c80433b63ee1f6bbc4d.jpeg
 Name: TGExtra
+
+Package: com.tgextra
+Version: 1.3-3
+Architecture: iphoneos-arm64
+Maintainer: choco
+Installed-Size: 4532
+Filename: ./debs/com.tgextra_1.3-3_iphoneos-arm64.deb
+Size: 6116280
+MD5sum: 574e55ae7387d832ba78606223c85110
+SHA1: 5fc290be4b79d1014e238126caca279629d072c7
+SHA256: 011eacc394ba629a01ea73512ebe862bc6f48692e4b95b52dfafab2871752411
+Section: Tweaks
+Description: 电报增强调整，删除广告，隐藏某些输入状态，允许保存频道受限的下载文件，设置屏幕-长按倒数第三个选项“客户服务”打开插件。支持Telegram、Turrit和其他第三方客户端。
+Author: choco
+Icon: https://s1.imagehub.cc/images/2025/05/26/f21a05fd34535c80433b63ee1f6bbc4d.jpeg
+Name: Telegram TGExtra
+
+Package: com.tgextra
+Version: 1.3-3
+Architecture: iphoneos-arm64e
+Maintainer: choco
+Installed-Size: 4532
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.tgextra_1.3-3_iphoneos-arm64e.deb
+Size: 12030136
+MD5sum: 2261465688ee98867a955c414bc4da63
+SHA1: 7f9cd0d08c0339fea01dfb2672981108132f7417
+SHA256: dad959a585dca64896284cfd386a2ae63c14a1ac3097cfe751f2f6be97119d3e
+Section: Tweaks
+Description: 电报增强调整，删除广告，隐藏某些输入状态，允许保存频道受限的下载文件，设置屏幕-长按倒数第三个选项“客户服务”打开插件。支持Telegram、Turrit和其他第三方客户端。
+Author: choco
+Icon: https://s1.imagehub.cc/images/2025/05/26/f21a05fd34535c80433b63ee1f6bbc4d.jpeg
+Name: Telegram TGExtra
+
+Package: com.tgextra
+Version: 1.3-3
+Architecture: iphoneos-arm
+Maintainer: choco
+Installed-Size: 4532
+Filename: ./debs/com.tgextra_1.3-3_iphoneos-arm.deb
+Size: 5923228
+MD5sum: 0b0af747c03820fbb0100eda6bded26b
+SHA1: 117a2c1aee8abe81cacdf74084a606cef0d77a53
+SHA256: 1c1b4c06b62aa79fdfdbdd0ffc7545bc182a4ada94c6126e0e5022f9a4ff77c3
+Section: Tweaks
+Description: 电报增强调整，删除广告，隐藏某些输入状态，允许保存频道受限的下载文件，设置屏幕-长按倒数第三个选项“客户服务”打开插件。支持Telegram、Turrit和其他第三方客户端。
+Author: choco
+Icon: https://s1.imagehub.cc/images/2025/05/26/f21a05fd34535c80433b63ee1f6bbc4d.jpeg
+Name: Telegram TGExtra
 
 Package: com.tomaszpoliszuk.applibrarydisabler
 Version: 1.1.1
@@ -20732,72 +20723,6 @@ Icon: https://s1.imagehub.cc/images/2025/02/28/5d3f253f3ccddbc8c8bc3f13771a9af0.
 Name: SquidExtender配置
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/SquidExtender.json
 
-Package: com.wkk.SquidExtenderpz26
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: wkk
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
-Filename: ./debs/com.wkk.SquidExtenderpz26_1.0_iphoneos-arm64e.deb
-Size: 13758
-MD5sum: e4ed8f71fa4aad6b767c27681bb4ad1b
-SHA1: 0d263c94076a342dce1791f28b2c9f565e45a6ee
-SHA256: 2a2cb5b3ad6a68de10ebf8d2346fae1f41ef7f69b630c85642f5257774d06f24
-Section: 插件配置
-Description: 26键最新备份（以后不会再更新了），新增了一些自用脚本，默认都是自用，移除了默认大量脚本，其他脚本都在脚本设置里（未删）需要的话手动添加（动作设置-全选-添加子动作）
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/02/28/5d3f253f3ccddbc8c8bc3f13771a9af0.png
-Name: SquidExtender26键
-
-Package: com.wkk.SquidExtenderpz26
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
-Filename: ./debs/com.wkk.SquidExtenderpz26_1.0_iphoneos-arm64.deb
-Size: 10624
-MD5sum: f032c6bbd4a46f03ad162ec7083a3b1b
-SHA1: 85e32bc2d75f55fdeac83c63ca51eb2381484922
-SHA256: b24e713f49ca7908ca5a0288815b098e77ad17ed1a786638b6bbb152e28a172a
-Section: 插件配置
-Description: 26键最新备份（以后不会再更新了），新增了一些自用脚本，默认都是自用，移除了默认大量脚本，其他脚本都在脚本设置里（未删）需要的话手动添加（动作设置-全选-添加子动作）
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/02/28/5d3f253f3ccddbc8c8bc3f13771a9af0.png
-Name: SquidExtender26键
-
-Package: com.wkk.SquidExtenderpz269
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
-Filename: ./debs/com.wkk.SquidExtenderpz269_1.0_iphoneos-arm64.deb
-Size: 9620
-MD5sum: 775ed58a1305b0ef0a95d889760355c3
-SHA1: fccb05fd40458a490150afdedf75af50749cdc4d
-SHA256: a966ce31be56fe7171281eb6e53192dd190903fc882c6d291ae2d66e82e1edb6
-Section: 插件配置
-Description: 备份。20250409。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/02/28/5d3f253f3ccddbc8c8bc3f13771a9af0.png
-Name: SquidExtender26&9
-
-Package: com.wkk.SquidExtenderpz269
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: wkk
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
-Filename: ./debs/com.wkk.SquidExtenderpz269_1.0_iphoneos-arm64e.deb
-Size: 12688
-MD5sum: f84557d7df09dd54a64ac241cf1ecf8a
-SHA1: 499e95957ab49c67e59908029634240cdb34bbcd
-SHA256: f964de7f837a78e8b1d904aa1c94b724502a1d253a94990921bbfb13f0ca27a8
-Section: 插件配置
-Description: 备份。20250409。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/02/28/5d3f253f3ccddbc8c8bc3f13771a9af0.png
-Name: SquidExtender26&9
-
 Package: com.wkk.SquidGesturePro
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -20814,38 +20739,91 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/08/16/4fb5704ac308341a1ee18c0cec9c8213.png
 Name: SquidGesture Pro个人配置(自用)
 
-Package: com.wkk.SwipeExtenderXpz
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
-Filename: ./debs/com.wkk.SwipeExtenderXpz_1.0_iphoneos-arm64.deb
-Size: 1648
-MD5sum: 03a700a5c12e22cbab0853f2dcfc2500
-SHA1: 1ba487e51d1971aa27a4c51fa8cb22426a0219bc
-SHA256: a02c8296e5169e9a057db4cac130bc5868b75be4ab9334945516c78d9a738581
-Section: 插件配置
-Description: 下载后在/var/mobile/Documents/New preset.plist。自行恢复备份。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: SwipeExtenderX配置(自用)
-
-Package: com.wkk.SwipeExtenderXpz
+Package: com.wkk.WeChatbeautifully
 Version: 1.0
 Architecture: iphoneos-arm64e
-Maintainer: wkk
+Maintainer: fv群友
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
-Filename: ./debs/com.wkk.swipeextenderxpz_1.0_iphoneos-arm64e.deb
-Size: 2300
-MD5sum: 9dd8f6e5c38f9cf062f0a6a4d3a96219
-SHA1: a0218fed0288e676f33ff6d8e3bbd54405110399
-SHA256: 2979f9d7607c6a1461fbc9b545c11cf333298b8892a981bb5d51832e445cbebc
+Filename: ./debs/com.wkk.WeChatbeautifully_1.0_iphoneos-arm64e.deb
+Size: 19438
+MD5sum: 3e38cb3133c3bf74b409ff2ebf25349c
+SHA1: f4fe2a1f960dbb138ec7e51bb85a3332d80ddd25
+SHA256: 6bde31726ff6ad8269e79a6545caa410b64cd05c841cb6e006b23b37931e0811
 Section: 插件配置
-Description: 下载后在/var/mobile/Documents/New preset.plist。自行恢复备份。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: SwipeExtenderX配置(自用)
+Description: 自用气泡。
+Author: fv群友
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChat自用气泡
+Sileodepiction: http://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/WeChatbeautifully.json
+
+Package: com.wkk.WeChatbeautifully
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: fv群友
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.WeChatbeautifully_1.0_iphoneos-arm64.deb
+Size: 18848
+MD5sum: 3e9d35cf2eb222fed3153b21e5665151
+SHA1: b2ee555ce8fc0d78fd786afa9382e93c05570f1e
+SHA256: 3c1da7b2053db1c5fe253f3e82b6773d8e72a42c386e9686097896f6e4b23e1b
+Section: 插件配置
+Description: 自用气泡。
+Author: fv群友
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChat自用气泡
+Sileodepiction: http://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/WeChatbeautifully.json
+
+Package: com.wkk.applock
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: P2Kdev
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.applock_1.1_iphoneos-arm.deb
+Size: 8980
+MD5sum: 02d8db1f2c910919a688b9799750a376
+SHA1: 9f068e2033d09ea9dae4e36f1027932f7eed57a2
+SHA256: b43813b690a5fc9d4198da5f2724a7c6e66b8d0bae806fea23fb482bff371bb7
+Section: Tweaks
+Description: 使用Touch ID或Face ID锁定您的应用程序，App在后台或者打开状态时，不再参与加锁，只在App未打开时起作用。
+Author: P2Kdev
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.clezz.touchr.png&s=180x180&f=webp
+Name: AppLock
+
+Package: com.wkk.applock
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: P2Kdev
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.applock_1.1_iphoneos-arm64e.deb
+Size: 9004
+MD5sum: 85500d89cdd72cbe84e796dd6c76f5e7
+SHA1: 925545ee567f41605cb3a67e47c2383cadc0a26c
+SHA256: 938505976dbe4e6777ea8404167d5abd5961aec810dcaed9c67c23e509417310
+Section: Tweaks
+Description: 使用Touch ID或Face ID锁定您的应用程序，App在后台或者打开状态时，不再参与加锁，只在App未打开时起作用。
+Author: P2Kdev
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.clezz.touchr.png&s=180x180&f=webp
+Name: AppLock
+
+Package: com.wkk.applock
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: P2Kdev
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.applock_1.1_iphoneos-arm64.deb
+Size: 9056
+MD5sum: df25ba9d00f69be57d0324321e7bb1ff
+SHA1: 0c340b90d7b281040c3d07aa3e895fbc6ff54186
+SHA256: e2a16ad1d87bd6cb5f4de6032b8fa8b4d7a3680e935f9e4a29176bfc071208c2
+Section: Tweaks
+Description: 使用Touch ID或Face ID锁定您的应用程序，App在后台或者打开状态时，不再参与加锁，只在App未打开时起作用。
+Author: P2Kdev
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.clezz.touchr.png&s=180x180&f=webp
+Name: AppLock
 
 Package: com.wkk.apptoolsmh
 Version: 1.0
@@ -20916,6 +20894,41 @@ Description: 去开屏广告，测试版本：12.22.0
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/06/8fe27ae9d1c543174ee1cce270093e9d.png
 Name: 百度网盘NoAds
+
+Package: com.wkk.batteryhook
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.batteryhook_1.0_iphoneos-arm64e.deb
+Size: 6194
+MD5sum: 41187739ae8a2c57e148d3d782305716
+SHA1: 7b4b8cf67654fa28dc90da50cbb0e4d9c411710a
+SHA256: 528ddd0d0321210a1793f29ec5eb580ab4b5d90f74ee3f98e37f827489dd2c74
+Section: 一切美化的东西都是垃圾
+Description: 电池美化，毫无卵用。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/11/05/ea71bd7ab6c914de6df8cb044f7251a9.jpeg
+Name: 电池美化
+
+Package: com.wkk.batteryhook
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.batteryhook_1.0_iphoneos-arm64.deb
+Size: 4516
+MD5sum: 74d2cf3fd000db49bbd2c6bce1395ef7
+SHA1: f22488063c892b506e3fcd2abd382399138c1617
+SHA256: 1963fe67f95471fb36eff4167ad35cc50763065a2b275d42b411f55ae3ea51ab
+Section: 一切美化的东西都是垃圾
+Description: 电池美化，毫无卵用。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/11/05/ea71bd7ab6c914de6df8cb044f7251a9.jpeg
+Name: 电池美化
 
 Package: com.wkk.bhmh
 Version: 1.0
@@ -21523,37 +21536,37 @@ Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.
 Name: dyyy个人配置(自用)
 
 Package: com.wkk.dy
-Version: 1.1
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
-Filename: ./debs/com.wkk.dy_1.1_iphoneos-arm64.deb
-Size: 2251076
-MD5sum: a887f0722428a31d9419324216a6990e
-SHA1: 011b681ea359c896de9adc745bd17a138813155b
-SHA256: 913f8be5ca8da7f352407a5c60568c9c9270f47743d5d7eb8ad1ddf23c93f987
-Section: 插件配置
-Description: 下载后在/var/mobile/Documents/ 自行恢复备份，抖音版本：35.5.0 插件：源内抖音魔术师
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
-Name: dyyy个人配置(自用)
-
-Package: com.wkk.dy
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm64e
 Maintainer: wkk
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
-Filename: ./debs/com.wkk.dy_1.1_iphoneos-arm64e.deb
-Size: 4513576
-MD5sum: 0a77975c09ab91637334d94c90483031
-SHA1: 3c45d0526b2004dbd96a5ec9aaae581ed8423931
-SHA256: 26d174b7240d71499beb37030a1380651d33d2f00553e2d4427d8546fa7caa12
+Filename: ./debs/com.wkk.dy_1.2_iphoneos-arm64e.deb
+Size: 2819972
+MD5sum: de825003511f4af525c93d9e93598f90
+SHA1: 06b397f3d807de592f749aa9f06f87e9b03b1614
+SHA256: dc5153a195ce182773845441ec748bff8cc1f1fdc242b86183cb16b5e3daf825
 Section: 插件配置
-Description: 下载后在/var/mobile/Documents/ 自行恢复备份，抖音版本：35.5.0 插件：源内抖音魔术师
+Description: 下载后在/var/mobile/Documents/ 自行注入恢复备份，抖音版本：34.5.0，可以购买团购，无任何卡顿。
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
-Name: dyyy个人配置(自用)
+Name: dyyy养老个人配置(自用)
+
+Package: com.wkk.dy
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.dy_1.2_iphoneos-arm64.deb
+Size: 1297772
+MD5sum: f2df6e39181e34f8bcf7424e0530344a
+SHA1: 1f0c32d3d4c12ad170eb9144ee55b86894501479
+SHA256: 487c319af7a49df2e77deccad4117bcce93a258ff0aec6f2de3b653959fa19e0
+Section: 插件配置
+Description: 下载后在/var/mobile/Documents/ 自行注入恢复备份，抖音版本：34.5.0，可以购买团购，无任何卡顿。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: dyyy养老个人配置(自用)
 
 Package: com.wkk.dyhook
 Version: 1.0
@@ -21731,6 +21744,57 @@ Description: 去开屏广告和神秘功能，测试版本：6.5.9
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/11/92c71257062850129b513726de475e60.png
 Name: 番茄小说NoAds
+
+Package: com.wkk.fastlock
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: dvntm
+Installed-Size: 856
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.fastlock_1.0.1_iphoneos-arm.deb
+Size: 382956
+MD5sum: 9f270a4fa7c55f92be18913518f6c097
+SHA1: 5502101ba20a1fc2ecbe60972b411a6c6a9028ff
+SHA256: 6706d3db1c57536acd74bd5cb7e579d3cc904ce9ed0c08a5433716d0535e145d
+Section: Tweaks
+Description: 通过点击主屏幕背景快速锁定，锁定/解锁的触觉反馈，锁定时自动启用低功耗模式，自定义锁屏声音，通过Face ID自动解锁，取消自动解锁的条件，自定义解锁声音等。
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/FastLock/refs/heads/main/Sileo/icon.png
+Name: FastLock
+
+Package: com.wkk.fastlock
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 856
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.fastlock_1.0.1_iphoneos-arm64.deb
+Size: 383064
+MD5sum: d218ae92cbb50c7bd332287c5d34a3e7
+SHA1: be5ccb4e6cec11d44b3a54557c87f14abe1834f2
+SHA256: c8141af8ed88736b356a3069f5b2d87537e2c5e78119dfc48b4971b403ac68b1
+Section: Tweaks
+Description: 通过点击主屏幕背景快速锁定，锁定/解锁的触觉反馈，锁定时自动启用低功耗模式，自定义锁屏声音，通过Face ID自动解锁，取消自动解锁的条件，自定义解锁声音等。
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/FastLock/refs/heads/main/Sileo/icon.png
+Name: FastLock
+
+Package: com.wkk.fastlock
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 840
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.fastlock_1.0.1_iphoneos-arm64e.deb
+Size: 381716
+MD5sum: e0e36fc78bc28e11cb51ea9099289a5a
+SHA1: 4036f51a7f74c6487c6b9e78e2ed454f3ce9f6eb
+SHA256: 20b64fc6c42dff0d13de3f2ce92c1aa543c006c28ac15092707fe085b1d9b3cf
+Section: Tweaks
+Description: 通过点击主屏幕背景快速锁定，锁定/解锁的触觉反馈，锁定时自动启用低功耗模式，自定义锁屏声音，通过Face ID自动解锁，取消自动解锁的条件，自定义解锁声音等。
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/FastLock/refs/heads/main/Sileo/icon.png
+Name: FastLock
 
 Package: com.wkk.ftpz
 Version: 1.0
@@ -22156,6 +22220,41 @@ Description: 禁用图标抖动删除按钮，支持iOS15-iOS16。
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: Hideiconx
+
+Package: com.wkk.igformat
+Version: 1.88-45
+Architecture: iphoneos-arm64e
+Maintainer: MrDeNsor
+Installed-Size: 1596
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.igformat_1.88-45_iphoneos-arm64e.deb
+Size: 347572
+MD5sum: 63b77ab3c50d77d08564d0adeb1b7b34
+SHA1: 962009421bacd99ddbb89723710c297973fd9122
+SHA256: ff01d99fad340a4b9527cc2f1e3edbe820da5bd2858c8b479900ca0570c53f68
+Section: 去广告
+Description: 下载入口：点开视频，右下角有三个点，点开有选项。插件入口：我的界面，有个🍃图标，然后点击右上角「文」图标，选Chinese插件就变中文了，大部分选项都是中文。
+Author: MrDeNsor
+Icon: https://TrollStoreX.Github.io/sileodepiction/Rocket_zh-Hans/Instagram.png
+Name: IGFormat
+
+Package: com.wkk.igformat
+Version: 1.88-45
+Architecture: iphoneos-arm64
+Maintainer: MrDeNsor
+Installed-Size: 1596
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.igformat_1.88-45_iphoneos-arm64.deb
+Size: 229944
+MD5sum: 901eeb62721e618bfd2608254e5ffab9
+SHA1: b112cd205364f80b6c9d07684412b45c1b646d3d
+SHA256: ffe53d59523f913f5ae76c2c78e00446b6f54a0f252b0527add198788264f882
+Section: 去广告
+Description: 下载入口：点开视频，右下角有三个点，点开有选项。插件入口：我的界面，有个🍃图标，然后点击右上角「文」图标，选Chinese插件就变中文了，大部分选项都是中文。
+Author: MrDeNsor
+Icon: https://TrollStoreX.Github.io/sileodepiction/Rocket_zh-Hans/Instagram.png
+Name: IGFormat
 
 Package: com.wkk.jptext
 Version: 1.0
@@ -22961,6 +23060,41 @@ Description: 毫无卵用。
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: snapper3隐藏底部功能栏
+
+Package: com.wkk.swipeextenderx
+Version: 1.6.2
+Architecture: iphoneos-arm64
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 614
+Depends: firmware (>=14.0), mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.wkk.swipeextenderx_1.6.2_iphoneos-arm64.deb
+Size: 79740
+MD5sum: 32e19748ff2c26f97cc340d1194938c9
+SHA1: c988e0a4f3535cce43f2cc004e92d6eb7aca0dc9
+SHA256: 833fe0d00f471c1d45d108f3faaf00006d5b79f0e68946798fbae019b69a0868
+Section: Tweaks
+Description: 用这款传奇的插件重塑你的原生键盘，自带我的预设，在Presets中可以找到并恢复。无汉化。
+Author: MiRO <tweaks_support@miro92.com>
+Icon: https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
+Name: SwipeExtenderX
+
+Package: com.wkk.swipeextenderx
+Version: 1.6.2
+Architecture: iphoneos-arm64e
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 614
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>=14.0), mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.wkk.swipeextenderx_1.6.2_iphoneos-arm64e.deb
+Size: 108076
+MD5sum: 40103b2cbc07d4368839c0391c080787
+SHA1: 939db6bc6fde13be35572785c6f5be1ec43caaac
+SHA256: c5fc988471c40bf6c9d299ca9f502e67ec8128237e77949495f96039a74fdc1e
+Section: Tweaks
+Description: 用这款传奇的插件重塑你的原生键盘，自带我的预设，在Presets中可以找到并恢复。无汉化。
+Author: MiRO <tweaks_support@miro92.com>
+Icon: https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
+Name: SwipeExtenderX
 
 Package: com.wkk.tiebahook
 Version: 1.0.3
@@ -24013,6 +24147,41 @@ Description: 修改「合并转发」聊天记录预览内容文本。
 Author: BypassWechatMSG
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: BypassWechatMSG
+
+Package: com.ylr.dyhook
+Version: 1.5.5
+Architecture: iphoneos-arm64
+Maintainer: ylr
+Installed-Size: 240
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.ylr.dyhook_1.5.5_iphoneos-arm64.deb
+Size: 27396
+MD5sum: b3ed4b9d7eef8260f471736b9b7f79fe
+SHA1: 27660c5dda4108f8fe23d05831a193efa0b22b18
+SHA256: a57b3c76472075e4d315520e9d176b57b7cf4e6dfe3a5492807c7f107546d8ff
+Section: 抖音插件
+Description: （数据编辑工具）仅供学习交流，如有传播；使用者请在24小时内自觉删除。
+Author: ylr
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: DYHook
+
+Package: com.ylr.dyhook
+Version: 1.5.5
+Architecture: iphoneos-arm64e
+Maintainer: ylr
+Installed-Size: 240
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.ylr.dyhook_1.5.5_iphoneos-arm64e.deb
+Size: 37144
+MD5sum: c3050d08f3dba38860030e1a431db583
+SHA1: d2fbcd242bc604af1c6412f49ce3a96a2f3dad0d
+SHA256: fd72f7e1de5ce35cb3b048e00a75b6b29c25a9e98241c9a0574b44a8ced67417
+Section: 抖音插件
+Description: （数据编辑工具）仅供学习交流，如有传播；使用者请在24小时内自觉删除。
+Author: ylr
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: DYHook
 
 Package: com.yourepo.arm64-debs.settingswidgets
 Version: 1.2.2
