@@ -15604,6 +15604,39 @@ Author: c1d3r
 Icon: https://s1.imagehub.cc/images/2025/01/21/7dd8ed70cad1d12060d8f9319d5bdb14.png
 Name: PullOver Pro
 
+Package: com.qimiao.WCRefine
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.qimiao.WCRefine_1.0-2_iphoneos-arm64.deb
+Size: 885544
+MD5sum: 5e14f8ff5a787a03a04825550b549d1c
+SHA1: fab550e288584cda05fd0f55abbd3c6b4b234a1f
+SHA256: 3ae2e03f38ebbf1f4f6bf10b7e86d1ea75425d5694204c67328f0f624bae238b
+Section: 微信插件
+Description: 微信优化的重制版本，WCRefine基于微信8.0.64版本制作。
+Author: 热心网友
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCRefine
+
+Package: com.qimiao.WCRefine
+Version: 1.0-2
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.qimiao.WCRefine_1.0-2_iphoneos-arm64e.deb
+Size: 2266964
+MD5sum: 94268801ccfdf0bfac14fa600dc3902c
+SHA1: d64b4294a348a981922672065b908e301d4fc31d
+SHA256: 87a2955384be177bf27bbe9ca0175f52e34b98020bf16c10595276d1406f99aa
+Section: 微信插件
+Description: 微信优化的重制版本，WCRefine基于微信8.0.64版本制作。
+Author: 热心网友
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCRefine
+
 Package: com.qqnotiavatar
 Version: 1.2-2
 Architecture: iphoneos-arm64
@@ -18044,6 +18077,23 @@ Author: 苏苏
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: SuWCFrostedGlass
 
+Package: com.sutuplus.releasefugu15
+Version: 6.0.1-1
+Architecture: iphoneos-arm64
+Maintainer: Carby <super.cat.sutuplus@gmail.com>
+Installed-Size: 1816
+Depends: mobilesubstrate
+Filename: ./debs/com.sutuplus.releasefugu15_6.0.1-1_iphoneos-arm64.deb
+Size: 528860
+MD5sum: 7867d4044de9a4d414d94c27938cc2b0
+SHA1: 6d1e5b1f368052c5d5a7e84cb69851782e4bea88
+SHA256: d92fc498e9195e45a4aca7c32d909f90fc45022829138ea8ff64f6bdc8e409a2
+Section: 微信插件
+Description: 微信美化。
+Author: 公众号：苏兔（bysutu） <super.cat.sutuplus@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 酸果
+
 Package: com.swing.padswitcher
 Version: 1.1.0
 Architecture: iphoneos-arm64e
@@ -18874,6 +18924,41 @@ Size: 4782644
 MD5sum: 5bfc45da8f54668bb2be710c2f1be9d2
 SHA1: 77e8a76021e81629e14b0092dc8c91ad865b8109
 SHA256: acf88d493064512a6c515749dbe226866ee1b5e6c81ab92cd340e35824cdc08e
+Section: 微信插件
+Description: 学习交流。
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+Name: 主题盒子
+
+Package: com.tencent.themebox
+Version: 2.1.9
+Architecture: iphoneos-arm64e
+Maintainer: WeChat
+Installed-Size: 6132
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tencent.themebox_2.1.9_iphoneos-arm64e.deb
+Size: 13046706
+MD5sum: d62945956eca901bddcfdcb08b4eb815
+SHA1: b511725adca9eeb73779efb24f681fb5cdb2bcac
+SHA256: 626b6f1beb47df4f453911fc1c940eb1f5a15eef297d86f137d72eaa3f2408d0
+Section: 微信插件
+Description: 学习交流。
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+Name: 主题盒子
+
+Package: com.tencent.themebox
+Version: 2.1.9
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tencent.themebox_2.1.9_iphoneos-arm64.deb
+Size: 4826160
+MD5sum: 421e6f0c9eaf3ea412707ac9c6496347
+SHA1: eb59d0eedba7ac529907ddffe02f27119e97f3ba
+SHA256: e2a69f039df4f229946ded8cf31c9c1020a8deda042b8dc405e62a9a1944df3a
 Section: 微信插件
 Description: 学习交流。
 Author: WeChat
@@ -24248,6 +24333,41 @@ Description: （数据编辑工具）仅供学习交流，如有传播；使用�
 Author: ylr
 Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
 Name: DYHook
+
+Package: com.ylr.wcsimplify
+Version: 1.5.5-5
+Architecture: iphoneos-arm64e
+Maintainer: ylr
+Installed-Size: 304
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.ylr.wcsimplify_1.5.5-5_iphoneos-arm64e.deb
+Size: 67966
+MD5sum: b0ad8281eb3330709d05e2569fb79b94
+SHA1: e3d1f5a0947b8b7b712e70526127fb839f0a8dd9
+SHA256: fa92c2c254fd305c32d50196d304c734809eeb64390cc996f2ffb1754307c683
+Section: 微信插件
+Description: 底栏优化。
+Author: ylr
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCSimplify
+
+Package: com.ylr.wcsimplify
+Version: 1.5.5-5
+Architecture: iphoneos-arm64
+Maintainer: ylr
+Installed-Size: 304
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.ylr.wcsimplify_1.5.5-5_iphoneos-arm64.deb
+Size: 47052
+MD5sum: 435a0c9ca7eb8e6d631c9e902bc639d5
+SHA1: 803db439d6eae405bb23da0db6a71054232ba33e
+SHA256: 19e296c4444477e54e5dfd85e4b0dd48844f40ff11fc5b7449333a0ccc151e69
+Section: 微信插件
+Description: 底栏优化。
+Author: ylr
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCSimplify
 
 Package: com.yourepo.arm64-debs.settingswidgets
 Version: 1.2.2
