@@ -1578,6 +1578,80 @@ Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.
 Name: 微信助手
 Sponsor: admin@25mao.com
 
+Package: com.25mao.miyou.rootless
+Version: 3.8-8
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.25mao.miyou.rootless_3.8-8_iphoneos-arm64.deb
+Size: 6273820
+MD5sum: a7e4542ee15d44e0f8b5d086a571372c
+SHA1: ee7b8e55bd848496265553103ccef9252e77d07e
+SHA256: 454b26487f69371bc6af7e40d50f581faa867931eaef44e28eb523c3ae1dfe60
+Section: 微信插件
+Priority: optional
+Description: 微信助手
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信助手
+Sponsor: admin@25mao.com
+
+Package: com.25mao.miyou.rootless
+Version: 3.8-8
+Architecture: iphoneos-arm64e
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.25mao.miyou.rootless_3.8-8_iphoneos-arm64e.deb
+Size: 16742906
+MD5sum: 343a5b957613260db55c47e714b7f684
+SHA1: 338076d046758d8956b3d5eb19fd420f9d25c7d3
+SHA256: 073dfc9c1d680cd7c20bf0c16a66b89095b0ba6a29e00b5089d1e3a0add0200d
+Section: 微信插件
+Priority: optional
+Description: 微信助手
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信助手
+Sponsor: admin@25mao.com
+
+Package: com.25mao.miyou.rootless
+Version: 3.8-9
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.25mao.miyou.rootless_3.8-9_iphoneos-arm64.deb
+Size: 5147676
+MD5sum: 127c817ff671bd72937837aec7f7dd56
+SHA1: 860bfcfbeda88fe68b65cc808b39fcb4bc895bd2
+SHA256: a0eefb1c16150bad1012bc3aaff2f48c221aa1ca2eaee248029c6dfad4efcff1
+Section: 微信插件
+Priority: optional
+Description: 微信助手
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信助手
+Sponsor: admin@25mao.com
+
+Package: com.25mao.miyou.rootless
+Version: 3.8-9
+Architecture: iphoneos-arm64e
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.25mao.miyou.rootless_3.8-9_iphoneos-arm64e.deb
+Size: 13864054
+MD5sum: 66c289135125892ef8e6b2db51547632
+SHA1: 09ab01ea324f306beeb61a022105ff0246b761ac
+SHA256: 08deca0ae0e153200e2f3ab6855ff015f7284a3ac343f94be0a58d48233ca093
+Section: 微信插件
+Priority: optional
+Description: 微信助手
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信助手
+Sponsor: admin@25mao.com
+
 Package: com.25mao.msgfilt
 Version: 1.0-5.1
 Architecture: iphoneos-arm64e
@@ -20855,6 +20929,22 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/08/16/4fb5704ac308341a1ee18c0cec9c8213.png
 Name: SquidGesture Pro个人配置(自用)
 
+Package: com.wkk.SquidGesturePro
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.SquidGesturePro_1.0_iphoneos-arm64e.deb
+Size: 22380964
+MD5sum: 2af5a009412f4a34ad123c910ce29e24
+SHA1: a69d57a9b4a5b033b8ac3b9ecb936dc49fdfe505
+SHA256: c3f3bc1436914e910b3ee86dcb5302fa2c8e485002483381e3f8a1a5ec14ca28
+Section: 插件配置
+Description: 下载后在/var/mobile/Documents/ 自行恢复备份。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/08/16/4fb5704ac308341a1ee18c0cec9c8213.png
+Name: SquidGesture Pro个人配置(自用)
+
 Package: com.wkk.WeChatbeautifully
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -20975,6 +21065,41 @@ Description: 安装Apptools插件后直装。
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: Apptools美化
+
+Package: com.wkk.autofillfix
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: P2KDev
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.autofillfix_0.1_iphoneos-arm64.deb
+Size: 3044
+MD5sum: c9987e40f0deeb6bd94967e6dc9fa514
+SHA1: c80636dd705ae9296a2231ce481ef22f4dd43acc
+SHA256: 7dac3f2b8433fb31b2cab8c7534984ae4d04449bd380a39e8f385c85ff2de9c7
+Section: 插件
+Description: 修复越狱后，短信验证码不自动填充问题
+Author: P2KDev
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: AutoFillFix
+Sponsor: P2KDev
+
+Package: com.wkk.autofillfix
+Version: 0.1
+Architecture: iphoneos-arm64e
+Maintainer: P2KDev
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.autofillfix_0.1_iphoneos-arm64e.deb
+Size: 4318
+MD5sum: 94c5477028df3cf53295365731f975aa
+SHA1: 3ef78ee09e6e4850854201a2796c3bd18a35053a
+SHA256: c97ecebf8f6b469a7b983ecc1e73d821ceead67980c64187eaa89f31d786c00a
+Section: 插件
+Description: 修复越狱后，短信验证码不自动填充问题
+Author: P2KDev
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: AutoFillFix
+Sponsor: P2KDev
 
 Package: com.wkk.baiduwangpanhook
 Version: 1.0
@@ -22372,6 +22497,41 @@ Author: MrDeNsor
 Icon: https://TrollStoreX.Github.io/sileodepiction/Rocket_zh-Hans/Instagram.png
 Name: IGFormat
 
+Package: com.wkk.jdhook
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.jdhook_1.0_iphoneos-arm64.deb
+Size: 3104
+MD5sum: 3d8939ec5077c44e568b8d30f2e200b6
+SHA1: a84d2fa2cad7b07203407ed8d2ceb6ea8b2c5a2f
+SHA256: 3442f124200de071e1195a98038e518ed1a5bc91445041538809484ba2c71583
+Section: 去广告
+Description: 去掉帖子中穿插的广告。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/11/13/d28585960f4bc4a305056b866fdb93c9.png
+Name: 煎蛋NoAds
+
+Package: com.wkk.jdhook
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.jdhook_1.0_iphoneos-arm64e.deb
+Size: 4402
+MD5sum: 5a4e8b87efc52835072f50d4daa4296c
+SHA1: 1192308b54e336f2b561edc3b3988f86b593abdf
+SHA256: 5ce3e54aed9c70ce6e98c38f1eb957b29a48530f0e65362fb98f8e72d07fca57
+Section: 去广告
+Description: 去掉帖子中穿插的广告。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/11/13/d28585960f4bc4a305056b866fdb93c9.png
+Name: 煎蛋NoAds
+
 Package: com.wkk.jptext
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -23732,6 +23892,38 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/10/a5283dbf3147309ebb76288c6e395ab4.png
 Name: 闲鱼NoAds
 
+Package: com.wkk.xxautoskip
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: 网络资源
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.xxautoskip_1.0.4_iphoneos-arm64.deb
+Size: 41024
+MD5sum: ac451e4d69a36f8ce35e5986bc8aea58
+SHA1: 0f67c6b47ec03fd1a2995316ff8a2e292c80ba60
+SHA256: 8684c0008234050ddfd7c45cc9d5129e1cfe1fb912201d0a2d5e2cd80b708f3e
+Section: 插件配置
+Description: 下载后脚本文件在/var/mobile/Documents/自行使用。
+Author: 网络资源
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 模拟点击去开屏广告（下载后TrollFools注入）
+
+Package: com.wkk.xxautoskip
+Version: 1.0.4
+Architecture: iphoneos-arm64e
+Maintainer: 网络资源
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.xxautoskip_1.0.4_iphoneos-arm64e.deb
+Size: 41048
+MD5sum: d77ea67c0034cf8c4a2b3cab3a8cf62a
+SHA1: 0a322da6364efd8201e8f01e7923f61d0e7020a4
+SHA256: 0d73969798835964ad9c3d8c3dde5c52c29c0e1ef3aa5c0bc4b1706442cb460f
+Section: 插件配置
+Description: 下载后脚本文件在/var/mobile/Documents/自行使用。
+Author: 网络资源
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 模拟点击去开屏广告（下载后TrollFools注入）
+
 Package: com.wkk.xxgif
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -23752,13 +23944,12 @@ Package: com.wkk.xxgif
 Version: 1.0
 Architecture: iphoneos-arm64e
 Maintainer: 网络资源
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
 Filename: ./debs/com.wkk.xxgif_1.0_iphoneos-arm64e.deb
-Size: 200768
-MD5sum: f7760b1a75074cd529497946b232c153
-SHA1: 2f156ede8a0ea99b0ca9c2fe880915afcb384246
-SHA256: 18214a06f74a8b72d437813e76f8f19a5e50de33cf24e152ffba04588d61b6b9
+Size: 201072
+MD5sum: a6e34080d5bc4bdedf1d03c79e4c6692
+SHA1: 6cb365700f642f51f12d0b32c32184b8800c0e47
+SHA256: 91e544c757e20486f8f994caea169f32bb0ffe60f13b6bad129d274ddfcc1231
 Section: 插件配置
 Description: 下载后脚本文件在/var/mobile/Documents/自行使用。
 Author: 网络资源
@@ -23780,6 +23971,38 @@ Description: 下载后脚本文件在/var/mobile/Documents/自行使用。
 Author: 网络资源
 Icon: https://s1.imagehub.cc/images/2025/11/12/3df0faf10acf31704caaeadcf3f46cbd.jpeg
 Name: 蜡笔小新图标
+
+Package: com.wkk.xxicons
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: 网络资源
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.xxicons_1.0_iphoneos-arm64e.deb
+Size: 60859496
+MD5sum: d155f425274b05113a969b122820a891
+SHA1: 3bfba308a36382eb97bad021692b7380246ec055
+SHA256: 38de0807a439cb4c632a3a06fc08d28899569233108898b0a79cd7ac444edd21
+Section: 插件配置
+Description: 下载后脚本文件在/var/mobile/Documents/自行使用。
+Author: 网络资源
+Icon: https://s1.imagehub.cc/images/2025/11/12/3df0faf10acf31704caaeadcf3f46cbd.jpeg
+Name: 蜡笔小新图标
+
+Package: com.wkk.xxmusic
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: 网络资源
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.xxmusic_1.0_iphoneos-arm64e.deb
+Size: 47691364
+MD5sum: 07b727b6a4b7f7f87aeef890a14ffdc0
+SHA1: 07490dc611c55fc4b9a84968d0939a38753ead98
+SHA256: a350ed7d0b9e1c47a1bdbe89d5a2a3043a3f8620cf2cc65d68fcf0bdf48e64be
+Section: 插件配置
+Description: 下载后脚本文件在/var/mobile/Documents/自行使用。
+Author: 网络资源
+Icon: https://s1.imagehub.cc/images/2025/01/21/cefa1464e01eef8261e06c01ade556d9.png
+Name: 精选提醒声百款
 
 Package: com.wkk.xxmusic
 Version: 1.0
