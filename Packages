@@ -13710,6 +13710,25 @@ Author: Mikoto
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: Mikoto 助手
 
+Package: com.mikotohelper.wechat
+Version: 1.3.6-V5
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: Mikoto
+Depends: mobilesubstrate
+Conflicts: mikotohelper
+Filename: ./debs/com.mikotohelper.wechat_1.3.6-V5_iphoneos-arm64.deb
+Size: 19234280
+MD5sum: 029aea0a17b4ae61b9328a15242f9029
+SHA1: d7261b94990635dd23b9d7336f095d339b847223
+SHA256: f455d25956953f9b7092e4f8ce41b594cafe26800b846ad7f8459ed9b5cf7ae1
+Section: 微信插件
+Priority: optional
+Description: 微信多功能插件。
+Author: Mikoto
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: Mikoto 助手
+
 Package: com.miro.libmiroshared
 Version: 1.0.2
 Architecture: iphoneos-arm64e
@@ -19227,6 +19246,41 @@ Author: WeChat
 Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
 Name: 主题盒子
 
+Package: com.tencent.themebox
+Version: 2.2.0
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tencent.themebox_2.2.0_iphoneos-arm64.deb
+Size: 4812016
+MD5sum: 950caeb9c95c26e1f654d317b2b36f12
+SHA1: fd2f9ae813578365351228a5761e1731357e5d8e
+SHA256: c3506839111d29dc7888032ef896a5a759c6ddbd8211fa2ee49e4230f3c64e2d
+Section: 微信插件
+Description: 学习交流。
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+Name: 主题盒子
+
+Package: com.tencent.themebox
+Version: 2.2.0
+Architecture: iphoneos-arm64e
+Maintainer: WeChat
+Installed-Size: 6132
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tencent.themebox_2.2.0_iphoneos-arm64e.deb
+Size: 13062056
+MD5sum: 281b8af7e3946ac39fb181bc6fb36b47
+SHA1: c17fc4e7e76246c75a86b73993afd352314c9f89
+SHA256: 7a64b579992a67ab8ec26269b36268ef46732ccd83c8e53f547a3da6fed5d649
+Section: 微信插件
+Description: 学习交流。
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+Name: 主题盒子
+
 Package: com.teslaman3092.popoutbuttons
 Version: 1.0.1
 Architecture: iphoneos-arm64
@@ -23334,6 +23388,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/11/20/4d296bfaebf204bf0f25e07d184e9db8.png
 Name: MEGANoAds
 
+Package: com.wkk.megahook2
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.megahook2_1.0_iphoneos-arm64e.deb
+Size: 4394
+MD5sum: e3e430fc6f2b88245499ad181ae91794
+SHA1: 675d01f74a4ede2d71e53c2cbf99c436973cb36c
+SHA256: 01c813c974cc209c23432cbc79bdaa363fbc45d0624ca0f6a69e4cfaf573015e
+Section: 去广告
+Description: 去掉底部占位的广告块，版本：16.14。接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/11/20/4d296bfaebf204bf0f25e07d184e9db8.png
+Name: MEGANoAds
+
+Package: com.wkk.megahook2
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.megahook2_1.0_iphoneos-arm64.deb
+Size: 3024
+MD5sum: 6c3d34f6163f5e2ef9faa42dd5480ff8
+SHA1: 06b97a4c8620d1c8b2aef8e346b1b90a303a0b90
+SHA256: ed25cfdee7bef811ee83bfcb1161bdc58c920bb550f1a91641f12350788a5dff
+Section: 去广告
+Description: 去掉底部占位的广告块，版本：16.14。接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/11/20/4d296bfaebf204bf0f25e07d184e9db8.png
+Name: MEGANoAds
+
 Package: com.wkk.mghook
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -23995,6 +24084,41 @@ Description: 毫无卵用。
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: snapper3隐藏底部功能栏
+
+Package: com.wkk.swiftgramcrack
+Version: 1.1-3
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 224
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: ./debs/com.wkk.swiftgramcrack_1.1-3_iphoneos-arm64.deb
+Size: 53944
+MD5sum: 6b3df0894f7d8ea51f7e5f37d9733a46
+SHA1: c06e2fd346c2c3de6d7d257989b026121521ac80
+SHA256: ba901c820138ea30b699c6937f19aa485cf7ca24383c61b46b2cc5fbb81b0c01
+Section: 插件
+Description: 版本：11.15
+Author: Netskao
+Icon: Icon: https://sini921.github.io/repo/sileodepiction/icon/swiftgramcrack.png
+Name: Swiftgram Pro
+
+Package: com.wkk.swiftgramcrack
+Version: 1.1-3
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 224
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: ./debs/com.wkk.swiftgramcrack_1.1-3_iphoneos-arm64e.deb
+Size: 84780
+MD5sum: 371aab924d426613c5f302c0e2691657
+SHA1: 26f3cfb6ee1a6b31108c6881426d90a03a65a346
+SHA256: c353ce97ef614bc094601bacfb37d0bf6f6fe0ab0122b75473714c65eb0339b6
+Section: 插件
+Description: 版本：11.15
+Author: Netskao
+Icon: Icon: https://sini921.github.io/repo/sileodepiction/icon/swiftgramcrack.png
+Name: Swiftgram Pro
 
 Package: com.wkk.swipeextenderx
 Version: 1.6.2
