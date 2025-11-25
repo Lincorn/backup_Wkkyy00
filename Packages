@@ -15968,6 +15968,39 @@ Author: 热心网友
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WCRefine
 
+Package: com.qimiao.WCRefine
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.qimiao.WCRefine_1.1-1_iphoneos-arm64.deb
+Size: 1024716
+MD5sum: 9f9a043cc0042fc4c651e2f24df0701c
+SHA1: 7a861c5c266aeed929a2ad336e30267394eba446
+SHA256: 1844e8d83be2648565cd0e603d97efb4c991fc7b7b306e2b92ac9374179bb5aa
+Section: 微信插件
+Description: 微信优化的重制版本，WCRefine基于微信8.0.64版本制作。
+Author: 热心网友
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCRefine
+
+Package: com.qimiao.WCRefine
+Version: 1.1-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.qimiao.WCRefine_1.1-1_iphoneos-arm64e.deb
+Size: 2682492
+MD5sum: 247500b9a0862ecbe7048d829628172e
+SHA1: 4c272c4bd65151a8ba713ced9803376cc6a02a40
+SHA256: 314e01c289d517c89ff812cfda1575b8fe551112edfb4ec1a215652317f1aaec
+Section: 微信插件
+Description: 微信优化的重制版本，WCRefine基于微信8.0.64版本制作。
+Author: 热心网友
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCRefine
+
 Package: com.qqnotiavatar
 Version: 1.2-2
 Architecture: iphoneos-arm64
@@ -25070,6 +25103,41 @@ Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.
 Name: 微信输入法皮肤（自用备份）
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/weixxinsrf.json
 
+Package: com.wkk.wyxwhook
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.wyxwhook_1.0-2_iphoneos-arm64.deb
+Size: 3092
+MD5sum: 069faf2023f76eb59ff0e3736667726f
+SHA1: 37e7e327f1cf764a315fd7e61ed31fd8f4361203
+SHA256: 7869a4bf1bc5fa7ce01805e0fbf9f87c049ecb786d28321768f2bf3000d495e5
+Section: 去广告
+Description: 去开屏/信息流广告，版本：2756，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/11/25/cf20796b4a4e88cd2b68b8f89182bfc3.png
+Name: 网易新闻NoAds
+
+Package: com.wkk.wyxwhook
+Version: 1.0-2
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.wyxwhook_1.0-2_iphoneos-arm64e.deb
+Size: 4470
+MD5sum: d7ec87491648ac72c18f104e088a6d25
+SHA1: c5ba4206e033ba795c1770afd26659e7e741e0e7
+SHA256: d9812cf399b81927773f29573f9667a7926735941c1d75c9e768af8c71f5ffe9
+Section: 去广告
+Description: 去开屏/信息流广告，版本：2756，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/11/25/cf20796b4a4e88cd2b68b8f89182bfc3.png
+Name: 网易新闻NoAds
+
 Package: com.wkk.wyyhook
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -25543,6 +25611,41 @@ Description: 去开屏/豆腐块/底部开会员窗口，版本：6.23.1。接�
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/05/24/ebdc7f91e320e34255f2422c8699dd81.png
 Name: 一刻相册NoAds
+
+Package: com.wkk.ysxwhook
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.ysxwhook_1.0_iphoneos-arm64.deb
+Size: 3372
+MD5sum: 18ab1f51232001a4a6c7addd6c1c749b
+SHA1: 96ee4b8c73cf54e9cb20dc538b91f93ffac65f2a
+SHA256: cf2ec1a918f85755466aec110cc5c24d67e401aebe97e52c81676f26b09e7d6f
+Section: 去广告
+Description: 去开屏广告，版本：10.10，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/11/25/1adc2f21ac13f26fedd4c643ef04334e.png
+Name: 央视新闻NoAds
+
+Package: com.wkk.ysxwhook
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.ysxwhook_1.0_iphoneos-arm64e.deb
+Size: 4802
+MD5sum: e4166adb4e1ff5e179f56a9caf025a70
+SHA1: 53756703f8a41292ce34dce451432d2251424a1e
+SHA256: b8c1062ef35825c2c73117f59ce3bb5c9e6cc742585f2ce8f7c1f678b22441fa
+Section: 去广告
+Description: 去开屏广告，版本：10.10，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/11/25/1adc2f21ac13f26fedd4c643ef04334e.png
+Name: 央视新闻NoAds
 
 Package: com.wkk.zdmhook
 Version: 1.0
