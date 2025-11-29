@@ -16065,6 +16065,39 @@ Author: 热心网友
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WCRefine
 
+Package: com.qimiao.WCRefine
+Version: 1.1-3
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.qimiao.WCRefine_1.1-3_iphoneos-arm64e.deb
+Size: 3008304
+MD5sum: aa85aeeb647b18576a609902d4abf1df
+SHA1: ed2942752476481f36e9bfcafdf76e4f7da16fdb
+SHA256: 49eb6bfc99176517bbf16f07552afe220365c2275678ae136d52ad37f6819f28
+Section: 微信插件
+Description: 微信优化的重制版本，WCRefine基于微信8.0.64版本制作。
+Author: 热心网友
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCRefine
+
+Package: com.qimiao.WCRefine
+Version: 1.1-3
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.qimiao.WCRefine_1.1-3_iphoneos-arm64.deb
+Size: 1134300
+MD5sum: bceb58d7ba71471b164ae52d3c600ffd
+SHA1: 25863e87d7287c2d5d827d5df393f88c0302a3de
+SHA256: 9f9889eeb0c257e9b284c2c5ce429ae76a931d44a7292c2f13e89beffb9a74b4
+Section: 微信插件
+Description: 微信优化的重制版本，WCRefine基于微信8.0.64版本制作。
+Author: 热心网友
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCRefine
+
 Package: com.qqnotiavatar
 Version: 1.2-2
 Architecture: iphoneos-arm64
@@ -24727,6 +24760,41 @@ Size: 69892
 MD5sum: a95fbdc095c2310c401f8a0dcebbe878
 SHA1: 1ccde5afc8020c23b2bfa1a5f441916664ae2503
 SHA256: 9c4eab731925672c87b0f56c391abdfa4f5225d1a50f94b47dd4fa51d5e86348
+Section: 插件
+Description: Swiftgram Pro。附加解除下载保护/解除截图保护，支持当前最新版12.2(解锁Pro首次登录需重启一次应用)
+Author: Netskao
+Icon: https://sini921.github.io/repo/sileodepiction/icon/swiftgramcrack.png
+Name: Swiftgram Pro
+
+Package: com.wkk.swiftgramcrack
+Version: 1.1-7
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 224
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: ./debs/com.wkk.swiftgramcrack_1.1-7_iphoneos-arm64.deb
+Size: 423488
+MD5sum: 5864ae91f39c1280f2435eb9033c3e66
+SHA1: a6a614a34e4dd5e0751c0b02d1ec69653f999517
+SHA256: c58247f25155c75345ef67b2a1004735389838fb298f1da0dab6555551fa5274
+Section: 插件
+Description: Swiftgram Pro。附加解除下载保护/解除截图保护，支持当前最新版12.2(解锁Pro首次登录需重启一次应用)
+Author: Netskao
+Icon: https://sini921.github.io/repo/sileodepiction/icon/swiftgramcrack.png
+Name: Swiftgram Pro
+
+Package: com.wkk.swiftgramcrack
+Version: 1.1-7
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 224
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: ./debs/com.wkk.swiftgramcrack_1.1-7_iphoneos-arm64e.deb
+Size: 573460
+MD5sum: 04fd9e472017ff219a42f73f3642ab0c
+SHA1: 17c37c8090613ec50e3ca32f9a909b98a5248a00
+SHA256: dfb38a1ca9e801394cf79fe466f38cf03c6703c5def51d1e2488eac8d3dd19d7
 Section: 插件
 Description: Swiftgram Pro。附加解除下载保护/解除截图保护，支持当前最新版12.2(解锁Pro首次登录需重启一次应用)
 Author: Netskao
