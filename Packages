@@ -14462,6 +14462,22 @@ Description: InjectIPA Tool
 Author: Netskao
 Name: injectipa
 
+Package: com.netskao.injectipa
+Version: 1.5-7
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 1064
+Depends: firmware (>= 14.0)
+Filename: ./debs/com.netskao.injectipa_1.5-7_iphoneos-arm64.deb
+Size: 416644
+MD5sum: 846ceefa2abb8ab935ce8627c657622f
+SHA1: a42f1c7634fd3ae2f09306ae75f03280fbf1c87f
+SHA256: 4c7edd99ac0ee820354f404b413ea3168001ba20afd9030a5680dcc3c80283b1
+Section: Tweaks
+Description: InjectIPA Tool
+Author: Netskao
+Name: injectipa
+
 Package: com.netskao.storeswitchaccounts
 Version: 1.1-4
 Architecture: iphoneos-arm64
@@ -16092,6 +16108,39 @@ Size: 1134300
 MD5sum: bceb58d7ba71471b164ae52d3c600ffd
 SHA1: 25863e87d7287c2d5d827d5df393f88c0302a3de
 SHA256: 9f9889eeb0c257e9b284c2c5ce429ae76a931d44a7292c2f13e89beffb9a74b4
+Section: 微信插件
+Description: 微信优化的重制版本，WCRefine基于微信8.0.64版本制作。
+Author: 热心网友
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCRefine
+
+Package: com.qimiao.WCRefine
+Version: 1.1-5
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.qimiao.WCRefine_1.1-5_iphoneos-arm64.deb
+Size: 1135156
+MD5sum: b617a44d4a7e1c46f116534ff430ff16
+SHA1: fa077a7d15799ffce7ff58158ba01fd7238d677d
+SHA256: 45536e548451920e5c87649c60f1747f841a842038023276e2ffa998090da52a
+Section: 微信插件
+Description: 微信优化的重制版本，WCRefine基于微信8.0.64版本制作。
+Author: 热心网友
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCRefine
+
+Package: com.qimiao.WCRefine
+Version: 1.1-5
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.qimiao.WCRefine_1.1-5_iphoneos-arm64e.deb
+Size: 3026188
+MD5sum: d7c17dd9eb52eaeebf83b44fda1e88fd
+SHA1: aaea52731d6b17ec163fa6c51316394dbb46047c
+SHA256: 43004b45dacbeb96d590fc3f0379544df971d7e471a69e5d1aadd705b0d5baee
 Section: 微信插件
 Description: 微信优化的重制版本，WCRefine基于微信8.0.64版本制作。
 Author: 热心网友
