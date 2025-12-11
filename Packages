@@ -3211,39 +3211,6 @@ Author: AnthoPak <anthopakdev@gmail.com>
 Icon: https://repo.anthopak.dev/assets/com.anthopak.addtofolder-rootless/icon.png
 Name: AddToFolder
 
-Package: com.anthopak.quickprefs
-Version: 1.3.3
-Architecture: iphoneos-arm64
-Maintainer: AnthoPak <anthopakdev@gmail.com>
-Depends: firmware (>=11.0), mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 11.0)
-Filename: ./debs/com.anthopak.quickprefs_1.3.3_iphoneos-arm64.deb
-Size: 511260
-MD5sum: 7bc12d269d3dcee0a8a6a67f49c44e32
-SHA1: a29e0e3f6189620cd722cc22df4684a12f69f5e9
-SHA256: 9a062827337ce9bca7f3cdbca52ab0fd433b1328298b935af3db09815aee6ffb
-Section: 插件
-Description: 设置里的项目抓取。上架备份。
-Author: AnthoPak <anthopakdev@gmail.com>
-Icon: https://s1.imagehub.cc/images/2025/01/24/137ad8ab011c468fac23f82c8eb7c050.png
-Name: QuickPrefs
-
-Package: com.anthopak.quickprefs
-Version: 1.3.3
-Architecture: iphoneos-arm64e
-Maintainer: AnthoPak <anthopakdev@gmail.com>
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>=11.0), mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 11.0)
-Filename: ./debs/com.anthopak.quickprefs_1.3.3_iphoneos-arm64e.deb
-Size: 528946
-MD5sum: 7922ede848dc032aba1869e8819e8439
-SHA1: a53e7dde02c83cfc9bb5fad8b25c73d56bdb3464
-SHA256: d767a974ca674db1d2c85e7668ff4fb23a36c5d643d68b6d9714767d74f84810
-Section: 插件
-Description: 设置里的项目抓取。上架备份。
-Author: AnthoPak <anthopakdev@gmail.com>
-Icon: https://s1.imagehub.cc/images/2025/01/24/137ad8ab011c468fac23f82c8eb7c050.png
-Name: QuickPrefs
-
 Package: com.apple.wechat.noads
 Version: 1.2.0
 Architecture: iphoneos-arm64
@@ -15706,43 +15673,6 @@ Author: Netskao
 Icon: https://s1.imagehub.cc/images/2025/01/02/1f360cca7bfc5ce3ee351e00d05428e7.png
 Name: QQ通知头像
 
-Package: com.qwq.ceshi
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: qwq
-Installed-Size: 168
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.qwq.ceshi_1.0_iphoneos-arm64e.deb
-Size: 4970
-MD5sum: 879979d744b8d43f2af76f0e5ab52d6e
-SHA1: 6b14d946775ddf8fecad2ad61f004bc82063e20e
-SHA256: cd5d613859c7521993dcd2550f84346c17432fdf918475d72c4550f14e308722
-Section: 微信插件
-Priority: optional
-Description: 统一表情背景色，仅供学习交流，请在 24 小时内自觉删除。
-Author: qwq
-Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
-Name: 测试
-
-Package: com.qwq.ceshi
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: qwq
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.qwq.ceshi_1.0_iphoneos-arm64.deb
-Size: 3580
-MD5sum: 9ec72cd92ddb7f1794c1e90838b1c823
-SHA1: fe15d016a8c97d83c53386024d8188d04083cfaa
-SHA256: ce4c4e2ab3225466bf643966978ac283fa3a9e8fc6dcc885320b512133d2b857
-Section: 微信插件
-Priority: optional
-Description: 统一表情背景色，仅供学习交流，请在 24 小时内自觉删除。
-Author: qwq
-Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
-Name: 测试
-
 Package: com.randy420.tools
 Version: 2.3.9
 Architecture: iphoneos-arm64e
@@ -20055,44 +19985,6 @@ Author: vita
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WCHook（改版）
 
-Package: com.vita.yuki
-Version: 0.0-9
-Architecture: iphoneos-arm64
-Maintainer: vita
-Installed-Size: 684
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.vita.yuki_0.0-9_iphoneos-arm64.deb
-Size: 124188
-MD5sum: 7c7d10f175e5d294e01ceb2afd72f3a8
-SHA1: b87b0091dce0e5b959be1ec263c02643a64bf413
-SHA256: ea504483666270b6c785e34ace81eb69f742262a525f827cf74cc67e2a2fc517
-Section: 抖音插件
-Priority: optional
-Homepage: https://github.com/wtrwx
-Description: 免费插件，随缘更新。
-Author: vita
-Icon: https://Mieing.Github.io/icon/TikTok.png
-Name: Yuki
-
-Package: com.vita.yuki
-Version: 0.0-9
-Architecture: iphoneos-arm64e
-Maintainer: vita
-Installed-Size: 684
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.vita.yuki_0.0-9_iphoneos-arm64e.deb
-Size: 124104
-MD5sum: 63426955d503e33c36f060a537cbd6b5
-SHA1: 07d7015a597df47f11bec909944aac8bc9d8e4a1
-SHA256: 352512e6d56684f99d3d8242907ac65ab58dd137b5ef1c8cc339ec824b681a55
-Section: 抖音插件
-Priority: optional
-Homepage: https://github.com/wtrwx
-Description: 免费插件，随缘更新。
-Author: vita
-Icon: https://Mieing.Github.io/icon/TikTok.png
-Name: Yuki
-
 Package: com.wctextcolor
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -21341,6 +21233,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/11/14/f1023fd8a63f7323cc3bf502e4e91a53.png
 Name: 爱奇艺NoAds
 
+Package: com.wkk.aqyhook
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.aqyhook_1.0-2_iphoneos-arm64.deb
+Size: 4000
+MD5sum: 48570d0bd09127dd8aaef3b6260e9a32
+SHA1: 41952f7e8b28298ef05dfa4cc186c338d188b59c
+SHA256: c46e45b2fa9cc8c0bd78b9acf6efd9e83bcfea22076b05a0c99a88c45abd52b5
+Section: 去广告
+Description: 去开屏广告和我的页面广告，版本：16.11.8，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/11/14/f1023fd8a63f7323cc3bf502e4e91a53.png
+Name: 爱奇艺NoAds
+
+Package: com.wkk.aqyhook
+Version: 1.0-2
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.aqyhook_1.0-2_iphoneos-arm64e.deb
+Size: 5626
+MD5sum: 055c5f4334cb97899760b24e5cd6c61c
+SHA1: f26c941ae35e5c9adc8ce25e171e25f2d79482f9
+SHA256: f0d50e173063cabe32327594961cf6f84a94770c03fbdc8d7fb5eae80060c43c
+Section: 去广告
+Description: 去开屏广告和我的页面广告，版本：16.11.8，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/11/14/f1023fd8a63f7323cc3bf502e4e91a53.png
+Name: 爱奇艺NoAds
+
 Package: com.wkk.autofillfix
 Version: 0.1
 Architecture: iphoneos-arm64
@@ -21731,199 +21658,78 @@ Icon: https://s1.imagehub.cc/images/2025/01/21/b5fcd38fb9f974d8467fc93c3aa7902f.
 Name: CCBorder15
 
 Package: com.wkk.center
-Version: 4.0
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Installed-Size: 114
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), com.opa334.ccsupport
-Filename: ./debs/com.wkk.center_4.0_iphoneos-arm64.deb
-Size: 180980
-MD5sum: 5e75c6e326656372aba2f5ff5a62d35e
-SHA1: 52ccb075abb747d2fc938042ebaef152237b23d5
-SHA256: 36f81c97c65ea600fa17ad711db80ced6260000e70e4a3f6163ab41c77a56107
-Section: 控制中心
-Description: 自用。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/02/26/166e68a0d7051c2d58cb26a4fc284b5b.png
-Name: wkkCenter
-Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/wkkkzzx.json
-Sponsor: wkk
-
-Package: com.wkk.center
-Version: 4.0
+Version: 1.1-3
 Architecture: iphoneos-arm64e
 Maintainer: wkk
 Installed-Size: 114
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), com.opa334.ccsupport
-Filename: ./debs/com.wkk.center_4.0_iphoneos-arm64e.deb
-Size: 221476
-MD5sum: 71de422d27484b36c8e826b486f709df
-SHA1: 9385f53c4f0d9257673103c2deb13bcf1d393644
-SHA256: b35b478b753ab613998003fbc6fcf880924ee6d728585549f1a8774328e83532
+Filename: ./debs/com.wkk.center_1.1-3_iphoneos-arm64e.deb
+Size: 580516
+MD5sum: 42b15b5f072f0405a03ae2cf9a633611
+SHA1: 5b74ef06992d21066b027ced5774d6aeb58cb9d8
+SHA256: 52ddd956ed375e9b0a0d1ec27426e5d3b25776c10239d1f1ca0ffd58503da356
 Section: 控制中心
 Description: 自用。
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/26/166e68a0d7051c2d58cb26a4fc284b5b.png
 Name: wkkCenter
-Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/wkkkzzx.json
 Sponsor: wkk
 
 Package: com.wkk.center
-Version: 4.1
-Architecture: iphoneos-arm64e
-Maintainer: wkk
-Installed-Size: 114
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), com.opa334.ccsupport
-Filename: ./debs/com.wkk.center_4.1_iphoneos-arm64e.deb
-Size: 274478
-MD5sum: 8ed572405b4a2d4ec71f54294ae509b7
-SHA1: a193a87b0f0f10926e9fb854632410789d768ff0
-SHA256: 6e3c48e7d01ab676084f77b7f45e7fbb1e7071a41e6a875eb60aea3f942fb07e
-Section: 控制中心
-Description: 自用。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/02/26/166e68a0d7051c2d58cb26a4fc284b5b.png
-Name: wkkCenter
-Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/wkkkzzx.json
-Sponsor: wkk
-
-Package: com.wkk.center
-Version: 4.1
+Version: 1.1-3
 Architecture: iphoneos-arm64
 Maintainer: wkk
 Installed-Size: 114
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), com.opa334.ccsupport
-Filename: ./debs/com.wkk.center_4.1_iphoneos-arm64.deb
-Size: 195592
-MD5sum: 678c6c7202b919d705a79d6b731d475b
-SHA1: c07ec766372e0d3a936d3af60a4def6b244b1a00
-SHA256: 4830ab1198472b912884a1a61d9a9ccd9826ec8f1fb82a32d950596b98ff4e87
+Filename: ./debs/com.wkk.center_1.1-3_iphoneos-arm64.deb
+Size: 250868
+MD5sum: 05a69fc50d2e18ba1220b041082d7efe
+SHA1: 0ab7a2671877eb674f29b4b7b0d9dc7c8c5ac9a7
+SHA256: 4e350edcc34fe10b1d042559209a1652878ed19311edcf19f96f9ea0f9a10f89
 Section: 控制中心
 Description: 自用。
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/26/166e68a0d7051c2d58cb26a4fc284b5b.png
 Name: wkkCenter
-Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/wkkkzzx.json
 Sponsor: wkk
 
-Package: com.wkk.center
-Version: 4.2
-Architecture: iphoneos-arm64e
-Maintainer: wkk
-Installed-Size: 114
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), com.opa334.ccsupport
-Filename: ./debs/com.wkk.center_4.2_iphoneos-arm64e.deb
-Size: 469770
-MD5sum: 90d9f20024e07e17d13d3ff9d6ed4635
-SHA1: 12999e7eba63684d985053c9e56b53c50a79c7bb
-SHA256: ae54c07ec1a66c01bc32f3636eb775cbc83b6cab3c930c98929f1cd626c2e2f0
-Section: 控制中心
-Description: 自用。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/02/26/166e68a0d7051c2d58cb26a4fc284b5b.png
-Name: wkkCenter
-Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/wkkkzzx.json
-Sponsor: wkk
-
-Package: com.wkk.center
-Version: 4.2
+Package: com.wkk.ceshi
+Version: 1.0
 Architecture: iphoneos-arm64
-Maintainer: wkk
-Installed-Size: 114
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), com.opa334.ccsupport
-Filename: ./debs/com.wkk.center_4.2_iphoneos-arm64.deb
-Size: 208800
-MD5sum: 2c89ddd3ad3f8ecd8d298cd6aaa79690
-SHA1: f8f72bbe1c8e640b1a16908a342742e7119c03ca
-SHA256: f913bc88340b3acf7960a32b250f34f4af34ac125cde52dc12b45f9dfc251e33
-Section: 控制中心
-Description: 自用。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/02/26/166e68a0d7051c2d58cb26a4fc284b5b.png
-Name: wkkCenter
-Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/wkkkzzx.json
-Sponsor: wkk
+Maintainer: qwq
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.ceshi_1.0_iphoneos-arm64.deb
+Size: 3640
+MD5sum: b7f100181f2f0e070a6f71b5fa7092d9
+SHA1: 6a2eee1b794b3e46dca5df345badceb97b4651f3
+SHA256: 11b8c1de3391d8d938ee8730cc2e06296f32256881c52d53ebdda532c272e098
+Section: 微信插件
+Priority: optional
+Description: 统一表情背景色，仅供学习交流，请在 24 小时内自觉删除。
+Author: qwq
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatEmoticoncolorsocool
 
-Package: com.wkk.center
-Version: 4.3
+Package: com.wkk.ceshi
+Version: 1.0
 Architecture: iphoneos-arm64e
-Maintainer: wkk
-Installed-Size: 114
+Maintainer: qwq
+Installed-Size: 168
 Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), com.opa334.ccsupport
-Filename: ./debs/com.wkk.center_4.3_iphoneos-arm64e.deb
-Size: 213904
-MD5sum: 78cfbb4b262cd3719bad1ceeb394a5df
-SHA1: 4fda31b119c3ada89d95485d6ff1da7cd2e16700
-SHA256: fd9ac402a2c8868d6b5ea15e8b25df6996aaf46ce32ba7400c0d2b709c963014
-Section: 控制中心
-Description: 自用。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/02/26/166e68a0d7051c2d58cb26a4fc284b5b.png
-Name: wkkCenter
-Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/wkkkzzx.json
-Sponsor: wkk
-
-Package: com.wkk.center
-Version: 4.3
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Installed-Size: 114
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), com.opa334.ccsupport
-Filename: ./debs/com.wkk.center_4.3_iphoneos-arm64.deb
-Size: 208652
-MD5sum: c7964460272ffc29195e78ba0ead16ea
-SHA1: 49cad1fb105082ba7a74f9941f66883564e3b3f1
-SHA256: f69660df815bf5e3ebe3bb84849a9c420b0c34e15b49ac6b9fc2586d3d77f0db
-Section: 控制中心
-Description: 自用。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/02/26/166e68a0d7051c2d58cb26a4fc284b5b.png
-Name: wkkCenter
-Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/wkkkzzx.json
-Sponsor: wkk
-
-Package: com.wkk.center
-Version: 4.4
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Installed-Size: 114
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), com.opa334.ccsupport
-Filename: ./debs/com.wkk.center_4.4_iphoneos-arm64.deb
-Size: 224736
-MD5sum: b535a3b497e5d2ddf4ddd11dd9f2c342
-SHA1: 34977cb25a013cac5fefc37fce5c84070847b408
-SHA256: e8b3784d06fc5d4001df4e453a03809b5d971d5392b2e8cb5986c75ba9c7f641
-Section: 控制中心
-Description: 自用。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/02/26/166e68a0d7051c2d58cb26a4fc284b5b.png
-Name: wkkCenter
-Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/wkkkzzx.json
-Sponsor: wkk
-
-Package: com.wkk.center
-Version: 4.4
-Architecture: iphoneos-arm64e
-Maintainer: wkk
-Installed-Size: 114
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), com.opa334.ccsupport
-Filename: ./debs/com.wkk.center_4.4_iphoneos-arm64e.deb
-Size: 527724
-MD5sum: 9172d9f368d8667b94f42646aa7c2a22
-SHA1: bd4c4347a6b635e8703055e9675429aa28e0bd7d
-SHA256: 704dc98db38dd888251be6a20773d8451615a33a9cb5d70ea85f7f95850bd1c0
-Section: 控制中心
-Description: 自用。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/02/26/166e68a0d7051c2d58cb26a4fc284b5b.png
-Name: wkkCenter
-Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/wkkkzzx.json
-Sponsor: wkk
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.ceshi_1.0_iphoneos-arm64e.deb
+Size: 5094
+MD5sum: 03bc05bfb7fd2a9f79db38e6a645c1bb
+SHA1: a4bc125901acd47277bfe60eb6f30ac155e77736
+SHA256: 3bcacec36ed11ee8fd530cd3cbead0a71958b7609d0ff006a052fae6023e665b
+Section: 微信插件
+Priority: optional
+Description: 统一表情背景色，仅供学习交流，请在 24 小时内自觉删除。
+Author: qwq
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatEmoticoncolorsocool
 
 Package: com.wkk.commandmodule
 Version: 1.0
@@ -22734,6 +22540,39 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/04/29/6397f5e889e38d2f3facd7d8f0553b8d.png
 Name: 中国联通NoAds
 
+Package: com.wkk.fuckltads
+Version: 1.0-4
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/com.wkk.fuckltads_1.0-4_iphoneos-arm64.deb
+Size: 3332
+MD5sum: e8f77e57ef53105fd88b77822e7d94e5
+SHA1: 6d3669ec5a672c9e6b89cbf878746121a8df3d53
+SHA256: 83d35e103a1f9e96eba23681535f410f3c8cbda3b74acc317a1e60b349b5f150
+Section: 去广告
+Description: 去开屏广告，版本：12.8.1，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/04/29/6397f5e889e38d2f3facd7d8f0553b8d.png
+Name: 中国联通NoAds
+
+Package: com.wkk.fuckltads
+Version: 1.0-4
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/com.wkk.fuckltads_1.0-4_iphoneos-arm64e.deb
+Size: 4550
+MD5sum: f0e0c9f7628267cecb20518aab73edd8
+SHA1: 4eec69bfc37f0674e528eaca5a835707f22f0e0b
+SHA256: 6f224f208243c460d88d5a788fbfa9283bff0bbde489b136f716335af345a4e0
+Section: 去广告
+Description: 去开屏广告，版本：12.8.1，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/04/29/6397f5e889e38d2f3facd7d8f0553b8d.png
+Name: 中国联通NoAds
+
 Package: com.wkk.fuckydads
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -22763,6 +22602,39 @@ SHA1: 8358fa4b28108782c7dcf8c9878562d148e4f277
 SHA256: d5c52310c4e98ef948e8684a61be3514665c972e963e7067f2caaa3e2b1460d9
 Section: 去广告
 Description: 去开屏广告，版本：11.6.0 群友测试最新版也可以（开源代码：🐝🐶）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/04/29/b34966d282c3e310d25255d207346202.png
+Name: 中国移动NoAds
+
+Package: com.wkk.fuckydads
+Version: 1.0-4
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/com.wkk.fuckydads_1.0-4_iphoneos-arm64.deb
+Size: 3212
+MD5sum: 764239e0ca7d2ec47d843b7d2fc257eb
+SHA1: 6ca74912492cbe07fa748bce98af00f5bc7e5515
+SHA256: 4a88ce9a3439baf9c261557a29cdee28b71b2953130f790fdd4d92a561263a08
+Section: 去广告
+Description: 去开屏广告，版本：12.0.2，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/04/29/b34966d282c3e310d25255d207346202.png
+Name: 中国移动NoAds
+
+Package: com.wkk.fuckydads
+Version: 1.0-4
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/com.wkk.fuckydads_1.0-4_iphoneos-arm64e.deb
+Size: 4384
+MD5sum: 07d98502503625f8e89fe90d3a2967b8
+SHA1: fc6a956df2671966ff894f91672c88551c1f4a79
+SHA256: 7237f04107dff336f7c168b9e15c3568f8d9f1fbf559162dbb8bbbe93eee90b2
+Section: 去广告
+Description: 去开屏广告，版本：12.0.2，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/04/29/b34966d282c3e310d25255d207346202.png
 Name: 中国移动NoAds
@@ -24251,6 +24123,72 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/05/24/565d1c832919445be395db0b02f6a39c.png
 Name: 汽水音乐NoBottombar
 
+Package: com.wkk.qsyyhook
+Version: 1.0-2
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/com.wkk.qsyyhook_1.0-2_iphoneos-arm64e.deb
+Size: 5934
+MD5sum: 4853bf3607c982107d0356ef05708faa
+SHA1: 3ef881eb4f5ab21e612f68e9f39ccbd469f6966e
+SHA256: 07ab5137b4b0bb81a5721c8ac52dbb204a6f553e86435b2867f62e8367ec5bb1
+Section: 去广告
+Description: 精简汽水音乐底栏，去掉“听抖音”“福利”按钮。测试版本：13.5.0，需要全部去除请降级1.0版本，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/05/24/565d1c832919445be395db0b02f6a39c.png
+Name: 汽水音乐NoBottombar
+
+Package: com.wkk.qsyyhook
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/com.wkk.qsyyhook_1.0-2_iphoneos-arm64.deb
+Size: 4208
+MD5sum: 3c380fa6784e9152ab89428f4bbd7724
+SHA1: 555747f877b7b29e673504e4e23d7dedca021725
+SHA256: 6a91f8d47781919d2b95504742bbd2607a06b7c074ce2d9b23667ca9c3d46762
+Section: 去广告
+Description: 精简汽水音乐底栏，去掉“听抖音”“福利”按钮。测试版本：13.5.0，需要全部去除请降级1.0版本，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/05/24/565d1c832919445be395db0b02f6a39c.png
+Name: 汽水音乐NoBottombar
+
+Package: com.wkk.quickprefs
+Version: 1.3.3-1
+Architecture: iphoneos-arm64e
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>=11.0), mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 11.0)
+Filename: ./debs/com.wkk.quickprefs_1.3.3-1_iphoneos-arm64e.deb
+Size: 538176
+MD5sum: 7019f4979db9ff4af233d2ed8875a97d
+SHA1: 11b6df478385ef3e594027c967e54ad2e96089ca
+SHA256: c3aa6a2d16cb309552a5c22ed13a0c0d81e071685ca19f36811b65931e4871a8
+Section: Tweaks
+Description: 设置里的项目抓取，已汉化，上架备份。
+Author: AnthoPak <anthopakdev@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/01/24/137ad8ab011c468fac23f82c8eb7c050.png
+Name: QuickPrefs
+
+Package: com.wkk.quickprefs
+Version: 1.3.3-1
+Architecture: iphoneos-arm64
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Depends: firmware (>=11.0), mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 11.0)
+Filename: ./debs/com.wkk.quickprefs_1.3.3-1_iphoneos-arm64.deb
+Size: 511164
+MD5sum: 95b46512151fdb0cc7b598ed1c2b8973
+SHA1: ba6e11a019702a2b7cc81f13a4cbef8cdff6ddc9
+SHA256: d6fe5f098fb4ea261dc380621b9d0d5c6549900128609aafc238d8c3caa366e6
+Section: Tweaks
+Description: 设置里的项目抓取，已汉化，上架备份。
+Author: AnthoPak <anthopakdev@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/01/24/137ad8ab011c468fac23f82c8eb7c050.png
+Name: QuickPrefs
+
 Package: com.wkk.randomicons
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -24728,6 +24666,37 @@ Description: 用这款传奇的插件重塑你的原生键盘，自带我的预�
 Author: MiRO <tweaks_support@miro92.com>
 Icon: https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
 Name: SwipeExtenderX
+
+Package: com.wkk.theosgui
+Version: 1.2.3
+Architecture: iphoneos-arm64e
+Maintainer: IosBX
+Installed-Size: 2676
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.wkk.theosgui_1.2.3_iphoneos-arm64e.deb
+Size: 1760044
+MD5sum: 6f4622cb24be3551c0bd42755d28f23d
+SHA1: 237a8c5f3b583be58e971bfeeed94d2e8629cfb1
+SHA256: ab6b806b857cd90f5dd6c7993fec88ee2aea284c0fa94820041c35c1d0573b48
+Section: 应用程序
+Description: Theos 图形化开发工具，直观的可视化界面，一键创建、管理、编译和安装项目。
+Author: IosBX
+Name: TheosGUI
+
+Package: com.wkk.theosgui
+Version: 1.2.3
+Architecture: iphoneos-arm64
+Maintainer: IosBX
+Installed-Size: 2676
+Filename: ./debs/com.wkk.theosgui_1.2.3_iphoneos-arm64.deb
+Size: 646980
+MD5sum: 6d1d06d78bb8714f85de1a093f6dd8bf
+SHA1: 7550f4c37a585e2cb4a3db9a37372718a88dcc1b
+SHA256: 09a40dcf5ae7a962a6ce1a812d13a7150aaf64f8d2ec21d965b3b8388f13aff9
+Section: 应用程序
+Description: Theos 图形化开发工具，直观的可视化界面，一键创建、管理、编译和安装项目。
+Author: IosBX
+Name: TheosGUI
 
 Package: com.wkk.tiebahook
 Version: 1.0-5
@@ -26823,6 +26792,24 @@ Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.
 Name: 遮罩集合大全
 Sponsor: bdzt
 
+Package: com.zqbb.Snapper3
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: zqbb
+Installed-Size: 92
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.zqbb.Snapper3_1.0-1_iphoneos-arm64e.deb
+Size: 5372
+MD5sum: a6993c29ad4917f74020b8160c0c108c
+SHA1: 1ad43dc95ddb716c5672aa7591b50092245d33db
+SHA256: 381155d672ff5d706e0da82b0b82a9d80e59e98f32df96ba5b0bbbd15d2cfaca
+Section: Tweaks
+Description: 不会拉屎的版本。
+Author: zqbb
+Icon: https://s1.imagehub.cc/images/2025/01/01/6649d33bb5c1426f31fa0d05bddce392.png
+Name: Snapper3扩展
+
 Package: com.zqbb.iconshadows
 Version: 1.1
 Architecture: iphoneos-arm64e
@@ -28198,104 +28185,6 @@ Description: 最好用的跳过密码插件。
 Author: Geometric Software
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: IntelligentPass 5
-
-Package: u.blanxd.opensshcc
-Version: 1.1.0
-Architecture: iphoneos-arm64
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 166
-Depends: firmware (>= 11), openssh-server | openssh, mobilesubstrate, com.opa334.ccsupport, u.blanxd.sshswitch
-Breaks: u.blanxd.sshoncc (<< 1.5~b3)
-Replaces: u.blanxd.sshoncc (<< 1.5~b3)
-Filename: ./debs/u.blanxd.opensshcc_1.1.0_iphoneos-arm64.deb
-Size: 14268
-MD5sum: 4b489a0d501c3fdd06f960bcca1c9103
-SHA1: b451cb8ba235bcc399d585dab5a79fd600d28b7d
-SHA256: 20cea070b4b95b194672b6df4c0ea928e2a7c05b84e823e7fd722f6dcecd5173
-Section: Addons (ControlCenter)
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=opensshccDp
-Description: OpenSSH toggle in CC
-Tag: purpose::extension
-Author: BlanxdH <blanxd.h@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=opensshccDp
-Dev: blanxd
-Icon: file:///Library/ControlCenter/Bundles/SSHonCC.bundle/SettingsIcon@2x.png
-Name: OpenSSH CC Toggle
-Sponsor: thebigboss.org <http://thebigboss.org>
-
-Package: u.blanxd.opensshcc
-Version: 1.1.0
-Architecture: iphoneos-arm64e
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 166
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 11), openssh-server | openssh, mobilesubstrate, com.opa334.ccsupport, u.blanxd.sshswitch
-Breaks: u.blanxd.sshoncc (<< 1.5~b3)
-Replaces: u.blanxd.sshoncc (<< 1.5~b3)
-Filename: ./debs/u.blanxd.opensshcc_1.1.0_iphoneos-arm64e.deb
-Size: 18260
-MD5sum: c77f2c7a614ecb9d8a06a7c6926bf591
-SHA1: 26462a3268c764b9e69cc1ae169c5ec0a40ac8d5
-SHA256: 0cd9f1534658e64c842efa0d999fee579679c50fcfd57a989ff7b5f47334b5f1
-Section: Addons (ControlCenter)
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=opensshccDp
-Description: OpenSSH toggle in CC
-Tag: purpose::extension
-Author: BlanxdH <blanxd.h@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=opensshccDp
-Dev: blanxd
-Icon: file:///Library/ControlCenter/Bundles/SSHonCC.bundle/SettingsIcon@2x.png
-Name: OpenSSH CC Toggle
-Sponsor: thebigboss.org <http://thebigboss.org>
-
-Package: u.blanxd.opensshport
-Version: 1.1.0
-Architecture: iphoneos-arm64e
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 241
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: cy+cpu.arm64 | firmware (>= 11), openssh-server | openssh, preferenceloader, u.blanxd.sshswitch
-Breaks: u.blanxd.sshoncc (<= 1.4.0)
-Replaces: u.blanxd.sshoncc (<= 1.4.0)
-Filename: ./debs/u.blanxd.opensshport_1.1.0_iphoneos-arm64e.deb
-Size: 45786
-MD5sum: d9588e508defbb3ffb05b2e181a3f7f1
-SHA1: 05699f3cf6fdab1231cbf3ee23fe93a23c4a6036
-SHA256: 64c0a3b44723b39fbb01789db3d407a8c81961df539bc54d2a02171d367edbe9
-Section: Security
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=opensshportDp
-Description: OpenSSH menu in Settings
-Tag: purpose::extension
-Author: BlanxdH <blanxd.h@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=opensshportDp
-Dev: blanxd
-Icon: file:///Library/PreferenceBundles/OpenSshPort.bundle/OpenSshPort@2x.png
-Name: OpenSSH Settings
-Sponsor: thebigboss.org <http://thebigboss.org>
-
-Package: u.blanxd.opensshport
-Version: 1.1.0
-Architecture: iphoneos-arm64
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 241
-Depends: cy+cpu.arm64 | firmware (>= 11), openssh-server | openssh, preferenceloader, u.blanxd.sshswitch
-Breaks: u.blanxd.sshoncc (<= 1.4.0)
-Replaces: u.blanxd.sshoncc (<= 1.4.0)
-Filename: ./debs/u.blanxd.opensshport_1.1.0_iphoneos-arm64.deb
-Size: 34144
-MD5sum: 3da3cb02a9821db59cc5847ab1216a6c
-SHA1: d805c044286a3035b6108e8c670aadc63bd37a9f
-SHA256: ce0692ef57ff2e8cd0fc9462ffb50a85066385e294a3409376b12f636c4872bb
-Section: Security
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=opensshportDp
-Description: OpenSSH menu in Settings
-Tag: purpose::extension
-Author: BlanxdH <blanxd.h@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=opensshportDp
-Dev: blanxd
-Icon: file:///Library/PreferenceBundles/OpenSshPort.bundle/OpenSshPort@2x.png
-Name: OpenSSH Settings
-Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: u.blanxd.sshswitch
 Version: 1.1.0
