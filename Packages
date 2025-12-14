@@ -12019,6 +12019,23 @@ Author: Huayuarc
 Icon: https://s1.imagehub.cc/images/2025/08/31/c45d144244f9bebeeddf036d52eb630a.jpeg
 Name: 来通知不亮屏
 
+Package: com.hw.zgnyyh
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: 🄷🅆
+Installed-Size: 2072
+Depends: mobilesubstrate
+Filename: ./debs/com.hw.zgnyyh_0.0.1_iphoneos-arm64.deb
+Size: 360900
+MD5sum: a7458a7f4938ca3c694f6e401937b878
+SHA1: cfc8b054789e90be7141b4fcc1b8d21fae94e680
+SHA256: 17b9663a7a5ce6cc6f07d78196114efcb2a90bef0b4d8d112069d9a57c01e843
+Section: Tweaks
+Description: 仅越狱使用，某农某行，安全绕过限制，关闭任何屏蔽插件，仅支持越狱安装deb，多巴胺无根测试10.2.1版，如果装了“魔术师”请卸载。
+Author: 🄷🅆
+Icon: https://s1.imagehub.cc/images/2025/12/13/79a27a347eac08b4f6e29dbc7775fe10.png
+Name: 农业银行NoJB
+
 Package: com.iamdega.mginspector
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -17740,6 +17757,41 @@ Icon: https://www.susubaby.top/json/ReachPlayer/icon.png
 Name: ReachPlayer音乐专辑
 Sileodepiction: https://www.susubaby.top/json/ReachPlayer/js.json
 
+Package: com.susu.snapper3.picta
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: SuSu
+Installed-Size: 180
+Depends: mobilesubstrate, com.jontelang.snapper3 (>= 1.1.1)
+Filename: ./debs/com.susu.snapper3.picta_1.0_iphoneos-arm64.deb
+Size: 10600
+MD5sum: 3efe9330315ab80f8204f1724c12abc5
+SHA1: 1a9f8bdc5f90a1bcdcaaeffd82633aff9791ae5c
+SHA256: c0b4a418f76cdd53ac2124c7e174576dfc2522a80e0ece8935e4c2901fa7f784
+Section: Tweaks
+Description: Picta适配 Snapper3 的插件
+Author: SuSu
+Icon: https://s1.imagehub.cc/images/2025/12/13/f934f840753cc376919f03e706ab50ab.png
+Name: Picta
+
+Package: com.susu.snapper3.picta
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: SuSu
+Installed-Size: 180
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, com.jontelang.snapper3 (>= 1.1.1)
+Filename: ./debs/com.susu.snapper3.picta_1.0.0_iphoneos-arm64e.deb
+Size: 11608
+MD5sum: 76bd3ba80b8adafd3703f6040610c548
+SHA1: d2fe029ba0ed80d5db8fc18b194130006dd50fba
+SHA256: 0c9b8d5e688aadb587b1396e8a9da63dcfd10c782fd0cd7038dc67c9a9efba32
+Section: Tweaks
+Description: Picta适配 Snapper3 的插件
+Author: SuSu
+Icon: https://s1.imagehub.cc/images/2025/12/13/f934f840753cc376919f03e706ab50ab.png
+Name: Picta
+
 Package: com.susu.springanimation
 Version: 1.0.1
 Architecture: iphoneos-arm64
@@ -21675,6 +21727,23 @@ Author: therealhoodboy
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: CC26
 
+Package: com.wkk.ccborder
+Version: 1.1.2-24
+Architecture: iphoneos-arm64e
+Maintainer: fiore & p2kdev & SINI
+Installed-Size: 712
+Depends: mobilesubstrate, firmware (>= 16.0)
+Filename: ./debs/com.wkk.ccborder_1.1.2-24_iphoneos-arm64e.deb
+Size: 109800
+MD5sum: ff183f1e414e6d9434916ce0ed42c25f
+SHA1: 01030c4dedba8884cba52f012e63bb8fd2122417
+SHA256: f8f40d5a0ac7ce713ccd3302b6f1796333d9d53ad68f8c013d934029857ca190
+Section: 控制中心
+Description: 控制中心调整，基于开源修改编译，去掉了AlderisColorPicker依赖，仅备份。
+Author: fiore & p2kdev & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/ccborder.png
+Name: CCBorder
+
 Package: com.wkk.ccborder15
 Version: 1.1.2
 Architecture: iphoneos-arm64
@@ -21691,6 +21760,39 @@ Description: 不支持iOS16！iOS16用源里的另一款。类似iOS18样式的�
 Author: fiore
 Icon: https://s1.imagehub.cc/images/2025/01/21/b5fcd38fb9f974d8467fc93c3aa7902f.png
 Name: CCBorder15
+
+Package: com.wkk.ccmd
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: firmware (>=11.0), mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/com.wkk.ccmd_1.1-2_iphoneos-arm64.deb
+Size: 19848
+MD5sum: d24a4b0e775371dca41e2f2959cbeb0a
+SHA1: 5df759c567ca8eb8847b4c8b870c8534d33a7c0d
+SHA256: 0f83d7e2761c5c6966700ed0173c27ead528c35a3f6df40a10f6ed51d76572f8
+Section: 控制中心
+Description: 控制中心添加一个常用的shell脚本，点击即运行。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/05/28/95a50ecfc0e9d3cc391e87c11bb19cfd.png
+Name: CCModule
+
+Package: com.wkk.ccmd
+Version: 1.1-2
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>=11.0), mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/com.wkk.ccmd_1.1-2_iphoneos-arm64e.deb
+Size: 25236
+MD5sum: f5358a0ae7885cb64fd432f4d36b20d9
+SHA1: d0ab0197f71ad87654f70836085805067d20e586
+SHA256: 600db339b68d96d2e72b12d0f7b2e405f134b3b4b4990e2361ba366108665ebc
+Section: 控制中心
+Description: 控制中心添加一个常用的shell脚本，点击即运行。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/05/28/95a50ecfc0e9d3cc391e87c11bb19cfd.png
+Name: CCModule
 
 Package: com.wkk.center
 Version: 1.1-3
@@ -21765,72 +21867,6 @@ Description: 统一表情背景色，仅供学习交流，请在 24 小时内自
 Author: qwq
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WeChatEmoticoncolorsocool
-
-Package: com.wkk.commandmodule
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: wkk
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>=11.0), mobilesubstrate, com.opa334.ccsupport
-Filename: ./debs/com.wkk.commandmodule_1.0_iphoneos-arm64e.deb
-Size: 30484
-MD5sum: 95031626bd6bdee3547f5d2802323ebb
-SHA1: 163bb935067cf47733822992becdca86e4f54bbd
-SHA256: c7b5d91dbc240216c600c5c989cac4d3dd55a67d0e576183e48aafd8aaae3084
-Section: 控制中心
-Description: 控制中心添加一个常用的shell脚本，点击即运行，根据开源修改编译了适用于我自用的内容。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/05/28/95a50ecfc0e9d3cc391e87c11bb19cfd.png
-Name: CommandModule
-
-Package: com.wkk.commandmodule
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Depends: firmware (>=11.0), mobilesubstrate, com.opa334.ccsupport
-Filename: ./debs/com.wkk.commandmodule_1.0_iphoneos-arm64.deb
-Size: 23200
-MD5sum: 53444468b52882dbac460907f269200f
-SHA1: 85c25055bf6bd724c1827751fb0d3ddab0cb3446
-SHA256: 783e7ab966c072f63f5406e181c919f5c2f016ce3fcd6f18d3e6bcae033e3fa5
-Section: 控制中心
-Description: 控制中心添加一个常用的shell脚本，点击即运行，根据开源修改编译了适用于我自用的内容。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/05/28/95a50ecfc0e9d3cc391e87c11bb19cfd.png
-Name: CommandModule
-
-Package: com.wkk.commandmodule
-Version: 1.1
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Depends: firmware (>=11.0), mobilesubstrate, com.opa334.ccsupport
-Filename: ./debs/com.wkk.commandmodule_1.1_iphoneos-arm64.deb
-Size: 25280
-MD5sum: 347d4b85b7440ced1818ee6ad9d88a44
-SHA1: e0493df916f305cada198c4d5d9cd360b4d2f1f4
-SHA256: e9d1e5a0fb0d1b9b9d6f077b80bf6eb7357e147d915183ef4f079852eccb93e7
-Section: 控制中心
-Description: 控制中心添加一个常用的shell脚本，点击即运行，根据开源修改编译了适用于我自用的内容。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/05/28/95a50ecfc0e9d3cc391e87c11bb19cfd.png
-Name: CommandModule
-
-Package: com.wkk.commandmodule
-Version: 1.1
-Architecture: iphoneos-arm64e
-Maintainer: wkk
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>=11.0), mobilesubstrate, com.opa334.ccsupport
-Filename: ./debs/com.wkk.commandmodule_1.1_iphoneos-arm64e.deb
-Size: 30832
-MD5sum: e7d8cd23e210b24e67751317f954f6ab
-SHA1: 2c92d467b082e77afd4c7075ddeabb24c2aa8fee
-SHA256: b6fea5c4a30a92283a3a4849c2c48355ac7d6daaf01f41a24e422260383ad4db
-Section: 控制中心
-Description: 控制中心添加一个常用的shell脚本，点击即运行，根据开源修改编译了适用于我自用的内容。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/05/28/95a50ecfc0e9d3cc391e87c11bb19cfd.png
-Name: CommandModule
 
 Package: com.wkk.cqkjlogo
 Version: 1.0
@@ -22472,6 +22508,41 @@ Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/FastLock/refs/heads/main/Sileo/icon.png
 Name: FastLock
 
+Package: com.wkk.feizhuhook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.feizhuhook_1.0-1_iphoneos-arm64e.deb
+Size: 4812
+MD5sum: 31713a3fa339c601c6fc2eccb8431368
+SHA1: a15c8acac998de6399c5566e200b0cb0947ce69f
+SHA256: 9d33131af0977be5a4fec51836ee23be5ee1ecc9d92ecb5465a32fbb298d8404
+Section: 去广告
+Description: 去开屏广告，版本：9.10.41，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/13/064c56d88547b559d879e72da7027027.png
+Name: 飞猪旅行NoAds
+
+Package: com.wkk.feizhuhook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.feizhuhook_1.0-1_iphoneos-arm64.deb
+Size: 3296
+MD5sum: e687d8c50383076b97ec86791e5ba257
+SHA1: 9acd0ea23ae090eae66f1be856a33cb8002cfaf8
+SHA256: 07383904c0180a1686af115f04a8a56ebf6bef5609dd69ded62a90bb6608efe0
+Section: 去广告
+Description: 去开屏广告，版本：9.10.41，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/13/064c56d88547b559d879e72da7027027.png
+Name: 飞猪旅行NoAds
+
 Package: com.wkk.ftpz
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -22576,34 +22647,34 @@ Icon: https://s1.imagehub.cc/images/2025/04/29/6397f5e889e38d2f3facd7d8f0553b8d.
 Name: 中国联通NoAds
 
 Package: com.wkk.fuckltads
-Version: 1.0-4
-Architecture: iphoneos-arm64
+Version: 1.0-5
+Architecture: iphoneos-arm64e
 Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
-Filename: ./debs/com.wkk.fuckltads_1.0-4_iphoneos-arm64.deb
-Size: 3332
-MD5sum: e8f77e57ef53105fd88b77822e7d94e5
-SHA1: 6d3669ec5a672c9e6b89cbf878746121a8df3d53
-SHA256: 83d35e103a1f9e96eba23681535f410f3c8cbda3b74acc317a1e60b349b5f150
+Filename: ./debs/com.wkk.fuckltads_1.0-5_iphoneos-arm64e.deb
+Size: 4654
+MD5sum: c3cc7a495f80b957dae3e317dbd3f1b6
+SHA1: 97785f92844d6240fe2cf3a8d06bc50387fa3584
+SHA256: 26ab4e8ce9c2d18acd8743fbf59f7f291b7b39b0134e4d00842c124760e64577
 Section: 去广告
-Description: 去开屏广告，版本：12.8.1，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Description: 去开屏广告，版本：12.8.1，下载好deb后用TrollFools注入，直接安装不生效，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/04/29/6397f5e889e38d2f3facd7d8f0553b8d.png
 Name: 中国联通NoAds
 
 Package: com.wkk.fuckltads
-Version: 1.0-4
-Architecture: iphoneos-arm64e
+Version: 1.0-5
+Architecture: iphoneos-arm64
 Maintainer: wkk
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
-Filename: ./debs/com.wkk.fuckltads_1.0-4_iphoneos-arm64e.deb
-Size: 4550
-MD5sum: f0e0c9f7628267cecb20518aab73edd8
-SHA1: 4eec69bfc37f0674e528eaca5a835707f22f0e0b
-SHA256: 6f224f208243c460d88d5a788fbfa9283bff0bbde489b136f716335af345a4e0
+Filename: ./debs/com.wkk.fuckltads_1.0-5_iphoneos-arm64.deb
+Size: 3372
+MD5sum: 9602de3159652af08ff5d7b3de70e4ab
+SHA1: 862bbce89374256dd7b46cc4eedec0380ba909c3
+SHA256: 15be6795bf8f5464f3fd88fce5831623830a54a90c0d644cf28e18b68f1dd760
 Section: 去广告
-Description: 去开屏广告，版本：12.8.1，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Description: 去开屏广告，版本：12.8.1，下载好deb后用TrollFools注入，直接安装不生效，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/04/29/6397f5e889e38d2f3facd7d8f0553b8d.png
 Name: 中国联通NoAds
@@ -22642,34 +22713,34 @@ Icon: https://s1.imagehub.cc/images/2025/04/29/b34966d282c3e310d25255d207346202.
 Name: 中国移动NoAds
 
 Package: com.wkk.fuckydads
-Version: 1.0-4
+Version: 1.0-5
 Architecture: iphoneos-arm64
 Maintainer: wkk
 Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
-Filename: ./debs/com.wkk.fuckydads_1.0-4_iphoneos-arm64.deb
-Size: 3212
-MD5sum: 764239e0ca7d2ec47d843b7d2fc257eb
-SHA1: 6ca74912492cbe07fa748bce98af00f5bc7e5515
-SHA256: 4a88ce9a3439baf9c261557a29cdee28b71b2953130f790fdd4d92a561263a08
+Filename: ./debs/com.wkk.fuckydads_1.0-5_iphoneos-arm64.deb
+Size: 3260
+MD5sum: 9f93b870f04c7c954349629c07c16ef9
+SHA1: 37e0dad9e98913e1f0b38c696d08d38e56a6bb51
+SHA256: 9529cd67e8488782d0ff00757a5188064abcac50b58d8a7fda16302f52a18817
 Section: 去广告
-Description: 去开屏广告，版本：12.0.2，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Description: 去开屏广告，版本：12.0.2，下载好deb后用TrollFools注入，直接安装不生效，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/04/29/b34966d282c3e310d25255d207346202.png
 Name: 中国移动NoAds
 
 Package: com.wkk.fuckydads
-Version: 1.0-4
+Version: 1.0-5
 Architecture: iphoneos-arm64e
 Maintainer: wkk
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
-Filename: ./debs/com.wkk.fuckydads_1.0-4_iphoneos-arm64e.deb
-Size: 4384
-MD5sum: 07d98502503625f8e89fe90d3a2967b8
-SHA1: fc6a956df2671966ff894f91672c88551c1f4a79
-SHA256: 7237f04107dff336f7c168b9e15c3568f8d9f1fbf559162dbb8bbbe93eee90b2
+Filename: ./debs/com.wkk.fuckydads_1.0-5_iphoneos-arm64e.deb
+Size: 4514
+MD5sum: 406104ab66cc31a5a9f4765dd858ece1
+SHA1: 103c87733aecf3ebb9cb48cfe8202b2a92ca8543
+SHA256: 11871f258afada80aff597d00e32f1062c699651cacb273de5a0542c2d7d8c85
 Section: 去广告
-Description: 去开屏广告，版本：12.0.2，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Description: 去开屏广告，版本：12.0.2，下载好deb后用TrollFools注入，直接安装不生效，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/04/29/b34966d282c3e310d25255d207346202.png
 Name: 中国移动NoAds
