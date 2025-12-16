@@ -6814,6 +6814,41 @@ Author: be-huge
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WeChatPopVC
 
+Package: com.be-huge.wechat-pop-vc
+Version: 0.0.5
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.be-huge.wechat-pop-vc_0.0.5_iphoneos-arm64.deb
+Size: 22080
+MD5sum: d0cee4892168cf94f89d0cc4e68c0d60
+SHA1: 65c7d16c59fcbe1a47db6df58473e506b84a4914
+SHA256: 29fe2db070541f095e1cfce82c55870548358578548a4aa27815f64ef53708e9
+Section: 微信插件
+Description: 微信全局右滑手势，弥补官方只能屏幕侧边返回上一页局限性，提高用户体验。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatPopVC
+
+Package: com.be-huge.wechat-pop-vc
+Version: 0.0.5
+Architecture: iphoneos-arm64e
+Maintainer: be-huge
+Installed-Size: 232
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.be-huge.wechat-pop-vc_0.0.5_iphoneos-arm64e.deb
+Size: 29120
+MD5sum: 06df89cfef5bd8cfd5d584762b806371
+SHA1: 869eeab8f836abce7af1f0ecb6504a6abaa13ff6
+SHA256: 257f12e091759a0a69959f566b3929614c7156f88862c27db7cc4f660b6cb43c
+Section: 微信插件
+Description: 微信全局右滑手势，弥补官方只能屏幕侧边返回上一页局限性，提高用户体验。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatPopVC
+
 Package: com.betterccbrightness
 Version: 1.0.2
 Architecture: iphoneos-arm64
@@ -15690,6 +15725,39 @@ Author: 热心网友
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WCRefine
 
+Package: com.qimiao.WCRefine
+Version: 1.1-8
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.qimiao.WCRefine_1.1-8_iphoneos-arm64e.deb
+Size: 3493182
+MD5sum: 747220e0370524899bfa789c3d507baa
+SHA1: f1130ca7dedb1bb2cd2bfe35d4e48e24ddd87712
+SHA256: 2ea52856d5c2870527234292beba1b8da4494771994129f65927abab463905f2
+Section: 微信插件
+Description: 微信优化的重制版本，WCRefine基于微信8.0.64版本制作。
+Author: 热心网友
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCRefine
+
+Package: com.qimiao.WCRefine
+Version: 1.1-8
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.qimiao.WCRefine_1.1-8_iphoneos-arm64.deb
+Size: 1295508
+MD5sum: 3d0b71637af39f882a127d74c0017beb
+SHA1: e95ec3dde6acf0840087319900731d0a46c27c10
+SHA256: a874b1b9cf7b5b1efb6a521b5ca489a9040971011d575fc19005c302f4d2f685
+Section: 微信插件
+Description: 微信优化的重制版本，WCRefine基于微信8.0.64版本制作。
+Author: 热心网友
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCRefine
+
 Package: com.qqnotiavatar
 Version: 1.2-2
 Architecture: iphoneos-arm64
@@ -22612,6 +22680,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/13/064c56d88547b559d879e72da7027027.png
 Name: 飞猪旅行NoAds
 
+Package: com.wkk.filzaswipeselect
+Version: 0.0.2
+Architecture: iphoneos-arm64e
+Maintainer: korboy <korboybeats@gmail.com>
+Installed-Size: 184
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.filzaswipeselect_0.0.2_iphoneos-arm64e.deb
+Size: 11518
+MD5sum: 12381c78ef3ae369a6e1634a49389bb8
+SHA1: a275599ccce5f9dd4cf88526ff37a852dfe543cb
+SHA256: a83b4fef5f78af0c17a9324254bdeea7ccb002abaab5cd28063c906e51444647
+Section: Tweaks
+Description: Filza的滑动多选功能。
+Author: korboy <korboybeats@gmail.com>
+Icon: https://sini921.github.io/repo/sileodepiction/icon/filzaswipeselect.png
+Name: FilzaSwipeSelect
+
+Package: com.wkk.filzaswipeselect
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: korboy <korboybeats@gmail.com>
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.filzaswipeselect_0.0.2_iphoneos-arm64.deb
+Size: 8664
+MD5sum: 7620d9c3380343624b7bd2699192d7ad
+SHA1: 2a775313f69020ba079aa57a86fe14bd3a690cef
+SHA256: 4b76918fa85772a0f4a35a00738424f3c5e84894dd52a9729bcf0d070ed04f9a
+Section: Tweaks
+Description: Filza的滑动多选功能。
+Author: korboy <korboybeats@gmail.com>
+Icon: https://sini921.github.io/repo/sileodepiction/icon/filzaswipeselect.png
+Name: FilzaSwipeSelect
+
 Package: com.wkk.ftpz
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -22908,6 +23011,39 @@ SHA1: 9dc8dda54c820edfa206ab4cf77567d799472714
 SHA256: cc60bbe6aa64d65b0587342a543e77034356c8a2101206f88630a1f3b7652ea4
 Section: 去广告
 Description: 更加丝滑的去开除屏广告和更新提示。测试版本：5.3.55
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/05/01/05ea0e3f2aa64c59c02ed256afd24eb8.jpeg
+Name: 瑞幸咖啡NoAds
+
+Package: com.wkk.fucmkrxkfads
+Version: 1.3-5
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/com.wkk.fucmkrxkfads_1.3-5_iphoneos-arm64e.deb
+Size: 6040
+MD5sum: 12e88119cb3d772a7586e673cf29f7b6
+SHA1: 74cd1f9631db36df2568f48bdbf73e826cfbdd59
+SHA256: 59877e4fa56d5542b0b9c253be2398ef2c0e0ee04722f640b48971d6d3219ce1
+Section: 去广告
+Description: 去开除屏广告和更新提示。测试版本：5.4.20，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/05/01/05ea0e3f2aa64c59c02ed256afd24eb8.jpeg
+Name: 瑞幸咖啡NoAds
+
+Package: com.wkk.fucmkrxkfads
+Version: 1.3-5
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/com.wkk.fucmkrxkfads_1.3-5_iphoneos-arm64.deb
+Size: 4276
+MD5sum: 26566f3b31b4bd74216e78b2cef3abfe
+SHA1: 977c7ef5e2573eee4bcf585048a89c6c8a8dbd1f
+SHA256: 9431db9d66409c00f54883a607609984fa45a30587ba54c06485f00277fc081c
+Section: 去广告
+Description: 去开除屏广告和更新提示。测试版本：5.4.20，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/05/01/05ea0e3f2aa64c59c02ed256afd24eb8.jpeg
 Name: 瑞幸咖啡NoAds
@@ -27123,6 +27259,24 @@ Description: 不会拉屎的版本。
 Author: zqbb
 Icon: https://s1.imagehub.cc/images/2025/01/01/6649d33bb5c1426f31fa0d05bddce392.png
 Name: Snapper3扩展
+
+Package: com.zqbb.iconshadow
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: zqbb
+Installed-Size: 96
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zqbb.iconshadow_1.1_iphoneos-arm64e-1.deb
+Size: 11490
+MD5sum: 35c788eabb729d09bcb8bc0e8ad3d51e
+SHA1: c5db39ef58218c76b237471156809e4447cdb76a
+SHA256: 76a07739ed6f2bff1e179767400ab6aca1c1c01f769bcbf108e59630df408406
+Section: Tweaks
+Description: 给图标添加一层阴影图片!
+Author: zqbb
+Name: Hello Shadow
+Sileodepiction: https://rootless.002599.xyz/web/com.zqbb.iconshadow
 
 Package: com.zqbb.iconshadows
 Version: 1.1
