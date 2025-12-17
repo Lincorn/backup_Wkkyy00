@@ -13029,6 +13029,41 @@ Author: RobustLuo
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: ActionPro
 
+Package: com.luo.actionpro
+Version: 1.2.0
+Architecture: iphoneos-arm64e
+Maintainer: RobustLuo
+Installed-Size: 304
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.luo.actionpro_1.2.0_iphoneos-arm64e.deb
+Size: 95564
+MD5sum: cfe12f3e5c5b6531401e996db0b0feb4
+SHA1: 43f52f30b8b2a0ecd0ec716a8290d99e9d5484de
+SHA256: fdf95e271f07845df786923a55584471bea5f0a7e551df870571112149a1d41e
+Section: 微信插件
+Description: 微信消息长按Menu菜单的样式插件。
+Author: RobustLuo
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: ActionPro
+
+Package: com.luo.actionpro
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: RobustLuo
+Installed-Size: 304
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.luo.actionpro_1.2.0_iphoneos-arm64.deb
+Size: 68444
+MD5sum: 581e6e51dea3be6745bbd2bb6f02882d
+SHA1: 571aedbdf99578dd28aa13a2be9d09ba1386228d
+SHA256: 1306b82c4c87d0d177e95967d0310f0851dd052dc1b2041f845baec9457f3217
+Section: 微信插件
+Description: 微信消息长按Menu菜单的样式插件。
+Author: RobustLuo
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: ActionPro
+
 Package: com.lxcloud.WCEhance
 Version: 1.2-1
 Architecture: iphoneos-arm64
@@ -25194,6 +25229,41 @@ SHA1: 8cd536172a9ec7d5a2293752dc8149cc07b988a2
 SHA256: 9cf36f9558d87fa4be4eb2ae0d6f36b74791f8a1dc6249f3945b6e9cc27edd0f
 Section: 去广告
 Description: 去开屏广告及部分豆腐块广告，测试版本：9.00.46
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/06/dde5946f39d42917d28148d8f1a07901.png
+Name: 腾讯视频NoAds
+
+Package: com.wkk.txsphook
+Version: 1.0-5
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.txsphook_1.0-5_iphoneos-arm64.deb
+Size: 3688
+MD5sum: 091f8321b8dde619288e2165488dae42
+SHA1: 350df2c2952ee7c3a325babb971cc8cd1853271f
+SHA256: 895a618f955718331a6b1772be7ebae81a24eb1f8d984ba9f8918ffa2c162ea0
+Section: 去广告
+Description: 仅去开屏广告，版本：9.02.70，去应用内广告需走定制（目前比较完美 暂停广告/瀑布流/横幅/等等一些基本干掉完了），接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/06/dde5946f39d42917d28148d8f1a07901.png
+Name: 腾讯视频NoAds
+
+Package: com.wkk.txsphook
+Version: 1.0-5
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.txsphook_1.0-5_iphoneos-arm64e.deb
+Size: 5414
+MD5sum: ae7c8f3fedccaf9578834e8e8e30a38f
+SHA1: ccc37293c3ef8dd5a9997ee58070bcc1d83f19ad
+SHA256: d30acd72053fd8651a797fe09cf7319281ae9e2f45aeac2e287ecadc8b4e994e
+Section: 去广告
+Description: 仅去开屏广告，版本：9.02.70，去应用内广告需走定制（目前比较完美 暂停广告/瀑布流/横幅/等等一些基本干掉完了），接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/06/dde5946f39d42917d28148d8f1a07901.png
 Name: 腾讯视频NoAds
