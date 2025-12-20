@@ -14114,6 +14114,43 @@ Author: Netskao
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: StoreSwitchAccounts
 
+Package: com.netskao.wcabtestapnsheadimg
+Version: 1.1-1
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 72
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: com.netskao.wechatnotiavatar
+Filename: ./debs/com.netskao.wcabtestapnsheadimg_1.1-1_iphoneos-arm64e.deb
+Size: 3376
+MD5sum: 70f6b1d8fb50aa32a2c6f8e6da681b94
+SHA1: 2f22cfc0df9242a167557130f478fc4bfcbf019f
+SHA256: 8f07f29a93a3a860ddb6adf705305219e22e301feb06b884f6d13b0af846508d
+Section: 微信插件
+Description: 微信启用Apns显示消息头像，仅8.0.67+
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCABTestApnsHeadImg
+
+Package: com.netskao.wcabtestapnsheadimg
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: com.netskao.wechatnotiavatar
+Filename: ./debs/com.netskao.wcabtestapnsheadimg_1.1-1_iphoneos-arm64.deb
+Size: 2316
+MD5sum: 2387c136aaa9e467054955a0e516cee3
+SHA1: 96a8b001ae5ea95013ae708b1629b0f88dd49ca3
+SHA256: 147a544dec6c06430129270dd6e85d76d89d6b61cb8b3b46e006c69055d575a0
+Section: 微信插件
+Description: 微信启用Apns显示消息头像，仅8.0.67+
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCABTestApnsHeadImg
+
 Package: com.netskao.wcabtestlocalbackup
 Version: 1.1-1
 Architecture: iphoneos-arm64
@@ -24044,6 +24081,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/11/14/d26f96d111b0edcdd8a0906baf10d838.png
 Name: 芒果TVNoAds
 
+Package: com.wkk.mlxxhook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.mlxxhook_1.0-1_iphoneos-arm64e.deb
+Size: 4890
+MD5sum: bd7bd7c68602f825aee4f65ef8a77e52
+SHA1: f6ec735a0d4688319134a3e05a3e77f1848e1653
+SHA256: b002f4da6723669e5c94dd4d5b65b68670675e1902c7bc0830976c1f2e84473f
+Section: 去广告
+Description: 去开屏广告，版本：9.5.0，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/20/ae2c682655caa940120d0864b686c9de.png
+Name: 美丽修行NoAds
+
+Package: com.wkk.mlxxhook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.mlxxhook_1.0-1_iphoneos-arm64.deb
+Size: 3384
+MD5sum: 657f3be4c390b71ab324dedd2d6b5978
+SHA1: 4223bfae5eb0a1e7e6a5cf78c05ea888e7626053
+SHA256: e10c96d7443fc0437f3b261d8be91d231c9923fcbfa47d7b3c2bab036e8e874e
+Section: 去广告
+Description: 去开屏广告，版本：9.5.0，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/20/ae2c682655caa940120d0864b686c9de.png
+Name: 美丽修行NoAds
+
 Package: com.wkk.mtwmhook
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -24213,6 +24285,41 @@ Description: 去所有广告，版本：1.31.10，接大量冷门热门app定制
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/02/94b6e500b63de1f90231fd07d93166bc.png
 Name: PikPakNoAds
+
+Package: com.wkk.ppxwhook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.ppxwhook_1.0-1_iphoneos-arm64.deb
+Size: 3620
+MD5sum: 5f5a124f71298877810c7d5ed53f28d8
+SHA1: 6d8661cf5f358c4e8adf69dcaf3d460f5d58efc2
+SHA256: 9d97698839932df5b2da9d95804e650d104345c0ecc6e31ef30a8ba4e01fd75c
+Section: 去广告
+Description: 去开屏广告，版本：11.1.2，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/19/b940557f5fdadf3783d1b6db597f4de2.png
+Name: 澎湃新闻NoAds
+
+Package: com.wkk.ppxwhook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.ppxwhook_1.0-1_iphoneos-arm64e.deb
+Size: 5148
+MD5sum: 5ed8ac69040e012b56146f43eb7843b2
+SHA1: e37c96eec709a8d8cf72d84e4671c5a78f2a4396
+SHA256: cd37077c918ae9fec0e3f263e39b4a5c8f4f1e962b1150e6669b0ba232d6d8b9
+Section: 去广告
+Description: 去开屏广告，版本：11.1.2，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/19/b940557f5fdadf3783d1b6db597f4de2.png
+Name: 澎湃新闻NoAds
 
 Package: com.wkk.proxysc
 Version: 1.0
@@ -28694,6 +28801,41 @@ Author: Domo <domo@rambler.ru>
 Icon: https://susubaby.top/images/CocoaTop.png
 Name: CocoaTop64
 Sileodepiction: https://siieo.github.io/sileodepictions/CocoaTop/CocoaTop.json
+
+Package: ru.domo.cocoatop64
+Version: 2.2.4-1
+Architecture: iphoneos-arm64
+Maintainer: Ash
+Depends: firmware (>= 15.0)
+Conflicts: ru.domo.cocoatop
+Filename: ./debs/ru.domo.cocoatop64_2.2.4-1_iphoneos-arm64.deb
+Size: 181804
+MD5sum: a919fc7515d2322411ce4b8cef208f31
+SHA1: 6ee37d945c02be9d95db2248412d881e74724ce2
+SHA256: 21b449386192ca57b33788a6e9bddbdb537e7737032edf5c15e330ae42435219
+Section: Utilities
+Description: Process Viewer for iOS（修复粗体闪退）
+Author: Domo <domo@rambler.ru>
+Icon: https://siieo.github.io/sileodepictions/CocoaTop/icon.png
+Name: CocoaTop64
+
+Package: ru.domo.cocoatop64
+Version: 2.2.4-1
+Architecture: iphoneos-arm64e
+Maintainer: Ash
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0)
+Conflicts: ru.domo.cocoatop
+Filename: ./debs/ru.domo.cocoatop64_2.2.4-1_iphoneos-arm64e.deb
+Size: 221322
+MD5sum: e03525cd8e96c3a653d40995fde877cb
+SHA1: def0fa9ce5cce2e76519a33f7aec1783bab87251
+SHA256: dfe183c99b767f0c307eb34307ece3f08d2dc5a2083c31814d56a7527efd5731
+Section: Utilities
+Description: Process Viewer for iOS（修复粗体闪退）
+Author: Domo <domo@rambler.ru>
+Icon: https://siieo.github.io/sileodepictions/CocoaTop/icon.png
+Name: CocoaTop64
 
 Package: ru.rj.ftt
 Version: 1.4
