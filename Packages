@@ -304,39 +304,6 @@ Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.orzfolder
 Name: Hello Folder
 Sileodepiction: https://rootless.002599.xyz/web/cn.zqbb.orzfolder
 
-Package: com.0xkuj.filzadirprobe
-Version: 1.7.2
-Architecture: iphoneos-arm64e
-Maintainer: 0xkuj
-Installed-Size: 240
-Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/com.0xkuj.filzadirprobe_1.7.2_iphoneos-arm64e.deb
-Size: 45074
-MD5sum: 6a6587875829167aa89072b1a350ceb6
-SHA1: 4cf16a68bb10964c663c7fdf1b1620b5a08e2ab5
-SHA256: 40e60e4bca34f779cf22c8d6cfd964d61bf49330aca8120171ba6154393ed49c
-Section: Tweaks
-Description: 计算Filza里文件夹大小。
-Author: 0xkuj
-Icon: https://s1.imagehub.cc/images/2025/04/02/754b2bb601bad95dca5cb982e7d926af.jpeg
-Name: FilzaDirProbe
-
-Package: com.0xkuj.filzadirprobe
-Version: 1.7.2
-Architecture: iphoneos-arm64
-Maintainer: 0xkuj
-Installed-Size: 240
-Filename: ./debs/com.0xkuj.filzadirprobe_1.7.2_iphoneos-arm64.deb
-Size: 33272
-MD5sum: b5931a518815c65e6701af210a80fc45
-SHA1: 687cca1c8a14ad8d3ef51581f318d173f7dd518b
-SHA256: 622b42ef55365aa5210b8f2f2ea1e8524f98966940fdf4fc3cc4d0c32d35a9d3
-Section: Tweaks
-Description: 计算Filza里文件夹大小。
-Author: 0xkuj
-Icon: https://s1.imagehub.cc/images/2025/04/02/754b2bb601bad95dca5cb982e7d926af.jpeg
-Name: FilzaDirProbe
-
 Package: com.0xkuj.safarix
 Version: 1.9.9.1
 Architecture: iphoneos-arm64
@@ -8743,6 +8710,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/06/c323dea01d48b9205f1853e43ba4722a.png
 Name: 铁路12306NoAds
 
+Package: com.wkk.AppIndex
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Serena <hanzikashi@gmail.com>
+Installed-Size: 1677
+Filename: ./debs/com.wkk.AppIndex_1.0_iphoneos-arm64.deb
+Size: 779288
+MD5sum: 9b722d1abae6a167f7c8ebecf97e6503
+SHA1: 9b868afdfb964fd8d1c87b3b8d5d9d6d77155985
+SHA256: 046b96dd5502be0c09bf0f260b43930a28ba806f1ed5a2f802d603094e7207b3
+Section: 应用程序
+Description: 查看app的标识符，下载日期，类型，版本，最低系统要求，占用，受限，url，路径。
+Tag: compatible_min::ios13.0
+Author: Serena <hanzikashi@gmail.com>
+Icon: https://img.chariz.cloud/icon/appindex/icon@3x.png
+Name: AppIndex
+
+Package: com.wkk.AppIndex
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: Serena <hanzikashi@gmail.com>
+Installed-Size: 1677
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.wkk.AppIndex_1.0_iphoneos-arm64e.deb
+Size: 780688
+MD5sum: 454b0b054a2fc7e29dbbad73db3ea15e
+SHA1: 6e1fad34d223bcd4a671fb330f5496ca22a85939
+SHA256: 43597ead66ed6dc56f8328ff9c0114d374a9628ea715bd64e0f0923936ca73ef
+Section: 应用程序
+Description: 查看app的标识符，下载日期，类型，版本，最低系统要求，占用，受限，url，路径。
+Tag: compatible_min::ios13.0
+Author: Serena <hanzikashi@gmail.com>
+Icon: https://img.chariz.cloud/icon/appindex/icon@3x.png
+Name: AppIndex
+
 Package: com.wkk.HideEdit
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -8934,6 +8936,74 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: AAAAAA插件配置说明（必看）
 
+Package: com.wkk.actionbarreborn
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.actionbarreborn_1.0-1_iphoneos-arm64.deb
+Size: 161396
+MD5sum: b27858590aecf04b44fcef36945c7c3d
+SHA1: 11981449e52a786aab2b07d920392f2c88a34342
+SHA256: cd8fadf086ebd8f2e06b59dc1579f466ccea3d8698554a5eb309d720b3d75b5b
+Section: 插件配置
+Description: 注入到你屏蔽越狱的app，弥补原生键盘一些没有的操作（全选/复制/粘贴/撤销/重做/收起键盘）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: APP内键盘底部扩展（TrollFools注入）
+
+Package: com.wkk.actionbarreborn
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.actionbarreborn_1.0-1_iphoneos-arm64e.deb
+Size: 161400
+MD5sum: 88a2c0bb054e961d31c609c70db8b75a
+SHA1: b2f143d63b441b68ebefe69aafecc59344993e0a
+SHA256: 8a83117412f3ac3cfa01798e8d04b844fbe8dbd3e8989b54ac8f6923beec98b2
+Section: 插件配置
+Description: 注入到你屏蔽越狱的app，弥补原生键盘一些没有的操作（全选/复制/粘贴/撤销/重做/收起键盘）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: APP内键盘底部扩展（TrollFools注入）
+
+Package: com.wkk.adsspee
+Version: 1.1.3
+Architecture: iphoneos-arm64e
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 620
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.yourepo.lenglengyu.adsspeed
+Filename: ./debs/com.wkk.adsspee_1.1.3_iphoneos-arm64e.deb
+Size: 108396
+MD5sum: 667d9743f3ae0dac31c9e87e4872f5eb
+SHA1: 1a234b7456f10eb077a32b519005aba662a6cad1
+SHA256: 238e0f1847eace2095faa89efe495b9696afc3b4d44e5fbd1f370773b56b4ced
+Section: Tweaks
+Description: 快速跳过激励视频广告，奖励正常领取。
+Author: lenglengyu
+Icon: https://s1.imagehub.cc/images/2025/03/05/5e7750e53f47782c0f1f2d5ea3e69638.png
+Name: VideoAdsSpeed
+
+Package: com.wkk.adsspee
+Version: 1.1.3
+Architecture: iphoneos-arm64
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 620
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.yourepo.lenglengyu.adsspeed
+Filename: ./debs/com.wkk.adsspee_1.1.3_iphoneos-arm64.deb
+Size: 108276
+MD5sum: 336fb039af938ba392419d9bb5143477
+SHA1: 815d0a358337b97a9a6de8cac1949afab4b6aadd
+SHA256: d041e579797bd12626dad57fd53524919f3bd4bf974d6eaf1952ac4ef68de63c
+Section: Tweaks
+Description: 快速跳过激励视频广告，奖励正常领取。
+Author: lenglengyu
+Icon: https://s1.imagehub.cc/images/2025/03/05/5e7750e53f47782c0f1f2d5ea3e69638.png
+Name: VideoAdsSpeed
+
 Package: com.wkk.afakerxi
 Version: 1.0.3
 Architecture: iphoneos-arm64
@@ -8968,6 +9038,39 @@ Author: lenglengyu
 Icon: https://s1.imagehub.cc/images/2025/12/25/84d30bdfaeb41881309878d3cc6c574d.png
 Name: AFakerXI
 
+Package: com.wkk.akara
+Version: 2.0.2
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport, com.muirey03.libimagepicker, firmware (>=15.0)
+Filename: ./debs/com.wkk.akara_2.0.2_iphoneos-arm64e.deb
+Size: 672368
+MD5sum: 4f95318dac3cd8a02a29119b405bd7c8
+SHA1: 4ec11b4f23ebf1033b1c8743977a4b65dd3f824d
+SHA256: d098e457d3e58ab4d883c3682c60092ceb87af5acd7337aa5bf6385a1e1bcb50
+Section: Tweaks
+Description: 毫不妥协的控制中心简约设计，已加入汉化。
+Author: Tr1Fecta & Kennyroo <xuanhua880@gmail.com>
+Icon: https://img.chariz.cloud/icon/akara/icon@3x.png
+Name: Akara
+
+Package: com.wkk.akara
+Version: 2.0.2
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport, com.muirey03.libimagepicker, firmware (>=15.0)
+Filename: ./debs/com.wkk.akara_2.0.2_iphoneos-arm64.deb
+Size: 618048
+MD5sum: 985ef1914b219ebb68552b802c17df68
+SHA1: 5ad0d5d6b0a0c025022bea4589cae926c448189e
+SHA256: 836a731395c7945c4e2fe74c670b8c143d4af26e8b06e1aeeb99688a8dae99c7
+Section: Tweaks
+Description: 毫不妥协的控制中心简约设计，已加入汉化。
+Author: Tr1Fecta & Kennyroo <xuanhua880@gmail.com>
+Icon: https://img.chariz.cloud/icon/akara/icon@3x.png
+Name: Akara
+
 Package: com.wkk.alpine
 Version: 1.4
 Architecture: iphoneos-arm64e
@@ -9000,6 +9103,111 @@ Description: 系统的弹窗美化。
 Author: MTAC
 Icon: https://sini921.github.io/repo/sileodepiction/icon/alpine.png
 Name: Alpine
+
+Package: com.wkk.alwaysdark
+Version: 1.2.3
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Filename: ./debs/com.wkk.alwaysdark_1.2.3_iphoneos-arm64.deb
+Size: 33888
+MD5sum: 5c9754d7a0cd5443cf0501eefa187c86
+SHA1: 583c5db06d0e011e64f371fb567a6454dd425880
+SHA256: 9176fe5ccc41836bbb5be4aff1d285c31942de2e96adcc84a6a35b3651c87174
+Section: Tweaks
+Description: 始终在深色/浅色模式下运行指定的应用程序。
+Author: KingPuffdaddi
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: AlwaysDark
+Sponsor: wkk
+
+Package: com.wkk.alwaysdark
+Version: 1.2.3
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Filename: ./debs/com.wkk.alwaysdark_1.2.3_iphoneos-arm64e.deb
+Size: 39144
+MD5sum: c7de5061233029ac6b92bb38f1c284da
+SHA1: 5f58ab6519ba33cffe0752b5fe48424330265593
+SHA256: 1cd87c36d7ece3dbefa70eca9a32f1d50b4ef03124c1810ccaadf08ede0a542a
+Section: Tweaks
+Description: 始终在深色/浅色模式下运行指定的应用程序。
+Author: KingPuffdaddi
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: AlwaysDark
+Sponsor: wkk
+
+Package: com.wkk.appdata
+Version: 1.4.1
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 14408
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.appdata_1.4.1_iphoneos-arm64e.deb
+Size: 13992198
+MD5sum: 513b4098ec683c5c8a459f2c9429bc9d
+SHA1: 83322f002be78cc3358a04f2a8315c7a13af6971
+SHA256: c5c2a0f088dd980b65f64400fe6d891c70177d856da72eb33961eb630fe5ca83
+Section: Tweaks
+Description: App强大的管理器，可以查看路径/清理缓存/重制数据/降级等功能。
+Author: Fouad Raheb
+Icon: https://s1.imagehub.cc/images/2025/01/09/b246fc94201f32510a72d268435cfd4a.png
+Name: AppData
+
+Package: com.wkk.appdata
+Version: 1.4.1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 14408
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.appdata_1.4.1_iphoneos-arm64.deb
+Size: 4644928
+MD5sum: 228b4faa3e5c4714f3cf53cb101f52c4
+SHA1: 80da3440a28a01a8b5df30a7a2fffd02ee38e61f
+SHA256: 4f884130d295aa6f906668ae772e2a81fca02d8c4d5f122ebdf95da198814d37
+Section: Tweaks
+Description: App强大的管理器，可以查看路径/清理缓存/重制数据/降级等功能。
+Author: Fouad Raheb
+Icon: https://s1.imagehub.cc/images/2025/01/09/b246fc94201f32510a72d268435cfd4a.png
+Name: AppData
+
+Package: com.wkk.appdata
+Version: 1.4.4
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 14408
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.appdata_1.4.4_iphoneos-arm64.deb
+Size: 5049680
+MD5sum: 90ef2af0503acb0d04890d1c59ba9e28
+SHA1: efb17778e0d3a78e9ee0975810a0803a8cd27d0b
+SHA256: 1f980984c094280c7431bf2ff8c2e53b14c4c43b56f5a00fd75b6073df78439d
+Section: Tweaks
+Description: App强大的管理器，可以查看路径/清理缓存/重制数据/降级等功能。
+Author: Fouad Raheb
+Icon: https://s1.imagehub.cc/images/2025/01/09/b246fc94201f32510a72d268435cfd4a.png
+Name: AppData
+
+Package: com.wkk.appdata
+Version: 1.4.4
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 14408
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.appdata_1.4.4_iphoneos-arm64e.deb
+Size: 14517894
+MD5sum: 1c8bb393a3633af79c8bb66951068067
+SHA1: 1a4a00463a73ba99dda831548467c41f6563e5c8
+SHA256: c1cb32b011fb3f26930b450f4c4099448b1f8ce38547297673619ff97fd958ea
+Section: Tweaks
+Description: App强大的管理器，可以查看路径/清理缓存/重制数据/降级等功能。
+Author: Fouad Raheb
+Icon: https://s1.imagehub.cc/images/2025/01/09/b246fc94201f32510a72d268435cfd4a.png
+Name: AppData
 
 Package: com.wkk.apppad
 Version: 1.1.3
@@ -9107,6 +9315,40 @@ Description: 去开屏广告和我的页面广告，版本：16.11.8，接大量
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/11/14/f1023fd8a63f7323cc3bf502e4e91a53.png
 Name: 爱奇艺NoAds
+
+Package: com.wkk.artworkspinner
+Version: 1.6
+Architecture: iphoneos-arm64
+Maintainer: Lessica
+Installed-Size: 424
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.wkk.artworkspinner_1.6_iphoneos-arm64.deb
+Size: 39064
+MD5sum: 9bef5d9afd63da3508a744379fc5d3a0
+SHA1: dd944adee3074da3c59a0500dad7a2ac020b6d88
+SHA256: b74646bd843bed0a02c30ccd2ca55c8afe542a23f2e71a7fe1e09d46748fbfc9
+Section: Tweaks
+Description: 灵动岛/锁屏旋转专辑封面。
+Author: Lessica
+Icon: https://s1.imagehub.cc/images/2025/12/27/43a5af47a5cd96bbc59d7f06d6206b78.png
+Name: ArtworkSpinner
+
+Package: com.wkk.artworkspinner
+Version: 1.6
+Architecture: iphoneos-arm64e
+Maintainer: Lessica
+Installed-Size: 424
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.wkk.artworkspinner_1.6_iphoneos-arm64e.deb
+Size: 39028
+MD5sum: 39a04eab10274e39ef20c454db7fb9f1
+SHA1: 20213bd44ed81a7b24e96fcca3398a651ab0daec
+SHA256: a4baf80ccfea0ab2e56e744c4bf96625a49c5dc36cc2494ba4c832ba46f67d78
+Section: Tweaks
+Description: 灵动岛/锁屏旋转专辑封面。
+Author: Lessica
+Icon: https://s1.imagehub.cc/images/2025/12/27/43a5af47a5cd96bbc59d7f06d6206b78.png
+Name: ArtworkSpinner
 
 Package: com.wkk.atria
 Version: 1.4.1-6
@@ -9353,6 +9595,43 @@ Description: 去开屏广告，版本：10.1.60，接大量冷门热门app定制
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/20/e0e10ac56b0ada289ace126e11ca4564.png
 Name: 百度文库NoAds
+
+Package: com.wkk.betterccbrightness
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 304
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Filename: ./debs/com.wkk.betterccbrightness_1.0.2_iphoneos-arm64.deb
+Size: 43664
+MD5sum: c7f0fd4f5ca983ef685b458b30dfafb3
+SHA1: f7dde38dcc45c3127ea482ff9c0e066ad5acdb67
+SHA256: 4ba0368bbcb2222fec7773c026be24cb3e6087aff094ce052952c72ec31de126
+Section: Tweaks
+Description: 控制中心亮度模块长按后，新增降低白点值和夜览的滑块。
+Author: level3tjg
+Icon: https://s1.imagehub.cc/images/2025/02/10/d66c9518db05d7191ec5b1cbc6c1b973.png
+Name: BetterCCBrightness
+Sponsor: wkk
+
+Package: com.wkk.betterccbrightness
+Version: 1.0.2
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 304
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Filename: ./debs/com.wkk.betterccbrightness_1.0.2_iphoneos-arm64e.deb
+Size: 59640
+MD5sum: 3a8441264ef3be06d5d3b9a29c3fa329
+SHA1: ac7f38bca0d1c1ab423464b15603b30fe845edda
+SHA256: ef9c055297913bf3073664dcc8c13b18c9d0a2285d914dab189e565f4a45fbd8
+Section: Tweaks
+Description: 控制中心亮度模块长按后，新增降低白点值和夜览的滑块。
+Author: level3tjg
+Icon: https://s1.imagehub.cc/images/2025/02/10/d66c9518db05d7191ec5b1cbc6c1b973.png
+Name: BetterCCBrightness
+Sponsor: wkk
 
 Package: com.wkk.bilibilihook
 Version: 1.0
@@ -9673,6 +9952,40 @@ Depiction: https://havoc.app/package/carbridge
 Icon: https://repo.cypwn.xyz/packages/CarBridge-Rootless/icon.png
 Name: CarBridge
 
+Package: com.wkk.ccborder
+Version: 1.1.2-25
+Architecture: iphoneos-arm64e
+Maintainer: fiore & p2kdev & SINI
+Installed-Size: 712
+Depends: mobilesubstrate, firmware (>= 16.0)
+Filename: ./debs/com.wkk.ccborder_1.1.2-25_iphoneos-arm64e.deb
+Size: 109160
+MD5sum: 7390f496b332abe59f1e9743b5181e26
+SHA1: 6db470d453ba0e5c7e3c1328d0bf221fc6779d1a
+SHA256: c0a646d1519846963b8abd0019bc338ca329944e2c242e46606599e4fd3306e2
+Section: Tweaks
+Description: 控制中心高度自定义调整。
+Author: fiore & p2kdev & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/ccborder.png
+Name: CCBorder
+
+Package: com.wkk.ccborder
+Version: 1.1.2-25
+Architecture: iphoneos-arm64
+Maintainer: fiore & p2kdev & SINI
+Installed-Size: 732
+Depends: mobilesubstrate, firmware (>= 16.0)
+Filename: ./debs/com.wkk.ccborder_1.1.2-25_iphoneos-arm64.deb
+Size: 111256
+MD5sum: 1bda716d927ee133e08f45cb133ca0a8
+SHA1: 3fa2079c54441da4e9c55c86d373a680585029f5
+SHA256: 89ee7318799c4056e300f84835ad9b674ac8ccb473b30d03f1a00ea016cbe451
+Section: Tweaks
+Description: 控制中心高度自定义调整。
+Author: fiore & p2kdev & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/ccborder.png
+Name: CCBorder
+
 Package: com.wkk.ccborder15
 Version: 1.1.2
 Architecture: iphoneos-arm64
@@ -9724,6 +10037,41 @@ Description: 控制中心勿扰模式单模块。
 Author: 0xkuj
 Icon: https://s1.imagehub.cc/images/2025/01/01/3db11086ea6cf08a97f71f69e0dd03df.png
 Name: CCDND
+
+Package: com.wkk.ccglow
+Version: 2.0.2
+Architecture: iphoneos-arm64e
+Maintainer: Simon
+Installed-Size: 356
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.ccglow_2.0.2_iphoneos-arm64e.deb
+Size: 30710
+MD5sum: c65bbc99d2dc7a142b7d754f20379893
+SHA1: 7d3391bb61a7a6fd1e5d59351c8136724aea7533
+SHA256: 94c0b26ce93e33b78b8f753b7f9cfef4b7df2ab672922f6288ea876c2f968dc6
+Section: Tweaks
+Description: 高度自定义控制中心发光。
+Author: Simon
+Icon: https://s1.imagehub.cc/images/2025/12/27/9c87ab6f13db32cf819dca8179708c57.png
+Name: 控制中心发光
+
+Package: com.wkk.ccglow
+Version: 2.0.2
+Architecture: iphoneos-arm64
+Maintainer: Simon
+Installed-Size: 356
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.ccglow_2.0.2_iphoneos-arm64.deb
+Size: 25136
+MD5sum: 7e1d640139fb8b438c96319c02262b7a
+SHA1: 429b2ca2629b50a03158276fb79689d0b096899e
+SHA256: 851be263bbcc7c2095e8c1e0ec72f53af138dc11bbbcfc2a53eb1a4fe865ffc0
+Section: Tweaks
+Description: 高度自定义控制中心发光。
+Author: Simon
+Icon: https://s1.imagehub.cc/images/2025/12/27/9c87ab6f13db32cf819dca8179708c57.png
+Name: 控制中心发光
 
 Package: com.wkk.ccmusic
 Version: 1.0.5
@@ -9852,6 +10200,41 @@ Author: SuSu
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: SuCollection
 
+Package: com.wkk.cornbar
+Version: 1.1.0
+Architecture: iphoneos-arm64e
+Maintainer: Wes <wes.hamster@gmail.com>
+Installed-Size: 480
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.alderis (>= 1.2)
+Filename: ./debs/com.wkk.cornbar_1.1.0_iphoneos-arm64e.deb
+Size: 117914
+MD5sum: 5dd480d7e9099e2ce07c4175bba03199
+SHA1: 70324159daabd17343e175b1c2d5c62d4c9ae999
+SHA256: 13aec3dcd5b5ff5bf22b653a9d748e598995dd16d5ac33c17c873b5745acec37
+Section: Tweaks
+Description: 可以把手势横条变成玉米，或者自定义图片，已汉化。
+Author: Wes <wes.hamster@gmail.com>
+Icon: https://sini921.github.io/repo/sileodepiction/icon/cornbar.png
+Name: CornBar
+
+Package: com.wkk.cornbar
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: Wes <wes.hamster@gmail.com>
+Installed-Size: 480
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.alderis (>= 1.2)
+Filename: ./debs/com.wkk.cornbar_1.1.0_iphoneos-arm64.deb
+Size: 111004
+MD5sum: 92fa38351ceb5206f171f35eec6f72f9
+SHA1: 7ed1ed8676ba2da38f53ac9bc9aa628ee4a7bfee
+SHA256: 1dd1b2cedb575383a5057e951354df573b4ea86ca7fea93705e2fa4982bb4866
+Section: Tweaks
+Description: 可以把手势横条变成玉米，或者自定义图片，已汉化。
+Author: Wes <wes.hamster@gmail.com>
+Icon: https://sini921.github.io/repo/sileodepiction/icon/cornbar.png
+Name: CornBar
+
 Package: com.wkk.cozybadges
 Version: 2.1
 Architecture: iphoneos-arm64e
@@ -9968,6 +10351,41 @@ Description: 使用方法：Filza进入/var/mobile/Documents/目录，运行“d
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: 一键查询已安装插件
+
+Package: com.wkk.dawn
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 565
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 13.0), preferenceloader
+Filename: ./debs/com.wkk.dawn_1.1_iphoneos-arm64e.deb
+Size: 186442
+MD5sum: e35b6a9deb4b78c1f03f05a1feac983c
+SHA1: 0bd384c7e1d688d6e543e8260b105606243cf10c
+SHA256: d617d848a3f91503ff3a7ca08b5cd6f0051429746f5fb136a9ba33644cc2b351
+Section: Tweaks
+Description: 自定义黑暗模式和浅色模式，可以单独设置通知横幅、dock栏、小组件等等处于亮模式或黑暗模式。
+Author: EthanRDoesMC <ethanrdoesmc@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/01/23/fb1c7478338ccafa7bd419c07dfc2be3.png
+Name: Dawn
+
+Package: com.wkk.dawn
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 565
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 13.0), preferenceloader
+Filename: ./debs/com.wkk.dawn_1.1_iphoneos-arm64.deb
+Size: 165276
+MD5sum: 4e73f4738ef190e69191de06f00ec791
+SHA1: f96039e1a7f051a470035af0424f8f4df183a1e9
+SHA256: bf75f71d0efa168bfa64ea4924273066db73a4f3bdf6decb81e1fd8115aeff56
+Section: Tweaks
+Description: 自定义黑暗模式和浅色模式，可以单独设置通知横幅、dock栏、小组件等等处于亮模式或黑暗模式。
+Author: EthanRDoesMC <ethanrdoesmc@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/01/23/fb1c7478338ccafa7bd419c07dfc2be3.png
+Name: Dawn
 
 Package: com.wkk.dbhook
 Version: 1.0-1
@@ -10708,6 +11126,40 @@ Author: zqbb
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: 隐藏设置里插件
 
+Package: com.wkk.eneko
+Version: 1.4-5
+Architecture: iphoneos-arm64e
+Maintainer: Traurige & SINI
+Installed-Size: 628
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.eneko_1.4-5_iphoneos-arm64e.deb
+Size: 208492
+MD5sum: 01356d377c12f67f268f9309c48fd73e
+SHA1: c65b18caa4cadb43a5ebd43a162a9d98458555cf
+SHA256: 3c0fad4fe8fb079031dc72bbae1d879a114fc4340e2a68d7444c07ac4a2277b4
+Section: Tweaks
+Description: 使用自定义视频为锁屏与桌面壁纸。
+Author: Traurige & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/eneko.png
+Name: Eneko
+
+Package: com.wkk.eneko
+Version: 1.4-5
+Architecture: iphoneos-arm64
+Maintainer: Traurige & SINI
+Installed-Size: 644
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.eneko_1.4-5_iphoneos-arm64.deb
+Size: 210568
+MD5sum: 7d11c15103e132906ff966e176c8c2b1
+SHA1: 1980b3c586e35503cf31584bfb285e907394f8f3
+SHA256: 06c4606e2bcc49c0476cbb345bcba9c7f2a5020e872412e5d1b0070a2acbb649
+Section: Tweaks
+Description: 使用自定义视频为锁屏与桌面壁纸。
+Author: Traurige & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/eneko.png
+Name: Eneko
+
 Package: com.wkk.ersatz
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -10968,6 +11420,39 @@ Author: Netskao
 Icon: https://s1.imagehub.cc/images/2025/04/02/754b2bb601bad95dca5cb982e7d926af.jpeg
 Name: Filza Crack
 
+Package: com.wkk.filzadirprobe
+Version: 1.7.3
+Architecture: iphoneos-arm64e
+Maintainer: 0xkuj
+Installed-Size: 240
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.wkk.filzadirprobe_1.7.3_iphoneos-arm64e.deb
+Size: 48030
+MD5sum: 290f26969250ebea7804dc7e8c6fb82d
+SHA1: 0366119e561aa2c6ce81768b875f6cf61e1116e3
+SHA256: a5f9ef1914e2165e738aac0c4efafa0c8c104bb3eeb9eb8ff918e12af72caad7
+Section: Tweaks
+Description: 计算Filza里文件夹大小。
+Author: 0xkuj
+Icon: https://s1.imagehub.cc/images/2025/04/02/754b2bb601bad95dca5cb982e7d926af.jpeg
+Name: FilzaDirProbe
+
+Package: com.wkk.filzadirprobe
+Version: 1.7.3
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 240
+Filename: ./debs/com.wkk.filzadirprobe_1.7.3_iphoneos-arm64.deb
+Size: 35636
+MD5sum: 9cfd86d485f30f4e768f70cd768fffbd
+SHA1: 9227b5efac487b3cfead6252c4827243e3b2a257
+SHA256: be49f3f9a6aec31a6eb274104316e74988383793794d54ab3bbc34d7ed24409d
+Section: Tweaks
+Description: 计算Filza里文件夹大小。
+Author: 0xkuj
+Icon: https://s1.imagehub.cc/images/2025/04/02/754b2bb601bad95dca5cb982e7d926af.jpeg
+Name: FilzaDirProbe
+
 Package: com.wkk.filzaswipeselect
 Version: 0.0.2
 Architecture: iphoneos-arm64e
@@ -11002,6 +11487,41 @@ Description: Filza的滑动多选功能。
 Author: korboy <korboybeats@gmail.com>
 Icon: https://sini921.github.io/repo/sileodepiction/icon/filzaswipeselect.png
 Name: FilzaSwipeSelect
+
+Package: com.wkk.flexibleexpressions
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: SHTM
+Installed-Size: 920
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.flexibleexpressions_1.2.0_iphoneos-arm64.deb
+Size: 3649108
+MD5sum: 7c472d62ec8b43de673d7d39e2959e7c
+SHA1: 47a40e5cc5ee89de573ab8b13cf093edc1082165
+SHA256: 9b9295fd9f8de8d4e4b654fa4c2abc744d2754bd07f76d4e47996e90ed3af45b
+Section: Tweaks
+Description: 为灵动岛设备添加特效动画，也可以对原生通知进行背景美化。
+Author: SHTM
+Icon: https://TrollStoreX.Github.io/sileodepiction/FlexibleExpression/icon.png
+Name: FlexibleExpression
+
+Package: com.wkk.flexibleexpressions
+Version: 1.2.0
+Architecture: iphoneos-arm64e
+Maintainer: SHTM
+Installed-Size: 920
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.flexibleexpressions_1.2.0_iphoneos-arm64e.deb
+Size: 7367030
+MD5sum: e688c926fbb059341219214bb2d2b1ba
+SHA1: 26a2bcbf8173b84831bc48bde3650b953ee3c852
+SHA256: d774ba8c7af2ec42cbb8df49877a600496bdef1f89f4ce8792a2719a2b1311f3
+Section: Tweaks
+Description: 为灵动岛设备添加特效动画，也可以对原生通知进行背景美化。
+Author: SHTM
+Icon: https://TrollStoreX.Github.io/sileodepiction/FlexibleExpression/icon.png
+Name: FlexibleExpression
 
 Package: com.wkk.ftpz
 Version: 1.0
@@ -11370,6 +11890,41 @@ Description: 去开屏和部分豆腐块广告，测试版本：15.09.1
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/06/40c726a175b0b0a82d1fbc1c0c309be8.png
 Name: 高德地图NoAds
+
+Package: com.wkk.gif
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: liuf <kk99588077@gmail.com>
+Depends: oldabi
+Filename: ./debs/com.wkk.gif_1.0_iphoneos-arm64.deb
+Size: 16276
+MD5sum: 18d8bde4e804c5b2cebfc9f28bc57a80
+SHA1: ab4ac1d638bd545909cbcf22e609f2208cd44ec9
+SHA256: f5786759ed2474970a3e2720882fe6888d45c8576411f3c20bd281ac0b9b99ab
+Section: Tweaks
+Description: 此版本去除了flex3依赖，配合转插使用，默认拉起依赖，素材在/var/mobile/lddgifbg/文件夹里面，在lddgifbg文件夹里面再创建一个文件夹，名字随意，再把素材放进去。一个素材一个文件夹。添加素材不要太大，我测试时大小为30mb，选择后需要等他缓存几秒钟，再去注销，开关可以重新关闭打开一下，素材切记不要太大，容易爆内存，GIF图可以用小工具集视频转GIF制作，没有工具的可以+QQ1772773799
+Author: liuf
+Icon: https://s1.imagehub.cc/images/2025/12/27/8c9924f0272e96500b78e90787eeb6a3.png
+Name: 灵动岛GIF背景
+Sileodepiction: http://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/gif.json
+
+Package: com.wkk.gif
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: liuf <kk99588077@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: oldabi
+Filename: ./debs/com.wkk.gif_1.0_iphoneos-arm64e.deb
+Size: 18348
+MD5sum: 99b879a3decb23737dc2ab07b6704d31
+SHA1: 6fed7e14456a5b1fee8d8c4a36cf562b8399e43b
+SHA256: 4a48bc91cdd2c5f5860785fdbd3c6a77cf292fc1f87181dbebb040e51366d7d1
+Section: Tweaks
+Description: 此版本去除了flex3依赖，配合转插使用，默认拉起依赖，素材在/var/mobile/lddgifbg/文件夹里面，在lddgifbg文件夹里面再创建一个文件夹，名字随意，再把素材放进去。一个素材一个文件夹。添加素材不要太大，我测试时大小为30mb，选择后需要等他缓存几秒钟，再去注销，开关可以重新关闭打开一下，素材切记不要太大，容易爆内存，GIF图可以用小工具集视频转GIF制作，没有工具的可以+QQ1772773799
+Author: liuf
+Icon: https://s1.imagehub.cc/images/2025/12/27/8c9924f0272e96500b78e90787eeb6a3.png
+Name: 灵动岛GIF背景
+Sileodepiction: http://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/gif.json
 
 Package: com.wkk.griddys
 Version: 1.0.5
@@ -11762,6 +12317,41 @@ Author: Jonathan Winger Lang <jontelang@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/02/12/470f48ade8f7efef6d51128c9c697b81.png
 Name: InstaLauncher 2
 
+Package: com.wkk.intelligentpass5
+Version: 1.0.2
+Architecture: iphoneos-arm64e
+Maintainer: Geometric Software
+Installed-Size: 444
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware(>=15.0), firmware(<<17), preferenceloader, se.geometric.graphite
+Filename: ./debs/com.wkk.intelligentpass5_1.0.2_iphoneos-arm64e.deb
+Size: 99538
+MD5sum: 4c8dbe4ac1087548ec27125f6e74f791
+SHA1: 80339391950b9ca3a1beb0aa9c0aa2b65aa83e92
+SHA256: 350fdb8c04c9f7a2ef2eba58af160def10eb11e85e1facec19aba7340ba3db39
+Section: Tweaks
+Description: 最好用的跳过密码插件，信任Wi-Fi/蓝牙/定时间段/深浅色模式等等...已加入汉化。
+Author: Geometric Software
+Icon: https://s1.imagehub.cc/images/2025/12/27/ef8224270e0b59a70ff47d7bb0f6f964.png
+Name: IntelligentPass 5
+
+Package: com.wkk.intelligentpass5
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: Geometric Software
+Installed-Size: 444
+Depends: mobilesubstrate, firmware(>=15.0), firmware(<<17), preferenceloader, se.geometric.graphite
+Filename: ./debs/com.wkk.intelligentpass5_1.0.2_iphoneos-arm64.deb
+Size: 87100
+MD5sum: 38774c615d5170852a540961946a1f18
+SHA1: cd7a09160bdfdc83ecca3942fcfda21d3208c937
+SHA256: c73b9fb58b8b3e42fec648b9b1da7a7209dca4c60724f93f307edf7a255c4532
+Section: Tweaks
+Description: 最好用的跳过密码插件，信任Wi-Fi/蓝牙/定时间段/深浅色模式等等...已加入汉化。
+Author: Geometric Software
+Icon: https://s1.imagehub.cc/images/2025/12/27/ef8224270e0b59a70ff47d7bb0f6f964.png
+Name: IntelligentPass 5
+
 Package: com.wkk.jdhook
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -11831,6 +12421,40 @@ Description: 去掉帖子中穿插的广告。接大量冷门热门app定制去�
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/11/13/d28585960f4bc4a305056b866fdb93c9.png
 Name: 煎蛋NoAds
+
+Package: com.wkk.kayoko
+Version: 3.0
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 952
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/com.wkk.kayoko_3.0_iphoneos-arm64.deb
+Size: 131412
+MD5sum: 6526d42d726b9223e8c487c339adcd49
+SHA1: 71d3df83d47f085bac7c71d11cc5766522848fdd
+SHA256: dc4880274433820b64ce05ca4cc0d152015cad8df203a2696f43084426909fff
+Section: Tweaks
+Description: 剪贴板（支持范围IOS14-17）
+Author: Alexandra Aurora Göttlicher
+Icon: https://s1.imagehub.cc/images/2025/01/23/96e1ab7edb0fee61a64c6cfcfd0623fe.png
+Name: Kayoko
+
+Package: com.wkk.kayoko
+Version: 3.0
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 968
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/com.wkk.kayoko_3.0_iphoneos-arm64e.deb
+Size: 131888
+MD5sum: 2a2a4429a8bdc45270101298c2c31af8
+SHA1: 76b9d0390aa508702cccc53a7cdffede99d5f8d3
+SHA256: 96d65a903c316f74c31abd625c03c09167c8ed142bb32b3ccfe94b62e3d954c6
+Section: Tweaks
+Description: 剪贴板（支持范围IOS14-17）
+Author: Alexandra Aurora Göttlicher
+Icon: https://s1.imagehub.cc/images/2025/01/23/96e1ab7edb0fee61a64c6cfcfd0623fe.png
+Name: Kayoko
 
 Package: com.wkk.keyboardhook
 Version: 2.1-3
@@ -12020,6 +12644,39 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/10/04/217340c30ed0dfd05970462e023a6221.png
 Name: 酷狗音乐Streamline
 
+Package: com.wkk.kuku
+Version: 1.5
+Architecture: iphoneos-arm64
+Maintainer: b4db1r3
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, ws.hbang.common (>= 1.17)
+Filename: ./debs/com.wkk.kuku_1.5_iphoneos-arm64.deb
+Size: 254476
+MD5sum: f625d4d7bfa658f6abc4769cf00b8645
+SHA1: 2a51b7098680da14a7739ae60a9d184b46e50b6e
+SHA256: a4699be281ad3fa9169dadaf2df81686c69d909399e22f97e1d02bd277cd0dea
+Section: Tweaks
+Description: 自定义通知横幅，已汉化。
+Author: b4db1r3
+Icon: https://sini921.github.io/repo/sileodepiction/icon/kuku.png
+Name: KuKu Reborn
+
+Package: com.wkk.kuku
+Version: 1.5
+Architecture: iphoneos-arm64e
+Maintainer: b4db1r3
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, ws.hbang.common (>= 1.17)
+Filename: ./debs/com.wkk.kuku_1.5_iphoneos-arm64e.deb
+Size: 273364
+MD5sum: 4ad050dfb5aad4066090452e4068221b
+SHA1: f61201beef30be364cb4723e04327751b8df878c
+SHA256: d562c7aa5f32c88202fd9b0fbe24d14ab7460dc32d57bcb03cc3ea1e8a11634c
+Section: Tweaks
+Description: 自定义通知横幅，已汉化。
+Author: b4db1r3
+Icon: https://sini921.github.io/repo/sileodepiction/icon/kuku.png
+Name: KuKu Reborn
+
 Package: com.wkk.latchkey
 Version: 2.3.3
 Architecture: iphoneos-arm64
@@ -12128,6 +12785,39 @@ Description: 15系统完美使用，16系统横屏有些用户会有问题。免
 Author: Crassna
 Icon: https://s1.imagehub.cc/images/2025/01/09/06130549c430dd824cd811789f56a47b.png
 Name: Applecard
+
+Package: com.wkk.lockeddnd
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: 0xkuj
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.wkk.lockeddnd_1.0_iphoneos-arm64e.deb
+Size: 6394
+MD5sum: 231128e2311cd8938b232f94c46371ea
+SHA1: f59027a6ef9b436c58ebe9a0b40d7f71b8e25aaa
+SHA256: a622e9e091c394a88f4250cefd216af6028265c74251d822c6eac8efdc74f4e7
+Section: Tweaks
+Description: 设备锁定时激活勿扰，解锁后解除。
+Author: 0xkuj
+Icon: https://s1.imagehub.cc/images/2025/01/01/3db11086ea6cf08a97f71f69e0dd03df.png
+Name: Locked DND
+
+Package: com.wkk.lockeddnd
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 168
+Filename: ./debs/com.wkk.lockeddnd_1.0_iphoneos-arm64.deb
+Size: 4712
+MD5sum: 7585d0c419102ae3f6477857cd7603d6
+SHA1: bf591398ed4ade9044409fbd000ec72cc7da9f95
+SHA256: e8711e66181b5c79d94f0b984634b622a9959acf22dbdbfb6db8ef600cd0af62
+Section: Tweaks
+Description: 设备锁定时激活勿扰，解锁后解除。
+Author: 0xkuj
+Icon: https://s1.imagehub.cc/images/2025/01/01/3db11086ea6cf08a97f71f69e0dd03df.png
+Name: Locked DND
 
 Package: com.wkk.lockmusic
 Version: 1.0
@@ -12653,6 +13343,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/05/88e9e30fb0e2ed87767b4d3280c200e1.png
 Name: 禁用充电声音
 
+Package: com.wkk.noline
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.hk.daodao.noseparators, com.hk.daodao.rootless.noseparators, com.qms.noseparators, com.hk.noline, com.qms.noline
+Filename: ./debs/com.wkk.noline_1.0.1_iphoneos-arm64e.deb
+Size: 5148
+MD5sum: b010ceca886a9cc5f5afc51b6cf4226e
+SHA1: fe89e8be3a5801308a5ea5c4329b20f7741d19ba
+SHA256: 0c9bf13665b26fa459bbadb0a8bd093ddacd532d4cfcb9896f4364742b77101f
+Section: Tweaks
+Description: 去除弹窗/UI/长按菜单等地方的分割线。
+Author: 妖刀
+Icon: https://s1.imagehub.cc/images/2025/01/01/135e9192996151208956bded1a4cedaf.png
+Name: PurifyLine
+
+Package: com.wkk.noline
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Conflicts: com.hk.daodao.noseparators, com.hk.daodao.rootless.noseparators, com.qms.noseparators, com.hk.noline, com.qms.noline
+Filename: ./debs/com.wkk.noline_1.0.1_iphoneos-arm64.deb
+Size: 3740
+MD5sum: 4b3e7c971f1a5cca751e1d8a14221738
+SHA1: e05c54e9689343025b89919c2125e84c16e3688b
+SHA256: ce4f88ac65b5b3f41218b374d9ec4d7bbf172796092f706466d71fe5837fc00f
+Section: Tweaks
+Description: 去除弹窗/UI/长按菜单等地方的分割线。
+Author: 妖刀
+Icon: https://s1.imagehub.cc/images/2025/01/01/135e9192996151208956bded1a4cedaf.png
+Name: PurifyLine
+
 Package: com.wkk.nopreferencetips
 Version: 1.0.4
 Architecture: iphoneos-arm64e
@@ -12687,6 +13412,40 @@ Description: 移除“设置-电池-电池健康与充电”的提醒并显示�
 Author: 苏苏
 Icon: https://s1.imagehub.cc/images/2025/02/14/a2e56499e255b0a754bebf8803f037c8.png
 Name: NoPreferencesTips
+
+Package: com.wkk.noredirect
+Version: 2.1
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 832
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.libsandy
+Filename: ./debs/com.wkk.noredirect_2.1_iphoneos-arm64.deb
+Size: 90460
+MD5sum: ef79ca9f8792542d306342299c96d4b0
+SHA1: cd75bcbb3a393edd1a537fe9e31e84af890a9c2f
+SHA256: e9eb71b7f16ca66f7d6ac0426e975aa294f9ef71dd8e8cdf8a7b24db5400a171
+Section: Tweaks
+Description: 阻止指定应用程序重定向到App Store、Safari或其他应用程序。
+Author: Lessica <82flex@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/12/27/4a23398f59384c6633e9a0687a9f6d4b.png
+Name: 禁字决
+
+Package: com.wkk.noredirect
+Version: 2.1
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 832
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.libsandy
+Filename: ./debs/com.wkk.noredirect_2.1_iphoneos-arm64e.deb
+Size: 91356
+MD5sum: d2f2f2d1e0f2d7e36a43c3237095479f
+SHA1: 7632eb8b9a0e854588eba86dc77067621a079bf7
+SHA256: 2a0a084dea6a6df98d571aedbf6f83c1675c2ceb480b8262f4206f6d58953c75
+Section: Tweaks
+Description: 阻止指定应用程序重定向到App Store、Safari或其他应用程序。
+Author: Lessica <82flex@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/12/27/4a23398f59384c6633e9a0687a9f6d4b.png
+Name: 禁字决
 
 Package: com.wkk.onesettings
 Version: 2.2
@@ -12759,6 +13518,41 @@ Description: 全局右滑手势，已汉化。
 Author: AnthoPak <anthopakdev@gmail.com>
 Icon: https://sini921.github.io/repo/sileodepiction/icon/pancake.png
 Name: PanCake
+
+Package: com.wkk.passtext
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: Hitori <mikasa-san@outlook.jp>
+Installed-Size: 544
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.passtext_1.0.1_iphoneos-arm64.deb
+Size: 127624
+MD5sum: ce0be8f5ca65888ad925bff2e58179df
+SHA1: 6301d6341be2aab93003c8bb897d4104e0d0bba6
+SHA256: d682acb19bc8c64475a5261296740565c5920f3b2077cd4074477f257cface02
+Section: Tweaks
+Description: 自定义你的锁屏密码，改为数字/表情/符号等。
+Author: Hitori <mikasa-san@outlook.jp>
+Icon: https://s1.imagehub.cc/images/2025/01/21/9768459e2e121190ec05a6d2cbb5b176.png
+Name: PassText
+
+Package: com.wkk.passtext
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Maintainer: Hitori <mikasa-san@outlook.jp>
+Installed-Size: 544
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.passtext_1.0.1_iphoneos-arm64e.deb
+Size: 134624
+MD5sum: 7049b71349deb2d762596f03d6edd138
+SHA1: ddaa52e9193108f49a5de8ea230705c909f14cac
+SHA256: e57ca84cef8d8404f3dfb1933d25ef4d223c0eb42bc2df3d9d4fe88585a700ca
+Section: Tweaks
+Description: 自定义你的锁屏密码，改为数字/表情/符号等。
+Author: Hitori <mikasa-san@outlook.jp>
+Icon: https://s1.imagehub.cc/images/2025/01/21/9768459e2e121190ec05a6d2cbb5b176.png
+Name: PassText
 
 Package: com.wkk.photohook
 Version: 1.0-6
@@ -13170,6 +13964,40 @@ Description: 去开屏广告/应用内豆腐块广告，版本：7.85，接大�
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/06/1cb46c4a119429e59516fd3f0287e49d.png
 Name: 七猫小说NoAds
+
+Package: com.wkk.qqmusicdesktoplyrics
+Version: 0.3.9~b1
+Architecture: iphoneos-arm64e
+Maintainer: Brend0n <brendonjkding@126.com>
+Installed-Size: 2540
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (>= 15.0), preferenceloader
+Filename: ./debs/com.wkk.qqmusicdesktoplyrics_0.3.9~b1_iphoneos-arm64e.deb
+Size: 574820
+MD5sum: d1c58e5e4dd3500d025d5a11226e79ca
+SHA1: 74229b54488eeffc0f7e1444797cf9de33c7fa22
+SHA256: 152aa4a276cddb08cff9c002f054606217019ed162527192d22ee2e8242b2d3f
+Section: Tweaks
+Description: 高度自定义歌词全局显示，支持无根隐根。
+Author: Brend0n <brendonjkding@126.com>
+Icon: https://s1.imagehub.cc/images/2025/12/26/9e682ccf2cfd7cea8920b62fa006cca5.png
+Name: DesktopLyrics
+
+Package: com.wkk.qqmusicdesktoplyrics
+Version: 0.3.9~b1
+Architecture: iphoneos-arm64
+Maintainer: Brend0n <brendonjkding@126.com>
+Installed-Size: 2748
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (>= 15.0), preferenceloader
+Filename: ./debs/com.wkk.qqmusicdesktoplyrics_0.3.9~b1_iphoneos-arm64.deb
+Size: 622680
+MD5sum: 59286d9b2746144ba381b987035b9d4c
+SHA1: fab9eea0dbe951cca2d80a4fe38b4412935e85d1
+SHA256: 93a145ef4660d699ae4aacc64d27f7c4b20d353cafaf0b2430d578479b7cc16c
+Section: Tweaks
+Description: 高度自定义歌词全局显示，支持无根隐根。
+Author: Brend0n <brendonjkding@126.com>
+Icon: https://s1.imagehub.cc/images/2025/12/26/9e682ccf2cfd7cea8920b62fa006cca5.png
+Name: DesktopLyrics
 
 Package: com.wkk.qqmusichook
 Version: 1.0
@@ -13614,6 +14442,39 @@ Author: yan
 Icon: https://s1.imagehub.cc/images/2025/12/26/a33eaf6e39094de1d78f60df4264c7b1.png
 Name: Stella❄️
 
+Package: com.wkk.stepup
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: ETHN
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.wkk.stepup_1.2_iphoneos-arm64e.deb
+Size: 52090
+MD5sum: 47545b7b96d5107ec0c4c73039455314
+SHA1: 6c91d942dc1c1088b2209ed399d591de2ec421f4
+SHA256: bd3c82ab4763c107221b7521805c21c4656c3850e394e14698309dccdc61b8c9
+Section: Tweaks
+Description: 可以自由定义音量按键值，按一下调到最大/最小等等。
+Author: ETHN <ethanwhited2208@gmail.com>
+Icon: https://nahtedetihw.github.io/assets/com.nahtedetihw.stepup-rootless/icon.png
+Name: StepUp
+Tags: compatible_min::ios13.0, compatible_max::ios16.4
+
+Package: com.wkk.stepup
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: ETHN
+Filename: ./debs/com.wkk.stepup_1.2_iphoneos-arm64.deb
+Size: 43208
+MD5sum: 0c99395f8e491832e5db6a12a9a5c8a2
+SHA1: 841d8e98d2fe1087362745a97a778acd3a38fd75
+SHA256: 50e6df5274e7f6e74a3a2bb12a35ae845705a4b5e86e95d562aa2ec169dc2185
+Section: Tweaks
+Description: 可以自由定义音量按键值，按一下调到最大/最小等等。
+Author: ETHN <ethanwhited2208@gmail.com>
+Icon: https://nahtedetihw.github.io/assets/com.nahtedetihw.stepup-rootless/icon.png
+Name: StepUp
+Tags: compatible_min::ios13.0, compatible_max::ios16.4
+
 Package: com.wkk.stormsnifferhook
 Version: 1.0-1
 Architecture: iphoneos-arm64
@@ -13718,6 +14579,41 @@ Description: ios15-16键盘震动的终极调整，敲击键盘或候选词都�
 Author: P2KDev <p2kdev@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/01/22/da95cacf3e9dbdaec0311e6a00989e86.png
 Name: TapticBoard
+
+Package: com.wkk.tie-gesture
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: be-huge
+Installed-Size: 672
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.wkk.tie-gesture_1.0.0_iphoneos-arm64e.deb
+Size: 132202
+MD5sum: 0cfb74490e6b5bc5a0e9ed81cfb31cd3
+SHA1: 1ad105cbb922638dbd3f3f2ce7a899870e6ffd94
+SHA256: 17349d13e3f8e92590a81fe5ff267c1b74a84164c8d2046c656ce8abdc8143a9
+Section: Tweaks
+Description: 手势插件，一切从简即可，免费版本。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/12/27/9f3a995f14a2eb42995785263ad96d7b.png
+Name: TieGesture
+
+Package: com.wkk.tie-gesture
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 672
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.wkk.tie-gesture_1.0.0_iphoneos-arm64.deb
+Size: 102196
+MD5sum: d8e6f644937d74f1b57242bc617558ba
+SHA1: c36b8720ce18e9e10c55d73dee082aeeb06275e0
+SHA256: 2139b24d243d53976d12eceba8856ba8e6f6c8183676d6d975952af2744b437e
+Section: Tweaks
+Description: 手势插件，一切从简即可，免费版本。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/12/27/9f3a995f14a2eb42995785263ad96d7b.png
+Name: TieGesture
 
 Package: com.wkk.tiebahook
 Version: 1.0-5
@@ -13928,6 +14824,27 @@ Description: 很棒的老电视关屏动画，已内置简体中文。
 Author: Wes <wes.hamster@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/01/01/3c453818da9ee36e5e6beeb9db386ee6.png
 Name: TVLock
+
+Package: com.wkk.tweaksettings
+Version: 1.0.9
+Architecture: iphoneos-arm64e
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 1064
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 10.0), preferenceloader | com.creaturecoding.preferred
+Filename: ./debs/com.wkk.tweaksettings_1.0.9_iphoneos-arm64e.deb
+Size: 389276
+MD5sum: fb91c4e3b84a418accd8bb47696ac750
+SHA1: 31ec3959054ba26b34d5c50473d71c434b989518
+SHA256: f35c54dd4b0115368b06cb96ffc05239265ac7c77bbdaa0c757f8e1e6c1aecc8
+Section: 应用程序
+Priority: optional
+Description: 桌面生成App，直达越狱插件页面，已汉化，觉得app图标丑的可以找我换。
+Tag: purpose::application, compatible_min::ios10
+Author: CreatureSurvive <support@creaturecoding.com>
+Dev: CreatureSurvive
+Icon: https://s1.imagehub.cc/images/2025/12/27/cf1e2e152c6f7753e36ae33902aa3886.png
+Name: TweakSettings
 
 Package: com.wkk.txsphook
 Version: 1.0
@@ -14245,6 +15162,41 @@ Description: 将隔空播放图标替换为已连接设备。
 Author: Ruphane
 Icon: https://TrollStoreX.Github.io/sileodepiction/WherePlay/icon.png
 Name: WherePlay
+
+Package: com.wkk.wicellswitcher
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: Bruno Andrade <brubiluco@globo.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Conflicts: com.brunonfl.wicellswitcher
+Filename: ./debs/com.wkk.wicellswitcher_1.2_iphoneos-arm64e.deb
+Size: 26702
+MD5sum: 234a281115cd0979a3c7c7be609fe4f8
+SHA1: a00d4a3bb112c8430ad19a6466a2bda72c0bcb9a
+SHA256: 0ed2b02b3c5ea54fd9462de077b478eea77f98cf265d0788a354573873141daf
+Section: Tweaks
+Description: 控制中心连接WiFi关闭蜂窝，连接蜂窝关闭WiFi。
+Author: Bruno Andrade <brubiluco@globo.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/65559e36ac987c56556a7ab5daff0665.png
+Name: WiCellSwitcher
+
+Package: com.wkk.wicellswitcher
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: Bruno Andrade <brubiluco@globo.com>
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Conflicts: com.brunonfl.wicellswitcher
+Filename: ./debs/com.wkk.wicellswitcher_1.2_iphoneos-arm64.deb
+Size: 23324
+MD5sum: ecb59a9c72542838c81a5be2e4f894f3
+SHA1: aa8ce5bb67ef50de4802fc11bc5e0ac4c7399eb5
+SHA256: df1e9307e9971c14573cabfdd4ad0fcde2fe4b526daac1fd0bd707083a4a10af
+Section: Tweaks
+Description: 控制中心连接WiFi关闭蜂窝，连接蜂窝关闭WiFi。
+Author: Bruno Andrade <brubiluco@globo.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/65559e36ac987c56556a7ab5daff0665.png
+Name: WiCellSwitcher
 
 Package: com.wkk.wtvrbglauncher
 Version: 1.2
@@ -14605,6 +15557,41 @@ Description: 极致的丝滑去开屏广告，版本：3.11.1，接大量冷门�
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/11/14/cdf64e516d0fb0f51be2a24f4385f2cd.png
 Name: 小蚕惠生活NoAds
+
+Package: com.wkk.xhshook
+Version: 1.1.6-8
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 4296
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.xhshook_1.1.6-8_iphoneos-arm64.deb
+Size: 1452204
+MD5sum: d7fcf30de43bc08ad5ae17a595bf2381
+SHA1: 3a407d5047b1ad98b91d486f1b99c3bbce879a8c
+SHA256: 4415ff505cdcbc2008d3581b03bd63c9f8fc4a1b3a947d4b3827ede7abc843cf
+Section: Tweaks
+Description: 24小时内删除。
+Author: x✨
+Icon: https://sini921.github.io/repo/sileodepiction/icon/xhshook.png
+Name: 小红薯
+
+Package: com.wkk.xhshook
+Version: 1.1.6-8
+Architecture: iphoneos-arm64e
+Maintainer: x✨
+Installed-Size: 4296
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.xhshook_1.1.6-8_iphoneos-arm64e.deb
+Size: 4019618
+MD5sum: 18b3f09f1d353a516d8490f630beb0d8
+SHA1: a18ae328112e2a9ec0f3903109a2e83f8da2f11e
+SHA256: 5646f87bc5dae28dfd373a55d96ad61f9fd1a864fe0bbb7aad9909433f31bda0
+Section: Tweaks
+Description: 24小时内删除。
+Author: x✨
+Icon: https://sini921.github.io/repo/sileodepiction/icon/xhshook.png
+Name: 小红薯
 
 Package: com.wkk.xianyuhook
 Version: 1.0
@@ -15394,41 +16381,6 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/06/16/4d8b76fc09393fdae4119792925bf6da.png
 Name: 转转NoAds
 
-Package: com.xx.xhshook
-Version: 1.1.6-3
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Installed-Size: 4488
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.xx.xhshook_1.1.6-3_iphoneos-arm64.deb
-Size: 1521516
-MD5sum: 2506352d4a7c5198d1a1e853c2ca4340
-SHA1: dd53f5b231f66a7458ea7b50ffba8df5d1831b97
-SHA256: e1c7bbf0589884215a26e9cd0fe0ed5321a1c33e6f3d89733cae7f417a92a320
-Section: Tweaks
-Description: 朋友需要才制作了此插件 APP设置界面右上角打开插件界面 或 双指长按设置界面 功能：默认移除一些广告 原生按钮无水印保存图片 视频 live图 评论区图片·live图 长按文案复制
-Author: x✨
-Icon: https://s1.imagehub.cc/images/2025/05/02/8d8474811dcf0b53c2a353639c522568.png
-Name: 小红薯
-
-Package: com.xx.xhshook
-Version: 1.1.6-3
-Architecture: iphoneos-arm64e
-Maintainer: x✨
-Installed-Size: 4488
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.xx.xhshook_1.1.6-3_iphoneos-arm64e.deb
-Size: 4204086
-MD5sum: 45b8b9c0a4968ac078302090908c4a4e
-SHA1: a9015374127ffa95e4047cf1ab2f79b6db931367
-SHA256: bb2ee2f1b61fcca892135fb899acb8e43bdc734cde1e36cd1aec5bd5d65c67c8
-Section: Tweaks
-Description: 朋友需要才制作了此插件 APP设置界面右上角打开插件界面 或 双指长按设置界面 功能：默认移除一些广告 原生按钮无水印保存图片 视频 live图 评论区图片·live图 长按文案复制
-Author: x✨
-Icon: https://s1.imagehub.cc/images/2025/05/02/8d8474811dcf0b53c2a353639c522568.png
-Name: 小红薯
-
 Package: com.zqbb.Snapper3
 Version: 1.0-1
 Architecture: iphoneos-arm64e
@@ -15586,6 +16538,24 @@ Description: 解锁画中画限制，双指随意放大，无设置项。
 Author: Soh Satoh
 Icon: https://s1.imagehub.cc/images/2025/01/03/379617e90dc02b790c6c1daf8ffcb8ba.png
 Name: FreePIP
+
+Package: kr.xsf1re.vnodebypass
+Version: 0.4.3
+Architecture: iphoneos-arm64
+Maintainer: alias20
+Installed-Size: 492
+Depends: firmware (>= 15.0), firmware (<< 17.0), com.opa334.ccsupport, libkrw0-dopamine (>= 2.0)
+Filename: ./debs/kr.xsf1re.vnodebypass_0.4.3_iphoneos-arm64.deb
+Size: 67460
+MD5sum: 3bfcc1d7db3c3188a1639d4fb43c797c
+SHA1: 2a720aca8077a972dd0967da97e9a40be1c22fb1
+SHA256: f487fdc2f03e34c084e37897c8ca25a995f0b4860a6e5e86f14a81feb20f0285
+Section: 应用程序
+Description: 无根越狱隐藏越狱，已汉化，在需要时开启，即用即关，不要常开。（仅支持iOS15-16系统Dopamine无根越狱）
+Tag: role::hacker, compatible::ios15, compatible::ios16
+Author: XsF1re, ichitaso, level3tjg
+Icon: https://raw.githubusercontent.com/ichitaso/vnodebypass_theme/main/layout/Library/Themes/vnodebypass.theme/Icon.png
+Name: Vnodebypass
 
 Package: netskao.wcpureextension-rootless
 Version: 4.2-6
