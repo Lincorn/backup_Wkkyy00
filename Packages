@@ -810,24 +810,6 @@ Author: Mao
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: 微信插件管理
 
-Package: com.25mao.wxurlexpand.rootless
-Version: 0.2-0
-Architecture: iphoneos-arm64
-Maintainer: admin@25mao.com
-Depends: firmware (>= 5.0)
-Filename: ./debs/com.25mao.wxurlexpand.rootless_0.2-0_iphoneos-arm64.deb
-Size: 34000
-MD5sum: b3e0d3f53ccad0fbf9d3b6d8ef83534b
-SHA1: 29fc8d7b4ae3d250ec3b0754b7208e33a2bfdb2b
-SHA256: 286c2cc9124da32f513b70913f372e04e9b5fd58c783eccc4bb23c0cd20e7cbd
-Section: 微信插件
-Priority: optional
-Description: 扩展微信URLScheme接口，方便从外部调用。
-Author: Mao
-Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
-Name: 微信URL扩展
-Sponsor: admin@25mao.com
-
 Package: com.HBWechatHelper.ailun
 Version: 1.7-8
 Architecture: iphoneos-arm64
@@ -6855,41 +6837,6 @@ Author: Netskao
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WeChatNotiAvatar
 
-Package: com.netskao.wechatuiswitchloader
-Version: 1.1-4
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 320
-Depends: mobilesubstrate, firmware (>= 13.0)
-Filename: ./debs/com.netskao.wechatuiswitchloader_1.1-4_iphoneos-arm64.deb
-Size: 121068
-MD5sum: 45dd014544c34d6b69d083c0cc9547ea
-SHA1: 86ac33af08f1be17ebb595920f86e73d39d52f9a
-SHA256: 22ec7b530b63800e645ca48f625fd80be391d6abbed990b1b27437192a644830
-Section: 微信插件
-Description: 皮卡丘按钮
-Author: Netskao
-Icon: https://s1.imagehub.cc/images/2025/01/09/173b823a03cbe3c3d5342c56736f52cd.png
-Name: WeChatUISwitchLoader
-Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.wechatuiswitchloader.json
-
-Package: com.netskao.wechatuiswitchloader
-Version: 1.1-5
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 304
-Depends: mobilesubstrate, firmware (>= 13.0)
-Filename: ./debs/com.netskao.wechatuiswitchloader_1.1-5_iphoneos-arm64.deb
-Size: 119372
-MD5sum: 634b6345b2da3b493b0a1233421dc5fa
-SHA1: 26496bdc2f16c66390ebe3ad6c83f959f90d4143
-SHA256: a500c0f57fce632c8987e0d8fb2f3069e74f25a23b9292772405d1b56c1692ae
-Section: 微信插件
-Description: 微信按钮。默认皮卡丘。
-Author: Netskao
-Icon: https://s1.imagehub.cc/images/2025/01/09/173b823a03cbe3c3d5342c56736f52cd.png
-Name: WeChatUISwitchLoader
-
 Package: com.picsewpro
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -7686,74 +7633,6 @@ Description: Picta适配 Snapper3 的插件
 Author: SuSu
 Icon: https://s1.imagehub.cc/images/2025/12/13/f934f840753cc376919f03e706ab50ab.png
 Name: Picta
-
-Package: com.susu.wcfrostedglass
-Version: 1.0.3
-Architecture: iphoneos-arm64
-Maintainer: 苏苏
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.susu.wcfrostedglass_1.0.3_iphoneos-arm64.deb
-Size: 5076
-MD5sum: c3a12f5584e790bc4cc06d0b4b85c39a
-SHA1: 9628a58f909cf3c3dd89c69d6daed2d1b1e2bfe2
-SHA256: 416b9d521e04de22b8445d6961d4403bf9fbfb48c7839f82627927ab69f70429
-Section: 微信插件
-Description: 微信界面上下添加毛玻璃效果，作者源：https://susubaby.top/0107/
-Author: 苏苏
-Icon: https://www.susubaby.top/images/wechat.png
-Name: SuWCFrostedGlass
-
-Package: com.susu.wcfrostedglass
-Version: 1.0.4
-Architecture: iphoneos-arm64
-Maintainer: 苏苏
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.susu.wcfrostedglass_1.0.4_iphoneos-arm64.deb
-Size: 5400
-MD5sum: c168877e0b448d68badca7b70b069da6
-SHA1: 8eed9d7baa689c97f5fd532caf4f30f5e216555c
-SHA256: e412f28e6c6d0a6e00911707a58ffafe31488dc5b80359d2ee1735f4852ae0c7
-Section: 微信插件
-Description: 微信界面上下添加毛玻璃效果，作者源：https://susubaby.top/0107/
-Author: 苏苏
-Icon: https://www.susubaby.top/images/wechat.png
-Name: SuWCFrostedGlass
-
-Package: com.susu.wcfrostedglass
-Version: 1.0.4-2
-Architecture: iphoneos-arm64
-Maintainer: 苏苏
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.susu.wcfrostedglass_1.0.4-2_iphoneos-arm64.deb
-Size: 4476
-MD5sum: 5cd93e369310ed4209acba48584a36f6
-SHA1: b50baa4bbe68ab2369f36440c7a0750c15133541
-SHA256: 129317dc437217233b581abcb9a0035187c21c53fd51d1beffe2b00c9aa2a056
-Section: 微信插件
-Description: 微信界面上下添加毛玻璃效果，作者源：https://susubaby.top/0107/
-Author: 苏苏
-Icon: https://www.susubaby.top/images/wechat.png
-Name: SuWCFrostedGlass
-
-Package: com.susu.wcfrostedglass
-Version: 1.0.5
-Architecture: iphoneos-arm64
-Maintainer: 苏苏
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.susu.wcfrostedglass_1.0.5_iphoneos-arm64.deb
-Size: 4888
-MD5sum: 373e0a77dc19ce8fb5002cf1c4bee664
-SHA1: dc4575143c1a9c4a40931cbd8ea894867ffcbe4c
-SHA256: 1638b02f4ed0cea9c044c2e83ccd8ab535e8afb95c94f5e13c5031ebd3c3bc6c
-Section: 微信插件
-Description: 微信界面上下添加毛玻璃效果，作者源：https://susubaby.top/0107/
-Author: 苏苏
-Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
-Name: SuWCFrostedGlass
 
 Package: com.tencent.themebox
 Version: 1.0.8-1
@@ -9549,6 +9428,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/11/14/f1023fd8a63f7323cc3bf502e4e91a53.png
 Name: 爱奇艺NoAds
 
+Package: com.wkk.arizona
+Version: 0.9.2
+Architecture: iphoneos-arm64
+Maintainer: Luki
+Installed-Size: 796
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: ./debs/com.wkk.arizona_0.9.2_iphoneos-arm64.deb
+Size: 427732
+MD5sum: 9394c05907ff335d3ea97530c96e0901
+SHA1: 04a0a49fc3fa89f1e8b27dec9f3424bd395b0142
+SHA256: d137c21ed1206b742dff44fb333476fa3f76695e05a78e8ac219c02c3e8e11f2
+Section: Tweaks
+Description: 自定义锁屏时间位置，已汉化。
+Author: Luki
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Arizona
+
+Package: com.wkk.arizona
+Version: 0.9.2
+Architecture: iphoneos-arm64e
+Maintainer: Luki
+Installed-Size: 796
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: ./debs/com.wkk.arizona_0.9.2_iphoneos-arm64e.deb
+Size: 445804
+MD5sum: d11de44a55edf2e16a5c3cb3004a17d1
+SHA1: 5ae39ac15dea902f500fc7e27c9b0a8f9e925607
+SHA256: ef1ebbb8ff752a8354259c1bad204669eb5667f5b807567af11887f5ab3c2a6f
+Section: Tweaks
+Description: 自定义锁屏时间位置，已汉化。
+Author: Luki
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Arizona
+
 Package: com.wkk.artworkspinner
 Version: 1.6
 Architecture: iphoneos-arm64
@@ -10310,6 +10224,24 @@ Author: fiore
 Icon: https://s1.imagehub.cc/images/2025/01/21/b5fcd38fb9f974d8467fc93c3aa7902f.png
 Name: CCBorder15
 
+Package: com.wkk.ccborder15
+Version: 1.1.2
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 172
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/com.wkk.ccborder15_1.1.2_iphoneos-arm64e.deb
+Size: 18946
+MD5sum: 557f486f068a38ea811275ec209d7ec0
+SHA1: 3008d30a4481b1627ced73b021ea3575cdf71e54
+SHA256: 683f9c1ac98f0cb9dc7489ce22cf3470fb05f092bf673966c47a1cf8a1ed8067
+Section: 插件
+Description: 不支持iOS16！iOS16用源里的另一款。类似iOS18样式的控制中心。
+Author: fiore
+Icon: https://s1.imagehub.cc/images/2025/01/21/b5fcd38fb9f974d8467fc93c3aa7902f.png
+Name: CCBorder15
+
 Package: com.wkk.cccellularrate
 Version: 1.1-1
 Architecture: iphoneos-arm64
@@ -10521,6 +10453,40 @@ Author: Netskao
 Icon: https://s1.imagehub.cc/images/2025/12/29/79018e0c97a38b0c2da262e3bf40edb1.png
 Name: CCswitchdata
 Sponsor: wkk
+
+Package: com.wkk.ccweathermodule
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: simon
+Installed-Size: 380
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/com.wkk.ccweathermodule_1.0.2_iphoneos-arm64.deb
+Size: 88128
+MD5sum: d881a3f69fac99ff334e9209f6765fc4
+SHA1: e9b5f8c2c48bac451d34db6ec84f79fbbe15e7d1
+SHA256: c1e458b69c013e088583180c1aea2f8f8090ceb5bc615fed85b309c2b491d59c
+Section: Tweaks
+Description: 控制中心的天气模块。 显示当前天气、温度和每小时预报。
+Author: simon
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: CCWeather Module
+
+Package: com.wkk.ccweathermodule
+Version: 1.0.2
+Architecture: iphoneos-arm64e
+Maintainer: simon
+Installed-Size: 444
+Depends: firmware (>= 14.0)
+Filename: ./debs/com.wkk.ccweathermodule_1.0.2_iphoneos-arm64e.deb
+Size: 95896
+MD5sum: c9c33af14d8d3b9352f841666756fe49
+SHA1: 401727fc5905550be5672393e4b858bdf0d8ac51
+SHA256: c5f1788c73462e5f7213a6923b20e773dbdab3b93afcc67cb5b5b42ec9900b17
+Section: Tweaks
+Description: 控制中心的天气模块。显示当前天气、温度和每小时预报。
+Author: simon
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: CCWeather Module
 
 Package: com.wkk.center
 Version: 1.1-1
@@ -12181,6 +12147,41 @@ Author: SHTM
 Icon: https://TrollStoreX.Github.io/sileodepiction/FlexibleExpression/icon.png
 Name: FlexibleExpression
 
+Package: com.wkk.freepip
+Version: 0.0.3-1
+Architecture: iphoneos-arm64e
+Maintainer: Soh Satoh
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.freepip_0.0.3-1_iphoneos-arm64e.deb
+Size: 8410
+MD5sum: 77a2e6abcfbed44d444a259a16d5ef52
+SHA1: e4032710a7121355b3394eebcd720e54d6bcd958
+SHA256: ebf1d3f3f4672d2c912da335c9b5d4ac8f91bd4fb130cc338a66009df0e0cde8
+Section: Tweaks
+Description: 解锁画中画限制，双指随意放大，无设置项。
+Author: Soh Satoh
+Icon: https://s1.imagehub.cc/images/2025/01/03/379617e90dc02b790c6c1daf8ffcb8ba.png
+Name: FreePIP
+
+Package: com.wkk.freepip
+Version: 0.0.3-1
+Architecture: iphoneos-arm64
+Maintainer: Soh Satoh
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.freepip_0.0.3-1_iphoneos-arm64.deb
+Size: 6384
+MD5sum: 86923bfd881ec0ddf6440da3c4c62148
+SHA1: e98530ebd997fc337c9353e059277615a2564b37
+SHA256: a233ee9d153f83701c80f407650df3925b0733c74a1f1461fa2a7e29c2c2f1ff
+Section: Tweaks
+Description: 解锁画中画限制，双指随意放大，无设置项。
+Author: Soh Satoh
+Icon: https://s1.imagehub.cc/images/2025/01/03/379617e90dc02b790c6c1daf8ffcb8ba.png
+Name: FreePIP
+
 Package: com.wkk.ftpz
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -13255,6 +13256,42 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/11/13/d28585960f4bc4a305056b866fdb93c9.png
 Name: 煎蛋NoAds
 
+Package: com.wkk.kaiguan
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: com.spark.snowboard, com.spark.snowboard.ui, com.spark.snowboard.masks, com.spark.snowboard.effects
+Filename: ./debs/com.wkk.kaiguan_1.0-1_iphoneos-arm64e.deb
+Size: 3277776
+MD5sum: 157c49716cb2921efe7f613b30e2b7a0
+SHA1: f2a033e5e59a28bc9e0d5234dbbee1e6f12130e3
+SHA256: 2c81dc61d79f40760cc8c273f92626985e80aa27602b61ff5035d949e30d37e7
+Section: 美化
+Description: 50多款开关大集合，无/隐根直装，告别四处求爷爷告奶奶的日子。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/21/f6fc596574b95a93ba343da65e2e6964.png
+Name: 滑雪板开关集合
+Sponsor: wkk
+
+Package: com.wkk.kaiguan
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: com.spark.snowboard, com.spark.snowboard.ui, com.spark.snowboard.masks, com.spark.snowboard.effects
+Filename: ./debs/com.wkk.kaiguan_1.0-1_iphoneos-arm64.deb
+Size: 3277864
+MD5sum: 8e94330645d0701975fa5a24bfaed00d
+SHA1: 841f8b484118d919b9ee9d4ff8e960f470addc82
+SHA256: 85f5476b5af3fae7f2bf72260af96ae843b8045e2196243374e09be8f8d23b12
+Section: 美化
+Description: 50多款开关大集合，无/隐根直装，告别四处求爷爷告奶奶的日子。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/21/f6fc596574b95a93ba343da65e2e6964.png
+Name: 滑雪板开关集合
+Sponsor: wkk
+
 Package: com.wkk.kayoko
 Version: 3.0
 Architecture: iphoneos-arm64
@@ -13653,6 +13690,41 @@ Description: 15系统完美使用，16系统横屏有些用户会有问题。免
 Author: Crassna
 Icon: https://s1.imagehub.cc/images/2025/01/09/06130549c430dd824cd811789f56a47b.png
 Name: Applecard
+
+Package: com.wkk.lightsout
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: Skitty
+Installed-Size: 424
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debs/com.wkk.lightsout_1.2_iphoneos-arm64e.deb
+Size: 70112
+MD5sum: 76b4af60696f295cca54604d216563c9
+SHA1: 61a7e7772f3f732222f8cce578180a3ccf3f58da
+SHA256: d59f82cd80acf22edd75e3ac9b693b9b8f0b621eb37ba4242f767b392fdbfadb
+Section: Tweaks
+Description: 使用光线传感器在黑暗/明亮的场景下自动切换深色模式，已汉化。
+Author: Skitty
+Icon: https://skitty.xyz/repo/icons/xyz.skitty.lightsout.png
+Name: LightsOut
+
+Package: com.wkk.lightsout
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: Skitty
+Installed-Size: 424
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debs/com.wkk.lightsout_1.2_iphoneos-arm64.deb
+Size: 56204
+MD5sum: 3e16bb61643eaa3be02bebd7de9a7624
+SHA1: 4537607d616a5a4685b44b64bd3be68734e75743
+SHA256: 1fcb0cded48dca32cf1b010f07de4f863a3a9e3d0e9b44070c69a15e7b2e7174
+Section: Tweaks
+Description: 使用光线传感器在黑暗/明亮的场景下自动切换深色模式，已汉化。
+Author: Skitty
+Icon: https://skitty.xyz/repo/icons/xyz.skitty.lightsout.png
+Name: LightsOut
 
 Package: com.wkk.lockeddnd
 Version: 1.0
@@ -14576,6 +14648,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/01/e181be0bd44589f6eadb6c2196dc6bb8.jpeg
 Name: 相册优化
 
+Package: com.wkk.picturemodule
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: 4nni3 <kk99588077@gmail.com>
+Depends: firmware (>= 12.0), mobilesubstrate, com.opa334.ccsupport, oldabi
+Conflicts: com.4nni3.picturemodule
+Filename: ./debs/com.wkk.picturemodule_1.2_iphoneos-arm64.deb
+Size: 6273360
+MD5sum: e873421d002fdad94d9bf7c462f1d86f
+SHA1: 9dafee2aa32a47a00acde34d7f50b489ea32b023
+SHA256: ce3926c70e81149261873c4847edc2d897abf88319777c68098167aceab6595d
+Section: Tweaks
+Description: 用照片/视频和小部件装饰控制中心模块。
+Author: 4nni3 <kk99588077@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: PictureModule
+
+Package: com.wkk.picturemodule
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: 4nni3 <kk99588077@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0), mobilesubstrate, com.opa334.ccsupport, oldabi
+Conflicts: com.4nni3.picturemodule
+Filename: ./debs/com.wkk.picturemodule_1.2_iphoneos-arm64e.deb
+Size: 22862438
+MD5sum: 995a913ec349e2971df334d1e7c75f16
+SHA1: bf72adb8f12d25673b3a47bf37c38e3a22a67a53
+SHA256: 45fa684f30e3edf3d3a38a259aa1df6fee85d4ea153c2314412f4a6f0c647c84
+Section: Tweaks
+Description: 用照片/视频和小部件装饰控制中心模块。
+Author: 4nni3 <kk99588077@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: PictureModule
+
 Package: com.wkk.pkpkhook
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -14645,6 +14752,47 @@ Description: 仅支持无根/隐根越狱
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/06/75dc8800d1c97029204392465be466b4.jpeg
 Name: 皮卡丘注销动画
+
+Package: com.wkk.pmp
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: iKarwan <ikghd3@gmail.com>
+Installed-Size: 792
+Depends: mobilesubstrate, firmware (>= 15.0), com.opa334.ccsupport
+Conflicts: pro.ikghd.pmp
+Replaces: pro.ikghd.pmp
+Filename: ./debs/com.wkk.pmp_2.0_iphoneos-arm64.deb
+Size: 54528
+MD5sum: dc5b71b18b56d5eea9c073f6f5168aa2
+SHA1: d31c46e9cdadc535665ff6179db523445e2e560f
+SHA256: 353eb6b4c9129edba488d5e14eb4a9111f53266122e2fdb8f7a5077210d50cd3
+Section: Tweaks
+Description: 控制中心开启，一键隐藏所有照片，不要开启频繁/太快，会有微小bug。
+Tag: purpose::extension, compatible_min::ios15.0, compatible_max::ios17.8
+Author: iKarwan <ikghd3@gmail.com>
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.pmp.png
+Name: PMP
+
+Package: com.wkk.pmp
+Version: 2.0
+Architecture: iphoneos-arm64e
+Maintainer: iKarwan <ikghd3@gmail.com>
+Installed-Size: 792
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 15.0), com.opa334.ccsupport
+Conflicts: pro.ikghd.pmp
+Replaces: pro.ikghd.pmp
+Filename: ./debs/com.wkk.pmp_2.0_iphoneos-arm64e.deb
+Size: 62068
+MD5sum: 88caffbe931853b3fa7d3bf0defc1cb8
+SHA1: 6124332a48de32b3292bca7e708c0e486d3416c1
+SHA256: be844e741e727a6c157ac840c7478a9e7744ab78fe0a9b994969632f95d9533a
+Section: Tweaks
+Description: 控制中心开启，一键隐藏所有照片，不要开启频繁/太快，会有微小bug。
+Tag: purpose::extension, compatible_min::ios15.0, compatible_max::ios17.8
+Author: iKarwan <ikghd3@gmail.com>
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.pmp.png
+Name: PMP
 
 Package: com.wkk.ppxwhook
 Version: 1.0-1
@@ -15354,16 +15502,16 @@ Architecture: iphoneos-arm64e
 Maintainer: wkk
 Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
 Filename: ./debs/com.wkk.roothide_1.0-1_iphoneos-arm64e.deb
-Size: 5964
-MD5sum: 5f4c061fb0ee0ab8b3bb933e1c1ff67d
-SHA1: e8750ff14b8497bf8bb59bf43dbbab1d36ff262c
-SHA256: 712205c1a4bae92b4ba481030de9d6dd088af349cd7a875cacdd88bf6ddca60b
+Size: 5968
+MD5sum: e059ffae2a46a66226fa66a9aa2d03aa
+SHA1: 9771882bfa95dd3335a01f322c42c7fb69514eba
+SHA256: d659938252066ba4f3229df9ae15a46ddc5f149e726b411f6c4a67f7d86cbe02
 Section: 插件配置
 Description: 挂vpn查看。
 Tag: cydia::commercial
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
-Name: 无根转隐根提示残留解决办法
+Name: AAAAAA无根转隐根提示残留解决办法
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/roothide.json
 
 Package: com.wkk.roothide
@@ -15372,16 +15520,16 @@ Architecture: iphoneos-arm64
 Maintainer: wkk
 Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
 Filename: ./debs/com.wkk.roothide_1.0-1_iphoneos-arm64.deb
-Size: 5964
-MD5sum: bc1e3e75495eb55cc2281a3370c83dfe
-SHA1: e0369df4baa5445a5e591f35ee4b4586b158bba1
-SHA256: 4ea50cb2eabe11e4eaaca2ed43e903c36832fa61ea3b9abdead8dfedf822c65e
+Size: 5968
+MD5sum: aaa3d67138b01c588ca4f5ec2fa8a204
+SHA1: f0fff9bb925f34afdfc1dfb6e21b116d29f95eac
+SHA256: 9741f425c19357f16180d48d5ea366ab4dd856f1093e2c1ae2b08d78d0ca698c
 Section: 插件配置
 Description: 挂vpn查看。
 Tag: cydia::commercial
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
-Name: 无根转隐根提示残留解决办法
+Name: AAAAAA无根转隐根提示残留解决办法
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/roothide.json
 
 Package: com.wkk.rose
@@ -16390,6 +16538,41 @@ Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.
 Name: Upsidedowned
 Sponsor: wkk
 
+Package: com.wkk.wcfrostedglass
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.wcfrostedglass_1.0.5_iphoneos-arm64.deb
+Size: 4864
+MD5sum: 3e8445cee2ee02a4b97ccfb6f692514c
+SHA1: 84e3e724850752b233b66bf0cf514f3455f5e66c
+SHA256: 99f312b508aab317ec6a511b8009548ba1804e8df799d52ce361e47f74a990b2
+Section: 微信插件
+Description: 微信界面上下添加毛玻璃效果。
+Author: 苏苏
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: SuWCFrostedGlass
+
+Package: com.wkk.wcfrostedglass
+Version: 1.0.5
+Architecture: iphoneos-arm64e
+Maintainer: 苏苏
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.wcfrostedglass_1.0.5_iphoneos-arm64e.deb
+Size: 6500
+MD5sum: f4a74e64e365cf0f2e9b0523cc40c72a
+SHA1: f8e3dcec9e6242ab98974d4321d560bf82b7982b
+SHA256: dff66359dd52d69839748e2e37d13130c3c767e2c0bbde35b6983e4ab41fec51
+Section: 微信插件
+Description: 微信界面上下添加毛玻璃效果。
+Author: 苏苏
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: SuWCFrostedGlass
+
 Package: com.wkk.wctimelinereplacefind
 Version: 1.1-2
 Architecture: iphoneos-arm64
@@ -16459,6 +16642,41 @@ Description: 去开屏广告，版本：7.9.29，接大量冷门热门app定制�
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/10/5ebea7df2da0fc778720cf25653e5053.png
 Name: 微店NoAds
+
+Package: com.wkk.wechatuiswitchloader
+Version: 1.1-5
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 304
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/com.wkk.wechatuiswitchloader_1.1-5_iphoneos-arm64.deb
+Size: 119240
+MD5sum: a56abcb0b4836787a23584e9834c62db
+SHA1: a38c6a5c342671e348e5329f8de04eb4989590b8
+SHA256: c4d3544f7b9a96717048073a560b41d98a8de406cc7e76dadf0aacaaaed8f5f9
+Section: 微信插件
+Description: 微信按钮，默认皮卡丘。
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/09/173b823a03cbe3c3d5342c56736f52cd.png
+Name: WeChatUISwitchLoader
+
+Package: com.wkk.wechatuiswitchloader
+Version: 1.1-5
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 304
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/com.wkk.wechatuiswitchloader_1.1-5_iphoneos-arm64e.deb
+Size: 151106
+MD5sum: 01b6a15ac2224e333674eda1c11708be
+SHA1: 02911a29f66df5e1743374d5e5b37c9f5640f458
+SHA256: 1ac6557d4c83abed181d3db725784172f14d0f795678ce106ab73d2ef85e0fbd
+Section: 微信插件
+Description: 微信按钮，默认皮卡丘。
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/09/173b823a03cbe3c3d5342c56736f52cd.png
+Name: WeChatUISwitchLoader
 
 Package: com.wkk.weibohook
 Version: 1.0
@@ -16687,6 +16905,51 @@ Description: 中文输入法语音转文字免跳转插件。无设置选项，�
 Author: Lessica
 Icon: https://s1.imagehub.cc/images/2025/12/26/f6e5793d6cf9b9e667f56142f4b87e9b.png
 Name: 语音转文字免跳转
+
+Package: com.wkk.wxurlexpand
+Version: 0.2-0
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.wkk.wxurlexpand_0.2-0_iphoneos-arm64.deb
+Size: 34236
+MD5sum: b9f2043c711cb39c369cd90abc44f61d
+SHA1: bea8568d38d36312b47a23b16475a463f20e9aa1
+SHA256: 49d750eb4c4f87fffad16d6e62c21fac7b97a304340ca8a0ecbb6048cdff2e8e
+Section: 微信插件
+Priority: optional
+Description: * 扩展微信URLScheme接口，方便从外部调用，添加以下接口
+ * 发送消息 weixin://aiwmao/user=用户/群id&msg=消息内容，多个用户使用#分开
+ * 打开聊天框 weixin://aiwmao/chat=用户/群id
+ * 打开小程序 weixin://aiwmao/weapp=小程序原始id
+ * 打开网页 weixin://aiwmao/url=网页链接
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信URL扩展
+Sponsor: admin@25mao.com
+
+Package: com.wkk.wxurlexpand
+Version: 0.2-0
+Architecture: iphoneos-arm64e
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.wkk.wxurlexpand_0.2-0_iphoneos-arm64e.deb
+Size: 45090
+MD5sum: 874b8e647e4e27d9959b25e58b64a6dd
+SHA1: fbe305bcab623fef232100cd97f93af96043ca0e
+SHA256: fed5ae02f69cad16a0124e258b4fb737fa5cdb1baae473943a47c8790375d415
+Section: 微信插件
+Priority: optional
+Description: * 扩展微信URLScheme接口，方便从外部调用，添加以下接口
+ * 发送消息 weixin://aiwmao/user=用户/群id&msg=消息内容，多个用户使用#分开
+ * 打开聊天框 weixin://aiwmao/chat=用户/群id
+ * 打开小程序 weixin://aiwmao/weapp=小程序原始id
+ * 打开网页 weixin://aiwmao/url=网页链接
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信URL扩展
+Sponsor: admin@25mao.com
 
 Package: com.wkk.wyxwhook
 Version: 1.0-2
@@ -17170,6 +17433,43 @@ Description: 去横幅广告，版本：1.7.9，接大量冷门热门app定制�
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/21/c37d7656c9be6ad0b7c7cdee716e7e1b.png
 Name: 小桔充电hook
+
+Package: com.wkk.xly
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.wkk.xly_1.0-1_iphoneos-arm64e.deb
+Size: 37880
+MD5sum: d4e61c73ddb101583729d3355eb123e6
+SHA1: e3264bdc476f5e93f59ae452beb29b506c34f308
+SHA256: c8e023286d72010ea0f79d7e1e8cc8bb9caefc208c392843ded615f7c718d6d5
+Section: 美化
+Description: 仅支持14PM iOS16无根/隐根越狱，将你的灵动岛录屏变成写轮眼！
+  * 挂载路径：/Applications/ReplayKitAngel.app/sc_compact_minimal_v2-D73.ca
+  * 挂载路径：/Applications/ReplayKitAngel.app/sc_compact_leading_v2-D73.ca
+  * 注意：先挂载路径再下载此插件，最后重启Springboard即可。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/30/d4c66f162988cbda1fe9e73e896929f4.jpeg
+Name: 录屏写轮眼
+
+Package: com.wkk.xly
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Filename: ./debs/com.wkk.xly_1.0-1_iphoneos-arm64.deb
+Size: 37892
+MD5sum: a86d6bd312ba81923017b250bdba21b7
+SHA1: 794eda0aef7067aac886579d0a4f5405ae9f530f
+SHA256: a1b822491c310a66de38b41ad69353be54d987ecbd966f41efb78279de0df76b
+Section: 美化
+Description: 仅支持14PM iOS16无根/隐根越狱，将你的灵动岛录屏变成写轮眼！
+  * 挂载路径：/Applications/ReplayKitAngel.app/sc_compact_minimal_v2-D73.ca
+  * 挂载路径：/Applications/ReplayKitAngel.app/sc_compact_leading_v2-D73.ca
+  * 注意：先挂载路径再下载此插件，最后重启Springboard即可。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/30/d4c66f162988cbda1fe9e73e896929f4.jpeg
+Name: 录屏写轮眼
 
 Package: com.wkk.xxautoskip
 Version: 1.0.4
@@ -17752,6 +18052,41 @@ Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.
 Name: 18款App🐻罩
 Sponsor: bdzt
 
+Package: com.wkk.zhezhao
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: bdzt
+Depends: com.spark.snowboard, com.spark.snowboard.ui, com.spark.snowboard.masks, com.spark.snowboard.effects
+Filename: ./debs/com.wkk.zhezhao_1.0-2_iphoneos-arm64.deb
+Size: 1048896
+MD5sum: cccaa5bb20e6a619370636e9f3bda9fa
+SHA1: a6062de1c9fe8322671c6f26f67170b4311dc871
+SHA256: 059ac2395084177b12712623306526c31fb071acb652f3580028f7f320b3af98
+Section: 美化
+Description: 告别求爷爷告奶奶的日子，需要snowboard诸多扩展，立体圆线遮罩/半透立体遮罩/果冻遮罩/雪落遮罩/水墨风遮罩/炫彩遮罩/超级立体遮罩/暗底立体遮罩/全透立体遮罩/原版立体遮罩/全透立体遮罩/原版立体遮罩/水滴遮罩/小水滴遮罩/七彩遮罩/立体圆滑遮罩/反光玻璃遮罩/龟裂遮罩/水晶遮罩/四角玻璃遮罩/iOS26透明遮罩。
+Author: bdzt
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 多款App🐻罩
+Sponsor: bdzt
+
+Package: com.wkk.zhezhao
+Version: 1.0-2
+Architecture: iphoneos-arm64e
+Maintainer: bdzt
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: com.spark.snowboard, com.spark.snowboard.ui, com.spark.snowboard.masks, com.spark.snowboard.effects
+Filename: ./debs/com.wkk.zhezhao_1.0-2_iphoneos-arm64e.deb
+Size: 1048324
+MD5sum: b33402408fc623d51ce446fc53ae3a3c
+SHA1: e95b68112ef57483a839069034b01d4218b18a87
+SHA256: 40ebdfa22741afaf24b03834b17adbc077ec4b3ecd53cafcf7df59dba025a8bb
+Section: 美化
+Description: 告别求爷爷告奶奶的日子，需要snowboard诸多扩展，立体圆线遮罩/半透立体遮罩/果冻遮罩/雪落遮罩/水墨风遮罩/炫彩遮罩/超级立体遮罩/暗底立体遮罩/全透立体遮罩/原版立体遮罩/全透立体遮罩/原版立体遮罩/水滴遮罩/小水滴遮罩/七彩遮罩/立体圆滑遮罩/反光玻璃遮罩/龟裂遮罩/水晶遮罩/四角玻璃遮罩/iOS26透明遮罩。
+Author: bdzt
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 多款App🐻罩
+Sponsor: bdzt
+
 Package: com.wkk.zhihuhook
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -17827,12 +18162,12 @@ Version: 1.0-1
 Architecture: iphoneos-arm64
 Maintainer: wkk
 Filename: ./debs/com.wkk.zhuanjixuanzhuan_1.0-1_iphoneos-arm64.deb
-Size: 4060
-MD5sum: a8e3c98bfe23edaf78cc5a1462eb98b1
-SHA1: dc509e29cea5d1689bd385aa184533776e3867ca
-SHA256: 62d91b5f20e6df561859304f83912f7c331e1d3cc9642bd010e79aac22648e94
+Size: 4068
+MD5sum: 5bf6d26ec6af9ba02773618b33cf7d88
+SHA1: 064e34d39407e73241c73a767fdee6ef4c91e78b
+SHA256: b7faf37916a15d3dc6493a2eccec6e8a778bd5f72fd241bb807c4af3d77ac329
 Section: 美化
-Description: 仅支持ios16无根/隐根越狱，将你的灵动岛音乐专辑变成圆形并且旋转！
+Description: 仅支持14PM iOS16无根/隐根越狱，将你的灵动岛音乐专辑变成圆形并且旋转！
   * 灵动岛音乐专辑路径：/System/Library/PrivateFrameworks/MediaControls.framework/ActivityArtwork.ca
   * 注意：先挂载灵动岛音乐专辑路径再下载此插件，最后重启Springboard即可。
 Author: wkk
@@ -17845,12 +18180,12 @@ Architecture: iphoneos-arm64e
 Maintainer: wkk
 Pre-Depends: rootless-compat(>= 0.9)
 Filename: ./debs/com.wkk.zhuanjixuanzhuan_1.0-1_iphoneos-arm64e.deb
-Size: 4012
-MD5sum: 65287d248f853dacc2a2e5c49be244c4
-SHA1: 751a2aee580b2e23ead3c2522e44ea84d739c320
-SHA256: 2af682a5ad0efa3af5318082b7723439e5f09adcb0e7a35365ce7465f99e2c4d
+Size: 4024
+MD5sum: 016dfdfd141251597f4b01462f2b8feb
+SHA1: 21a6a09a3590f8a0d6ddcbbdfd79e4c07f94276d
+SHA256: a1aaa65e670e9ec1497e87369c01f4d1c3c5ba10ee1d78bf31ab0faf7e581d07
 Section: 美化
-Description: 仅支持ios16无根/隐根越狱，将你的灵动岛音乐专辑变成圆形并且旋转！
+Description: 仅支持14PM iOS16无根/隐根越狱，将你的灵动岛音乐专辑变成圆形并且旋转！
   * 灵动岛音乐专辑路径：/System/Library/PrivateFrameworks/MediaControls.framework/ActivityArtwork.ca
   * 注意：先挂载灵动岛音乐专辑路径再下载此插件，最后重启Springboard即可。
 Author: wkk
@@ -18066,23 +18401,6 @@ Description: Develop your own tweaks and share them on the Flex Community Cloud.
 Author: John Coates <xuanhua880@gmail.com>
 Name: Flex3 Beta
 
-Package: jp.soh.freepip
-Version: 0.0.3-1
-Architecture: iphoneos-arm64
-Maintainer: Soh Satoh
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/jp.soh.freepip_0.0.3-1_iphoneos-arm64.deb
-Size: 6356
-MD5sum: 98a8c2e324154ee66650c061297cfe66
-SHA1: d2f387ffe89da8204ef3e3d72517207b053bb5c0
-SHA256: d929e4f0700732ac64aa0dab546a1a482db99dc29f0690910cc75b3bf73dc47e
-Section: 插件
-Description: 解锁画中画限制，双指随意放大，无设置项。
-Author: Soh Satoh
-Icon: https://s1.imagehub.cc/images/2025/01/03/379617e90dc02b790c6c1daf8ffcb8ba.png
-Name: FreePIP
-
 Package: kr.xsf1re.vnodebypass
 Version: 0.4.3
 Architecture: iphoneos-arm64
@@ -18282,6 +18600,46 @@ Description: 配合解压car使用，用于提取Assets.car
 Author: Elias Limneos <limneoselias@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: uncar
+
+Package: wiki.qaq.chromatic.rootless
+Version: 3.0-rootless-release-1724937362.2952e67
+Architecture: iphoneos-arm64
+Maintainer: Saily Team <support.0xa1@qaq.wiki>
+Pre-Depends: firmware (>= 13.0), dpkg, uikittools
+Conflicts: wiki.qaq.chromatic
+Filename: ./debs/wiki.qaq.chromatic.rootless_3.0-rootless-release-1724937362.2952e67_iphoneos-arm64.deb
+Size: 3411212
+MD5sum: acf28c9f966eb88928b2796e038dd2ba
+SHA1: e13a23efd71eb379f8292eaafd3a97578b8adead
+SHA256: 1b5dafe0894ac713f29a12c9927287709da674d59bb133dc6eb7c419b74f4122
+Section: 应用程序
+Homepage: https://sailyteam.github.io/Saily/index.html
+Description: 越狱商店saily
+Author: Saily Team <support.0xa1@qaq.wiki>
+Depiction: https://sailyteam.github.io/Saily/index.html
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: Saily
+Website: https://sailyteam.github.io/Saily/index.html
+
+Package: wiki.qaq.chromatic.rootless
+Version: 3.0-rootless-release-1724937362.2952e67
+Architecture: iphoneos-arm64e
+Maintainer: Saily Team <support.0xa1@qaq.wiki>
+Pre-Depends: rootless-compat(>= 0.9), firmware (>= 13.0), dpkg, uikittools
+Conflicts: wiki.qaq.chromatic
+Filename: ./debs/wiki.qaq.chromatic.rootless_3.0-rootless-release-1724937362.2952e67_iphoneos-arm64e.deb
+Size: 8664446
+MD5sum: 6c85b2bc63e6a585f5a95c7e6a6a2e23
+SHA1: d5df8cae59f92107120417c41cc63c0084214c3a
+SHA256: 54b2d20eb2bbece27b74465ca2cfdbc2f4ab644a41e83a174916cbe682e9dd45
+Section: 应用程序
+Homepage: https://sailyteam.github.io/Saily/index.html
+Description: 越狱商店saily
+Author: Saily Team <support.0xa1@qaq.wiki>
+Depiction: https://sailyteam.github.io/Saily/index.html
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: Saily
+Website: https://sailyteam.github.io/Saily/index.html
 
 Package: ws.hbang.newterm3
 Version: 3.0~beta1-1042+debug
