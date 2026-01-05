@@ -4635,6 +4635,80 @@ Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.
 Name: floatingView
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
 
+Package: com.be-huge.floating-view
+Version: 1.5.8-3
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 2692
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.be-huge.floating-view_1.5.8-3_iphoneos-arm64.deb
+Size: 646796
+MD5sum: 13cd008b8b0f0e716d0448c642d93d23
+SHA1: d8296b91785fde5746cbe7768204bbbfd19b0331
+SHA256: c700bfc1753aee3d69f610a33a8b196cdafcd06f0038f175e382c774c1dae3e5
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+Name: floatingView
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Version: 1.5.8-3
+Architecture: iphoneos-arm64e
+Maintainer: be-huge
+Installed-Size: 2692
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.be-huge.floating-view_1.5.8-3_iphoneos-arm64e.deb
+Size: 1740360
+MD5sum: 54b4da8dfbef267be1b3bc001c1bfdd2
+SHA1: 763d62205685c8285f31074d8290eebe724a885d
+SHA256: bb0cb2ededa7b54de94871b321ab8bd13b07da2e6c3cbfc236618e09dd2fa2b5
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+Name: floatingView
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Version: 1.5.8-4
+Architecture: iphoneos-arm64e
+Maintainer: be-huge
+Installed-Size: 2692
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.be-huge.floating-view_1.5.8-4_iphoneos-arm64e.deb
+Size: 1755708
+MD5sum: fdcbb0ac0e3ffbd0e6e2fee2313054d8
+SHA1: 6fdbedbc76fa8f01bdffacc0a39eed13aac1de1d
+SHA256: 96da4f1fd16846141aa302094e5d9104c4d6b70f4e556133261fd0c11ad96a50
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+Name: floatingView
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Version: 1.5.8-4
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 2692
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.be-huge.floating-view_1.5.8-4_iphoneos-arm64.deb
+Size: 653652
+MD5sum: 173dfc1c4a37bf0f50a3192dda1582a2
+SHA1: d9b3a2fa8ca3e4015e605a2d58f7f83c0c59b488
+SHA256: 808277d53ad7f55038186d85e21c5a2f08ca4976d2f2984a64c826480a239238
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+Name: floatingView
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
 Package: com.blbl
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -7860,6 +7934,46 @@ Icon: https://s1.imagehub.cc/images/2025/03/25/dbdacd5798135a4cbb0a807e4be96505.
 Name: HideEdit
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/hideedit.json
 
+Package: com.wkk.RestoreFont2
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: 灰灰
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.RestoreFont2_1.0-1_iphoneos-arm64.deb
+Size: 3616
+MD5sum: 2e67f70bbdf050f786b15e4d2eaeaea3
+SHA1: 85ada71e6695bd337a1b605ba3919352a34a2bf6
+SHA256: 40edca079f06c5c6e62d1ae86b4daf805e95618e42aa79d72c61d5ca38844dee
+Section: 插件配置
+Description:
+  * 下载后脚本文件在/var/mobile/Documents
+  * 把脚本扔进你要替换的字体目录下
+  * 直接点运行会自动挂载以及替换
+  * 最后重启用户空间即可
+Author: 灰灰
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 字体一键替换2
+
+Package: com.wkk.RestoreFont2
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: 灰灰
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.RestoreFont2_1.0-1_iphoneos-arm64e.deb
+Size: 3620
+MD5sum: 959e6a0cd18a5805c7508166ff8778ae
+SHA1: 2d059baf1f42240cc92c3c48f3e3a1f1fd3a7e69
+SHA256: 9896bc4580cf8c3e32943aad7b49e81cee83e926795f37da35917ad39e6b6eb2
+Section: 插件配置
+Description:
+  * 下载后脚本文件在/var/mobile/Documents
+  * 把脚本扔进你要替换的字体目录下
+  * 直接点运行会自动挂载以及替换
+  * 最后重启用户空间即可
+Author: 灰灰
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 字体一键替换2
+
 Package: com.wkk.SquidExtender
 Version: 1.0-7
 Architecture: iphoneos-arm64
@@ -8132,6 +8246,41 @@ Description: 快速跳过激励视频广告，奖励正常领取。
 Author: lenglengyu
 Icon: https://s1.imagehub.cc/images/2025/03/05/5e7750e53f47782c0f1f2d5ea3e69638.png
 Name: VideoAdsSpeed
+
+Package: com.wkk.aemulo
+Version: 1.2.5
+Architecture: iphoneos-arm64
+Maintainer: Amy While <support@anamy.gay>
+Installed-Size: 2224
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Filename: ./debs/com.wkk.aemulo_1.2.5_iphoneos-arm64.deb
+Size: 626044
+MD5sum: b10ff2d783b32f837f9c05ee86389e26
+SHA1: 105c3aece78cb7fd5a757652976c1072178c2839
+SHA256: 6e680121b00aaab551acf876321c6de83beec012bca95d268de493abd9522ff3
+Section: 应用程序
+Description: NFC付费App纯净砸壳。
+Author: Amy While <support@anamy.gay>
+Icon: https://s1.imagehub.cc/images/2026/01/04/7c96709445ff5c46b3eec04f7863b889.png
+Name: Aemulo NFC模拟
+
+Package: com.wkk.aemulo
+Version: 1.2.5
+Architecture: iphoneos-arm64e
+Maintainer: Amy While <support@anamy.gay>
+Installed-Size: 2224
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Filename: ./debs/com.wkk.aemulo_1.2.5_iphoneos-arm64e.deb
+Size: 1573730
+MD5sum: 6b76e16755e855629f8d288c39b94d65
+SHA1: 720212f1b4d4274f6f11d47eb16eab8d57b449be
+SHA256: b84ef0e01cd24f9b08e7ce8adf769d836510bdea8af3e00b8875bd7ac5640c12
+Section: 应用程序
+Description: NFC付费App纯净砸壳。
+Author: Amy While <support@anamy.gay>
+Icon: https://s1.imagehub.cc/images/2026/01/04/7c96709445ff5c46b3eec04f7863b889.png
+Name: Aemulo NFC模拟
 
 Package: com.wkk.afakerxi
 Version: 1.0.3
@@ -15068,6 +15217,41 @@ Author: shepgoba <arm64.deb@icloud.com>
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: SettingsWidgets
 
+Package: com.wkk.showmytouches
+Version: 1.2.1
+Architecture: iphoneos-arm64e
+Maintainer: dvntm & SINI
+Installed-Size: 492
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.showmytouches_1.2.1_iphoneos-arm64e.deb
+Size: 94274
+MD5sum: 857ee7429b821e4f18c718e5a349e6c1
+SHA1: 49e57c8ffa7921ae452ac55fdd0358fbb2624bae
+SHA256: 1c832a242fffb6475953df3eba2dc68911a80f7f80db9cc0c69463092283dc82
+Section: Tweaks
+Description: 免费的录屏触摸轨迹。
+Author: dvntm & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/showmytouches.png
+Name: ShowMyTouches
+
+Package: com.wkk.showmytouches
+Version: 1.2.1
+Architecture: iphoneos-arm64
+Maintainer: dvntm & SINI
+Installed-Size: 492
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.showmytouches_1.2.1_iphoneos-arm64.deb
+Size: 82728
+MD5sum: 19303c2dafa97ff1e79fa2aca98aeafb
+SHA1: 7887aff24012f475cbd1aed0a59cd5f941d36849
+SHA256: 998d5c0fb73ed2f77c84d167131ced6512ab29f9152841da386d4a8f9636cf1a
+Section: Tweaks
+Description: 免费的录屏触摸轨迹。
+Author: dvntm & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/showmytouches.png
+Name: ShowMyTouches
+
 Package: com.wkk.shuffle
 Version: 1.6.2
 Architecture: iphoneos-arm64
@@ -15422,6 +15606,41 @@ Description: 商店内头像处点击，快速切换/删除AppStore账号。
 Author: 0xkuj
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: StoreSwitcher 2
+
+Package: com.wkk.storeswitcher2
+Version: 1.0.7
+Architecture: iphoneos-arm64e
+Maintainer: 苏苏
+Installed-Size: 212
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 11), mobilesubstrate
+Filename: ./debs/com.wkk.storeswitcher2_1.0.7_iphoneos-arm64e.deb
+Size: 20772
+MD5sum: b632c2702cca55aeeacc6affaf6449af
+SHA1: 293f63a02c0315ea171e07b09180349660463bc8
+SHA256: fa46ca5e1b78a0338559d3161ad53318eedc10f478c4e890533750e55836168f
+Section: Tweaks
+Description: App Store 账户快速切换，优化了账号切换逻辑，已汉化。
+Author: 苏苏
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: StoreSwitcher2
+
+Package: com.wkk.storeswitcher2
+Version: 1.0.7
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 212
+Depends: firmware (>= 11), mobilesubstrate
+Filename: ./debs/com.wkk.storeswitcher2_1.0.7_iphoneos-arm64.deb
+Size: 15204
+MD5sum: ae7392e1d84dc3f9d871097c483d2759
+SHA1: 77e264df5a1536078f9175b94a1519ab5f44dd0c
+SHA256: ca0e7391f4376f150a5e139d5616e52dd145fc7930cdff200fc54dd2ba34a562
+Section: Tweaks
+Description: App Store 账户快速切换，优化了账号切换逻辑，已汉化。
+Author: 苏苏
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: StoreSwitcher2
 
 Package: com.wkk.stormsnifferhook
 Version: 1.0-1
@@ -15897,6 +16116,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/06/dde5946f39d42917d28148d8f1a07901.png
 Name: 腾讯视频NoAds
 
+Package: com.wkk.txsphook
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.txsphook_1.1-2_iphoneos-arm64.deb
+Size: 5184
+MD5sum: ea5265a2bca6e9d9fb3efd5b81042892
+SHA1: 4b9eea06d3def70954caa6286f88d75892f42431
+SHA256: 505986010fe65bcbefdbda02025f85b6e15a0dd8a20f756e4660b04df705cecf
+Section: 去广告
+Description: 去开屏广告/首页横幅广告/首页信息流广告/首页下拉广告/暂停广告/播放中广告/视频启动广告/视频播放页面下方插播广告/我的页面广告/版本：9.02.80，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/06/dde5946f39d42917d28148d8f1a07901.png
+Name: 腾讯视频NoAds
+
+Package: com.wkk.txsphook
+Version: 1.1-2
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.txsphook_1.1-2_iphoneos-arm64e.deb
+Size: 7256
+MD5sum: 7057dea83a1410966e893cacc998b281
+SHA1: 37dd05d2c561393624931cfdb4d39567ff90c3e0
+SHA256: f8ad9d26f22138947842d015ac1e982b875f21c1ca59b258b7bbd2e66656f908
+Section: 去广告
+Description: 去开屏广告/首页横幅广告/首页信息流广告/首页下拉广告/暂停广告/播放中广告/视频启动广告/视频播放页面下方插播广告/我的页面广告/版本：9.02.80，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/06/dde5946f39d42917d28148d8f1a07901.png
+Name: 腾讯视频NoAds
+
 Package: com.wkk.txtyhook
 Version: 1.0-1
 Architecture: iphoneos-arm64
@@ -16108,6 +16362,41 @@ Description: 去开屏广告，版本：7.9.29，接大量冷门热门app定制�
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/10/5ebea7df2da0fc778720cf25653e5053.png
 Name: 微店NoAds
+
+Package: com.wkk.wechat-pop-vc
+Version: 0.0.5-end
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.wkk.wechat-pop-vc_0.0.5-end_iphoneos-arm64.deb
+Size: 21844
+MD5sum: 910b3d7373ba23151b79f3ee2a4b0eba
+SHA1: 44acd8d5ae742b97d0592dbab5d3a61d8faad6bc
+SHA256: 9461881b8f0802bbe614511e05692108a12a7fa29ea14ccb327469e6496e58e0
+Section: 微信插件
+Description: 微信全局右滑手势，弥补官方只能屏幕侧边返回上一页局限性，提高用户体验。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatPopVC
+
+Package: com.wkk.wechat-pop-vc
+Version: 0.0.5-end
+Architecture: iphoneos-arm64e
+Maintainer: be-huge
+Installed-Size: 232
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.wkk.wechat-pop-vc_0.0.5-end_iphoneos-arm64e.deb
+Size: 28988
+MD5sum: 32f977a4c5a3e45661e80a19272144ae
+SHA1: cd355a1571ad7f76a8f73fad9eee2e91496f36ae
+SHA256: ad1b711ab4d2b4ebe6e74969da1c0bf750a9b141fe6873fbdf6349539186f66d
+Section: 微信插件
+Description: 微信全局右滑手势，弥补官方只能屏幕侧边返回上一页局限性，提高用户体验。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatPopVC
 
 Package: com.wkk.wechatuiswitchloader
 Version: 1.1-5
