@@ -13575,41 +13575,6 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/11/14/d26f96d111b0edcdd8a0906baf10d838.png
 Name: 芒果TVNoAds
 
-Package: com.wkk.misaki
-Version: 2.2
-Architecture: iphoneos-arm64e
-Maintainer: Hitori <mikasa-san@outlook.jp>
-Installed-Size: 1049
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
-Filename: ./debs/com.wkk.misaki_2.2_iphoneos-arm64e.deb
-Size: 368596
-MD5sum: a00011c1121a8f241e906fb44ed26175
-SHA1: e3ebc5c3fe03d1a2a1c874e38f64ab6d6938a195
-SHA256: 0e0a68898161fc315de209127f07ffc672f090374a8c515fcc8dde7bfb87cefb
-Section: Tweaks
-Description: 使用Misaki自定义您的iOS15和16体验，自定义选项，让您的iPhone真正成为您的。
-Author: Hitori <mikasa-san@outlook.jp>
-Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
-Name: Misaki
-
-Package: com.wkk.misaki
-Version: 2.2
-Architecture: iphoneos-arm64
-Maintainer: Hitori <mikasa-san@outlook.jp>
-Installed-Size: 1049
-Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
-Filename: ./debs/com.wkk.misaki_2.2_iphoneos-arm64.deb
-Size: 306096
-MD5sum: 4cb83dd5155d94b0ad8816bdc6980e35
-SHA1: b2a121efb52de34e622640a5e96984194d9beac7
-SHA256: 267177147d9b8414b23bc99bf7379d5876fa0b1ca26c3428349b68fde5d42635
-Section: Tweaks
-Description: 使用Misaki自定义您的iOS15和16体验，自定义选项，让您的iPhone真正成为您的。
-Author: Hitori <mikasa-san@outlook.jp>
-Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
-Name: Misaki
-
 Package: com.wkk.mlxxhook
 Version: 1.0-1
 Architecture: iphoneos-arm64e
@@ -16221,6 +16186,41 @@ SHA1: 37dd05d2c561393624931cfdb4d39567ff90c3e0
 SHA256: f8ad9d26f22138947842d015ac1e982b875f21c1ca59b258b7bbd2e66656f908
 Section: 去广告
 Description: 去开屏广告/首页横幅广告/首页信息流广告/首页下拉广告/暂停广告/播放中广告/视频启动广告/视频播放页面下方插播广告/我的页面广告/版本：9.02.80，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/06/dde5946f39d42917d28148d8f1a07901.png
+Name: 腾讯视频NoAds
+
+Package: com.wkk.txsphook
+Version: 1.1-5
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.txsphook_1.1-5_iphoneos-arm64e.deb
+Size: 7262
+MD5sum: ff96897e217724f867625df5f6e2180e
+SHA1: ef167ad0303e82d4ef5874ce188f30c429c918e9
+SHA256: be2548f02aa0a9a869fe9d9e9753be55864fd575c52e632ca510159ca31e72d6
+Section: 去广告
+Description: 去开屏广告/首页横幅广告/首页信息流广告/首页下拉广告/暂停广告/播放中广告/视频启动广告/视频播放页面下方插播广告/我的页面广告/版本：9.02.85，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/06/dde5946f39d42917d28148d8f1a07901.png
+Name: 腾讯视频NoAds
+
+Package: com.wkk.txsphook
+Version: 1.1-5
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.txsphook_1.1-5_iphoneos-arm64.deb
+Size: 5184
+MD5sum: 4f6dd7cf04d4b9b02f337fba1aba60c5
+SHA1: 651bf9f12a699b2fb1aa94fc1e7db7600bfa2113
+SHA256: 88b5395b700e7adc8cb9b7303cc5e365eae98877a65b8f5c63057c5e27250871
+Section: 去广告
+Description: 去开屏广告/首页横幅广告/首页信息流广告/首页下拉广告/暂停广告/播放中广告/视频启动广告/视频播放页面下方插播广告/我的页面广告/版本：9.02.85，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/06/dde5946f39d42917d28148d8f1a07901.png
 Name: 腾讯视频NoAds
