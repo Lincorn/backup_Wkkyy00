@@ -9195,6 +9195,43 @@ Icon: https://s1.imagehub.cc/images/2025/02/10/d66c9518db05d7191ec5b1cbc6c1b973.
 Name: BetterCCBrightness
 Sponsor: wkk
 
+Package: com.wkk.betteruiswitchs
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: TiaoTiao
+Installed-Size: 232
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14.0)
+Conflicts: byg.iosios.net.betteruiswitch, com.tiaotiao.betteruiswitch
+Filename: ./debs/com.wkk.betteruiswitchs_1.1_iphoneos-arm64e.deb
+Size: 70246
+MD5sum: cfccba18b3fd55ac42a7bbfe248913e0
+SHA1: 77eea646330eab2bce0cec001add41106b47b4c0
+SHA256: cd02f76baa7c8b073a55867670957b6374790f47d082c3fdb0df40078a2603d8
+Section: 美化
+Description: 修改开关按钮 UI 为 JB/B
+Author: TiaoTiao
+Icon: https://TrollStoreX.Github.io/sileodepiction/BetterUISwitch/icon.png
+Name: JB按钮
+
+Package: com.wkk.betteruiswitchs
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: TiaoTiao
+Installed-Size: 232
+Depends: mobilesubstrate, firmware (>= 14.0)
+Conflicts: byg.iosios.net.betteruiswitch, com.tiaotiao.betteruiswitch
+Filename: ./debs/com.wkk.betteruiswitchs_1.1_iphoneos-arm64.deb
+Size: 58436
+MD5sum: f86008f89dd6fa68cb3cd39572e70d44
+SHA1: dcf52fec5b1ff233261a861412e711bb25c7ecd3
+SHA256: bd4506b551a71d77e78199ac3825a933d346b73156185788eb840d1ddc093617
+Section: 美化
+Description: 修改开关按钮 UI 为 JB/B
+Author: TiaoTiao
+Icon: https://TrollStoreX.Github.io/sileodepiction/BetterUISwitch/icon.png
+Name: JB按钮
+
 Package: com.wkk.bhmh
 Version: 1.0-1
 Architecture: iphoneos-arm64e
@@ -9441,6 +9478,39 @@ Description: 向下滑动以关闭键盘，向上滑动以切换键盘，已汉�
 Author: AnubisTweaks
 Icon: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/icons/boardswipe/icon.png
 Name: BoardSwipe
+
+Package: com.wkk.bookmarkicons
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.bookmarkicons_1.0-1_iphoneos-arm64e.deb
+Size: 22814
+MD5sum: 2c1609453387a508dca1562ff5875e35
+SHA1: d34801c473f76378833f77fc69a3fcfd12c59d50
+SHA256: 8ccc863480cd1b74bfc759093519a99cb0206e1895d97c554b21af7be02ca3c5
+Section: Tweaks
+Description: 为 Safari 浏览器书签设置自定义图标。
+Author: shiftcmdk
+Icon: https://repo.cypwn.xyz/packages/BookmarkIcons-Rootless/icon.png
+Name: BookmarkIcons
+
+Package: com.wkk.bookmarkicons
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.bookmarkicons_1.0-1_iphoneos-arm64.deb
+Size: 16904
+MD5sum: 24ec45212ace879a720bf7eefc70c871
+SHA1: b97a2eb2099ca95a8ae6747ffca788cb8f76d156
+SHA256: 22b6e74faab2d7df275c932c2377de3889b205481f52d0f28ba14ef118b46301
+Section: Tweaks
+Description: 为 Safari 浏览器书签设置自定义图标。
+Author: shiftcmdk
+Icon: https://repo.cypwn.xyz/packages/BookmarkIcons-Rootless/icon.png
+Name: BookmarkIcons
 
 Package: com.wkk.cadhook
 Version: 1.0-1
@@ -9852,6 +9922,40 @@ Description: 高度自定义控制中心发光。
 Author: Simon
 Icon: https://s1.imagehub.cc/images/2025/12/27/9c87ab6f13db32cf819dca8179708c57.png
 Name: 控制中心发光
+
+Package: com.wkk.cclocation
+Version: 1.1.0-1
+Architecture: iphoneos-arm64
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 164
+Depends: com.opa334.ccsupport
+Filename: ./debs/com.wkk.cclocation_1.1.0-1_iphoneos-arm64.deb
+Size: 14232
+MD5sum: bdea5b26c37cd8a4a12da235d8aa7ea1
+SHA1: b8db15975f555844df33d0e24c0abd001d384090
+SHA256: ded57defeb083a6136ad42fa02f3c0a51bcd624c47c479e00d9128bd1e5a806b
+Section: Tweaks
+Description: 控制中心定位开关模块。
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Icon: https://s1.imagehub.cc/images/2026/01/11/efaf1855d982cac515e8c4825dd228e7.png
+Name: CCLocation
+
+Package: com.wkk.cclocation
+Version: 1.1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 164
+Depends: com.opa334.ccsupport
+Filename: ./debs/com.wkk.cclocation_1.1.0-1_iphoneos-arm64e.deb
+Size: 14204
+MD5sum: d6363453a02831f909f67b2196dbf166
+SHA1: 07bad12165066bb25edab723b0ab4961533dcad1
+SHA256: 91f84cf323a9903f878ad4ee5c35e9570bfd99b64908940c16d76214f7b1ad7b
+Section: Tweaks
+Description: 控制中心定位开关模块。
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Icon: https://s1.imagehub.cc/images/2026/01/11/efaf1855d982cac515e8c4825dd228e7.png
+Name: CCLocation
 
 Package: com.wkk.ccmusic
 Version: 1.0.5
@@ -11033,6 +11137,406 @@ Description: 双指从手机屏幕顶部下滑，即启用截图。
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/09/630abb059d1780a02736564752414145.png
 Name: 双指下滑截图
+
+Package: com.wkk.dumpapp
+Version: 2.0.1
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 24000
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: netskao.wechatpurifications, netskao.wechatpurification
+Replaces: com.dumpapp.wechat-rootless
+Filename: ./debs/com.wkk.dumpapp_2.0.1_iphoneos-arm64.deb
+Size: 9337340
+MD5sum: 00875eb45024dd2ad161eba061c305a8
+SHA1: f01e6777e0ffe1943fb7e163cfcc027d14958232
+SHA256: b037982c48381881332ee0336ea8d35c6c5d82a44d19c5dbeca2d65db0e16a49
+Section: 微信插件
+Description: ### 微信插件
+ * 微信多功能插件
+ * 1:1 复刻“微信净化”插件，功能一模一样
+ * ⚠️注意：不可与“微信净化”共存
+Author: DumpApp
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 锤子助手
+
+Package: com.wkk.dumpapp
+Version: 2.0.1
+Architecture: iphoneos-arm64e
+Maintainer: WeChat
+Installed-Size: 24000
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: netskao.wechatpurifications, netskao.wechatpurification
+Replaces: com.dumpapp.wechat-rootless
+Filename: ./debs/com.wkk.dumpapp_2.0.1_iphoneos-arm64e.deb
+Size: 25487728
+MD5sum: 1c4accb2efb600b5b930428d545eb27a
+SHA1: 31f0e5bfa24fb3848dd86c0ee45733de051fd9a6
+SHA256: 98b2138c48c55efd0e44f0cc34a44aecfeff685b4613fee65ce088f7a99f399d
+Section: 微信插件
+Description: ### 微信插件
+ * 微信多功能插件
+ * 1:1 复刻“微信净化”插件，功能一模一样
+ * ⚠️注意：不可与“微信净化”共存
+Author: DumpApp
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 锤子助手
+
+Package: com.wkk.dumpapp
+Version: 2.0.2
+Architecture: iphoneos-arm64e
+Maintainer: WeChat
+Installed-Size: 24000
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: com.dumpapp.wechat-rootless, netskao.wechatpurifications, netskao.wechatpurification, byg.iosios.net.dumpapp.wechat-rootless
+Filename: ./debs/com.wkk.dumpapp_2.0.2_iphoneos-arm64e.deb
+Size: 25516134
+MD5sum: 626d9c12ba37448d5a8e2c635979a10d
+SHA1: 1a95751674129ca4637ab06eef4cad73ee5e4b9e
+SHA256: ea01bb1a8a6ce5dd1f07ab1c96075dd3c0ea2f7330a1d7d22547905ed61e89dc
+Section: 微信插件
+Description: 微信插件
+ * 微信多功能插件
+ * 1:1 复刻“微信净化”插件，功能一模一样
+ * ⚠️注意：不可与“微信净化”共存
+Author: DumpApp
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 锤子助手
+
+Package: com.wkk.dumpapp
+Version: 2.0.2
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 24000
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: com.dumpapp.wechat-rootless, netskao.wechatpurifications, netskao.wechatpurification, byg.iosios.net.dumpapp.wechat-rootless
+Filename: ./debs/com.wkk.dumpapp_2.0.2_iphoneos-arm64.deb
+Size: 9352908
+MD5sum: 4957d85da57f2769054d04663a2625c6
+SHA1: 1596a3ea2abb5ad4fb6c00f3b40e95352e860058
+SHA256: 9c4e6310c07d6c6a45c32dee1491e99276e38145c4f3315eed671d808eba5280
+Section: 微信插件
+Description: 微信插件
+ * 微信多功能插件
+ * 1:1 复刻“微信净化”插件，功能一模一样
+ * ⚠️注意：不可与“微信净化”共存
+Author: DumpApp
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 锤子助手
+
+Package: com.wkk.dumpapp
+Version: 2.0.3
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: com.dumpapp.wechat-rootless, netskao.wechatpurifications, netskao.wechatpurification, byg.iosios.net.dumpapp.wechat-rootless
+Filename: ./debs/com.wkk.dumpapp_2.0.3_iphoneos-arm64.deb
+Size: 9332648
+MD5sum: 07a5ba848a0200c87db262238098f6e7
+SHA1: 778e63437e86b9ff850f7e4d3962abed1d94288c
+SHA256: 3b25ff6c55834b671a0891afc3c9d0b420f0a2e6c18b6142aab7a659c39f07e0
+Section: 微信插件
+Description: 微信多功能插件
+ * 1:1 复刻“微信净化”插件，功能一模一样
+ * ⚠️注意：不可与“微信净化”共存
+Author: DumpApp
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 锤子助手
+
+Package: com.wkk.dumpapp
+Version: 2.0.3
+Architecture: iphoneos-arm64e
+Maintainer: WeChat
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: com.dumpapp.wechat-rootless, netskao.wechatpurifications, netskao.wechatpurification, byg.iosios.net.dumpapp.wechat-rootless
+Filename: ./debs/com.wkk.dumpapp_2.0.3_iphoneos-arm64e.deb
+Size: 25467092
+MD5sum: 9e579b0e92238c3e7245d89201449b93
+SHA1: c972af77660ac9567b06782b71e22a8fc3d2f5df
+SHA256: a374ab09bb9d50265c0f634a9bf22abf143b38dcd4e23200ee79dd18d8fa659c
+Section: 微信插件
+Description: 微信多功能插件
+ * 1:1 复刻“微信净化”插件，功能一模一样
+ * ⚠️注意：不可与“微信净化”共存
+Author: DumpApp
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 锤子助手
+
+Package: com.wkk.dumpapp
+Version: 2.0.4
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: com.dumpapp.wechat-rootless, netskao.wechatpurifications, netskao.wechatpurification, byg.iosios.net.dumpapp.wechat-rootless
+Filename: ./debs/com.wkk.dumpapp_2.0.4_iphoneos-arm64.deb
+Size: 9231004
+MD5sum: 256a83bb16bb22833a705cf79e3760b6
+SHA1: f92b1a56d076a98e24e33889ffd224d067724607
+SHA256: 9a4f0cc06be025d9b2787fdcc89a92c72421d9a2c111b16fad9d718ce51caa15
+Section: 微信插件
+Description: 微信多功能插件
+ * 1:1 复刻“微信净化”插件，功能一模一样
+ * ⚠️注意：不可与“微信净化”共存
+Author: DumpApp
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 锤子助手
+
+Package: com.wkk.dumpapp
+Version: 2.0.4
+Architecture: iphoneos-arm64e
+Maintainer: WeChat
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: com.dumpapp.wechat-rootless, netskao.wechatpurifications, netskao.wechatpurification, byg.iosios.net.dumpapp.wechat-rootless
+Filename: ./debs/com.wkk.dumpapp_2.0.4_iphoneos-arm64e.deb
+Size: 25413612
+MD5sum: 1d1fd5f5a4de8bd30a98d16b0451d587
+SHA1: 6c90f6eddb5e6277a80486f4911ee3208c28ee85
+SHA256: 93dd8b689dfb183a29b23cc59f202f465280f6eeb6dc56966cc8b2491ed1f95e
+Section: 微信插件
+Description: 微信多功能插件
+ * 1:1 复刻“微信净化”插件，功能一模一样
+ * ⚠️注意：不可与“微信净化”共存
+Author: DumpApp
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 锤子助手
+
+Package: com.wkk.dumpapp
+Version: 2.0.5
+Architecture: iphoneos-arm64e
+Maintainer: WeChat
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: com.dumpapp.wechat-rootless, netskao.wechatpurifications, netskao.wechatpurification, byg.iosios.net.dumpapp.wechat-rootless
+Filename: ./debs/com.wkk.dumpapp_2.0.5_iphoneos-arm64e.deb
+Size: 28957606
+MD5sum: 888cead8ac6903cc509bea0594b90343
+SHA1: d0f0cceae3dd93e6aaa13ea7b1d1e4d0d62c0c09
+SHA256: 8e27dbbb8757ed79ca6088c3bd0a79263c532b80810c531d724039d7fae85af1
+Section: 微信插件
+Description: 微信多功能插件
+ * 1:1 复刻“微信净化”插件，保留红包功能
+ * 注意：不可与“微信净化”共存
+Author: DumpApp
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 锤子助手
+
+Package: com.wkk.dumpapp
+Version: 2.0.5
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: com.dumpapp.wechat-rootless, netskao.wechatpurifications, netskao.wechatpurification, byg.iosios.net.dumpapp.wechat-rootless
+Filename: ./debs/com.wkk.dumpapp_2.0.5_iphoneos-arm64.deb
+Size: 10432980
+MD5sum: d7fafb34e02490fed6f18b30a92fd128
+SHA1: f66c0390285bd3680e5130fe826125fc98013d1c
+SHA256: 5c40118767edc73d8b517c1313cb0a828fa77cf863bf7d0a331de1df4ebb2319
+Section: 微信插件
+Description: 微信多功能插件
+ * 1:1 复刻“微信净化”插件，保留红包功能
+ * 注意：不可与“微信净化”共存
+Author: DumpApp
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 锤子助手
+
+Package: com.wkk.dumpapp
+Version: 2.0.6
+Architecture: iphoneos-arm64e
+Maintainer: WeChat
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: com.dumpapp.wechat-rootless, netskao.wechatpurifications, netskao.wechatpurification, byg.iosios.net.dumpapp.wechat-rootless
+Filename: ./debs/com.wkk.dumpapp_2.0.6_iphoneos-arm64e.deb
+Size: 29222706
+MD5sum: 160107db3f0acc6baffad7a1146099e9
+SHA1: 8d18e0f9589ddf69bff7eeee337cc590e3a3e1e2
+SHA256: 0f76bb68c3e7a8ae59d76b94634cf3cbbac49902f84bd0abb3d2837893f43f53
+Section: 微信插件
+Description: 微信多功能插件
+ * 1:1 复刻“微信净化”插件，保留红包功能
+ * 注意：不可与“微信净化”共存
+Author: DumpApp
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 锤子助手
+
+Package: com.wkk.dumpapp
+Version: 2.0.6
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: com.dumpapp.wechat-rootless, netskao.wechatpurifications, netskao.wechatpurification, byg.iosios.net.dumpapp.wechat-rootless
+Filename: ./debs/com.wkk.dumpapp_2.0.6_iphoneos-arm64.deb
+Size: 10511544
+MD5sum: c04528593b45c51df34ab04c6ec5a4fd
+SHA1: 2c5f7575092b7ed7f64f33d8ac74516ef06c3bfa
+SHA256: 0be88c3a9618c2614283c3872c8b19ed0b6b42ccf128b596c4c0c92d2cff5785
+Section: 微信插件
+Description: 微信多功能插件
+ * 1:1 复刻“微信净化”插件，保留红包功能
+ * 注意：不可与“微信净化”共存
+Author: DumpApp
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 锤子助手
+
+Package: com.wkk.dumpapp
+Version: 2.0.8
+Architecture: iphoneos-arm64e
+Maintainer: WeChat
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: com.dumpapp.wechat-rootless, netskao.wechatpurifications, netskao.wechatpurification, byg.iosios.net.dumpapp.wechat-rootless
+Filename: ./debs/com.wkk.dumpapp_2.0.8_iphoneos-arm64e.deb
+Size: 29241964
+MD5sum: 11d4fea9cb07677acc1700f0d30d04a3
+SHA1: 50f24932f3de2c060300149d24fd73fdc8aa76a5
+SHA256: 2790f40d68999e54fecf2ba0a04bba95f41a7f444d89f0be8592c4970082204f
+Section: 微信插件
+Description: 微信多功能插件
+ * 1:1 复刻“微信净化”插件，保留红包功能
+ * 注意：不可与“微信净化”共存
+Author: DumpApp
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 锤子助手
+
+Package: com.wkk.dumpapp
+Version: 2.0.8
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: com.dumpapp.wechat-rootless, netskao.wechatpurifications, netskao.wechatpurification, byg.iosios.net.dumpapp.wechat-rootless
+Filename: ./debs/com.wkk.dumpapp_2.0.8_iphoneos-arm64.deb
+Size: 10526116
+MD5sum: 254f09b4fc284dc19c482b0f75159c0e
+SHA1: 855afa67d7bfd8f8558c68583b089bafe5eb309c
+SHA256: c3d30813ee99d5957ff07a7ed3b41701fd8a834095011d355261467b39766d2c
+Section: 微信插件
+Description: 微信多功能插件
+ * 1:1 复刻“微信净化”插件，保留红包功能
+ * 注意：不可与“微信净化”共存
+Author: DumpApp
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 锤子助手
+
+Package: com.wkk.dumpapp
+Version: 2.0.9
+Architecture: iphoneos-arm64e
+Maintainer: WeChat
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: com.dumpapp.wechat-rootless, netskao.wechatpurifications, netskao.wechatpurification, byg.iosios.net.dumpapp.wechat-rootless
+Filename: ./debs/com.wkk.dumpapp_2.0.9_iphoneos-arm64e.deb
+Size: 29222030
+MD5sum: 6329c9e1a8d5901f5ac34d5c9a699674
+SHA1: d4dd8a603e194c84fd3f1094928bd81cbdb9ac3f
+SHA256: 814515b57678fc4a33bd6bfa81b6ba4e4e678d2e9b836a3be4de91d8f8460c63
+Section: 微信插件
+Description: 微信多功能插件
+ * 1:1 复刻“微信净化”插件，保留红包功能
+ * 注意：不可与“微信净化”共存
+Author: DumpApp
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 锤子助手
+
+Package: com.wkk.dumpapp
+Version: 2.0.9
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: com.dumpapp.wechat-rootless, netskao.wechatpurifications, netskao.wechatpurification, byg.iosios.net.dumpapp.wechat-rootless
+Filename: ./debs/com.wkk.dumpapp_2.0.9_iphoneos-arm64.deb
+Size: 10516664
+MD5sum: d3723ecfae655b6aadeb36f39b863e09
+SHA1: f8096cf831c2f11ade8c7c2bee168cdf306883aa
+SHA256: 6ef2cd7fefa67502c83c2025569e6bc34e9437356c6cbfc7af935388dd8f725f
+Section: 微信插件
+Description: 微信多功能插件
+ * 1:1 复刻“微信净化”插件，保留红包功能
+ * 注意：不可与“微信净化”共存
+Author: DumpApp
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 锤子助手
+
+Package: com.wkk.dumpapp
+Version: 2.1.0
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: com.dumpapp.wechat-rootless, netskao.wechatpurifications, netskao.wechatpurification, byg.iosios.net.dumpapp.wechat-rootless
+Filename: ./debs/com.wkk.dumpapp_2.1.0_iphoneos-arm64.deb
+Size: 10901740
+MD5sum: 6ffda6732be392bbe7ee56b7302eca39
+SHA1: 38e071fefea6d465bf33c47c14b3282d1d49dbcb
+SHA256: 5dc94b0932ffb3b760782442bdd98f049d64ffadd8c25b230e39f9691983039e
+Section: 微信插件
+Description: 微信多功能插件
+ * 1:1 复刻“微信净化”插件，保留红包功能
+ * 注意：不可与“微信净化”共存
+Author: DumpApp
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 锤子助手
+
+Package: com.wkk.dumpapp
+Version: 2.1.0
+Architecture: iphoneos-arm64e
+Maintainer: WeChat
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: com.dumpapp.wechat-rootless, netskao.wechatpurifications, netskao.wechatpurification, byg.iosios.net.dumpapp.wechat-rootless
+Filename: ./debs/com.wkk.dumpapp_2.1.0_iphoneos-arm64e.deb
+Size: 30369414
+MD5sum: ff0e459290714c50729dc7c006a8496b
+SHA1: 5e0d8004e6d36cf9ba2e5f440cf41370b58f70dc
+SHA256: 7b93a93dcabad37205f4b3ac9a68c1f4a9354a174bdefaa7ecc6995bb45cf2ec
+Section: 微信插件
+Description: 微信多功能插件
+ * 1:1 复刻“微信净化”插件，保留红包功能
+ * 注意：不可与“微信净化”共存
+Author: DumpApp
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 锤子助手
+
+Package: com.wkk.dumpapp
+Version: 2.3.0
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: com.dumpapp.wechat-rootless, netskao.wechatpurifications, netskao.wechatpurification, byg.iosios.net.dumpapp.wechat-rootless
+Filename: ./debs/com.wkk.dumpapp_2.3.0_iphoneos-arm64.deb
+Size: 5623544
+MD5sum: a00a9ad898679bd1a6ce3de0545b49fd
+SHA1: 404adf5204e01d12fec4f3c7bbadca4b31d4873b
+SHA256: 95f4e99f8856fd6a3a730d624d74e58bfb62ce3be71ffdaf711c5e75620f5a0b
+Section: 微信插件
+Description: 微信多功能插件
+ * 1:1 复刻“微信净化”插件，保留红包功能
+ * 注意：不可与“微信净化”共存
+Author: DumpApp
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 锤子助手
+
+Package: com.wkk.dumpapp
+Version: 2.3.0
+Architecture: iphoneos-arm64e
+Maintainer: WeChat
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: com.dumpapp.wechat-rootless, netskao.wechatpurifications, netskao.wechatpurification, byg.iosios.net.dumpapp.wechat-rootless
+Filename: ./debs/com.wkk.dumpapp_2.3.0_iphoneos-arm64e.deb
+Size: 15287910
+MD5sum: ef17c8baef90e65fb697aa2e57234a7e
+SHA1: 618abe47fe360e796ffe567de1eb0f00d1a58125
+SHA256: 9057888765f2db7bc8ee94833cccfb1ae59f973fcc1d22c586b2ce189afb1354
+Section: 微信插件
+Description: 微信多功能插件
+ * 1:1 复刻“微信净化”插件，保留红包功能
+ * 注意：不可与“微信净化”共存
+Author: DumpApp
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 锤子助手
 
 Package: com.wkk.dy
 Version: 1.0
@@ -12352,6 +12856,24 @@ Author: lclrc(SquidForce)
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: Hammer It
 
+Package: com.wkk.helloappdata
+Version: 1.3.6-9-1+debug
+Architecture: iphoneos-arm64e
+Maintainer: zqbb
+Installed-Size: 536
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.fouadraheb.appdata, netskao.appdata-rootless
+Filename: ./debs/com.wkk.helloappdata_1.3.6-9-1+debug_iphoneos-arm64e.deb
+Size: 104932
+MD5sum: 8fe6df8bc207b7c1b09781fa05aa4876
+SHA1: 7c82a877899734e5d3668f97ad752f2f0262d754
+SHA256: cb75dd2fba9c3147a3c9ba0d50231379f5e4f578ba1b689b15cc18cdc370361b
+Section: Tweaks
+Description: 呼出为下滑App。
+Author: Fouad Raheb <support@fouadraheb.com>
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Hello AppData 下滑
+
 Package: com.wkk.hideiconbadge
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -12419,6 +12941,45 @@ Description: 自定义序列号机型等多个信息，装逼用。
 Author: ichitaso <qiaozhani000@163.com>
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: HideSerialNumber
+
+Package: com.wkk.homehiders
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: Nathan Senter
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.nathan.homehider
+Filename: ./debs/com.wkk.homehiders_1.1_iphoneos-arm64e.deb
+Size: 4000
+MD5sum: 279a49984a34e1d5073dee91fe0cc8d5
+SHA1: 735fa19070c5d60431b3fbc0cb67d3e1c3fc9c15
+SHA256: dafcd5e05a1fe5558f6076aee3e5d16585d3cf5b94fc6ec4f00fdd3a47f2ef02
+Section: Tweaks
+Description: 隐藏设备底部小白条
+ * 支持 iOS 15 - iiOS 17.0
+Author: Nathan Senter
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 隐藏底部小白条
+
+Package: com.wkk.homehiders
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Nathan Senter
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.nathan.homehider
+Filename: ./debs/com.wkk.homehiders_1.1_iphoneos-arm64.deb
+Size: 2776
+MD5sum: 2a915930b38a9cc9053417017ca24112
+SHA1: 6ac062a48f5bec8a1e622b6cd8f235073ff48879
+SHA256: 21f24282c7f12f1f0b7e76ffd1d2025d9dd836171d47adf6056b5c032a913524
+Section: Tweaks
+Description: 隐藏设备底部小白条
+ * 支持 iOS 15 - iiOS 17.0
+Author: Nathan Senter
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 隐藏底部小白条
 
 Package: com.wkk.horizontalsliders
 Version: 0.0.1
@@ -14556,6 +15117,80 @@ Author: iKarwan <ikghd3@gmail.com>
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.pmp.png
 Name: PMP
 
+Package: com.wkk.pogrs
+Version: 0.5.1
+Architecture: iphoneos-arm64e
+Maintainer: Ruphane
+Installed-Size: 480
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.lns.pogr
+Filename: ./debs/com.wkk.pogrs_0.5.1_iphoneos-arm64e.deb
+Size: 86910
+MD5sum: af8a018b36966e81f9557265f8332b1f
+SHA1: 8f2f1543566ad983a92395c7baf8db673f9a28f7
+SHA256: f55a246dd971d2047c0b4e5fd50cf29fa95b96d56f58e998646fa08e620ba0b7
+Section: Tweaks
+Description: 提高低系统与新 AirPods 兼容性。
+Author: Ruphane
+Icon: https://TrollStoreX.Github.io/sileodepiction/PodsGrant/icon.png
+Name: AirPods PodsGrant
+
+Package: com.wkk.pogrs
+Version: 0.5.1
+Architecture: iphoneos-arm64
+Maintainer: Ruphane
+Installed-Size: 480
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.lns.pogr
+Filename: ./debs/com.wkk.pogrs_0.5.1_iphoneos-arm64.deb
+Size: 75156
+MD5sum: bbdbdb69050d0f790e1c96dfd2989012
+SHA1: 7fa11fe04411d729f9920026c8c55ddeca68d4c7
+SHA256: f5821b8540e12fb207175af0c36b7eb4622e0f3c0ee11d142645bf8fabbc7466
+Section: Tweaks
+Description: 提高低系统与新 AirPods 兼容性。
+Author: Ruphane
+Icon: https://TrollStoreX.Github.io/sileodepiction/PodsGrant/icon.png
+Name: AirPods PodsGrant
+
+Package: com.wkk.pogrs
+Version: 0.5.2
+Architecture: iphoneos-arm64
+Maintainer: Ruphane
+Installed-Size: 480
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.lns.pogr
+Filename: ./debs/com.wkk.pogrs_0.5.2_iphoneos-arm64.deb
+Size: 74892
+MD5sum: 3ce64da240b11731011eb9476f7751a7
+SHA1: 8fa8a6e98c717ff64e1ba5cb522080e1de70a173
+SHA256: 4f9bbeee3753186034c9dfbcde7478a060c39d71300b6a9504036b50f1bc9659
+Section: Tweaks
+Description: 提高低系统与新 AirPods 兼容性。
+Author: Ruphane
+Icon: https://TrollStoreX.Github.io/sileodepiction/PodsGrant/icon.png
+Name: AirPods PodsGrant
+
+Package: com.wkk.pogrs
+Version: 0.5.2
+Architecture: iphoneos-arm64e
+Maintainer: Ruphane
+Installed-Size: 480
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.lns.pogr
+Filename: ./debs/com.wkk.pogrs_0.5.2_iphoneos-arm64e.deb
+Size: 86592
+MD5sum: bd260c9bfb2e5cbbc897f115a1853165
+SHA1: c15ee6e759c09d6608cd9dfa7ff1d71033c145f8
+SHA256: 823a8fa2af0fecb8a43e5d08f995c411365accb35593c664462b1d44b4bd9dc0
+Section: Tweaks
+Description: 提高低系统与新 AirPods 兼容性。
+Author: Ruphane
+Icon: https://TrollStoreX.Github.io/sileodepiction/PodsGrant/icon.png
+Name: AirPods PodsGrant
+
 Package: com.wkk.ppxwhook
 Version: 1.0-1
 Architecture: iphoneos-arm64
@@ -15123,6 +15758,38 @@ Author: AnthoPak <anthopakdev@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/01/24/137ad8ab011c468fac23f82c8eb7c050.png
 Name: QuickPrefs
 
+Package: com.wkk.qzzz
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.qzzz_1.0-1_iphoneos-arm64.deb
+Size: 243508
+MD5sum: 42c6c3a2cc0d5958f3a3ee12933291e9
+SHA1: e5d8b56c039c4b25e591edd9823abc846d870cac
+SHA256: 4ca867b4699c43f2ccff42559db988239dfa1a2a3ae2547ff44691910e5b31fb
+Section: 插件配置
+Description: 备份。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 净化红包版本强制关注（TrollFools注入）
+
+Package: com.wkk.qzzz
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.qzzz_1.0-1_iphoneos-arm64e.deb
+Size: 243512
+MD5sum: 49d15a582fc34398a47fe90bac37bcd9
+SHA1: 77bf7e0bce74efea43e453a1347a54793f45afff
+SHA256: 7b15bb56d7d88abc05e9a4fd64fc18a923a7e5dba23f620c542a0c86bfca2cc5
+Section: 插件配置
+Description: 备份。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 净化红包版本强制关注（TrollFools注入）
+
 Package: com.wkk.ravitation
 Version: 1.0-1
 Architecture: iphoneos-arm64
@@ -15218,6 +15885,41 @@ Size: 15388
 MD5sum: 1c3438159d4902fd5019a96a4deb4773
 SHA1: 1fbc162f8e2b88ba84fa39b09e6add4478a1638c
 SHA256: c67e42498eb0f126f25a0242e9b03f2225ee46aba1b64f337aa53ce86c7fc056
+Section: Tweaks
+Description: 录制视频时，可以手动暂停/恢复。
+Author: PoomSmart
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: RecordPause
+
+Package: com.wkk.recordpause
+Version: 2.0.7
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 200
+Depends: mobilesubstrate, firmware (>= 11.0), firmware (<< 18.0)
+Filename: ./debs/com.wkk.recordpause_2.0.7_iphoneos-arm64.deb
+Size: 11844
+MD5sum: 4ecda41d8b8d19b2d0b06cb9a37a5b42
+SHA1: df8c7228102e805887d17d94560298f04f4f5a34
+SHA256: a631ff0d0e11e36110d64bc9426ad204cb2f43c8ba828106cfb8a1c895562955
+Section: Tweaks
+Description: 录制视频时，可以手动暂停/恢复。
+Author: PoomSmart
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: RecordPause
+
+Package: com.wkk.recordpause
+Version: 2.0.7
+Architecture: iphoneos-arm64e
+Maintainer: PoomSmart
+Installed-Size: 200
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 11.0), firmware (<< 18.0)
+Filename: ./debs/com.wkk.recordpause_2.0.7_iphoneos-arm64e.deb
+Size: 15732
+MD5sum: d06e370551ed89f3a985533738a92db1
+SHA1: 68db27dda3245035def6c19aa6761399d8b68e6c
+SHA256: 5619f7bca88b742456c8aa0dcd7a1520714b15fff60728dd1766e7994fc8e7f3
 Section: Tweaks
 Description: 录制视频时，可以手动暂停/恢复。
 Author: PoomSmart
@@ -15995,6 +16697,39 @@ Description: ios15-16键盘震动的终极调整，敲击键盘或候选词都�
 Author: P2KDev <p2kdev@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/01/22/da95cacf3e9dbdaec0311e6a00989e86.png
 Name: TapticBoard
+
+Package: com.wkk.teleport
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.teleport_1.1_iphoneos-arm64e.deb
+Size: 14909598
+MD5sum: f636ae7b9f9963c4e86914ed55a0c012
+SHA1: c870f99fee43984c2f93f7003d5c357981760d6c
+SHA256: 85fcd085dc2d905d1b892dd1a04c873df2ae6277bc04d742cea9c63062ace991
+Section: 应用程序
+Description: 免费的虚拟定位。
+Author: SGWC
+Icon: https://s1.imagehub.cc/images/2026/01/11/ca1989da2f62c977eaa97c587366cb8c.jpeg
+Name: Teleport
+
+Package: com.wkk.teleport
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.teleport_1.1_iphoneos-arm64.deb
+Size: 7382468
+MD5sum: ea686ff3a8c7ca0df3fbdfa97bd54b93
+SHA1: 0e4cbdb1ce4536520ca28d16a66138f0ea9a7b54
+SHA256: 3702c0734d1efa500ac8e5723bdc75fe71901bd8b38a063f738f19663a9606f7
+Section: 应用程序
+Description: 免费的虚拟定位。
+Author: SGWC
+Icon: https://s1.imagehub.cc/images/2026/01/11/ca1989da2f62c977eaa97c587366cb8c.jpeg
+Name: Teleport
 
 Package: com.wkk.tie-gesture
 Version: 1.0.0
