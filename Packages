@@ -5692,41 +5692,6 @@ Author: lhyee
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: fix图标错位
 
-Package: com.liuf.jpyj
-Version: 0.0.1
-Architecture: iphoneos-arm64
-Maintainer: liuf <(null)>
-Installed-Size: 280
-Depends: mobilesubstrate
-Filename: ./debs/com.liuf.jpyj_0.0.1_iphoneos-arm64.deb
-Size: 3732
-MD5sum: 2e375f73d7d05de5c0b67f2e92c9d295
-SHA1: 63a386e77f80e12d19399ee1929f0637a810cc5d
-SHA256: bde10b68a6415ca41086fc9661493e550d146a179b4c56ca9bdd175896772e06
-Section: Tweaks
-Description: 系统键盘圆角
-Author: liuf <(null)>
-Icon: https://s1.imagehub.cc/images/2025/01/02/4140e144392c050f69f3cc9a881feda5.jpeg
-Name: 系统键盘圆角
-
-Package: com.liuf.jpyj
-Version: 0.0.1
-Architecture: iphoneos-arm64e
-Maintainer: liuf <(null)>
-Installed-Size: 280
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate
-Filename: ./debs/com.liuf.jpyj_0.0.1_iphoneos-arm64e.deb
-Size: 5260
-MD5sum: fee5c0fc7ebf8f52f08a679fec0a74cb
-SHA1: 2d6a1d5fefd615b4fcc001a50ee95f13f5c20c6c
-SHA256: ae4bf519ab43d94ed0d6bde4b6dab928f53a3c3a3dcb33833f43aeb0a2af284d
-Section: Tweaks
-Description: 系统键盘圆角
-Author: liuf <(null)>
-Icon: https://s1.imagehub.cc/images/2025/01/02/4140e144392c050f69f3cc9a881feda5.jpeg
-Name: 系统键盘圆角
-
 Package: com.mikotohelper.wechat
 Version: 1.3.6-V1
 Architecture: iphoneos-arm64
@@ -12420,6 +12385,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2026/01/17/9209c2f3055f3d518df1df10d0fee36e.png
 Name: Folder4x4
 
+Package: com.wkk.folder4
+Version: 1.2-6
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.folder4_1.2-6_iphoneos-arm64.deb
+Size: 10544
+MD5sum: 92e43d5a248d2a13ca3c47670d45e555
+SHA1: 71565183c78bf57bd3bc4f5cf43885b60530b895
+SHA256: 6f02d9afb93b54ff78109cbbaef18d170af86d0c8018d7eb4eb0dfedfd23fa1d
+Section: Tweaks
+Description: 4x4的文件夹布局/隐藏打开后的文件夹背景/打开文件夹内app自动关闭文件夹/调整打开后文件夹布局整体为中心/修复springboard奔溃后文件夹图标剩9个/配合源里文件夹阴影使用将springboard占用压榨到最低。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/01/17/9209c2f3055f3d518df1df10d0fee36e.png
+Name: Folder4x4
+
+Package: com.wkk.folder4
+Version: 1.2-6
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.folder4_1.2-6_iphoneos-arm64e.deb
+Size: 14242
+MD5sum: 61a3e88a404e93944bbb160307e2f93a
+SHA1: c90eae0b8a225168eda66df6783df42f6398e1f9
+SHA256: c8782fd37378d718f9c53cb4f67d6cdcbf5aef9cab35ffde07a3f642793c4d47
+Section: Tweaks
+Description: 4x4的文件夹布局/隐藏打开后的文件夹背景/打开文件夹内app自动关闭文件夹/调整打开后文件夹布局整体为中心/修复springboard奔溃后文件夹图标剩9个/配合源里文件夹阴影使用将springboard占用压榨到最低。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/01/17/9209c2f3055f3d518df1df10d0fee36e.png
+Name: Folder4x4
+
 Package: com.wkk.freepip
 Version: 0.0.3-1
 Architecture: iphoneos-arm64e
@@ -13826,6 +13826,40 @@ Description: 剪贴板（支持范围IOS14-17）
 Author: Alexandra Aurora Göttlicher
 Icon: https://s1.imagehub.cc/images/2025/01/23/96e1ab7edb0fee61a64c6cfcfd0623fe.png
 Name: Kayoko
+
+Package: com.wkk.kbhook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.kbhook_1.0-1_iphoneos-arm64e.deb
+Size: 2880
+MD5sum: 10093a44d4e6ba650981513e2299572d
+SHA1: b1ed5d0b583d860186f44ae0823b2bbb0bc6b9f4
+SHA256: 808ab7828b0ef4a985a0cc2fd6778b57ca0136814d366d13451879438ded8c61
+Section: Tweaks
+Description: cool
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 系统键盘圆角
+
+Package: com.wkk.kbhook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.kbhook_1.0-1_iphoneos-arm64.deb
+Size: 2940
+MD5sum: ff9be7d488c1ee6fb9fe720490922b07
+SHA1: b7c4b223568c9585bd72dc2f7161d2b3591d857f
+SHA256: f7ba728f96f65d0be48baa1a9db4ea946cf96de1042ae0a1e50fe48827f32362
+Section: Tweaks
+Description: cool
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 系统键盘圆角
 
 Package: com.wkk.kbstyle
 Version: 1.0
@@ -16241,6 +16275,41 @@ Author: Kritanta
 Icon: https://s1.imagehub.cc/images/2025/12/23/55751480aa1be9607a3de0115db15421.png
 Name: Gravitation
 
+Package: com.wkk.reachplayer
+Version: 5.0.0
+Architecture: iphoneos-arm64e
+Maintainer: 苏苏
+Installed-Size: 3636
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.reachplayer_5.0.0_iphoneos-arm64e.deb
+Size: 1263824
+MD5sum: b869429be42bbea5a6fe689b979d4ccc
+SHA1: d2ff39c7fb85015610e9c7d20a6513e2a5a6454d
+SHA256: faa79fe846438b66bd4ad71bb90dbad90c6d519ea445824f4bedda3ad00b34f9
+Section: Tweaks
+Description: 抱歉自用版本，绝版了，没授权过别下载。
+Author: 苏苏
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: ReachPlayer音乐专辑
+
+Package: com.wkk.reachplayer
+Version: 5.0.0
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 3636
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.reachplayer_5.0.0_iphoneos-arm64.deb
+Size: 1253648
+MD5sum: 7ef01948a4fad7b818ad4a3c996f99ef
+SHA1: b179e1d8769bed25f9021d1ee72fe2701e52777b
+SHA256: 721222ca9f7a52ec733ab376696e58b9af270af1474d3f9a2e02db1753802206
+Section: Tweaks
+Description: 抱歉自用版本，绝版了，没授权过别下载。
+Author: 苏苏
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: ReachPlayer音乐专辑
+
 Package: com.wkk.recordanywhere
 Version: 1.1.0
 Architecture: iphoneos-arm64
@@ -16878,35 +16947,35 @@ Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.
 Name: 神奇的交互动画
 
 Package: com.wkk.ssschook
-Version: 1.0-2
+Version: 1.0-3
 Architecture: iphoneos-arm64e
 Maintainer: wkk
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.ssschook_1.0-2_iphoneos-arm64e.deb
-Size: 3716
-MD5sum: fc69037f32454f6a2274a18d8cc94357
-SHA1: 835ca10c142e64ce702503b3fdafe1acd184e648
-SHA256: 94dbcdf944c617cee6095b12b67c81331e4501114fca4ea019ef6009f7692f1b
+Filename: ./debs/com.wkk.ssschook_1.0-3_iphoneos-arm64e.deb
+Size: 3488
+MD5sum: 7b1095ce373f7035603a73e9426c06be
+SHA1: d550538135ab79a72115f3899e8090ec16a83800
+SHA256: 7b443ef5c35c72925feccebf29e647280746c5e0e10c7472930e5ea0201a4081
 Section: Tweaks
-Description: 但不禁用编辑功能。
+Description: 排除编辑/快捷指令截图功能。
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: 禁用截图预览
 
 Package: com.wkk.ssschook
-Version: 1.0-2
+Version: 1.0-3
 Architecture: iphoneos-arm64
 Maintainer: wkk
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.ssschook_1.0-2_iphoneos-arm64.deb
-Size: 3780
-MD5sum: bc3a5c38890acd3328e1664a33b2adeb
-SHA1: 7b87e317634e1bf6165ecdc446df84147b3a7617
-SHA256: 3253a565c42c030ae6ccb41f6504ef0f568e9b1e08aa6cb76d66b7008ef03f04
+Filename: ./debs/com.wkk.ssschook_1.0-3_iphoneos-arm64.deb
+Size: 3564
+MD5sum: d0ebbba032cdb3837e6b1e2d8750e7f9
+SHA1: 32b0e6a79cc2b2ed8e3d03a27858385434d14d59
+SHA256: 9aa5e098b42dcbfa351776426ff4f2b385de4689efa6ecc69628b8feb9a6575d
 Section: Tweaks
-Description: 但不禁用编辑功能。
+Description: 排除编辑/快捷指令截图功能。
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: 禁用截图预览
