@@ -4871,6 +4871,43 @@ Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.
 Name: floatingView
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
 
+Package: com.be-huge.floating-view
+Version: 1.5.9
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 2692
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.be-huge.floating-view_1.5.9_iphoneos-arm64.deb
+Size: 664664
+MD5sum: da4c8f76d8b8ef088d3e4a51b68abf47
+SHA1: 11ed1f521d4608eff7faac8af41ab7508fe6f1ed
+SHA256: de1fcb5333c8c311ea826d6bbfc8277e71b0af5a2377aa4f3d95fe335963b615
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+Name: floatingView
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Version: 1.5.9
+Architecture: iphoneos-arm64e
+Maintainer: be-huge
+Installed-Size: 2692
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.be-huge.floating-view_1.5.9_iphoneos-arm64e.deb
+Size: 1787280
+MD5sum: 8b05b8de721a47094e5956c74ed727b3
+SHA1: f5895a701b2e3a897b99915c95f102ce34deb4f6
+SHA256: 56185c9bcb3a4006db66249daf044948d523e83bd2d504735e5be52459a52c1f
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+Name: floatingView
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
 Package: com.blbl
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -7909,6 +7946,41 @@ Author: huami&Lxcloud
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: 微信增强
 
+Package: com.wkk.WCEhance
+Version: 2.0-2
+Architecture: iphoneos-arm64
+Maintainer: Lxcloud
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.wkk.WCEhance_2.0-2_iphoneos-arm64.deb
+Size: 1899992
+MD5sum: 4b58db6cdf283cf1eab40db40dbbf8ab
+SHA1: 7c54a451d90c6ba02040d4ff5e3ed911e1049aba
+SHA256: abce46320d50c4e60a98ecc3259150adc4aab2fb1c5a967a6609dea19b0e77c3
+Section: 微信插件
+Priority: optional
+Description: 微信增强，用于优化一些反人类设计和增强功能。
+Author: huami&Lxcloud
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信增强
+
+Package: com.wkk.WCEhance
+Version: 2.0-2
+Architecture: iphoneos-arm64e
+Maintainer: Lxcloud
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.wkk.WCEhance_2.0-2_iphoneos-arm64e.deb
+Size: 5376526
+MD5sum: 60db7485fa4e5df749e60db6f8987504
+SHA1: 70aac9258dd1483bcbe9990644f6c3cf9b66ad9f
+SHA256: e434070559232a893383f6fc876ac088a4f4450be787dda83077a4ed845c8d9e
+Section: 微信插件
+Priority: optional
+Description: 微信增强，用于优化一些反人类设计和增强功能。
+Author: huami&Lxcloud
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信增强
+
 Package: com.wkk.WCPulse
 Version: 1.3-4
 Architecture: iphoneos-arm64
@@ -8013,6 +8085,41 @@ Author: huami
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WCPulse
 
+Package: com.wkk.WCPulse
+Version: 1.3-8
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 1348
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.WCPulse_1.3-8_iphoneos-arm64.deb
+Size: 406348
+MD5sum: d988e9210ced9e1f70b4490f86ca3c58
+SHA1: 304e9c68b432ea8ebcd2871544c93fc2d122cb25
+SHA256: 979e1ceb32f3bb663920b56c4241cbf91ce9ad4fa57b986928773c70d3e6b39d
+Section: 微信插件
+Description: WCPulse
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCPulse
+
+Package: com.wkk.WCPulse
+Version: 1.3-8
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 1348
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.WCPulse_1.3-8_iphoneos-arm64e.deb
+Size: 598168
+MD5sum: 6f7c9c333efe9b247ce79ff7f92c198e
+SHA1: ce1b2486420a4e2a6534cdccc3c8d4952ee4f37c
+SHA256: 68589d5d06cd436597221e64c7d325e216f6910746625ef9c3371828058b1f96
+Section: 微信插件
+Description: WCPulse
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCPulse
+
 Package: com.wkk.WCPush2Chat
 Version: 1.0-2
 Architecture: iphoneos-arm64e
@@ -8077,6 +8184,43 @@ Size: 1409384
 MD5sum: c36c8731e47ff5b05d2da5b5e6cf05af
 SHA1: 3b4a864b951cb405949d109cddef66c24099ed90
 SHA256: 5f1cb562baedb2b89af0b98fbb1030256108fdc6ce0a5815a4f6936d52fa31ed
+Section: 微信插件
+Priority: optional
+Description: 微信优化的重制版本，WCRefine基于微信8.0.64+版本制作。
+Author: 热心网友
+Dev: 君临
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCRefine
+
+Package: com.wkk.WCRefine
+Version: 1.2-2
+Architecture: iphoneos-arm64
+Maintainer: 热心网友
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.wkk.WCRefine_1.2-2_iphoneos-arm64.deb
+Size: 1411456
+MD5sum: 38146c798589220f198df43fc03c9ca2
+SHA1: e449c9051062be379de3f6187f75ae57cd70cc08
+SHA256: ccfb5f24e50f8819a3bd160626ac496ea9ba77a46af25ae8f31006f0fe5ab324
+Section: 微信插件
+Priority: optional
+Description: 微信优化的重制版本，WCRefine基于微信8.0.64+版本制作。
+Author: 热心网友
+Dev: 君临
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCRefine
+
+Package: com.wkk.WCRefine
+Version: 1.2-2
+Architecture: iphoneos-arm64e
+Maintainer: 热心网友
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.wkk.WCRefine_1.2-2_iphoneos-arm64e.deb
+Size: 3851786
+MD5sum: 37c0d021150896640ce85fd1bea1cd8d
+SHA1: 92532e147fa16c8d46a608baa4a6b342974ac51a
+SHA256: 2669454988d71393f1368fe75411bd804d2e7e3765d41b7cb9b2dd0fc628a5cd
 Section: 微信插件
 Priority: optional
 Description: 微信优化的重制版本，WCRefine基于微信8.0.64+版本制作。
@@ -17883,6 +18027,40 @@ Description: 去开屏广告，版本：16.5.11，接大量冷门热门app定制
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2026/01/19/c257ee018d2f3cd556765003ed904364.png
 Name: 腾讯手机管家NoAds
+
+Package: com.wkk.uitchook
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.uitchook_1.0-2_iphoneos-arm64.deb
+Size: 7564
+MD5sum: c16826dc54077feaacba1d232eda3a41
+SHA1: 320d5702874aa71a5416ec933b4bbc2d078e61e1
+SHA256: ed0f4a3dea2b3377ff0b9fe090bcbdae8025b0d020b9c5ed5a6921408d5f3713
+Section: Tweaks
+Description: 系统的弹窗美化/去掉分割线/点击外部关闭/需要注入自己喜欢的app（不要注入系统级app和springboard/UIKit）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Beautifulwindow
+
+Package: com.wkk.uitchook
+Version: 1.0-2
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.uitchook_1.0-2_iphoneos-arm64e.deb
+Size: 7456
+MD5sum: 2121a5f4b055dee1ed76e6fe4e5c8974
+SHA1: e79900790ac06bf6b7bc0c44445f283ae5845254
+SHA256: 1f67f931f674ed2615ab21a7cbd5d77f8ad9c83565dc86b1ce430765ecaa6b8f
+Section: Tweaks
+Description: 系统的弹窗美化/去掉分割线/点击外部关闭/需要注入自己喜欢的app（不要注入系统级app和springboard/UIKit）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Beautifulwindow
 
 Package: com.wkk.upsidedowned
 Version: 1.1-4
