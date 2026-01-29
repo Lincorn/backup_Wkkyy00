@@ -759,6 +759,80 @@ Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.
 Name: 微信助手
 Sponsor: admin@25mao.com
 
+Package: com.25mao.miyou.rootless
+Version: 3.9-0
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.25mao.miyou.rootless_3.9-0_iphoneos-arm64.deb
+Size: 5141476
+MD5sum: 42bc98aafc6c0cb5449ad6c283318ae2
+SHA1: 74839db30a4e9e81ddce8031b5de1c42407bccba
+SHA256: cfdc10c8691ce7bb667afc9b7c19b0f927f29168a45b0abf1e8d294650e7dfe4
+Section: 微信插件
+Priority: optional
+Description: 微信助手
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信助手
+Sponsor: admin@25mao.com
+
+Package: com.25mao.miyou.rootless
+Version: 3.9-0
+Architecture: iphoneos-arm64e
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.25mao.miyou.rootless_3.9-0_iphoneos-arm64e.deb
+Size: 13847880
+MD5sum: af8ee8da92d2aded41fc5f832ab917fe
+SHA1: 7b52eb96e66ff60e331f0d5d11865f9f2ce4d979
+SHA256: c151192ad4df16f08410db8bf2faddc3ba5de0f7d5ab0bbf643b4e7d202f6f19
+Section: 微信插件
+Priority: optional
+Description: 微信助手
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信助手
+Sponsor: admin@25mao.com
+
+Package: com.25mao.miyou.rootless
+Version: 3.9-1
+Architecture: iphoneos-arm64e
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.25mao.miyou.rootless_3.9-1_iphoneos-arm64e.deb
+Size: 14010812
+MD5sum: fdd07597cf859f05df603006e9bc1431
+SHA1: 3228d614e1613ee5790f38776bd5d31dc1943ccf
+SHA256: 2f02e4e69edd5391154ae2bc035bf7c5420a7db5fb918f970917693084c8bdd1
+Section: 微信插件
+Priority: optional
+Description: 微信助手
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信助手
+Sponsor: admin@25mao.com
+
+Package: com.25mao.miyou.rootless
+Version: 3.9-1
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.25mao.miyou.rootless_3.9-1_iphoneos-arm64.deb
+Size: 5188852
+MD5sum: 9a0db12513ca7027563743f405d36ad3
+SHA1: 7363f4a7aafaa517f37f33c229cd5f54f8f6da40
+SHA256: 6b2954fa9597d206afe59618e66e7b8f4fa66bb16667da2655a4dea6b866f590
+Section: 微信插件
+Priority: optional
+Description: 微信助手
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信助手
+Sponsor: admin@25mao.com
+
 Package: com.25mao.msgfilt
 Version: 1.0-5.1
 Architecture: iphoneos-arm64e
@@ -18483,6 +18557,41 @@ SHA256: 36f768f435782d27643ac6420fca417bb50c80721891abe7e067a0d0ef92298f
 Section: 去广告
 Description: 去开屏广告及部分豆腐块广告，测试版本：14.10.0
 Author: null
+Icon: https://s1.imagehub.cc/images/2025/02/06/f3716b4481651aefd6ce92c0debaba1b.png
+Name: 微博NoAds
+
+Package: com.wkk.weibohook
+Version: 1.2-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.weibohook_1.2-1_iphoneos-arm64e.deb
+Size: 7252
+MD5sum: c9c861c31b4208cf5dd6054103d6a3df
+SHA1: df5b4f188301e3cc46d23beff48690cc4d19fe2b
+SHA256: 84e6ab49252a649a54cd5c0e1e3877fb4ad220df4e292f4756e9d33ded34cc3e
+Section: 去广告
+Description: 去开屏广告及部分广告，版本：16.1.3，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/06/f3716b4481651aefd6ce92c0debaba1b.png
+Name: 微博NoAds
+
+Package: com.wkk.weibohook
+Version: 1.2-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.weibohook_1.2-1_iphoneos-arm64.deb
+Size: 5276
+MD5sum: 93ee31f235cca65a8926db3c21ce74b6
+SHA1: 4652fd0f6b9ad384f865ed53fea60bfba90fe682
+SHA256: c368c4dff66cedb3b5a01ea21b13cf75a64e21f5476476983faf071fd89fcad1
+Section: 去广告
+Description: 去开屏广告及部分广告，版本：16.1.3，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/06/f3716b4481651aefd6ce92c0debaba1b.png
 Name: 微博NoAds
 
