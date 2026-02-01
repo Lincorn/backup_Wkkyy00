@@ -8194,6 +8194,76 @@ Author: huami
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WCPulse
 
+Package: com.wkk.WCPulse
+Version: 1.4-1
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 1348
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.WCPulse_1.4-1_iphoneos-arm64e.deb
+Size: 1379718
+MD5sum: 4d076e5bee47c7b5a6671a99b1ec5cca
+SHA1: 5e2d5d90f364f49b6e7b62aaab83f5484e9b5f1c
+SHA256: 85e500ef84f9d2e314033f099a0bf7d43c53e069c7609046e002c600be7561fe
+Section: 微信插件
+Description: WCPulse
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCPulse
+
+Package: com.wkk.WCPulse
+Version: 1.4-1
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 1348
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.WCPulse_1.4-1_iphoneos-arm64.deb
+Size: 474104
+MD5sum: 303fff52498b75152fb78c1d7369edc3
+SHA1: 29fa6d0d0c3f1cee3f47a50da2cfe3a20d1b6880
+SHA256: 6ec258bdc42cba58bfe0b9a7232705c47d38b2f96cb4f89cb374b46aabd488e0
+Section: 微信插件
+Description: WCPulse
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCPulse
+
+Package: com.wkk.WCPulse
+Version: 1.4-2
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 1348
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.WCPulse_1.4-2_iphoneos-arm64e.deb
+Size: 1277352
+MD5sum: 59bf3ca3c457f31fa661a355ecbba206
+SHA1: f2b67840596bcb820263d4bd8e54e02791decc6c
+SHA256: 1167a5dbb3db3bd775e501fd73d01bc04edb4a5f0b1da246f4aa92ea0233119a
+Section: 微信插件
+Description: WCPulse
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCPulse
+
+Package: com.wkk.WCPulse
+Version: 1.4-2
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 1348
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.WCPulse_1.4-2_iphoneos-arm64.deb
+Size: 476792
+MD5sum: 80a85b9a985226f01cad31ecf2408e2b
+SHA1: 95956691afb5755ce9369540ae1e272ce3019281
+SHA256: 34eee28299baea507d3b8ae64be6c1723ff452e412b76f053a9b6f6e647da1fd
+Section: 微信插件
+Description: WCPulse
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCPulse
+
 Package: com.wkk.WCPush2Chat
 Version: 1.0-2
 Architecture: iphoneos-arm64e
@@ -14826,6 +14896,40 @@ Author: roothide
 Icon: https://s1.imagehub.cc/images/2025/12/31/3a85534fdc4b3d8769e4a369eac9dfce.jpeg
 Name: RootHide Manager
 
+Package: com.wkk.mediaserverdhook
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm64
+Maintainer: thefool
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.wkk.mediaserverdhook_0.0.1-1+debug_iphoneos-arm64.deb
+Size: 4412
+MD5sum: 01058b3b72209c71eae9acbbea57fde2
+SHA1: 21d9ac6d5d5cc1bf20ac08e9173489885377f94a
+SHA256: f8fb8d15d190e6ec8bf3ce2b859ba576589a74bf4a7f1f09c079c8c3bfdf9aa4
+Section: Tweaks
+Description: 解决某些情况下分屏调用不了相机的情况。
+Author: thefool
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: MediaServerdHook
+
+Package: com.wkk.mediaserverdhook
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm64e
+Maintainer: thefool
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.wkk.mediaserverdhook_0.0.1-2+debug_iphoneos-arm64e.deb
+Size: 4348
+MD5sum: 224ac56dfa32a8a47b21c9234583dfc0
+SHA1: fcf44f813fb657b3b2b68b2e29cd7c54dea33d71
+SHA256: c5aaf22d01d06ab9c3f5742b588503bd030a22bcfb01e69e78c01ccc6100c4cb
+Section: Tweaks
+Description: 解决某些情况下分屏调用不了相机的情况。
+Author: thefool
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: MediaServerdHook
+
 Package: com.wkk.megahook
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -17459,6 +17563,43 @@ Description: App Store 账户快速切换，优化了账号切换逻辑，已汉
 Author: 苏苏
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: StoreSwitcher2
+
+Package: com.wkk.stormsniffercrack
+Version: 1.1-4
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 1108
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.stormsniffercrack_1.1-4_iphoneos-arm64e.deb
+Size: 120166
+MD5sum: 554a55f2c86eb160e4dc439ee9c9f5d2
+SHA1: a4082b9399e3dd291cbcc85488710a23ebc26618
+SHA256: 1fd902c42b4f5a0e70a3f07141d790324e0bd524c3cb0b6483fe26194225441b
+Section: 去广告
+Description: Storm Sniffer是一款HTTP抓包工具。不用连接电脑就可以捕获并查看本机所有HTTP/HTTPS请求和响应，轻松调试应用程序的网络问题。
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2026/02/01/a08aab594ba950d01d0a413f29b3143f.png
+Name: StormSniffer Crack(Rootless)
+Sponsor: Nets
+
+Package: com.wkk.stormsniffercrack
+Version: 1.1-4
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 1108
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.stormsniffercrack_1.1-4_iphoneos-arm64.deb
+Size: 87160
+MD5sum: eecece9184c2b8eaf1f136ae1a24502f
+SHA1: e5a8bebad057bda617d9804d22e3aee190cbce66
+SHA256: f708025575be315a356c12576591e8d27822a07da4b46d467a0e5f42b5409bfd
+Section: 去广告
+Description: Storm Sniffer是一款HTTP抓包工具。不用连接电脑就可以捕获并查看本机所有HTTP/HTTPS请求和响应，轻松调试应用程序的网络问题。
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2026/02/01/a08aab594ba950d01d0a413f29b3143f.png
+Name: StormSniffer Crack(Rootless)
+Sponsor: Nets
 
 Package: com.wkk.stormsnifferhook
 Version: 1.0-1
