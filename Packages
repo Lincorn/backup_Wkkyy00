@@ -8299,6 +8299,41 @@ Author: huami
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WCPulse
 
+Package: com.wkk.WCPulse
+Version: 1.4-4
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 1348
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.WCPulse_1.4-4_iphoneos-arm64e.deb
+Size: 1504592
+MD5sum: 2300f35bde22b7e6ba6e7978f8c3ff33
+SHA1: 3201b5a4372cf2bbef3f3a32ec47d3dc2437fbad
+SHA256: df2d8764dc98357a18701911a1fd34a8a9ff0091200e98f587efdd48dc71c28c
+Section: 微信插件
+Description: WCPulse
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCPulse
+
+Package: com.wkk.WCPulse
+Version: 1.4-4
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 1348
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.WCPulse_1.4-4_iphoneos-arm64.deb
+Size: 514004
+MD5sum: 166b4237817f8b58dc0eef4e20b79e5f
+SHA1: 23824950f2ddc46ac218ce8a8ac1987c3dea5d94
+SHA256: a0695298017b7deb1038f49319149ad369823cb899e89977f6f7b30176737f7c
+Section: 微信插件
+Description: WCPulse
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCPulse
+
 Package: com.wkk.WCPush2Chat
 Version: 1.0-2
 Architecture: iphoneos-arm64e
@@ -13164,6 +13199,41 @@ Description: 去开屏和部分豆腐块广告，测试版本：16.8.6，接大�
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/06/40c726a175b0b0a82d1fbc1c0c309be8.png
 Name: 高德地图NoAds
+
+Package: com.wkk.gdhook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.gdhook_1.0-1_iphoneos-arm64e.deb
+Size: 4708
+MD5sum: 720a2fd50f33fbaa6e0a6946288c2a37
+SHA1: 737e4ed53ddfd4a9dfe3901798402aa43bf552d5
+SHA256: 5cbaecb7df57c60bcad820bbea2a1c4f9f4da565e3ca07be3b211eee441900bd
+Section: 去广告
+Description: 去一些烦人广告，版本：10.67.0，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/02/04/683c996628e7e22c1503734e51789478.png
+Name: 咕咚NoAds
+
+Package: com.wkk.gdhook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.gdhook_1.0-1_iphoneos-arm64.deb
+Size: 3216
+MD5sum: e6c66125539cc9f87b4d8be67bdf356d
+SHA1: 7396979c7ca067108176eba5739cfbe87e75af00
+SHA256: a521dee9975a774ad0a6f3eda29e5b83a6073d23c1250265be914645d9c57c26
+Section: 去广告
+Description: 去一些烦人广告，版本：10.67.0，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/02/04/683c996628e7e22c1503734e51789478.png
+Name: 咕咚NoAds
 
 Package: com.wkk.gif
 Version: 1.0
