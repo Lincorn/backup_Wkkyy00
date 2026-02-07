@@ -8353,6 +8353,41 @@ Author: huami
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WCPulse
 
+Package: com.wkk.WCPulse
+Version: 1.4-5
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 1348
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.WCPulse_1.4-5_iphoneos-arm64e.deb
+Size: 4147166
+MD5sum: aeb5db6ee071dd466f3fafaf0461541a
+SHA1: 018cb0bfa215b5904e2e49c503b7f6a971d8f0d3
+SHA256: 19171f59a492249654536ec1604f3f1c289d466265b47b57e64f5bb9301c1403
+Section: 微信插件
+Description: WCPulse
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCPulse
+
+Package: com.wkk.WCPulse
+Version: 1.4-5
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 1348
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.WCPulse_1.4-5_iphoneos-arm64.deb
+Size: 1296900
+MD5sum: 0ba297fe7b1382208692c4d28ff7861c
+SHA1: 2cb69b9b1e4cc4785568b905ce18b5b702f7b9e2
+SHA256: 4561ec877b1c40613f0c5a9a6a499c18ff17ada45bd8495a24fc222b8a2f82dd
+Section: 微信插件
+Description: WCPulse
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCPulse
+
 Package: com.wkk.WCPush2Chat
 Version: 1.0-2
 Architecture: iphoneos-arm64e
@@ -14326,6 +14361,41 @@ Author: huami
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: KBStyle
 
+Package: com.wkk.kdjzhook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.kdjzhook_1.0-1_iphoneos-arm64.deb
+Size: 2964
+MD5sum: 34d8c8e0dedcae95a0a4bf7effb90984
+SHA1: 1128af1dee113f31468aa18a2b1a49ddbac7689f
+SHA256: 3ab3ac4c32473a6ea2019ea8cab1cba9bcd626ef6d0a76e87630de63e308ef57
+Section: 去广告
+Description: 去广告，版本：4.4.8
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/02/07/dacca7f3b761a15a509e6ea110815a1b.png
+Name: 口袋记账NoAds
+
+Package: com.wkk.kdjzhook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.kdjzhook_1.0-1_iphoneos-arm64e.deb
+Size: 4192
+MD5sum: 09c9d9a6078bf749b57228d3a9d05cfa
+SHA1: a6885e4a917c5f8a8a720cf481e3634f29133b93
+SHA256: 2b81d2f93aefe931e747d8e3f56fa241bb170873d132f3d0aab4f073f658092e
+Section: 去广告
+Description: 去广告，版本：4.4.8
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/02/07/dacca7f3b761a15a509e6ea110815a1b.png
+Name: 口袋记账NoAds
+
 Package: com.wkk.keyboardhook
 Version: 2.1-3
 Architecture: iphoneos-arm64e
@@ -14620,6 +14690,41 @@ Author: CydiaGeek
 Icon: https://sini921.github.io/repo/sileodepiction/icon/lazy.png
 Name: LazyCursor
 Sponsor: thebigboss
+
+Package: com.wkk.lcchook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.lcchook_1.0-1_iphoneos-arm64.deb
+Size: 3612
+MD5sum: 16b03f7427e95ff6b3c4f85695ac9bb7
+SHA1: 17be8be6e7aa2843c1e537eb13bfecc0e0c04753
+SHA256: ac63f5f2c4b074f2b8953055787c4f11153a14e06efe13c64c8b568c3921f0e1
+Section: 去广告
+Description: 去广告，版本：2.7.6。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/02/07/deb07211e423233c113291eb7817851d.png
+Name: 驴充充NoAds
+
+Package: com.wkk.lcchook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.lcchook_1.0-1_iphoneos-arm64e.deb
+Size: 4962
+MD5sum: 3c5f7c68c4a27bc7980956ee157314fd
+SHA1: d61f5e07af9ae2d394ad92698463e1bedf70dd3c
+SHA256: 4060a871b0eec44ad456fb5625711dd9bf99e589bb8a3368450da3f694092351
+Section: 去广告
+Description: 去广告，版本：2.7.6。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/02/07/deb07211e423233c113291eb7817851d.png
+Name: 驴充充NoAds
 
 Package: com.wkk.lecard
 Version: 0.1
@@ -15019,6 +15124,41 @@ Description: 去掉挂载提示。
 Author: roothide
 Icon: https://s1.imagehub.cc/images/2025/12/31/3a85534fdc4b3d8769e4a369eac9dfce.jpeg
 Name: RootHide Manager
+
+Package: com.wkk.mddhook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.mddhook_1.0-1_iphoneos-arm64e.deb
+Size: 5304
+MD5sum: f46c5141d8c60479823e2a4e49147097
+SHA1: f556716290349dbecc0eb5a414b9d32bbadf36c0
+SHA256: 65137605cd2b7b4595113718f5fab370b7fb417bfa4998e6e1d9871d5f10c869
+Section: 去广告
+Description: 去一堆广告，版本：5.8.01
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/02/07/af66f22f4445e2ba08d15a73e66bafc9.png
+Name: 埋堆堆NoAds
+
+Package: com.wkk.mddhook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.mddhook_1.0-1_iphoneos-arm64.deb
+Size: 3844
+MD5sum: fe4e10287ba085dd553bff93d1dc786e
+SHA1: 9090d55d48825ec725ef780b9b13a88ae1499ad8
+SHA256: c6dc602fbba6ba67a7e94678f06f43e4a84ad77516d02c53d028869d12ac81d1
+Section: 去广告
+Description: 去一堆广告，版本：5.8.01
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/02/07/af66f22f4445e2ba08d15a73e66bafc9.png
+Name: 埋堆堆NoAds
 
 Package: com.wkk.mediaserverdhook
 Version: 0.0.1-1+debug
@@ -17829,6 +17969,40 @@ Description: ios15-16键盘震动的终极调整，敲击键盘或候选词都�
 Author: P2KDev <p2kdev@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/01/22/da95cacf3e9dbdaec0311e6a00989e86.png
 Name: TapticBoard
+
+Package: com.wkk.tbhook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.tbhook_1.0-1_iphoneos-arm64e.deb
+Size: 6708
+MD5sum: 52d81a821cda84ff6e893e09415c7960
+SHA1: dbda009aeca891545b1cac8bd1ad7c71d9f6c5f6
+SHA256: 5005b6d0146a8f8cca56807f73e7f8786f78166b08aa8c62a5afe7c4ee9f47ce
+Section: 美化
+Description: ...
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: sileo悬浮底栏
+
+Package: com.wkk.tbhook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.tbhook_1.0-1_iphoneos-arm64.deb
+Size: 6764
+MD5sum: 870cc90ce680a52f678f127325c07e44
+SHA1: 841803f2864abaf94900974fe5063b5b5f5c72da
+SHA256: 4ef553f1acff2600a368edeb4eed30cfec25697c891c0c669bfa35d1e6ebdb4b
+Section: 美化
+Description: ...
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: sileo悬浮底栏
 
 Package: com.wkk.teleport
 Version: 1.1
