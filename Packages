@@ -5578,6 +5578,39 @@ Author: Curtin
 Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
 Name: PKC
 
+Package: com.curtin.pkc
+Version: 0.8-9
+Architecture: iphoneos-arm64
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.curtin.pkc_0.8-9_iphoneos-arm64.deb
+Size: 955500
+MD5sum: ea383b417ae17371561a4d2fd42a53b5
+SHA1: 78f66a59f7b9d52c89b31b9244be9efda4a3e54f
+SHA256: 8d10e21d3d2d7b9621b1d80e3705e5b615aeb4e1c81f3d1f745c728c20ace18c
+Section: 微信插件
+Priority: optional
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等。
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+Name: PKC
+
+Package: com.curtin.pkc
+Version: 0.8-9
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.curtin.pkc_0.8-9_iphoneos-arm64e.deb
+Size: 2655244
+MD5sum: c0c8c682e4bbe39c7c403f407dc72c9b
+SHA1: fe124ab8caf325e4f27ba0edbd94a81792c9d320
+SHA256: c68ea1753f463184345bb33d3952bc4275c44eb5a847d70e669ab2c03be8c3da
+Section: 微信插件
+Priority: optional
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等。
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+Name: PKC
+
 Package: com.cydiageek.morelinesnotifications
 Version: 1.0.4-1
 Architecture: iphoneos-arm64
@@ -7827,6 +7860,40 @@ Icon: https://s1.imagehub.cc/images/2025/03/06/a39704438b10be358870f50e0fae8320.
 Name: App Store美化
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/App%20Store.json
 
+Package: com.wkk.ChoicyConfigPin
+Version: 1.0-2
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.choicy, com.opa334.altlist
+Filename: ./debs/com.wkk.ChoicyConfigPin_1.0-2_iphoneos-arm64e.deb
+Size: 5948
+MD5sum: 167a777a0fec0d47b817e4a4886f305e
+SHA1: 1f1b59c184c77b7cf3e4cef4de5fcf491892b4e0
+SHA256: 4325caaab7ce697ef143abc6eab161688b1080f0b1e219dd813bc88d52870c9b
+Section: Tweaks
+Description: 在下次打开Choicy时将已调整的 App/Process置顶到Section最顶部（本来想重新编译个Choicy最后想想还是直接hook方便）
+Author: huami
+Icon: https://s1.imagehub.cc/images/2026/02/08/1238dc10ad390a948b0c6ac8c669c698.png
+Name: ChoicyConfigPin
+
+Package: com.wkk.ChoicyConfigPin
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.choicy, com.opa334.altlist
+Filename: ./debs/com.wkk.ChoicyConfigPin_1.0-2_iphoneos-arm64.deb
+Size: 7000
+MD5sum: 9ec7a32367e4607ccfd83c465f5d8ef9
+SHA1: 466d8a2f2fee702e0fd1d30d93152670f6cd86e0
+SHA256: c1ab5b6513ab857a8d14fa0f64b096a5c5b9b1dabf9f61946e641ef221cd9e41
+Section: Tweaks
+Description: 在下次打开Choicy时将已调整的 App/Process置顶到Section最顶部（本来想重新编译个Choicy最后想想还是直接hook方便）
+Author: huami
+Icon: https://s1.imagehub.cc/images/2026/02/08/1238dc10ad390a948b0c6ac8c669c698.png
+Name: ChoicyConfigPin
+
 Package: com.wkk.Desa
 Version: 1.0-1
 Architecture: iphoneos-arm64
@@ -9586,142 +9653,37 @@ Icon: https://s1.imagehub.cc/images/2025/03/08/0364f8251947561dd09612ea1ee9a016.
 Name: 拨号键盘美化
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/bohaojp.json
 
-Package: com.wkk.bilibiliTweak
-Version: 1.1.2
-Architecture: iphoneos-arm64
-Maintainer: TouchWorld
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.wkk.bilibiliTweak_1.1.2_iphoneos-arm64.deb
-Size: 119236
-MD5sum: ba9d18239fa07b794823ee0ba997aa57
-SHA1: 8d6d6a6a62efc627d74236ea6d99d7f99ee69377
-SHA256: d673aeddaae98746661f226e6f0ad6b9d3535ced38cec5375e3ebf39a39d63f1
-Section: 去广告
-Priority: optional
-Description: 去除哔哩哔哩广告以及开启三倍速，建议使用TrollFools注入，适配版本8.76.0，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
-Author: TouchWorld
-Icon: https://touchfriend.github.io/depictions/com.touchWorld.bilibiliTweak/icon.png
-Name: BilibiliTweak
-
-Package: com.wkk.bilibiliTweak
-Version: 1.1.2
-Architecture: iphoneos-arm64e
-Maintainer: TouchWorld
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.wkk.bilibiliTweak_1.1.2_iphoneos-arm64e.deb
-Size: 161278
-MD5sum: a956ceaae4999c153c1a2215c577185f
-SHA1: 61768bbd918d286bccb1884851e8cea598c5e915
-SHA256: 067b7ad7d60257d313d86673147651c00a3da23d07629ae5741f7c4876b2c888
-Section: 去广告
-Priority: optional
-Description: 去除哔哩哔哩广告以及开启三倍速，建议使用TrollFools注入，适配版本8.76.0，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
-Author: TouchWorld
-Icon: https://touchfriend.github.io/depictions/com.touchWorld.bilibiliTweak/icon.png
-Name: BilibiliTweak
-
-Package: com.wkk.bilibiliTweak
-Version: 2.0.0
-Architecture: iphoneos-arm64
-Maintainer: TouchWorld
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.wkk.bilibiliTweak_2.0.0_iphoneos-arm64.deb
-Size: 150040
-MD5sum: 20a471d1cc3b2faaa93f065f2b4b2a2e
-SHA1: b8273d2e73813307ec5a32de719e76554eb68615
-SHA256: 6797362cb195c795e5bd756afb3f24514ac8d65769a9b88da70407e720b397ad
-Section: 去广告
-Priority: optional
-Description: 去除哔哩哔哩广告以及开启三倍速以及精简部分项目，建议使用TrollFools注入，适配版本8.76.0，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
-Author: TouchWorld
-Icon: https://touchfriend.github.io/depictions/com.touchWorld.bilibiliTweak/icon.png
-Name: 哔哩哔哩Tweak
-
-Package: com.wkk.bilibiliTweak
-Version: 2.0.0
-Architecture: iphoneos-arm64e
-Maintainer: TouchWorld
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.wkk.bilibiliTweak_2.0.0_iphoneos-arm64e.deb
-Size: 196246
-MD5sum: 86c8b16c9a2fdf97cd8fe043a217dceb
-SHA1: d52fa93561b30d37619d31da630d2006c3eeb7b3
-SHA256: 4e399e88da342023ba20315164fdb4076a2a35a6edbb97dc38ed2a41e836d7bb
-Section: 去广告
-Priority: optional
-Description: 去除哔哩哔哩广告以及开启三倍速以及精简部分项目，建议使用TrollFools注入，适配版本8.76.0，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
-Author: TouchWorld
-Icon: https://touchfriend.github.io/depictions/com.touchWorld.bilibiliTweak/icon.png
-Name: 哔哩哔哩Tweak
-
-Package: com.wkk.bilibilihook
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: girl
-Installed-Size: 400
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.bilibilihook_1.0_iphoneos-arm64.deb
-Size: 15904
-MD5sum: 8facc1c301bda2d1d9f9a7fe07e05b11
-SHA1: 1f84c4996ab07de171eae4685a6f347a97915abc
-SHA256: e519af0ff3124520f9f2bf75c15cae8e8b76d1281188e25e6fa5b29b5528baf8
-Section: 去广告
-Description: 去开屏广告，精简一系列杂项。测试版本：8.23.0
-Author: girl
-Icon: https://s1.imagehub.cc/images/2025/02/06/cea2bc13ac917a2091530fd0d45e5a92.png
-Name: 哔哩哔哩
-
-Package: com.wkk.bilibilihook
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: girl
-Installed-Size: 400
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.bilibilihook_1.0_iphoneos-arm64e.deb
-Size: 21342
-MD5sum: 18ca1e3b2c119569d210348c9740080e
-SHA1: 7aa2ac2db55b873b200dbe9a7c5976338777ef2f
-SHA256: 91f2d700e38f17114b1066c7389619ba40d80e667d40783b45b6bb5e9ffafa7f
-Section: 去广告
-Description: 去开屏广告，精简一系列杂项。测试版本：8.23.0
-Author: girl
-Icon: https://s1.imagehub.cc/images/2025/02/06/cea2bc13ac917a2091530fd0d45e5a92.png
-Name: 哔哩哔哩
-
 Package: com.wkk.blblhook
-Version: 1.0
-Architecture: iphoneos-arm64e
+Version: 1.0-8
+Architecture: iphoneos-arm64
 Maintainer: wkk
 Installed-Size: 168
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.blblhook_1.0_iphoneos-arm64e.deb
-Size: 6002
-MD5sum: c1660b96d3831e4cf14fd139853d5d7e
-SHA1: 9addd43e8715464f2cf68bc43ec7e36259063b58
-SHA256: 8a3d7f1cf971711b227e0069b93d3c4746089b078f7f6e5b4165b73be692b4d0
+Filename: ./debs/com.wkk.blblhook_1.0-8_iphoneos-arm64.deb
+Size: 3988
+MD5sum: accfb1b4e5afd272f28ef06f0ae6a11c
+SHA1: b9d77710241f3b587f905ace5d62208348ab135b
+SHA256: 3a71ccc7691c1831d4bbec3c63fce8fc0b911d153f2484cb5286a013e8f625d9
 Section: 去广告
-Description: 去开屏以及内嵌广告，版本：8.70.0。接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Description: 去开屏以及内嵌/格子/评论上方广告，版本：8.82.0。接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/06/cea2bc13ac917a2091530fd0d45e5a92.png
 Name: 哔哩哔哩NoAds
 
 Package: com.wkk.blblhook
-Version: 1.0
-Architecture: iphoneos-arm64
+Version: 1.0-8
+Architecture: iphoneos-arm64e
 Maintainer: wkk
 Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.blblhook_1.0_iphoneos-arm64.deb
-Size: 4328
-MD5sum: 81a38ec6216d87c1e3eaa628b1e7d031
-SHA1: 79d607e667195b9db9c4f5820a1498a0716d4b5c
-SHA256: edeb246b4c6e058fddcd0ab62e22642568d7029db147af4b83d26f655cf6dff6
+Filename: ./debs/com.wkk.blblhook_1.0-8_iphoneos-arm64e.deb
+Size: 5592
+MD5sum: a6b8b70471396291593aebc9b5052bc3
+SHA1: e9a8068493187b14279571e251e59d887532dc46
+SHA256: 7efe32f8f696338fd95e55bd39834c0998263a581a098d3806eb5212ac0b76e0
 Section: 去广告
-Description: 去开屏以及内嵌广告，版本：8.70.0。接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Description: 去开屏以及内嵌/格子/评论上方广告，版本：8.82.0。接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/06/cea2bc13ac917a2091530fd0d45e5a92.png
 Name: 哔哩哔哩NoAds
@@ -12780,6 +12742,46 @@ Description: 仅支持iOS16的最好用的悬浮Dock，已汉化。
 Author: Ethan Whited
 Icon: https://s1.imagehub.cc/images/2025/12/31/c000ad65b1c4893e99b9813d3108fc73.png
 Name: FloatingDockXVI
+
+Package: com.wkk.floatingviewhelper
+Version: 0.0.1-2
+Architecture: iphoneos-arm64e
+Maintainer: SINI
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.floatingviewhelper_0.0.1-2_iphoneos-arm64e.deb
+Size: 5728
+MD5sum: 87f2b13c168a153abded1826c6d8ba8d
+SHA1: a56071cc4a592db373c042224cd4460d7c42bb98
+SHA256: 54ceb2bbc93910816fa824af465383921ae05442d944b3581f509db12dfb35ac
+Section: Tweaks
+Description: * 无根: /var/jb/var/mobile/Library/FloatingViewInfo/
+  * 隐根:[jbroot]/var/mobile/Library/FloatingViewInfo/
+  * 命名规则：与FV设置界面arc工具栏排序界面的名字为准。
+  * 示例：打开三屏、浮窗.png、搜索应用.png
+Author: SINI
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+Name: FloatingView-Helper
+
+Package: com.wkk.floatingviewhelper
+Version: 0.0.1-2
+Architecture: iphoneos-arm64
+Maintainer: SINI
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.floatingviewhelper_0.0.1-2_iphoneos-arm64.deb
+Size: 6872
+MD5sum: 88899fc7bba808292a00262aae7b4a79
+SHA1: cd0417f010aaf3758513291c4d7a17cf040fc849
+SHA256: 1e2dd30c2179d3ee48f726323ec54665151d7271520b20f644c9f44a6e008c46
+Section: Tweaks
+Description: * 无根: /var/jb/var/mobile/Library/FloatingViewInfo/
+  * 隐根:[jbroot]/var/mobile/Library/FloatingViewInfo/
+  * 命名规则：与FV设置界面arc工具栏排序界面的名字为准。
+  * 示例：打开三屏、浮窗.png、搜索应用.png
+Author: SINI
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+Name: FloatingView-Helper
 
 Package: com.wkk.folder4
 Version: 1.2-7
