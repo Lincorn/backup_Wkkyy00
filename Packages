@@ -8670,6 +8670,43 @@ Dev: 君临
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WCRefine
 
+Package: com.wkk.WCRefine
+Version: 1.2-6
+Architecture: iphoneos-arm64
+Maintainer: 热心网友
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.wkk.WCRefine_1.2-6_iphoneos-arm64.deb
+Size: 1843564
+MD5sum: 95b70f4a194306a9a25299d26d9bdbf7
+SHA1: fab2cb14d029a644af8d1e09cc899702ce9655ac
+SHA256: 08ea981f2b76f942eddae801be91dc1af8156b60366fb4ba7c14d6fe97ada0d3
+Section: 微信插件
+Priority: optional
+Description: 微信优化的重制版本，WCRefine基于微信8.0.64+版本制作。
+Author: 热心网友
+Dev: 君临
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCRefine
+
+Package: com.wkk.WCRefine
+Version: 1.2-6
+Architecture: iphoneos-arm64e
+Maintainer: 热心网友
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.wkk.WCRefine_1.2-6_iphoneos-arm64e.deb
+Size: 5082470
+MD5sum: 6628c87bd13a3755cfacebbe7474da60
+SHA1: b788bdb94e6a784b35ab3f9c8f0ff93088cc5d79
+SHA256: 740caaf47aff2c002fec1095f17c500de79f6c15cbccfe67e23c2f3ef5c5c822
+Section: 微信插件
+Priority: optional
+Description: 微信优化的重制版本，WCRefine基于微信8.0.64+版本制作。
+Author: 热心网友
+Dev: 君临
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCRefine
+
 Package: com.wkk.WCSafeMode
 Version: 1.0-1
 Architecture: iphoneos-arm64e
@@ -8808,6 +8845,41 @@ Tag: cydia::commercial
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: AAAAAA插件配置说明（必看）
+
+Package: com.wkk.aaaaaaaaaaa
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo
+Filename: ./debs/com.wkk.aaaaaaaaaaa_1.0-1_iphoneos-arm64.deb
+Size: 1228
+MD5sum: 4a0c3e525d4235f694130948673e69dc
+SHA1: c9f10b8204407561895ec8c69a777f156d55be9c
+SHA256: 780847b8bfaf2d96861d638f5d81e327d008196adda896b3744745ae79eb4eee
+Section: 去广告
+Description: 所有去广告插件建议用debd或者Debs扒下来用TrollFools注入并且停留当前版本（app升级臃肿且会影响手机越来越卡，这个是不争的事实）但是去广告插件依然会随app更新而更新，更新时会保留低版本的广告函数，所以新老版本都生效，另外再教一招：有些app没有框架或者不再支持注入（如美团外卖，新版本小红书）在TrollFools搜索不显示/不可注入，这时用AppsDump3砸壳安装就可以注入插件了。
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: AAAAAA去广告说明（必看）
+
+Package: com.wkk.aaaaaaaaaaa
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo
+Filename: ./debs/com.wkk.aaaaaaaaaaa_1.0-1_iphoneos-arm64e.deb
+Size: 2042
+MD5sum: f641bdc422a0124dfa3260efaebf22ab
+SHA1: df28722ace439539dd7441f06b156453ec877bc1
+SHA256: c75aa54c413208da59c0dbf3e85d12cdb019529c3751055e8df0812600075014
+Section: 去广告
+Description: 所有去广告插件建议用debd或者Debs扒下来用TrollFools注入并且停留当前版本（app升级臃肿且会影响手机越来越卡，这个是不争的事实）但是去广告插件依然会随app更新而更新，更新时会保留低版本的广告函数，所以新老版本都生效，另外再教一招：有些app没有框架或者不再支持注入（如美团外卖，新版本小红书）在TrollFools搜索不显示/不可注入，这时用AppsDump3砸壳安装就可以注入插件了。
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: AAAAAA去广告说明（必看）
 
 Package: com.wkk.actionbarreborn
 Version: 1.0-1
@@ -18894,6 +18966,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/06/dde5946f39d42917d28148d8f1a07901.png
 Name: 腾讯视频NoAds
 
+Package: com.wkk.txsphook
+Version: 1.2-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.txsphook_1.2-1_iphoneos-arm64e.deb
+Size: 7262
+MD5sum: b17e3f0da824b0a255c9a8b7829a19ee
+SHA1: 45d9e96e020906bd35a3e9d367bed596a7befe73
+SHA256: 9e5908994297519ddead656ad93064e3942cbb2a8367cfed034c256c5c1e18de
+Section: 去广告
+Description: 去开屏广告/首页横幅广告/首页信息流广告/首页下拉广告/暂停广告/播放中广告/视频启动广告/视频播放页面下方插播广告/我的页面广告/版本：9.03.11，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/02/12/c74f8e9014b397f813069c488591aca5.jpeg
+Name: 腾讯视频NoAds
+
+Package: com.wkk.txsphook
+Version: 1.2-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.txsphook_1.2-1_iphoneos-arm64.deb
+Size: 5184
+MD5sum: 61fcf92d1de6f08f498fe39f1a14c7d7
+SHA1: 000996b1b56fa9c2744bf37c3c77c915cb8dec4f
+SHA256: e224bcc45733e804ba57d04c3b01188e507abd4b9f4baa0a938dafc4da3cd1bb
+Section: 去广告
+Description: 去开屏广告/首页横幅广告/首页信息流广告/首页下拉广告/暂停广告/播放中广告/视频启动广告/视频播放页面下方插播广告/我的页面广告/版本：9.03.11，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/02/12/c74f8e9014b397f813069c488591aca5.jpeg
+Name: 腾讯视频NoAds
+
 Package: com.wkk.txtyhook
 Version: 1.0-1
 Architecture: iphoneos-arm64
@@ -19069,6 +19176,40 @@ Description: Dock扩展插件，已汉化。
 Author: uz.ra
 Icon: https://s1.imagehub.cc/images/2026/01/02/88b0ad22bd8a4810cfca6f7d3ffeaabf.png
 Name: Verxina
+
+Package: com.wkk.volumeflex
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Joshua Wheeler
+Installed-Size: 4328
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debs/com.wkk.volumeflex_1.1_iphoneos-arm64.deb
+Size: 830488
+MD5sum: b552625491b8811a587c1eb3fe61f743
+SHA1: 6dbf1a04939dc99aa41305d327ab49d3f2850633
+SHA256: a25f362199186a6e3294a81e5ab20682eb551fcc38f3f5eb5d811a4be3eafcae
+Section: Tweaks
+Description: 世界不需要另一个FLEX装载机，但手指胖的人需要。
+Author: Joshua Wheeler
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: VolumeFLEX
+
+Package: com.wkk.volumeflex
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: Joshua Wheeler
+Installed-Size: 4328
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debs/com.wkk.volumeflex_1.1_iphoneos-arm64e.deb
+Size: 826340
+MD5sum: ac19ed3d9700d4e7d1d85b4eb78c1185
+SHA1: 53a49ea179afd44ade152c7ca6d5ae09bf904c02
+SHA256: f3777fdf2dfd56a53275aa367b269f3d952e1d7d83aa571b2915bd9362ce9e6f
+Section: Tweaks
+Description: 世界不需要另一个FLEX装载机，但手指胖的人需要。
+Author: Joshua Wheeler
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: VolumeFLEX
 
 Package: com.wkk.wc3133
 Version: 1.0-2
@@ -19649,6 +19790,23 @@ Description: 中文输入法语音转文字免跳转插件。无设置选项，�
 Author: Lessica
 Icon: https://s1.imagehub.cc/images/2025/12/26/f6e5793d6cf9b9e667f56142f4b87e9b.png
 Name: 语音转文字免跳转
+
+Package: com.wkk.wxkbhook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.wxkbhook_1.0-1_iphoneos-arm64e.deb
+Size: 4068
+MD5sum: e0ff7f6f8c8658cfa9a76bf1ec6ae99e
+SHA1: 450c5404efa02488b479a2d597c22c9b998ff770
+SHA256: fa080b9e60ec84ac2854b1f0bb1dbaffad3d537620952973f0bbc418d13b5922
+Section: Tweaks
+Description: 马泽鑫专属~
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/02/01/48e983d1701766cc8c84c7edf962c359.png
+Name: 微信输入法圆角/隐藏logo
 
 Package: com.wkk.wxkeyhook
 Version: 1.0-1
