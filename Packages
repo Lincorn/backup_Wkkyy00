@@ -5611,6 +5611,39 @@ Author: Curtin
 Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
 Name: PKC
 
+Package: com.curtin.pkc
+Version: 0.9-0
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.curtin.pkc_0.9-0_iphoneos-arm64e.deb
+Size: 2676198
+MD5sum: 263aa7156351f75e4598b68f017406ee
+SHA1: 11be8e56636bdce423ac1608303d90ffc4a583ee
+SHA256: 32ef4005084fe69791b0bf39744c62a5945307aa0ece3f96c5c7f2e8c8d5a2cd
+Section: 微信插件
+Priority: optional
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等。
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+Name: PKC
+
+Package: com.curtin.pkc
+Version: 0.9-0
+Architecture: iphoneos-arm64
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.curtin.pkc_0.9-0_iphoneos-arm64.deb
+Size: 965544
+MD5sum: 01a504021628ef1ace41de6df385ebee
+SHA1: f652d9b5c27c81d1883c2ead1d0589ec0528861c
+SHA256: d83a853ae488cd6519171dcd30c42d7481998c5fdd4dd67ee2878399b7bac5ab
+Section: 微信插件
+Priority: optional
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等。
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+Name: PKC
+
 Package: com.cydiageek.morelinesnotifications
 Version: 1.0.4-1
 Architecture: iphoneos-arm64
@@ -9611,6 +9644,41 @@ Description: 去开屏广告，测试版本：13.16.5，接大量冷门热门app
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/06/8fe27ae9d1c543174ee1cce270093e9d.png
 Name: 百度网盘NoAds
+
+Package: com.wkk.bbshook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.bbshook_1.0-1_iphoneos-arm64.deb
+Size: 3200
+MD5sum: a553afd2b834a16eb16e2ad77e593f83
+SHA1: 8ae1892f158712d8030c2188638fc7382a147b0b
+SHA256: afa3ae4869ea314f37bab9362382e8492a0207b05c59d465fb0ae49b65fc048e
+Section: 去广告
+Description: 去开屏广告，版本：10.9.0
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/02/14/7113e924268cdef62f524afbbc20e217.png
+Name: 宝宝树孕育NoAds
+
+Package: com.wkk.bbshook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.bbshook_1.0-1_iphoneos-arm64e.deb
+Size: 4466
+MD5sum: 13e76967621bbd861ff447f7fedabae2
+SHA1: a5713a2eeff98488b7cc00691d974777dc5da35e
+SHA256: 70e4a46b79b15df904f3f9f3d177bd05178a14021bd3147346441b7b3dc84790
+Section: 去广告
+Description: 去开屏广告，版本：10.9.0
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/02/14/7113e924268cdef62f524afbbc20e217.png
+Name: 宝宝树孕育NoAds
 
 Package: com.wkk.bddthook
 Version: 1.0-1
@@ -18112,6 +18180,91 @@ Icon: https://nahtedetihw.github.io/assets/com.nahtedetihw.stepup-rootless/icon.
 Name: StepUp
 Tags: compatible_min::ios13.0, compatible_max::ios16.4
 
+Package: com.wkk.stheno
+Version: 0-end
+Architecture: iphoneos-arm64e
+Maintainer: Crassna
+Installed-Size: 2788
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 16.1)
+Filename: ./debs/com.wkk.stheno_0-end_iphoneos-arm64e.deb
+Size: 528524
+MD5sum: 168ec9a943ef19eb430435d392136c42
+SHA1: f92363e0aa131c369c43afb105a0e180b8d312ba
+SHA256: 08a7aa975b4eb307921585632b50dedd631bb16f71d8d02683a7902970f60911
+Section: Tweaks
+Description: 备份。
+Author: Crassna
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Stheno最终版
+
+Package: com.wkk.stheno
+Version: 0-end
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 2788
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 16.1)
+Filename: ./debs/com.wkk.stheno_0-end_iphoneos-arm64.deb
+Size: 530300
+MD5sum: e1415f4ea9e856307d5195dfd60d2bf2
+SHA1: 13cafaac8f39bd679f1dcb4a104e4c48b1e23a60
+SHA256: 12d89d519623230717273a46fd6b71d881375de47d37776f8fa3afef41b17591
+Section: Tweaks
+Description: 备份。
+Author: Crassna
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Stheno最终版
+
+Package: com.wkk.sthenobai
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: Crassna
+Installed-Size: 1912
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 16.1)
+Filename: ./debs/com.wkk.sthenobai_1.0-1_iphoneos-arm64e.deb
+Size: 352420
+MD5sum: 1aa560795ec78f9463ff66e2c558eb88
+SHA1: 100fbae0097ff5d00ee274dbce235c5683aac5e9
+SHA256: 01050ff473c4a00dc68e5b1c349cfd6a9ca690854e123d44fcc467d3db1c79f3
+Section: Tweaks
+Description: 备份。
+Author: Crassna
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Stheno白色奥利奥
+
+Package: com.wkk.sthenohei
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 1912
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 16.1)
+Filename: ./debs/com.wkk.sthenohei_1.0-1_iphoneos-arm64.deb
+Size: 363060
+MD5sum: 69f4524ce6a9fb03ddc37afc46696937
+SHA1: 770abd895c8541cce06d963698230a6be4614ee5
+SHA256: 344417344f3f16f634ffcfb8329fd47bc4298271406f790f497f3ead170f05cb
+Section: Tweaks
+Description: 备份。
+Author: Crassna
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Stheno黑色奥利奥
+
+Package: com.wkk.sthenohei
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: Crassna
+Installed-Size: 1912
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 16.1)
+Filename: ./debs/com.wkk.sthenohei_1.0-1_iphoneos-arm64e.deb
+Size: 359936
+MD5sum: 2c3d21cdc57925a1dbba8e42ae09bf96
+SHA1: f71f3581084b56d87774d4ead16cdd6ee8e869a6
+SHA256: 6056e4e8aa032f10972b993a18da9b782368694348757f3a6d6091e2292d96bc
+Section: Tweaks
+Description: 备份。
+Author: Crassna
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Stheno黑色奥利奥
+
 Package: com.wkk.storeswitcher2
 Version: 1.0.5
 Architecture: iphoneos-arm64e
@@ -21760,6 +21913,22 @@ Description: 隐藏状态栏一切vpn展示。
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/27/b15bc0d82eb3578fcc1afab7a9d2b991.png
 Name: HideVPN
+
+Package: dopamine-basebin-link
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: opa334 <opa334@protonmail.com>
+Provides: opainject
+Filename: ./debs/dopamine-basebin-link_1.0_iphoneos-arm64.deb
+Size: 1096
+MD5sum: 1952c0b1bdc1e6f81d470886b41a5371
+SHA1: b1492512ce128a8021c36f07366c07e6dd284394
+SHA256: 9933d556db35ed65bbd6ab6264f1822cadf14fdbcd1cae739e874d6da1be0b21
+Section: Tweaks
+Priority: standard
+Description: 解决无根越狱某些情况下（使用一键挂载脚本）缺失一些运行库的问题（毕竟opa334不开放挂载）
+Author: opa334 <opa334@protonmail.com>
+Name: Dopamine BaseBin Link
 
 Package: kr.xsf1re.vnodebypass
 Version: 0.4.3
