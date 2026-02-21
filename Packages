@@ -8840,6 +8840,43 @@ Dev: 君临
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WCRefine
 
+Package: com.wkk.WCRefine
+Version: 1.2-7
+Architecture: iphoneos-arm64e
+Maintainer: 热心网友
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.wkk.WCRefine_1.2-7_iphoneos-arm64e.deb
+Size: 5130006
+MD5sum: 3fcd866580a5db5b9c1d7873fe064d3c
+SHA1: 7637722f537aba46b44be1643ddc880d58cc430d
+SHA256: 019deef7b4dcaa9b4d470e1e8f87c0b25cbce34196b8a017649f687b5c12fec1
+Section: 微信插件
+Priority: optional
+Description: 微信优化的重制版本，WCRefine基于微信8.0.64+版本制作。
+Author: 热心网友
+Dev: 君临
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCRefine
+
+Package: com.wkk.WCRefine
+Version: 1.2-7
+Architecture: iphoneos-arm64
+Maintainer: 热心网友
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.wkk.WCRefine_1.2-7_iphoneos-arm64.deb
+Size: 1857392
+MD5sum: c224b2f6126ac64fb53a2e2b6852ee45
+SHA1: 852e480e03bbcabd7c2f10c2abc0782b0a1ca7b3
+SHA256: eda647c856fcbd54fd8dde6fdd4f88105d9fd17f03db87ea36a86688cfe0fbba
+Section: 微信插件
+Priority: optional
+Description: 微信优化的重制版本，WCRefine基于微信8.0.64+版本制作。
+Author: 热心网友
+Dev: 君临
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCRefine
+
 Package: com.wkk.WCSafeMode
 Version: 1.0-1
 Architecture: iphoneos-arm64e
@@ -11636,6 +11673,41 @@ SHA1: e174776a77be7aa344bda9e1c8d12b888b8f0be3
 SHA256: fddc8e225d8c6cb617a77b313f987043fc01d2acceab7cde4d298a197f5938f6
 Section: 去广告
 Description: 丝滑去开屏广告，版本：9.0.12，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/11/16/bf66b071a75907662ee3f5cdaf629442.png
+Name: 大麦NoAds
+
+Package: com.wkk.dmhook
+Version: 1.0-4
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.dmhook_1.0-4_iphoneos-arm64.deb
+Size: 2996
+MD5sum: f8d0f6b16774a80a91b9c3b825999fe9
+SHA1: e0166ea3a9c0379e6c2ee09707664418bff0a526
+SHA256: 404b7c3dbb6f1161f2d89ece9ea89107dd78e34656edf1f663047a5b8bb3235f
+Section: 去广告
+Description: 去开屏广告，版本：9.0.14
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/11/16/bf66b071a75907662ee3f5cdaf629442.png
+Name: 大麦NoAds
+
+Package: com.wkk.dmhook
+Version: 1.0-4
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.dmhook_1.0-4_iphoneos-arm64e.deb
+Size: 4250
+MD5sum: 553e9185af1a8bb21f866f4cb5d29120
+SHA1: 85d2a9d8aa05f126ff98dc69ce0cd6c3b2b7906a
+SHA256: 0e99641abc270ae64301af2482ba48c0e828bd8fe40bd98daefbb209ebb65957
+Section: 去广告
+Description: 去开屏广告，版本：9.0.14
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/11/16/bf66b071a75907662ee3f5cdaf629442.png
 Name: 大麦NoAds
