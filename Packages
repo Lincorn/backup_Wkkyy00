@@ -833,6 +833,43 @@ Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.
 Name: 微信助手
 Sponsor: admin@25mao.com
 
+Package: com.25mao.miyou.rootless
+Version: 3.9-2
+Architecture: iphoneos-arm64e
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.25mao.miyou.rootless_3.9-2_iphoneos-arm64e.deb
+Size: 11436880
+MD5sum: 3eeb5a541286ecb29b57d61b762f4d1d
+SHA1: f404d30d70bda4f6783a1ed318cc338e1456d486
+SHA256: 497e63dd4ba12e46df15df1c3d0ca092a1d7639ebdc41da35e7ece3c4dc5edd0
+Section: 微信插件
+Priority: optional
+Description: 微信助手
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信助手
+Sponsor: admin@25mao.com
+
+Package: com.25mao.miyou.rootless
+Version: 3.9-2
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.25mao.miyou.rootless_3.9-2_iphoneos-arm64.deb
+Size: 4123048
+MD5sum: 0fc9d7767d88287037efd081685c271f
+SHA1: 564d23da80444c8e7e9abe0cf9d434f908660ccd
+SHA256: 3210ec90164e7c74289bf6858225b1c3ca74bcd3092810078c5c2325e454f10d
+Section: 微信插件
+Priority: optional
+Description: 微信助手
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信助手
+Sponsor: admin@25mao.com
+
 Package: com.25mao.msgfilt
 Version: 1.0-5.1
 Architecture: iphoneos-arm64e
@@ -7922,6 +7959,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/06/c323dea01d48b9205f1853e43ba4722a.png
 Name: 铁路12306NoAds
 
+Package: com.wkk.12306hook
+Version: 1.0-7
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.12306hook_1.0-7_iphoneos-arm64.deb
+Size: 4064
+MD5sum: 0475fae3fe65b2539c0162eba48b9d87
+SHA1: 7ca1a76f8becaa90b7ab843ffd0370d79df202f7
+SHA256: 9cf79b3fbbc64116d6dcc519e5d635eee53256a7b724977ffdf8b1d2f0baa16f
+Section: 去广告
+Description: 去开屏/首页顶部横幅广告，版本：5.9.5
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/06/c323dea01d48b9205f1853e43ba4722a.png
+Name: 铁路12306NoAds
+
+Package: com.wkk.12306hook
+Version: 1.0-7
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.12306hook_1.0-7_iphoneos-arm64e.deb
+Size: 5514
+MD5sum: 7c618ba88ae02f937c21cae10274d3f9
+SHA1: 848c496376c7c1b1cfdc2e6d83bc325b9e3d3bab
+SHA256: 3045ffa74694754c9a611bfdb6b2222227c4105757fec3fc84f108781185fc99
+Section: 去广告
+Description: 去开屏/首页顶部横幅广告，版本：5.9.5
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/06/c323dea01d48b9205f1853e43ba4722a.png
+Name: 铁路12306NoAds
+
 Package: com.wkk.AppIndex
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -9119,6 +9191,41 @@ Tag: cydia::commercial
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: AAAAAA去广告说明（必看）
+
+Package: com.wkk.aaaaaaaaaaa22233
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo
+Filename: ./debs/com.wkk.aaaaaaaaaaa22233_1.0-1_iphoneos-arm64.deb
+Size: 1104
+MD5sum: 23c08043c3b29888133ab1d8cb50e27c
+SHA1: f904df11f0fbb27ce9f884bf93cd90f498b6a409
+SHA256: d9c61db366062031242e10870db7e703ce2c3de0adb1afe1778742603e0be9db
+Section: Tweaks
+Description: 接app精简/app去广告/系统级插件/各种美化/微信等功能小插件定制，有需要的朋友可以加QQ1772773799咨询（本来不想发，被一直问、一直无差别白嫖的无奈了😮‍💨，源主也是普通玩家，不是总被某些人无理由白嫖的傻瓜啊…）
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: AAAAAA接一些定制🎁
+
+Package: com.wkk.aaaaaaaaaaa22233
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo
+Filename: ./debs/com.wkk.aaaaaaaaaaa22233_1.0-1_iphoneos-arm64e.deb
+Size: 1774
+MD5sum: 88f655c1dd45216104c870fab4199542
+SHA1: 539de090668e63bbf615e1dcf59af938bd68dd1b
+SHA256: bcd0f712a1d206a812c84f22b4fae7a94e0728cccabd891df4fe0313996ead0d
+Section: Tweaks
+Description: 接app精简/app去广告/系统级插件/各种美化/微信等功能小插件定制，有需要的朋友可以加QQ1772773799咨询（本来不想发，被一直问、一直无差别白嫖的无奈了😮‍💨，源主也是普通玩家，不是总被某些人无理由白嫖的傻瓜啊…）
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: AAAAAA接一些定制🎁
 
 Package: com.wkk.actionbarreborn
 Version: 1.0-1
@@ -13954,6 +14061,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/06/40c726a175b0b0a82d1fbc1c0c309be8.png
 Name: 高德地图NoAds
 
+Package: com.wkk.gaodehook
+Version: 1.1-3
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.gaodehook_1.1-3_iphoneos-arm64e.deb
+Size: 38702
+MD5sum: 8d11afe1c4b6248fd58043d5e63c0aef
+SHA1: f25d09bd389aee062a06744b4b7118210dbd0c68
+SHA256: d339947a3ee3ccf86c58411f95937a88c01c7a8518812180104c1e25005da984
+Section: 去广告
+Description: 去开屏/首页顶部/部分豆腐块广告/去升级提示/去一些弹窗，测试版本：16.10.6
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/06/40c726a175b0b0a82d1fbc1c0c309be8.png
+Name: 高德地图NoAds
+
+Package: com.wkk.gaodehook
+Version: 1.1-3
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.gaodehook_1.1-3_iphoneos-arm64.deb
+Size: 37388
+MD5sum: 06faf1377d6c89dde37c379313c848de
+SHA1: f04ccef04b1f6f6c478b2dd597c2b59f4930dd4e
+SHA256: d346bd6e8298bd6626df7edba7092b18bcbb708451c0f74db624cde66ce979aa
+Section: 去广告
+Description: 去开屏/首页顶部/部分豆腐块广告/去升级提示/去一些弹窗，测试版本：16.10.6
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/06/40c726a175b0b0a82d1fbc1c0c309be8.png
+Name: 高德地图NoAds
+
 Package: com.wkk.gdhook
 Version: 1.0-1
 Architecture: iphoneos-arm64e
@@ -15634,6 +15776,39 @@ Description: Lookin UI调试工具
 Author: Mr.Zhang <mr_zhang_00@163.com>
 Icon: https://s1.imagehub.cc/images/2025/12/31/5db59b1666f1a481073f8036079dccc3.jpeg
 Name: LookinLoader
+
+Package: com.wkk.looky
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: ./debs/com.wkk.looky_1.2_iphoneos-arm64e.deb
+Size: 69952
+MD5sum: 51f26e5f4dee46589c019f8030965897
+SHA1: ad779148deaa5a7596b5e1a7c9275b3356e26909
+SHA256: 9ced25e08765bce40cc2b87e5d28f77cfe7b81f17c4e3661af1277a74d5c02bc
+Section: Tweaks
+Description: 精美的消息锁屏通知，已汉化。
+Author: EllaSP
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Looky
+
+Package: com.wkk.looky
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: ./debs/com.wkk.looky_1.2_iphoneos-arm64.deb
+Size: 56128
+MD5sum: f4adc20f6572777feb7d990eaed4b560
+SHA1: 59f0377c5629eebd0b65f292ad64f0c21abe648a
+SHA256: 384313259ffb92a4d07eec6e2ebac20b635fc7b47c9ead7e52ce1512d526e4b3
+Section: Tweaks
+Description: 精美的消息锁屏通知，已汉化。
+Author: EllaSP
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Looky
 
 Package: com.wkk.lrtshook
 Version: 1.0-1
