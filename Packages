@@ -5934,6 +5934,39 @@ Author: Curtin
 Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
 Name: PKC
 
+Package: com.curtin.pkc
+Version: 0.9-5
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.curtin.pkc_0.9-5_iphoneos-arm64e.deb
+Size: 3484242
+MD5sum: 0b9d9e6a8bf619cc1493c7828069e01d
+SHA1: 799f3137b6725300392250d7737d7375c918387d
+SHA256: 7c33c28f12fef69f904be04512df27956699d2a352fe4df24487f65842f128d7
+Section: 微信插件
+Priority: optional
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等。
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+Name: PKC
+
+Package: com.curtin.pkc
+Version: 0.9-5
+Architecture: iphoneos-arm64
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.curtin.pkc_0.9-5_iphoneos-arm64.deb
+Size: 1270048
+MD5sum: cdfdb6a0c2b173477be8fbf84a2b0dca
+SHA1: 1f398f745018f252327441174b1f85de28bc2863
+SHA256: e2c9651334bf064973f22d3d577c8dee26e381e5f69bb2e49b9e84c294225da2
+Section: 微信插件
+Priority: optional
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等。
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+Name: PKC
+
 Package: com.cydiageek.morelinesnotifications
 Version: 1.0.4-1
 Architecture: iphoneos-arm64
@@ -9299,6 +9332,40 @@ Author: huami
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WCPulse
 
+Package: com.wkk.WCPulse
+Version: 1.5-7
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 1348
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.WCPulse_1.5-7_iphoneos-arm64.deb
+Size: 7881980
+MD5sum: b1d98c76b7d429b4d37974d4e73afab9
+SHA1: c10680bd6649624ca98ba7ac110db00179b6454a
+SHA256: d39e77d62703e66fba4d80f14a85335d47646390b3c818d1657262c4529803d8
+Section: 微信插件
+Description: WCPulse
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCPulse
+
+Package: com.wkk.WCPulse
+Version: 1.5-7
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 1348
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.WCPulse_1.5-7_iphoneos-arm64e.deb
+Size: 7882028
+MD5sum: f6fb03787e80fea4ff064539e35061c9
+SHA1: 278aeab4923fec0ae920c075485ea66c8ba40424
+SHA256: 119e82a29824f57f9d21cf83cec092c15090b257fbc375109adbc13ad307911f
+Section: 微信插件
+Description: WCPulse
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCPulse
+
 Package: com.wkk.WCPush2Chat
 Version: 1.0-2
 Architecture: iphoneos-arm64e
@@ -9954,71 +10021,36 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: AAAAAA插件配置说明（必看）
 
-Package: com.wkk.aaaaaaaaaaa
-Version: 1.0-1
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Depends: sudo
-Filename: ./debs/com.wkk.aaaaaaaaaaa_1.0-1_iphoneos-arm64.deb
-Size: 1228
-MD5sum: 4a0c3e525d4235f694130948673e69dc
-SHA1: c9f10b8204407561895ec8c69a777f156d55be9c
-SHA256: 780847b8bfaf2d96861d638f5d81e327d008196adda896b3744745ae79eb4eee
-Section: 去广告
-Description: 所有去广告插件建议用debd或者Debs扒下来用TrollFools注入并且停留当前版本（app升级臃肿且会影响手机越来越卡，这个是不争的事实）但是去广告插件依然会随app更新而更新，更新时会保留低版本的广告函数，所以新老版本都生效，另外再教一招：有些app没有框架或者不再支持注入（如美团外卖，新版本小红书）在TrollFools搜索不显示/不可注入，这时用AppsDump3砸壳安装就可以注入插件了。
-Tag: cydia::commercial
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
-Name: AAAAAA去广告说明（必看）
-
-Package: com.wkk.aaaaaaaaaaa
-Version: 1.0-1
-Architecture: iphoneos-arm64e
-Maintainer: wkk
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: sudo
-Filename: ./debs/com.wkk.aaaaaaaaaaa_1.0-1_iphoneos-arm64e.deb
-Size: 2042
-MD5sum: f641bdc422a0124dfa3260efaebf22ab
-SHA1: df28722ace439539dd7441f06b156453ec877bc1
-SHA256: c75aa54c413208da59c0dbf3e85d12cdb019529c3751055e8df0812600075014
-Section: 去广告
-Description: 所有去广告插件建议用debd或者Debs扒下来用TrollFools注入并且停留当前版本（app升级臃肿且会影响手机越来越卡，这个是不争的事实）但是去广告插件依然会随app更新而更新，更新时会保留低版本的广告函数，所以新老版本都生效，另外再教一招：有些app没有框架或者不再支持注入（如美团外卖，新版本小红书）在TrollFools搜索不显示/不可注入，这时用AppsDump3砸壳安装就可以注入插件了。
-Tag: cydia::commercial
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
-Name: AAAAAA去广告说明（必看）
-
 Package: com.wkk.aaaaaaaaaaa22233
-Version: 1.0-5
+Version: 1.0-7
 Architecture: iphoneos-arm64e
 Maintainer: wkk
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: sudo
-Filename: ./debs/com.wkk.aaaaaaaaaaa22233_1.0-5_iphoneos-arm64e.deb
-Size: 1930
-MD5sum: 62238ae859b5111d493a1b6dd860ae66
-SHA1: ca6ced3dc23976942ba0f8f1144cbb93c15d1760
-SHA256: 23bc6894e24f4200cba909cbe24f6d5ab0f068bca3b306e4bc1ebf95409b6196
+Filename: ./debs/com.wkk.aaaaaaaaaaa22233_1.0-7_iphoneos-arm64e.deb
+Size: 1954
+MD5sum: 1e8d02fcc5bf0e2ddba587e1a108cc29
+SHA1: 84a1c21bdfd909229bd09745487c005a010a58c4
+SHA256: e7da4c555894c0f0ee4abc71667633c30f0b6349b1043826e0c4906b6a7c78cc
 Section: Tweaks
-Description: 因某些原因以后源里去广告插件不再更新了，目前已经建好了付费群、已上传文件160+（全是一手制作），不限于去广告插件/系统级插件/破解app会员/以及各类人群的偏门需求等（任何需求都可以提，可以做的都会去做）进群58/人，支持的朋友可以加我qq1772773799（感谢已经入群的各位大哥们支持，大家一起进步！）
+Description: 因某些原因以后源里去广告插件不再更新了，目前已经建好了付费群、已上传文件180+（全是一手制作），不限于去广告插件/系统级插件/破解app会员/以及各类人群的偏门需求等（任何需求都可以提，能力之内可以做的都会去做）进群58/人，支持的朋友可以加我qq1772773799（感谢已经入群的各位大哥们支持，大家一起进步！）
 Tag: cydia::commercial
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: AAAAAA去广告插件公告
 
 Package: com.wkk.aaaaaaaaaaa22233
-Version: 1.0-5
+Version: 1.0-7
 Architecture: iphoneos-arm64
 Maintainer: wkk
 Depends: sudo
-Filename: ./debs/com.wkk.aaaaaaaaaaa22233_1.0-5_iphoneos-arm64.deb
-Size: 1164
-MD5sum: bd996e63b7ad39c0570ee949cb819dd5
-SHA1: 07c99690c848e8a3220831549707f70a02ab942a
-SHA256: e0cb66dcb6f423ea5709197a76e70e75df280b1c2c28959b7d3c385fd301c4b1
+Filename: ./debs/com.wkk.aaaaaaaaaaa22233_1.0-7_iphoneos-arm64.deb
+Size: 1176
+MD5sum: 66b9c4e914bebe641146fbac35007233
+SHA1: 2e5a764c44dd538c9ee9e3f59b69f98250293ffd
+SHA256: 96c7af00d06eb468daeb239b6a177bb5fbaf4b3334706ec8bc06250cda85e50c
 Section: Tweaks
-Description: 因某些原因以后源里去广告插件不再更新了，目前已经建好了付费群、已上传文件160+（全是一手制作），不限于去广告插件/系统级插件/破解app会员/以及各类人群的偏门需求等（任何需求都可以提，可以做的都会去做）进群58/人，支持的朋友可以加我qq1772773799（感谢已经入群的各位大哥们支持，大家一起进步！）
+Description: 因某些原因以后源里去广告插件不再更新了，目前已经建好了付费群、已上传文件180+（全是一手制作），不限于去广告插件/系统级插件/破解app会员/以及各类人群的偏门需求等（任何需求都可以提，能力之内可以做的都会去做）进群58/人，支持的朋友可以加我qq1772773799（感谢已经入群的各位大哥们支持，大家一起进步！）
 Tag: cydia::commercial
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
@@ -17687,6 +17719,41 @@ Author: Lessica <82flex@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/12/27/4a23398f59384c6633e9a0687a9f6d4b.png
 Name: 禁字决
 
+Package: com.wkk.nowaveform
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: Nathan Senter
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.nowaveform_1.0.2_iphoneos-arm64.deb
+Size: 3512
+MD5sum: 60d617fce30475b38240499c073d048e
+SHA1: 08ba4f3d8403265159b4610dab404d4020470bce
+SHA256: 0480a91a27dee081f3d932246d228a743b24a714a8529bb1f9c5f2c6450f8d28
+Section: Tweaks
+Description: 隐藏灵动岛上播放音乐时的波形。
+Author: Nathan Senter
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: NoWaveForm
+
+Package: com.wkk.nowaveform
+Version: 1.0.2
+Architecture: iphoneos-arm64e
+Maintainer: Nathan Senter
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.nowaveform_1.0.2_iphoneos-arm64e.deb
+Size: 4952
+MD5sum: b42b750b540a53a3bb0723f7dbdbc4c9
+SHA1: a543cb32a38adb40bb433c4b46a1e756a7c9f710
+SHA256: 2a17ab286634c97f364f7de53f6458aa8da2b42b2d3bd37a8d03153ad80a550b
+Section: Tweaks
+Description: 隐藏灵动岛上播放音乐时的波形。
+Author: Nathan Senter
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: NoWaveForm
+
 Package: com.wkk.ocd5
 Version: 5.4.1.0
 Architecture: iphoneos-arm64
@@ -19116,6 +19183,41 @@ Author: Lessica <82flex@gmail.com>
 Icon: https://TrollStoreX.Github.io/sileodepiction/RemoveWidgetBackground/icon.png
 Name: 移除小组件背景
 
+Package: com.wkk.rode
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: rootfs
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.rode_1.0_iphoneos-arm64.deb
+Size: 6240
+MD5sum: abccd50faaa00ba46c3e995e974a9722
+SHA1: a4a2169c0a288a1050f3037a859109d5d5724b76
+SHA256: 6213500103072ec32c7877206e2dffe1e57242f45cd23c86c186c8e21b2fecaa
+Section: Tweaks
+Description: 随机打乱锁屏密码。
+Author: rootfs
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Rode
+
+Package: com.wkk.rode
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: rootfs
+Installed-Size: 216
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.rode_1.0_iphoneos-arm64e.deb
+Size: 8298
+MD5sum: 31e94d628426ed0b18ec07e8c395f83d
+SHA1: deb571ed32614edbbaee0d03edb1bc05146af9cd
+SHA256: 1fe206febfe11778c7effee4fd31927e1ee10b88fb0663c61098624bcacf526a
+Section: Tweaks
+Description: 随机打乱锁屏密码。
+Author: rootfs
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Rode
+
 Package: com.wkk.roothide
 Version: 1.0-1
 Architecture: iphoneos-arm64e
@@ -19889,6 +19991,41 @@ Description: 备份。
 Author: Crassna
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: Stheno黑色奥利奥
+
+Package: com.wkk.storeswitcher.appstore
+Version: 1.0.6
+Architecture: iphoneos-arm64e
+Maintainer: 0xkuj
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 11)
+Conflicts: com.yourepo.0xkuj.storeswitcher2rootless
+Filename: ./debs/com.wkk.storeswitcher.appstore_1.0.6_iphoneos-arm64e.deb
+Size: 32242
+MD5sum: b0bae56186252d62700a2f261fa30311
+SHA1: ad7730daaf45d5d3cd8510f4c6e22cf7b852d43b
+SHA256: 1bca88ee37e382bc07868537d2c7e8ac08df8a7b30d2d03b86530f0826b03846
+Section: Tweaks
+Description: 桌面长按App Store进行切换账号。
+Author: subdiox & iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: StoreSwitcher
+
+Package: com.wkk.storeswitcher.appstore
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Depends: firmware (>= 11)
+Conflicts: com.yourepo.0xkuj.storeswitcher2rootless
+Filename: ./debs/com.wkk.storeswitcher.appstore_1.0.6_iphoneos-arm64.deb
+Size: 23040
+MD5sum: 81a9b067cd7af4a05245b0f524e40a7d
+SHA1: ce24d72b1773039d8e384ab02c6f595511a6ef37
+SHA256: 0b16e0bb5af1ea01b256361fc5b7a9c7c4ab6fae04716d6be62a9979df3cceff
+Section: Tweaks
+Description: 桌面长按App Store进行切换账号。
+Author: subdiox & iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: StoreSwitcher
 
 Package: com.wkk.storeswitcher2
 Version: 1.0.5
