@@ -907,6 +907,43 @@ Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.
 Name: 微信助手
 Sponsor: admin@25mao.com
 
+Package: com.25mao.miyou.rootless
+Version: 3.9-5
+Architecture: iphoneos-arm64e
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.25mao.miyou.rootless_3.9-5_iphoneos-arm64e.deb
+Size: 13762702
+MD5sum: f41d77182076602b141cdf439ece0004
+SHA1: bcc856a9288c4b09e3a2f1d24242cca56a0eb00f
+SHA256: 3ec305e838b27dd07bf97c8a0ea55159f7179a14fd9c28add9871f81bf97f58e
+Section: 微信插件
+Priority: optional
+Description: 微信助手
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信助手
+Sponsor: admin@25mao.com
+
+Package: com.25mao.miyou.rootless
+Version: 3.9-5
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.25mao.miyou.rootless_3.9-5_iphoneos-arm64.deb
+Size: 5109204
+MD5sum: 90ee0c4aa1875f1890c57d73ca007e90
+SHA1: 8495b99ea94ab663fa9f2867081820ac47a939df
+SHA256: 2c307ef221b984e63a01d60719c44bd75b4745e55b3c7f39fa4c887631cfca4c
+Section: 微信插件
+Priority: optional
+Description: 微信助手
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信助手
+Sponsor: admin@25mao.com
+
 Package: com.25mao.msgfilt
 Version: 1.0-5.1
 Architecture: iphoneos-arm64e
@@ -1505,6 +1542,22 @@ Size: 13963972
 MD5sum: a80551c910d130b3e4430e2157281e50
 SHA1: 0599cfe2d61c307ffb4b1aa15f3a3a46e5d2d2c7
 SHA256: 39cdf46410c13d34d5376f0107803566e23decbab2235d6f1214f51adfd3648d
+Section: 微信插件
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 黄白助手
+
+Package: com.HBWechatHelper.ailun
+Version: 2.0.9
+Architecture: iphoneos-arm64
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.HBWechatHelper.ailun_2.0.9_iphoneos-arm64.deb
+Size: 13848884
+MD5sum: bb652fe6f78aad26fa9079a52bb20f9f
+SHA1: d438390abd4f9a864f543a8ab95242a576d99c9f
+SHA256: 4ab0be5aa544fa64b466099bcd8fe632c9c16c724f0c260260239d3add77c5a5
 Section: 微信插件
 Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
 Author: HuangBai <QQ:1343309363@qq.com>
@@ -9408,10 +9461,10 @@ Maintainer: huami
 Installed-Size: 1348
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.wkk.WCPulse_1.5-8_iphoneos-arm64e.deb
-Size: 8604208
-MD5sum: d473fbac343cdb40df51acd77d65676d
-SHA1: bf8789c8b38a5d205d09d663f98a0b819f721d01
-SHA256: f9972f260fef6934ef78ecf37a5d685fd88cfdc78f76e765e8bb439216918d0e
+Size: 8596940
+MD5sum: 82ed7e1a5c80dba47c743c04416f3362
+SHA1: ed143932e63fa90c5c616316baa82ac574c6def1
+SHA256: 3991a082057dc2b573db2638e5bce1d1f3daa688f46cc36c36dffed82bd4e054
 Section: 微信插件
 Description: WCPulse
 Author: huami
@@ -9425,10 +9478,10 @@ Maintainer: huami
 Installed-Size: 1348
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.wkk.WCPulse_1.5-8_iphoneos-arm64.deb
-Size: 8603688
-MD5sum: bedeb00d4adf783eac320b4d5a815031
-SHA1: 71f68177e2ade02911270748574e748728a6eea3
-SHA256: 9882a73df3e182f051241fd7d27cb2ce08545573ec1422644439e628dc27a79d
+Size: 8600300
+MD5sum: bdfafa35df800ea59ec6baa9d9d1e7c0
+SHA1: e4ff9d71823bcacc01430bc44524c84c08ed636a
+SHA256: 2a6a80e2d17454a446162990cfc29a2ddbdc02c76a86c507489bf49b11878fbf
 Section: 微信插件
 Description: WCPulse
 Author: huami
@@ -10128,35 +10181,35 @@ Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.
 Name: AAAAAA插件配置说明（必看）
 
 Package: com.wkk.aaaaaaaaaaa22233
-Version: 1.0-7
-Architecture: iphoneos-arm64e
+Version: 1.1-1
+Architecture: iphoneos-arm64
 Maintainer: wkk
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: sudo
-Filename: ./debs/com.wkk.aaaaaaaaaaa22233_1.0-7_iphoneos-arm64e.deb
-Size: 1954
-MD5sum: 1e8d02fcc5bf0e2ddba587e1a108cc29
-SHA1: 84a1c21bdfd909229bd09745487c005a010a58c4
-SHA256: e7da4c555894c0f0ee4abc71667633c30f0b6349b1043826e0c4906b6a7c78cc
+Filename: ./debs/com.wkk.aaaaaaaaaaa22233_1.1-1_iphoneos-arm64.deb
+Size: 1228
+MD5sum: 9c68aaf85c83aeac3f9705e13cbba711
+SHA1: 86ac966f954892c38c72d5c016c40d8da38096f6
+SHA256: 3871763646cf11af8b93e020232244e1dc7b8ae3782d4f0a39c709ab2d026eae
 Section: Tweaks
-Description: 因某些原因以后源里去广告插件不再更新了，目前已经建好了付费群、已上传文件180+（全是一手制作），不限于去广告插件/系统级插件/破解app会员/以及各类人群的偏门需求等（任何需求都可以提，能力之内可以做的都会去做）进群58/人，支持的朋友可以加我qq1772773799（感谢已经入群的各位大哥们支持，大家一起进步！）
+Description: 因某些原因以后源里去广告插件不再更新了，目前已经建好了付费群（qq微信都有）、已上传文件180+（全是一手制作），不限于去广告插件（主流app全部覆盖 偏门app直接现做 全方位满足各位的需求）/系统级插件/破解app会员等/以及各类人群的偏门需求（任何需求都可以提，可以做的都会去做）进群58/人，支持的朋友可以加我qq1772773799（感谢已经入群的各位大哥们支持，大家一起进步！）
 Tag: cydia::commercial
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: AAAAAA去广告插件公告
 
 Package: com.wkk.aaaaaaaaaaa22233
-Version: 1.0-7
-Architecture: iphoneos-arm64
+Version: 1.1-1
+Architecture: iphoneos-arm64e
 Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
 Depends: sudo
-Filename: ./debs/com.wkk.aaaaaaaaaaa22233_1.0-7_iphoneos-arm64.deb
-Size: 1176
-MD5sum: 66b9c4e914bebe641146fbac35007233
-SHA1: 2e5a764c44dd538c9ee9e3f59b69f98250293ffd
-SHA256: 96c7af00d06eb468daeb239b6a177bb5fbaf4b3334706ec8bc06250cda85e50c
+Filename: ./debs/com.wkk.aaaaaaaaaaa22233_1.1-1_iphoneos-arm64e.deb
+Size: 2090
+MD5sum: 66f59eb739584dd74f3112a5022e231d
+SHA1: 4aeb8358126a2a3402c26d863b63b11631a8b0ee
+SHA256: c8e847aae1a41c286c3079f2dd3a8e081470980d02623a55f5a2a9653c46e882
 Section: Tweaks
-Description: 因某些原因以后源里去广告插件不再更新了，目前已经建好了付费群、已上传文件180+（全是一手制作），不限于去广告插件/系统级插件/破解app会员/以及各类人群的偏门需求等（任何需求都可以提，能力之内可以做的都会去做）进群58/人，支持的朋友可以加我qq1772773799（感谢已经入群的各位大哥们支持，大家一起进步！）
+Description: 因某些原因以后源里去广告插件不再更新了，目前已经建好了付费群（qq微信都有）、已上传文件180+（全是一手制作），不限于去广告插件（主流app全部覆盖 偏门app直接现做 全方位满足各位的需求）/系统级插件/破解app会员等/以及各类人群的偏门需求（任何需求都可以提，可以做的都会去做）进群58/人，支持的朋友可以加我qq1772773799（感谢已经入群的各位大哥们支持，大家一起进步！）
 Tag: cydia::commercial
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
