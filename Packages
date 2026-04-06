@@ -8620,6 +8620,39 @@ Icon: https://s1.imagehub.cc/images/2025/03/25/dbdacd5798135a4cbb0a807e4be96505.
 Name: HideEdit
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/hideedit.json
 
+Package: com.wkk.Keyboardplus
+Version: 1.1-7
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.Keyboardplus_1.1-7_iphoneos-arm64e.deb
+Size: 18670
+MD5sum: d390a062926c93710d95ffabf1463a8b
+SHA1: 5adf0f6d81877147f4ded4e9999e6223580c90f7
+SHA256: 90ab25a702e190fbcbb3cffa7b68cd8f56b99c6e22c1ae8383a166ccccd722c3
+Section: 插件配置
+Description: 注入屏蔽越狱的app，使你的键盘拥有更多的扩展功能，长按底部第一个按钮弹出设置项，带三个粘贴板接口（付费的群友个人需要 且免费上源分享 入群可以加qq1772773799 尽量满足你的大部分需求）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 键盘增强（TrollFools注入）
+
+Package: com.wkk.Keyboardplus
+Version: 1.1-7
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.Keyboardplus_1.1-7_iphoneos-arm64.deb
+Size: 13696
+MD5sum: bb3280d03ae4b2991976dcc3bf7c65e6
+SHA1: ac31024e383bd415393ff89e4df5ae5d58dd0597
+SHA256: 513b49b3ff1c31183a8dd5c73ecbadd7f1ce45dc3933fdb0894c6815856f8e1f
+Section: 插件配置
+Description: 注入屏蔽越狱的app，使你的键盘拥有更多的扩展功能，长按底部第一个按钮弹出设置项，带三个粘贴板接口（付费的群友个人需要 且免费上源分享 入群可以加qq1772773799 尽量满足你的大部分需求）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 键盘增强（TrollFools注入）
+
 Package: com.wkk.RestoreFont2
 Version: 1.0-1
 Architecture: iphoneos-arm64
@@ -8720,6 +8753,40 @@ Size: 76584
 MD5sum: b54f1b93e00ffe663f34ae42fd5e59cb
 SHA1: 51e44da7ac3df27b4392506c47e5dde4c343585c
 SHA256: 802131d5e6447e30eab48e6bc1f629a276463ae65cf513fdb527a937a42cfaab
+Section: 微信插件
+Description: 在不影响官方热更新的情况下，恢复因为被热更新覆盖导致功能失效的插件功能，越狱安装。
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCCC
+
+Package: com.wkk.WCCC
+Version: 1.0-6
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 300
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.WCCC_1.0-6_iphoneos-arm64e.deb
+Size: 676388
+MD5sum: 6d6c6bf1370bf5e852349b0fa88bb9ba
+SHA1: 81967b9fff4e585e5d30c082266513469ff23155
+SHA256: bacad5aa8ecfad5da5db940d23abb60b34432c4d5becdb4749a2c050126d04ce
+Section: 微信插件
+Description: 在不影响官方热更新的情况下，恢复因为被热更新覆盖导致功能失效的插件功能，越狱安装。
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCCC
+
+Package: com.wkk.WCCC
+Version: 1.0-6
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 300
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.WCCC_1.0-6_iphoneos-arm64.deb
+Size: 671976
+MD5sum: 46322271517efb2dcd471851d9084d2d
+SHA1: 4780a302fee267fd98c884e71e049adcca574a44
+SHA256: 92f3cde78b0685162fb70c8ce205b275ff497b2ff34ca861086e9c471d89fe7e
 Section: 微信插件
 Description: 在不影响官方热更新的情况下，恢复因为被热更新覆盖导致功能失效的插件功能，越狱安装。
 Author: huami
@@ -19178,38 +19245,6 @@ Author: AnthoPak <anthopakdev@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/01/24/137ad8ab011c468fac23f82c8eb7c050.png
 Name: QuickPrefs
 
-Package: com.wkk.qzzz
-Version: 1.0-1
-Architecture: iphoneos-arm64e
-Maintainer: wkk
-Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
-Filename: ./debs/com.wkk.qzzz_1.0-1_iphoneos-arm64e.deb
-Size: 243512
-MD5sum: 49d15a582fc34398a47fe90bac37bcd9
-SHA1: 77bf7e0bce74efea43e453a1347a54793f45afff
-SHA256: 7b15bb56d7d88abc05e9a4fd64fc18a923a7e5dba23f620c542a0c86bfca2cc5
-Section: 插件配置
-Description: 备份。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: 净化红包版本强制关注（TrollFools注入）
-
-Package: com.wkk.qzzz
-Version: 1.0-1
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
-Filename: ./debs/com.wkk.qzzz_1.0-1_iphoneos-arm64.deb
-Size: 243508
-MD5sum: 42c6c3a2cc0d5958f3a3ee12933291e9
-SHA1: e5d8b56c039c4b25e591edd9823abc846d870cac
-SHA256: 4ca867b4699c43f2ccff42559db988239dfa1a2a3ae2547ff44691910e5b31fb
-Section: 插件配置
-Description: 备份。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: 净化红包版本强制关注（TrollFools注入）
-
 Package: com.wkk.ravitation
 Version: 1.0-1
 Architecture: iphoneos-arm64
@@ -21566,6 +21601,47 @@ Description: 修复热更新导致消失的问题。
 Author: Mao
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: 微信插件管理
+
+Package: com.wkk.wcpureextension
+Version: 2026.04
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 23256
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: netskao.wechatpurification
+Replaces: netskao.wechatpurification
+Provides: netskao.wechatpurification
+Filename: ./debs/com.wkk.wcpureextension_2026.04_iphoneos-arm64e.deb
+Size: 22859684
+MD5sum: 38a2f450aa59de5b656fdd5e8e65d65f
+SHA1: 48d816701208fb27efd46b6b0e770b214415f2a6
+SHA256: bdad3b08b5b45d239e320acd4a7af94e630d70ce16bb6c790d6b17a3ce8ebee2
+Section: 微信插件
+Description: 免费公开无限制版本，带抢🧧
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信净化
+
+Package: com.wkk.wcpureextension
+Version: 2026.04
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 23256
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: netskao.wechatpurification
+Replaces: netskao.wechatpurification
+Provides: netskao.wechatpurification
+Filename: ./debs/com.wkk.wcpureextension_2026.04_iphoneos-arm64.deb
+Size: 7991108
+MD5sum: a230eb413cf8240e6316cc19facb630d
+SHA1: 243f441adc42afbde2cac48f81eaf2bc65e58cf2
+SHA256: 9e340054cf24b7b3f22560154cb3551c442648d3242d385cd4a232b9509c6b43
+Section: 微信插件
+Description: 免费公开无限制版本，带抢🧧
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信净化
 
 Package: com.wkk.wctimelinereplacefind
 Version: 1.1-2
@@ -24149,82 +24225,6 @@ Tag: role::hacker, compatible::ios15, compatible::ios16
 Author: XsF1re, ichitaso, level3tjg
 Icon: https://raw.githubusercontent.com/ichitaso/vnodebypass_theme/main/layout/Library/Themes/vnodebypass.theme/Icon.png
 Name: Vnodebypass
-
-Package: netskao.wcpureextension-rootless
-Version: 4.2-6
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 19660
-Depends: mobilesubstrate, firmware (>= 15.0)
-Conflicts: netskao.wechatpurification-rootless
-Replaces: netskao.wechatpurification-rootless
-Provides: netskao.wechatpurification-rootless
-Filename: ./debs/netskao.wcpureextension-rootless_4.2-6_iphoneos-arm64.deb
-Size: 7089284
-MD5sum: 710612bcf7797b5d33e6dc6c24715eac
-SHA1: 047e4da2bea011e7f701ed87b081f33a9ee9b4a4
-SHA256: 5f4517514d08c8a833d9edbade2b2864f58c477d447f12a967f1c56263b3a715
-Section: 微信插件
-Description: 无期限的红包版本。
-Author: Netskao
-Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
-Name: 微信净化红包版
-
-Package: netskao.wcpureextension-rootless
-Version: 4.2-6
-Architecture: iphoneos-arm64e
-Maintainer: Nets
-Installed-Size: 19660
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, firmware (>= 15.0)
-Conflicts: netskao.wechatpurification-rootless
-Replaces: netskao.wechatpurification-rootless
-Provides: netskao.wechatpurification-rootless
-Filename: ./debs/netskao.wcpureextension-rootless_4.2-6_iphoneos-arm64e.deb
-Size: 19253578
-MD5sum: 962a2c7479750c7a00613a8a5608c9ca
-SHA1: c33ed2f1a4023b2f5fb5302b5e9c5e8ae3f4ffd9
-SHA256: 837c8c60cbf4964efdcf82096f6b05119dd634729c86a1ff45717a57b4ae1867
-Section: 微信插件
-Description: 无期限的红包版本。
-Author: Netskao
-Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
-Name: 微信净化红包版
-
-Package: netskao.wechatpurification
-Version: 4.2-6-END
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 16676
-Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: ./debs/netskao.wechatpurification_4.2-6-END_iphoneos-arm64.deb
-Size: 6274916
-MD5sum: cd94e46c00e137088c3d66db82fb8441
-SHA1: 8b156eed042044f75f353f5821b76c9bf7a131b7
-SHA256: 5aa8ddd7a74f0252721a18ea98d98a6ca35798fd07ac9d6bc3163c54b2fc0e37
-Section: 微信插件
-Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
-Author: Netskao
-Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
-Name: 微信净化END
-
-Package: netskao.wechatpurification
-Version: 4.2-6-END
-Architecture: iphoneos-arm64e
-Maintainer: Nets
-Installed-Size: 16676
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: ./debs/netskao.wechatpurification_4.2-6-END_iphoneos-arm64e.deb
-Size: 16954280
-MD5sum: 0fb987a6bbd01ff22a5ba2ce8d5c8bcb
-SHA1: cfc9af9fd29aaa2c18703b99c6280a33ee09b916
-SHA256: 6a6e6b646532887b9cae166ea935a9c6e77d1d44abd42963b112c695bc9aa573
-Section: 微信插件
-Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
-Author: Netskao
-Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
-Name: 微信净化END
 
 Package: preferenceloader.top
 Version: 2.2.7
