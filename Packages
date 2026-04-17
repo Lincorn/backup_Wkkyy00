@@ -8451,6 +8451,40 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/06/c323dea01d48b9205f1853e43ba4722a.png
 Name: 铁路12306NoAds
 
+Package: com.wkk.26kbhook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.26kbhook_1.0-1_iphoneos-arm64.deb
+Size: 3728
+MD5sum: f7003a727de84b67cd13a756ea492c21
+SHA1: a3c924fdfab6b6a5670f47ea77267c9f0f34e182
+SHA256: 3a83e59631c632daacc4ad0a53cadeae1a36747689dd3908f1ceda0a90b5d902
+Section: Tweaks
+Description: cool
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 仿iOS26键盘圆角
+
+Package: com.wkk.26kbhook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.26kbhook_1.0-1_iphoneos-arm64e.deb
+Size: 3668
+MD5sum: 17bdb92d368f2e9ad4116b25a3a8d22d
+SHA1: 0e2c1524b5511bfde9771da113c39126ccf8ac3d
+SHA256: a720ee2961ab1d82e3f0b5dee741830e33405a528bc10084531699d24f2275d7
+Section: Tweaks
+Description: cool
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 仿iOS26键盘圆角
+
 Package: com.wkk.3dfasthook
 Version: 1.0-1
 Architecture: iphoneos-arm64
@@ -10253,6 +10287,43 @@ Dev: 君临
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WCRefine
 
+Package: com.wkk.WCRefine
+Version: 1.4-1
+Architecture: iphoneos-arm64e
+Maintainer: 热心网友
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.wkk.WCRefine_1.4-1_iphoneos-arm64e.deb
+Size: 8320420
+MD5sum: df42ba342d9b45f448f74109c8755d4f
+SHA1: 6157a4d81512cf27523c14bf6c46b2eb9d27531b
+SHA256: 3637fc424047e85402415bfaea34fe2a286ae628d059926216af7064ab3fb535
+Section: 微信插件
+Priority: optional
+Description: 微信优化的重制版本，WCRefine基于微信8.0.64+版本制作。
+Author: 热心网友
+Dev: 君临
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCRefine
+
+Package: com.wkk.WCRefine
+Version: 1.4-1
+Architecture: iphoneos-arm64
+Maintainer: 热心网友
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.wkk.WCRefine_1.4-1_iphoneos-arm64.deb
+Size: 2934632
+MD5sum: 0acf22c9c4b81ab04c36a6ed8f7ff0fd
+SHA1: 7d8954f8b3a0ab190bd0c63b5acff4e13642c08e
+SHA256: 10ee0808857039b9463d9cd4117613d29b299cfdcd6b19da6d3cf355ea69b256
+Section: 微信插件
+Priority: optional
+Description: 微信优化的重制版本，WCRefine基于微信8.0.64+版本制作。
+Author: 热心网友
+Dev: 君临
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCRefine
+
 Package: com.wkk.WCSafeMode
 Version: 1.0-1
 Architecture: iphoneos-arm64e
@@ -10393,35 +10464,35 @@ Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.
 Name: AAAAAA插件配置说明（必看）
 
 Package: com.wkk.aaaaaaaaaaa22233
-Version: 1.1-1
-Architecture: iphoneos-arm64e
+Version: 1.1-2
+Architecture: iphoneos-arm64
 Maintainer: wkk
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: sudo
-Filename: ./debs/com.wkk.aaaaaaaaaaa22233_1.1-1_iphoneos-arm64e.deb
-Size: 2090
-MD5sum: 66f59eb739584dd74f3112a5022e231d
-SHA1: 4aeb8358126a2a3402c26d863b63b11631a8b0ee
-SHA256: c8e847aae1a41c286c3079f2dd3a8e081470980d02623a55f5a2a9653c46e882
+Filename: ./debs/com.wkk.aaaaaaaaaaa22233_1.1-2_iphoneos-arm64.deb
+Size: 1228
+MD5sum: e0e6dcb95baf5c72d360fbdb960fb6c3
+SHA1: d6c0bb17a22fd5a2d2dd1e922af8ba6f1b25a9cf
+SHA256: 9e242a1cc2e7e676f09035f0a72cd49a68257ea8752c28c78494721dc3731cb4
 Section: Tweaks
-Description: 因某些原因以后源里去广告插件不再更新了，目前已经建好了付费群（qq微信都有）、已上传文件180+（全是一手制作），不限于去广告插件（主流app全部覆盖 偏门app直接现做 全方位满足各位的需求）/系统级插件/破解app会员等/以及各类人群的偏门需求（任何需求都可以提，可以做的都会去做）进群58/人，支持的朋友可以加我qq1772773799（感谢已经入群的各位大哥们支持，大家一起进步！）
+Description: 因某些原因以后源里去广告插件不再更新了，目前已经建好了付费群（qq微信都有）、已上传文件190+（全是一手制作），不限于去广告插件（主流app全部覆盖 偏门app直接现做 全方位满足各位的需求）/系统级插件/破解app会员等/以及各类人群的偏门需求（任何需求，问题都可以提，可以做的都会去做）进群58/人，支持的朋友可以加我qq1772773799（感谢已经入群的百位各位大哥们支持！）
 Tag: cydia::commercial
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: AAAAAA去广告插件公告
 
 Package: com.wkk.aaaaaaaaaaa22233
-Version: 1.1-1
-Architecture: iphoneos-arm64
+Version: 1.1-2
+Architecture: iphoneos-arm64e
 Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
 Depends: sudo
-Filename: ./debs/com.wkk.aaaaaaaaaaa22233_1.1-1_iphoneos-arm64.deb
-Size: 1228
-MD5sum: 9c68aaf85c83aeac3f9705e13cbba711
-SHA1: 86ac966f954892c38c72d5c016c40d8da38096f6
-SHA256: 3871763646cf11af8b93e020232244e1dc7b8ae3782d4f0a39c709ab2d026eae
+Filename: ./debs/com.wkk.aaaaaaaaaaa22233_1.1-2_iphoneos-arm64e.deb
+Size: 2076
+MD5sum: 8550708f5f4f45c171b5e1b33c205412
+SHA1: 46aefbe408ef11b443b599f42b9f98d29197aec3
+SHA256: 19da401990d0ba4b3065a97181d29a9346fdd72a89cd47be4f70edefaa7dca48
 Section: Tweaks
-Description: 因某些原因以后源里去广告插件不再更新了，目前已经建好了付费群（qq微信都有）、已上传文件180+（全是一手制作），不限于去广告插件（主流app全部覆盖 偏门app直接现做 全方位满足各位的需求）/系统级插件/破解app会员等/以及各类人群的偏门需求（任何需求都可以提，可以做的都会去做）进群58/人，支持的朋友可以加我qq1772773799（感谢已经入群的各位大哥们支持，大家一起进步！）
+Description: 因某些原因以后源里去广告插件不再更新了，目前已经建好了付费群（qq微信都有）、已上传文件190+（全是一手制作），不限于去广告插件（主流app全部覆盖 偏门app直接现做 全方位满足各位的需求）/系统级插件/破解app会员等/以及各类人群的偏门需求（任何需求，问题都可以提，可以做的都会去做）进群58/人，支持的朋友可以加我qq1772773799（感谢已经入群的百位各位大哥们支持！）
 Tag: cydia::commercial
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
