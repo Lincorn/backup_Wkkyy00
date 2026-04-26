@@ -10952,6 +10952,23 @@ Architecture: iphoneos-arm64e
 Maintainer: wkk
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport, com.muirey03.libimagepicker, firmware (>=15.0)
+Filename: ./debs/Akara-2.0.2.deb
+Size: 672368
+MD5sum: 4f95318dac3cd8a02a29119b405bd7c8
+SHA1: 4ec11b4f23ebf1033b1c8743977a4b65dd3f824d
+SHA256: d098e457d3e58ab4d883c3682c60092ceb87af5acd7337aa5bf6385a1e1bcb50
+Section: Tweaks
+Description: 毫不妥协的控制中心简约设计，已加入汉化。
+Author: Tr1Fecta & Kennyroo <xuanhua880@gmail.com>
+Icon: https://img.chariz.cloud/icon/akara/icon@3x.png
+Name: Akara
+
+Package: com.wkk.akara
+Version: 2.0.2
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport, com.muirey03.libimagepicker, firmware (>=15.0)
 Filename: ./debs/com.wkk.akara_2.0.2_iphoneos-arm64e.deb
 Size: 672368
 MD5sum: 4f95318dac3cd8a02a29119b405bd7c8
@@ -17324,6 +17341,41 @@ Author: baiy
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: KeyboardHook
 
+Package: com.wkk.keyround
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo
+Filename: ./debs/com.wkk.keyround_1.0-1_iphoneos-arm64e.deb
+Size: 1764
+MD5sum: 196bef926e1056e598b0e7a78e497e9d
+SHA1: da002c3cd6285841a3ef6324dd8d8e8ed89c3149
+SHA256: 276643791e6e2f44f824ed6d565fee2a90263fc747dea630875ae6b881ca8065
+Section: Tweaks
+Description: 全输入法的圆角插件，可附加微信输入法和系统键盘输入法键帽的圆角度数，专属私人订制，打造你独一无二的键盘（处理场景：竖屏、横屏、分屏 皆可圆角）详情可以加QQ1772773799看效果图，进付费群使用（不止这一个插件 可以看源里进群详情）
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: AAAAA全输入法圆角
+
+Package: com.wkk.keyround
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo
+Filename: ./debs/com.wkk.keyround_1.0-1_iphoneos-arm64.deb
+Size: 1092
+MD5sum: 3bd1562aedb65c7185c7d57e04a51313
+SHA1: c1209e3e5ff56f5ab81e521673038121b5eb499f
+SHA256: da5a42f95079b1cf8a21fd9d423dec541032f5f5fa9735b5dd8be5aa72e199dd
+Section: Tweaks
+Description: 全输入法的圆角插件，可附加微信输入法和系统键盘输入法键帽的圆角度数，专属私人订制，打造你独一无二的键盘（处理场景：竖屏、横屏、分屏 皆可圆角）详情可以加QQ1772773799看效果图，进付费群使用（不止这一个插件 可以看源里进群详情）
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: AAAAA全输入法圆角
+
 Package: com.wkk.kghook
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -19753,6 +19805,40 @@ Author: 网络资源
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: 去App录屏检测（下载后TrollFools注入）
 
+Package: com.wkk.qcglhook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.qcglhook_1.0-1_iphoneos-arm64e.deb
+Size: 3252
+MD5sum: 6395b2a8eef0e3178315342221a77bb4
+SHA1: 6fee4f0d5a69021cc48367aecf2e22e6fd26e890
+SHA256: 1c680ae2768edd738af41f7086d8fe8dd116e5c69fd4e5e4b99dd49e40ace59d
+Section: Tweaks
+Description: cool
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 去除原生键盘候选词高亮背景
+
+Package: com.wkk.qcglhook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.qcglhook_1.0-1_iphoneos-arm64.deb
+Size: 3308
+MD5sum: 5b26fc71cf0aa9cfe279b1aa9cfd45ef
+SHA1: 36ff59cc84d3b4c7c796d5caf567d3090cf41829
+SHA256: 45450c296c206c617745fb3522937841d97138e4f91d708345b860b85568ee66
+Section: Tweaks
+Description: cool
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 去除原生键盘候选词高亮背景
+
 Package: com.wkk.qichezhijiahook
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -20683,6 +20769,40 @@ Description: cool
 Author: poqw312
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: 禁用通知中心下拉手势
+
+Package: com.wkk.sbiconhook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.sbiconhook_1.0-1_iphoneos-arm64e.deb
+Size: 3400
+MD5sum: a8876908814a432f5b6294777c093d2c
+SHA1: e67c1f50c17dbedf1967dbb81af190664a967e23
+SHA256: 3edd945a936e65c2c525718a5174ef53e63ec1086cf45c4cadea658d580a1b35
+Section: Tweaks
+Description: Dopamine里点击重启springboard，解锁一个新的图标飞入动画。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: SpringboardFly
+
+Package: com.wkk.sbiconhook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.sbiconhook_1.0-1_iphoneos-arm64.deb
+Size: 3452
+MD5sum: 5d4bd8adfda4008c1e50abf0263ff785
+SHA1: fbaa7ffa83fb2330e1075765807f8acb16ee6585
+SHA256: 7e533b7046dedd12d1fc55a50861d5bd7229bf0e16dbf1ae151a075825b2c984
+Section: Tweaks
+Description: Dopamine里点击重启springboard，解锁一个新的图标飞入动画。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: SpringboardFly
 
 Package: com.wkk.sdk16.5
 Version: 1.0
@@ -24697,6 +24817,40 @@ Description: 去开屏/豆腐块/底部开会员窗口，版本：6.23.1。接�
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/05/24/ebdc7f91e320e34255f2422c8699dd81.png
 Name: 一刻相册NoAds
+
+Package: com.wkk.yskbhook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.yskbhook_1.0-1_iphoneos-arm64.deb
+Size: 3520
+MD5sum: a2e4f46d1cd130f9da8cc45ccefe34b1
+SHA1: 7c4678d1418e839496dc5c0cb147a110e0cee7df
+SHA256: 25edd1cd3284df447c2f9c7b0e1209a14dee588330c6b9a12f33dd3584a3d577
+Section: Tweaks
+Description: 放大了3个像素，可以搭配源里的系统键盘圆角一起使用，键盘变得胖乎乎，很可爱。（不支持放大模式下使用）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 原生键盘放大
+
+Package: com.wkk.yskbhook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.yskbhook_1.0-1_iphoneos-arm64e.deb
+Size: 3452
+MD5sum: 515ed52d28b2d7817e35f8e28e8c6ac1
+SHA1: 6cc0b80ba0fa87454f91dacead2b60437e0928d3
+SHA256: 56e40d3995b5c70f211d2bb156f7b72a1de6886eb7ac23cd50aedceade56d8db
+Section: Tweaks
+Description: 放大了3个像素，可以搭配源里的系统键盘圆角一起使用，键盘变得胖乎乎，很可爱。（不支持放大模式下使用）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 原生键盘放大
 
 Package: com.wkk.ysxwhook
 Version: 1.0
