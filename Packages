@@ -1722,6 +1722,43 @@ Author: 灰灰
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: 字体一键替换
 
+Package: com.anthopak.appaze3
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Installed-Size: 1802
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware (>= 15.0)
+Conflicts: com.anthopak.appaze, com.anthopak.appaze2
+Filename: ./debs/com.anthopak.appaze3_1.0.1_iphoneos-arm64e.deb
+Size: 936258
+MD5sum: 66337b863ff64cee61166d142f2a88de
+SHA1: 0c84d47d84c4c72e33c2d0af6e2fd2a00abccfbf
+SHA256: 71f120eb773eba96183278ad5d9bdb5688405db762e24c2944a335ce313bc505
+Section: Tweaks
+Description: 正版砸壳，在干净友好的用户界面中，为每个应用程序自定义多达30个设置，易于访问！
+Author: AnthoPak <anthopakdev@gmail.com>
+Icon: https://img.chariz.cloud/icon/appaze3/icon@3x.png
+Name: Appaze 3
+
+Package: com.anthopak.appaze3
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Installed-Size: 1802
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware (>= 15.0)
+Conflicts: com.anthopak.appaze, com.anthopak.appaze2
+Filename: ./debs/com.anthopak.appaze3_1.0.1_iphoneos-arm64.deb
+Size: 864012
+MD5sum: fd608bde7c6daa1833a58a79450912e3
+SHA1: 13430f8fa8c876c3298db0990e394444b308d6cb
+SHA256: a61d0cd6fa92b2010cefcfc1c7a357049b7434a6f4c9f75fa1a6844689868251
+Section: Tweaks
+Description: 正版砸壳，在干净友好的用户界面中，为每个应用程序自定义多达30个设置，易于访问！
+Author: AnthoPak <anthopakdev@gmail.com>
+Icon: https://img.chariz.cloud/icon/appaze3/icon@3x.png
+Name: Appaze 3
+
 Package: com.be-huge.floating-view
 Version: 1.4.6
 Architecture: iphoneos-arm64e
@@ -8268,6 +8305,41 @@ Author: WeChat
 Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
 Name: 主题盒子
 
+Package: com.tencent.themebox
+Version: 2.3.1
+Architecture: iphoneos-arm64e
+Maintainer: WeChat
+Installed-Size: 6132
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tencent.themebox_2.3.1_iphoneos-arm64e.deb
+Size: 14597714
+MD5sum: e8a18f0038daa83bc74d6a5746f291b2
+SHA1: 0b4f1585b403bbf676c70975a24bfd5a3a87ef02
+SHA256: fde17f248820ceaf290860fa9b0d9739cfb689a7e948788d5627746407b1b93a
+Section: 微信插件
+Description: 学习交流。
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+Name: 主题盒子
+
+Package: com.tencent.themebox
+Version: 2.3.1
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tencent.themebox_2.3.1_iphoneos-arm64.deb
+Size: 5417624
+MD5sum: 2d60e0bc427dfdcb64e09aaec5e5a36c
+SHA1: 727a2f729b36dc5365d4d37660ef516c57b2ec34
+SHA256: b12794dce95658cb27f530c01ee35448f9cf5e5c6a2b05d017f38710fae06298
+Section: 微信插件
+Description: 学习交流。
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+Name: 主题盒子
+
 Package: com.thermal.hook
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -8607,39 +8679,40 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/06/c323dea01d48b9205f1853e43ba4722a.png
 Name: 铁路12306NoAds
 
-Package: com.wkk.3dddhook
-Version: 1.0-5
+Package: com.wkk.3dssss
+Version: 1.0-1
 Architecture: iphoneos-arm64
 Maintainer: wkk
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.3dddhook_1.0-5_iphoneos-arm64.deb
-Size: 4548
-MD5sum: 8c03248a295ae101deec748560693ae5
-SHA1: e6c83bd26be178f51e7711bee80399d83f54ac70
-SHA256: de1811ee92e808474b17e3479801c6ff5b176d88ea2b29320d5b4e18989f9e8d
+Depends: sudo
+Filename: ./debs/com.wkk.3dssss_1.0-1_iphoneos-arm64.deb
+Size: 992
+MD5sum: 0d8b539625d853928478554ad1f294a7
+SHA1: fe0225ca14941cb6ab788d7c5010cf938ad53036
+SHA256: dbd521f87c0fd272f5114ef3d0e9f999c234cd2102e0fccd03f142c05c2caa8f
 Section: Tweaks
-Description: cool
+Description: 加速呼出3dtouch菜单，快系统响应一步！详情可以加QQ1772773799看效果图，付费群使用（不止这一个插件 具体可以看源里进群详情）
+Tag: cydia::commercial
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
-Name: 提升3dtouch唤醒速度
+Name: 3dtouch呼出加速
 
-Package: com.wkk.3dddhook
-Version: 1.0-5
+Package: com.wkk.3dssss
+Version: 1.0-1
 Architecture: iphoneos-arm64e
 Maintainer: wkk
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.3dddhook_1.0-5_iphoneos-arm64e.deb
-Size: 4488
-MD5sum: 1e787cb5b3b3976af184f112080ae5a0
-SHA1: 98212ecab87438599727ee6c303f7671dfcf34f5
-SHA256: 7870d8fe32b0d18d0a617aa9330009a8ef4758f7b3e2c2197fc51f271570383e
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo
+Filename: ./debs/com.wkk.3dssss_1.0-1_iphoneos-arm64e.deb
+Size: 1524
+MD5sum: 5f042f2be4c1e4836c177339cd46d9f8
+SHA1: b54334f3738adbc891c20af339f2976391fb0130
+SHA256: cb0d531cd2044ed600b4b62f8fec72b402e87b22beaebe40b28faa2847dec85d
 Section: Tweaks
-Description: cool
+Description: 加速呼出3dtouch菜单，快系统响应一步！详情可以加QQ1772773799看效果图，付费群使用（不止这一个插件 具体可以看源里进群详情）
+Tag: cydia::commercial
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
-Name: 提升3dtouch唤醒速度
+Name: 3dtouch呼出加速
 
 Package: com.wkk.AppIndex
 Version: 1.0
@@ -10826,35 +10899,35 @@ Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.
 Name: AAAAAA插件配置说明（必看）
 
 Package: com.wkk.aaaaaaaaaaa22233
-Version: 1.2-1
+Version: 1.2-2
 Architecture: iphoneos-arm64e
 Maintainer: wkk
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: sudo
-Filename: ./debs/com.wkk.aaaaaaaaaaa22233_1.2-1_iphoneos-arm64e.deb
-Size: 2574
-MD5sum: 136d30eddd157f1b1a5237f37ea6e2ae
-SHA1: e81aa4d1bc08f1a50e3dfa621196d9192a856214
-SHA256: 6ae6917eff28669d9e551cb94e300ea870f65986536efffb0fbf25b112adf2e5
+Filename: ./debs/com.wkk.aaaaaaaaaaa22233_1.2-2_iphoneos-arm64e.deb
+Size: 2304
+MD5sum: 380c3a1582fd60681d6d3908d60c99ab
+SHA1: d64d827ee442b363b49fcb4dd90193b6cd299686
+SHA256: e05a56ac271d1cc070732638765d95abeb866992b6dfff36a28fbb836fe5634e
 Section: Tweaks
-Description: 之前因某些原因源内去广告插件将不再更新，付费群已稳定一个多月，QQ/微信双群均已建好，群内已上传自制文件200+，全部为一手制作。插件覆盖范围不局限于App去广告、优化（主流APP全覆盖）偏门App可现做，同时包含系统级插件、APP会员破解等实用内容。建群这段时间最大的收获，是能在去广告、app优化、破解会员这些基础之外，满足各个群友五花八门的偏门小众需求，解决各种个性化问题，这也是我最有成就感的地方。群内任何需求、任何问题都可提出，力所能及的都会尽力搞定，全方位满足大家的使用需求。进群58元/人，感谢已经入群的几百位大哥们一直以来的支持与信任！需要的朋友可加我QQ：1772773799 大家一起进步！
+Description: 之前因某些原因源内去广告插件将不再更新维护，付费群已稳定两个多月，QQ/微信双群均已建好，群内已上传自制文件200+，全部为一手制作，插件覆盖范围不局限于App去广告、优化（主流APP全覆盖）偏门App可现做，同时包含各种偏门类系统级插件、APP会员破解等实用内容。群内任何需求、任何问题都可提出，力所能及的都会尽力搞定，全方位满足大家的使用需求。进群58元/人，感谢已经入群的几百位大哥们一直以来的支持与信任！需要的朋友可加我QQ：1772773799 大家一起进步！
 Tag: cydia::commercial
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: AAAAAA付费群公告
 
 Package: com.wkk.aaaaaaaaaaa22233
-Version: 1.2-1
+Version: 1.2-2
 Architecture: iphoneos-arm64
 Maintainer: wkk
 Depends: sudo
-Filename: ./debs/com.wkk.aaaaaaaaaaa22233_1.2-1_iphoneos-arm64.deb
-Size: 1452
-MD5sum: 121e81f4f2fdf78d901125bc388abc34
-SHA1: d646b01dc279d586f09b36060723181b65828e88
-SHA256: 9fe073e97d421d6e62f5acad42f43a47f4741f6827eaffb2ee683cce14c4e754
+Filename: ./debs/com.wkk.aaaaaaaaaaa22233_1.2-2_iphoneos-arm64.deb
+Size: 1328
+MD5sum: 0019a2d46e6d39686e735d118a01318f
+SHA1: 012d4119ef2ba938679d8b2bdb4ec9c3ae851545
+SHA256: 3623e4fef240a7fa11a0c42278d54abb0b2972efa3ad2eb8c80f7fc9bc05b13d
 Section: Tweaks
-Description: 之前因某些原因源内去广告插件将不再更新，付费群已稳定一个多月，QQ/微信双群均已建好，群内已上传自制文件200+，全部为一手制作。插件覆盖范围不局限于App去广告、优化（主流APP全覆盖）偏门App可现做，同时包含系统级插件、APP会员破解等实用内容。建群这段时间最大的收获，是能在去广告、app优化、破解会员这些基础之外，满足各个群友五花八门的偏门小众需求，解决各种个性化问题，这也是我最有成就感的地方。群内任何需求、任何问题都可提出，力所能及的都会尽力搞定，全方位满足大家的使用需求。进群58元/人，感谢已经入群的几百位大哥们一直以来的支持与信任！需要的朋友可加我QQ：1772773799 大家一起进步！
+Description: 之前因某些原因源内去广告插件将不再更新维护，付费群已稳定两个多月，QQ/微信双群均已建好，群内已上传自制文件200+，全部为一手制作，插件覆盖范围不局限于App去广告、优化（主流APP全覆盖）偏门App可现做，同时包含各种偏门类系统级插件、APP会员破解等实用内容。群内任何需求、任何问题都可提出，力所能及的都会尽力搞定，全方位满足大家的使用需求。进群58元/人，感谢已经入群的几百位大哥们一直以来的支持与信任！需要的朋友可加我QQ：1772773799 大家一起进步！
 Tag: cydia::commercial
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
@@ -16147,6 +16220,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/05/01/05ea0e3f2aa64c59c02ed256afd24eb8.jpeg
 Name: 瑞幸咖啡NoAds
 
+Package: com.wkk.fyssss
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo
+Filename: ./debs/com.wkk.fyssss_1.0-1_iphoneos-arm64e.deb
+Size: 1548
+MD5sum: 68fa4e24f19dd6eca9719489aecd2cab
+SHA1: a48ef8ba1d28afe19e38d8065aaa1cae24d4c37d
+SHA256: fa545e14e2923b84297e7f98b532893478926a45da3ee5598c202297682858a5
+Section: Tweaks
+Description: 滑动到负一屏触发锁屏，排除通知中心锁屏界面，详情可以加QQ1772773799看效果图，付费群使用（不止这一个插件 具体可以看源里进群详情）
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 滑动到负一屏触发锁屏
+
+Package: com.wkk.fyssss
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo
+Filename: ./debs/com.wkk.fyssss_1.0-1_iphoneos-arm64.deb
+Size: 996
+MD5sum: a0facd1b3374c3a6f8a4e61cde6d5483
+SHA1: 70f5836259f3886c06cee3f3ae652ee8ca5d6578
+SHA256: 6046184ff6283076c24cd4e81a0dbac6aa72f42c3f7249fbe3412891e2e92444
+Section: Tweaks
+Description: 滑动到负一屏触发锁屏，排除通知中心锁屏界面，详情可以加QQ1772773799看效果图，付费群使用（不止这一个插件 具体可以看源里进群详情）
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 滑动到负一屏触发锁屏
+
 Package: com.wkk.gaodehook
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -17566,39 +17674,39 @@ Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.
 Name: KeyboardHook
 
 Package: com.wkk.keyround
-Version: 1.0-1
+Version: 1.0-2
 Architecture: iphoneos-arm64e
 Maintainer: wkk
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: sudo
-Filename: ./debs/com.wkk.keyround_1.0-1_iphoneos-arm64e.deb
-Size: 1764
-MD5sum: 196bef926e1056e598b0e7a78e497e9d
-SHA1: da002c3cd6285841a3ef6324dd8d8e8ed89c3149
-SHA256: 276643791e6e2f44f824ed6d565fee2a90263fc747dea630875ae6b881ca8065
+Filename: ./debs/com.wkk.keyround_1.0-2_iphoneos-arm64e.deb
+Size: 1778
+MD5sum: 78e7be227cb7282f61613b0a94a09a34
+SHA1: afa6b1dfedff059664275b3215964d03f20f77a2
+SHA256: 692f10f97a2a30783db020717b0033abacdf0bf1bfff9e978d183fb88537a5de
 Section: Tweaks
-Description: 全输入法的圆角插件，可附加微信输入法和系统键盘输入法键帽的圆角度数，专属私人订制，打造你独一无二的键盘（处理场景：竖屏、横屏、分屏 皆可圆角）详情可以加QQ1772773799看效果图，进付费群使用（不止这一个插件 可以看源里进群详情）
+Description: 全输入法（任意输入法）的圆角插件，可附加微信输入法和系统键盘输入法键帽的圆角度数，专属私人订制，打造你独一无二的键盘（处理场景：竖屏、横屏、分屏 皆可圆角）详情可以加QQ1772773799看效果图，进付费群使用（不止这一个插件 可以看源里进群详情）
 Tag: cydia::commercial
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
-Name: AAAAA全输入法圆角
+Name: 全输入法圆角
 
 Package: com.wkk.keyround
-Version: 1.0-1
+Version: 1.0-2
 Architecture: iphoneos-arm64
 Maintainer: wkk
 Depends: sudo
-Filename: ./debs/com.wkk.keyround_1.0-1_iphoneos-arm64.deb
-Size: 1092
-MD5sum: 3bd1562aedb65c7185c7d57e04a51313
-SHA1: c1209e3e5ff56f5ab81e521673038121b5eb499f
-SHA256: da5a42f95079b1cf8a21fd9d423dec541032f5f5fa9735b5dd8be5aa72e199dd
+Filename: ./debs/com.wkk.keyround_1.0-2_iphoneos-arm64.deb
+Size: 1100
+MD5sum: 3f0b88698f9f6ad0258109e1bab23c58
+SHA1: 9b0348b0c6fb8d5d4b8b39ba3b74f8df936b9d81
+SHA256: bd19a34882e450dc5d4c9a9eae9b4115118a55e85e4a7a270e75dd43fee6e7be
 Section: Tweaks
-Description: 全输入法的圆角插件，可附加微信输入法和系统键盘输入法键帽的圆角度数，专属私人订制，打造你独一无二的键盘（处理场景：竖屏、横屏、分屏 皆可圆角）详情可以加QQ1772773799看效果图，进付费群使用（不止这一个插件 可以看源里进群详情）
+Description: 全输入法（任意输入法）的圆角插件，可附加微信输入法和系统键盘输入法键帽的圆角度数，专属私人订制，打造你独一无二的键盘（处理场景：竖屏、横屏、分屏 皆可圆角）详情可以加QQ1772773799看效果图，进付费群使用（不止这一个插件 可以看源里进群详情）
 Tag: cydia::commercial
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
-Name: AAAAA全输入法圆角
+Name: 全输入法圆角
 
 Package: com.wkk.kghook
 Version: 1.0
@@ -19196,40 +19304,6 @@ Description: 阻止指定应用程序重定向到App Store、Safari或其他应�
 Author: Lessica <82flex@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/12/27/4a23398f59384c6633e9a0687a9f6d4b.png
 Name: 禁字决
-
-Package: com.wkk.noticehook
-Version: 1.0-7
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.noticehook_1.0-7_iphoneos-arm64.deb
-Size: 4320
-MD5sum: 07e9291e2050d615a3f18ab7bba65541
-SHA1: 66dd41e01ac69068de0f323db3493e3e96193668
-SHA256: c12f71607ab1e903485fb03bf08da0adea1aee712fc304e66b83c8f351d219bb
-Section: Tweaks
-Description: 系统的横幅和锁屏的通知降低透明度 ，使其看上去更加别致（付费的群友个人需要 且免费上源分享 入群可以加 qq1772773799 尽量满足你的大部分需求）
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
-Name: 通知透明度
-
-Package: com.wkk.noticehook
-Version: 1.0-7
-Architecture: iphoneos-arm64e
-Maintainer: wkk
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.noticehook_1.0-7_iphoneos-arm64e.deb
-Size: 4240
-MD5sum: d31fda1f32e52dbfa61e4fa67d801e68
-SHA1: bb618a6580511d96754ed85f6d74c00f6556340b
-SHA256: 0e99e72d3b0c63ebbfeabc472d06abb22570a8586f725d35640198db9893e96b
-Section: Tweaks
-Description: 系统的横幅和锁屏的通知降低透明度 ，使其看上去更加别致（付费的群友个人需要 且免费上源分享 入群可以加 qq1772773799 尽量满足你的大部分需求）
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
-Name: 通知透明度
 
 Package: com.wkk.nowaveform
 Version: 1.0.2
@@ -20994,39 +21068,40 @@ Author: poqw312
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: 禁用通知中心下拉手势
 
-Package: com.wkk.sbiconhook
-Version: 1.0-1
-Architecture: iphoneos-arm64e
-Maintainer: wkk
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.sbiconhook_1.0-1_iphoneos-arm64e.deb
-Size: 3400
-MD5sum: a8876908814a432f5b6294777c093d2c
-SHA1: e67c1f50c17dbedf1967dbb81af190664a967e23
-SHA256: 3edd945a936e65c2c525718a5174ef53e63ec1086cf45c4cadea658d580a1b35
-Section: Tweaks
-Description: Dopamine里点击重启springboard，解锁一个新的图标飞入动画。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
-Name: SpringboardFly
-
-Package: com.wkk.sbiconhook
+Package: com.wkk.sbsssss
 Version: 1.0-1
 Architecture: iphoneos-arm64
 Maintainer: wkk
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.sbiconhook_1.0-1_iphoneos-arm64.deb
-Size: 3452
-MD5sum: 5d4bd8adfda4008c1e50abf0263ff785
-SHA1: fbaa7ffa83fb2330e1075765807f8acb16ee6585
-SHA256: 7e533b7046dedd12d1fc55a50861d5bd7229bf0e16dbf1ae151a075825b2c984
+Depends: sudo
+Filename: ./debs/com.wkk.sbsssss_1.0-1_iphoneos-arm64.deb
+Size: 1024
+MD5sum: 0470dbc89a90c84ff108cd66160d3b16
+SHA1: e654a6014967b1453d81e0d0dcc169e68ee89368
+SHA256: ee448d8565e33465b39e5fe1a888b4e751f56e859085aa5b6de926642b842fdd
 Section: Tweaks
-Description: Dopamine里点击重启springboard，解锁一个新的图标飞入动画。
+Description: 多巴胺里重启springboard返回桌面图标动画像iOS26般跳动，非常好看，详情可以加QQ1772773799看效果图，付费群使用（不止这一个插件 具体可以看源里进群详情）
+Tag: cydia::commercial
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
-Name: SpringboardFly
+Name: 重启springboard动画重制
+
+Package: com.wkk.sbsssss
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo
+Filename: ./debs/com.wkk.sbsssss_1.0-1_iphoneos-arm64e.deb
+Size: 1596
+MD5sum: 7a5dee989c7d97cf548d65eabc4f5505
+SHA1: 71b69004375aa96ffc161435186e961af61f7ba8
+SHA256: e194dce8b819badec8da02cfccade66465bda6de28474a07f0da43d72ce4b3f1
+Section: Tweaks
+Description: 多巴胺里重启springboard返回桌面图标动画像iOS26般跳动，非常好看，详情可以加QQ1772773799看效果图，付费群使用（不止这一个插件 具体可以看源里进群详情）
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 重启springboard动画重制
 
 Package: com.wkk.sdk16.5
 Version: 1.0
@@ -21273,6 +21348,41 @@ Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.
 Name: Sileo美化
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/sileomeihua.json
 
+Package: com.wkk.sjssss
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo
+Filename: ./debs/com.wkk.sjssss_1.0-1_iphoneos-arm64.deb
+Size: 996
+MD5sum: 79b28c7aaf3df406387e43eabe6974d6
+SHA1: 56c146512b3db0688b6191578757d8397a3e1565
+SHA256: b4fe31c540e96cf6d6294234398ebbeb9a9a7c2a8c531a0ae0989df83c5f1828
+Section: Tweaks
+Description: 可定制自己喜欢的位置（坐标）详情可以加QQ1772773799看效果图，付费群使用（不止这一个插件 具体可以看源里进群详情）
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 锁屏通知时间下移
+
+Package: com.wkk.sjssss
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo
+Filename: ./debs/com.wkk.sjssss_1.0-1_iphoneos-arm64e.deb
+Size: 1538
+MD5sum: 3822c8998021d9dc5a4379f4afab4aa0
+SHA1: 63561b4164cfcd76607dc4bc8188e2cec9131d6e
+SHA256: b9f066bf4431111dec1e3e3064c7da10a9a3e5b38b2eb67d85b29a03eec0a480
+Section: Tweaks
+Description: 可定制自己喜欢的位置（坐标）详情可以加QQ1772773799看效果图，付费群使用（不止这一个插件 具体可以看源里进群详情）
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 锁屏通知时间下移
+
 Package: com.wkk.smartnetwork
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -21495,6 +21605,41 @@ Author: sunshinesong
 Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
 Name: split-view-pro
 Ts: sp-sss
+
+Package: com.wkk.sppp
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo
+Filename: ./debs/com.wkk.sppp_1.0-1_iphoneos-arm64.deb
+Size: 984
+MD5sum: 0b88c283babaf498f80d7bcc2208db3b
+SHA1: 7aba4b48e3874a88316c0c08195c7eb088b27168
+SHA256: 22d3736ad0ecdb172bb54a84dce977789e988eab8910b18d215118b34ef33367
+Section: Tweaks
+Description: 锁屏/通知中心界面上滑底部圆角，详情可以加QQ1772773799看效果图，付费群使用（不止这一个插件 具体可以看源里进群详情）
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 锁屏/通知中心界面圆角
+
+Package: com.wkk.sppp
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo
+Filename: ./debs/com.wkk.sppp_1.0-1_iphoneos-arm64e.deb
+Size: 1510
+MD5sum: 8adeb237678089c87c3e4a104525501b
+SHA1: 492cc28cf3e5285e18ca24ff7a5f69ffeb735fa5
+SHA256: a3967975efbb42ce9a1d81982ef03e72685ed82dd899129cb8d7080a3cfb55e0
+Section: Tweaks
+Description: 锁屏/通知中心界面上滑底部圆角，详情可以加QQ1772773799看效果图，付费群使用（不止这一个插件 具体可以看源里进群详情）
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 锁屏/通知中心界面圆角
 
 Package: com.wkk.springboardanimation
 Version: 1.0-1
@@ -22813,6 +22958,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2026/01/19/c257ee018d2f3cd556765003ed904364.png
 Name: 腾讯手机管家NoAds
 
+Package: com.wkk.tzzzssss
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo
+Filename: ./debs/com.wkk.tzzzssss_1.0-1_iphoneos-arm64.deb
+Size: 980
+MD5sum: 1520f673cac3e6965872cd40adce7e6a
+SHA1: 4b826fb2f8b9ccac3de32812d9f3c61c124bea2f
+SHA256: 50ad547434bf0c1f7b3538aa52330a2e9856854e60d85ec34a0f8fae2dde7574
+Section: Tweaks
+Description: 我只能说非常好看，详情可以加QQ1772773799看效果图，付费群使用（不止这一个插件 具体可以看源里进群详情）
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 通知横幅透明
+
+Package: com.wkk.tzzzssss
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo
+Filename: ./debs/com.wkk.tzzzssss_1.0-1_iphoneos-arm64e.deb
+Size: 1496
+MD5sum: f5d310b7e89813c0602389646016c67b
+SHA1: aab3337a072b58fb3eb64d677f00a2f86748174e
+SHA256: 6fa2ba79b1761d9f87b0402f4a1eef56d399c782e6b28e997971e23d9cd2733e
+Section: Tweaks
+Description: 我只能说非常好看，详情可以加QQ1772773799看效果图，付费群使用（不止这一个插件 具体可以看源里进群详情）
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 通知横幅透明
+
 Package: com.wkk.uitchook
 Version: 1.0-2
 Architecture: iphoneos-arm64e
@@ -22986,6 +23166,41 @@ Description: 禁用链接vpn飞入动画、控制中心vpn展示
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: 禁用vpn显示
+
+Package: com.wkk.wbsssss
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo
+Filename: ./debs/com.wkk.wbsssss_1.0-1_iphoneos-arm64e-1.deb
+Size: 1516
+MD5sum: ce24e96c9bcaaad0c9cc9710d6857bf0
+SHA1: efaa81b40f7105b5269ef9e032507828c3aeb6a9
+SHA256: fa63c5f5d7e4f95207673f58da6607aee9a2e167e422a7e775bdaafe2a13914a
+Section: Tweaks
+Description: 替换你APP内任意文字！不多赘述。详情可以加QQ1772773799看效果图，付费群使用（不止这一个插件 具体可以看源里进群详情）
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 文本替换
+
+Package: com.wkk.wbsssss
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo
+Filename: ./debs/com.wkk.wbsssss_1.0-1_iphoneos-arm64.deb
+Size: 988
+MD5sum: 755c2bfafcd293e48ba3a7ac25b7d2b3
+SHA1: aa7ab19f0e050afc3c1706ae808c5fc317518a0f
+SHA256: d28d7be28a070124dc4b7f71dbd597340eb7821cea4cc56939b02d6b6994b5e5
+Section: Tweaks
+Description: 替换你APP内任意文字！不多赘述。详情可以加QQ1772773799看效果图，付费群使用（不止这一个插件 具体可以看源里进群详情）
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 文本替换
 
 Package: com.wkk.wc3133
 Version: 1.0-2
@@ -23695,6 +23910,41 @@ Description: 控制中心连接WiFi关闭蜂窝，连接蜂窝关闭WiFi。
 Author: Bruno Andrade <brubiluco@globo.com>
 Icon: https://s1.imagehub.cc/images/2025/01/01/65559e36ac987c56556a7ab5daff0665.png
 Name: WiCellSwitcher
+
+Package: com.wkk.wpsss
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo
+Filename: ./debs/com.wkk.wpsss_1.0-1_iphoneos-arm64.deb
+Size: 1020
+MD5sum: adea16ac42ce1b6e61cd5ee8b5fbd367
+SHA1: 747309e8c9da3397cf51d45d13c163a335674634
+SHA256: 986062d2fe71098834690c33c337d2be495021a1b072ba9783db3ede6b199dc5
+Section: 微信插件
+Description: 可有自由定义群聊和私聊加号内工具栏，设置为5排且自定义顺序，详情可以加QQ1772773799看效果图，付费群使用（不止这一个插件 具体可以看源里进群详情）
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信工具栏五排自定义
+
+Package: com.wkk.wpsss
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo
+Filename: ./debs/com.wkk.wpsss_1.0-1_iphoneos-arm64e.deb
+Size: 1598
+MD5sum: d88a5180f03794099ebf97c00959f89b
+SHA1: 37495aae0b5c207a1b2d69a577773ae81217f270
+SHA256: 4de78ab2f6d3995358723b9e3fee2f3fd71b1be59362cf7bedffe93c5937f09f
+Section: 微信插件
+Description: 可有自由定义群聊和私聊加号内工具栏，设置为5排且自定义顺序，详情可以加QQ1772773799看效果图，付费群使用（不止这一个插件 具体可以看源里进群详情）
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信工具栏五排自定义
 
 Package: com.wkk.wtvrbglauncher
 Version: 1.2
@@ -25249,6 +25499,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/09/fe8f224bc3aa74a35f57edb499dc0127.png
 Name: 萤石云视频NoAds
 
+Package: com.wkk.yxssss
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo
+Filename: ./debs/com.wkk.yxssss_1.0-1_iphoneos-arm64.deb
+Size: 1080
+MD5sum: 4fa1580c5458260a6f9a498d2565daa5
+SHA1: 4dc18f9ef5b250cb7a6932621b39ed27d0072be4
+SHA256: 37ca369f2820ad63674671210bf1015c3c3df647db51d39c32c89ac63eb3265c
+Section: Tweaks
+Description: 隐藏26键和9键键帽内的展示内容，会变为一片空白，咱也不知道群友要这个有啥用，稀奇古怪，但是还是满足需求，详情可以加QQ1772773799看效果图，付费群使用（不止这一个插件 具体可以看源里进群详情）
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 隐藏原生键盘键帽内容详情
+
+Package: com.wkk.yxssss
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo
+Filename: ./debs/com.wkk.yxssss_1.0-1_iphoneos-arm64e-1.deb
+Size: 1732
+MD5sum: 76a0927e91c5e075649441ad8f359b46
+SHA1: 69b0bdc897b1c3a0def45d16593cf3cb37445224
+SHA256: f1e8ac7233ab5b8bb7ad5175231a6414c7a6829566243d4e0c8a4ce35018f9e6
+Section: Tweaks
+Description: 隐藏26键和9键键帽内的展示内容，会变为一片空白，咱也不知道群友要这个有啥用，稀奇古怪，但是还是满足需求，详情可以加QQ1772773799看效果图，付费群使用（不止这一个插件 具体可以看源里进群详情）
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 隐藏原生键盘键帽内容详情
+
 Package: com.wkk.zaire
 Version: 0.9.0
 Architecture: iphoneos-arm64e
@@ -25349,6 +25634,41 @@ Description: 去开屏，版本：11.1.53，接大量冷门热门app定制去广
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2026/01/15/32b308482c8d9f543e1c44631d46c30b.png
 Name: 什么值得买NoAds
+
+Package: com.wkk.zdxssss
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo
+Filename: ./debs/com.wkk.zdxssss_1.0-1_iphoneos-arm64.deb
+Size: 1044
+MD5sum: 42ff0268cb4c1e9d68971261b52b74cc
+SHA1: bd74dd3804d3ffb675287d87568b10b765c33d75
+SHA256: 137aea329f5f528c58d6783f8d20441d656c5f6f062da8f131daeeeb7d813b2f
+Section: Tweaks
+Description: 为了解决velvet2锁屏不完美的设置，隐藏折叠和x字样以至于更好的美化锁屏通知。详情可以加QQ1772773799看效果图，付费群使用（不止这一个插件 具体可以看源里进群详情）
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 禁用锁屏折叠 X
+
+Package: com.wkk.zdxssss
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo
+Filename: ./debs/com.wkk.zdxssss_1.0-1_iphoneos-arm64e.deb
+Size: 1668
+MD5sum: bdaa473e004fcc29b104a85fa9e13db7
+SHA1: ac20994a8881e2ad964491ad3d3f78031bea681e
+SHA256: 0076acc09c37f8238aee817a977cfe24a12f9e2603a6f115ef79cc3d650a56bf
+Section: Tweaks
+Description: 为了解决velvet2锁屏不完美的设置，隐藏折叠和x字样以至于更好的美化锁屏通知。详情可以加QQ1772773799看效果图，付费群使用（不止这一个插件 具体可以看源里进群详情）
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 禁用锁屏折叠 X
 
 Package: com.wkk.zeppelinreborn
 Version: 1.4.2
