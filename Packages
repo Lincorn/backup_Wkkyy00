@@ -14149,6 +14149,41 @@ Author: gilshahar7, 0xkuj
 Icon: https://s1.imagehub.cc/images/2025/01/02/8ec09e4613791a26f568aed1a81478ef.png
 Name: DNDMyRecording
 
+Package: com.wkk.dockasss
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo
+Filename: ./debs/com.wkk.dockasss_1.0-1_iphoneos-arm64.deb
+Size: 1012
+MD5sum: 6d6fa5cc451d141355a994660a55f7af
+SHA1: 8502a88464aaeceda31a5ab2722504d1dac4a7c9
+SHA256: 2b44c1ed96f971ff4d28604e9f3088cf193c659b48fe83261aed18b8cce34a64
+Section: Tweaks
+Description: Dock栏单独倒影美化插件，无需滑雪板，详情可以加QQ1772773799看效果图，付费群使用（不止这一个插件 具体可以看源里进群详情）
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Dock栏倒影（超清、高斯模糊）
+
+Package: com.wkk.dockasss
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo
+Filename: ./debs/com.wkk.dockasss_1.0-1_iphoneos-arm64e.deb
+Size: 1578
+MD5sum: 103021640167b7605fad1faeac5b57b8
+SHA1: bdb140291e0a99194154296a93287ff29220adba
+SHA256: 45364ee8f6be9402b408552ac9096e91a46f8da1c951f72522dfe33dcb6353e6
+Section: Tweaks
+Description: Dock栏单独倒影美化插件，无需滑雪板，详情可以加QQ1772773799看效果图，付费群使用（不止这一个插件 具体可以看源里进群详情）
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Dock栏倒影（超清、高斯模糊）
+
 Package: com.wkk.doodle
 Version: 1.2
 Architecture: iphoneos-arm64e
@@ -16254,6 +16289,76 @@ Tag: cydia::commercial
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: 滑动到负一屏触发锁屏
+
+Package: com.wkk.fytzssss
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo
+Filename: ./debs/com.wkk.fytzssss_1.0-1_iphoneos-arm64.deb
+Size: 1024
+MD5sum: 6c0e0d4492728384978aecb1d9e28341
+SHA1: 25f9bf1233bf365d730112fa06f64b22d1734808
+SHA256: cd7d5f47338939b301c3399f76f9953f51eac48e865838fe3d1ea9ab59e01447
+Section: Tweaks
+Description: 禁用上下滑动、调整三方小组件圆角、调整小组件上下位移、滑动到负一屏直接锁屏等。详情可以加QQ1772773799看效果图，付费群使用（不止这一个插件 具体可以看源里进群详情）
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 负一屏调整
+
+Package: com.wkk.fytzssss
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo
+Filename: ./debs/com.wkk.fytzssss_1.0-1_iphoneos-arm64e.deb
+Size: 1616
+MD5sum: 543511a699a11aa751cc1614432ceacb
+SHA1: fde588d16ef27971cfafcc02167f457943e14365
+SHA256: 06aa94f089ac48bc9d1010af4464e5da324a3a15b9e522ba7f4177d20413c5ef
+Section: Tweaks
+Description: 禁用上下滑动、调整三方小组件圆角、调整小组件上下位移、滑动到负一屏直接锁屏等。详情可以加QQ1772773799看效果图，付费群使用（不止这一个插件 具体可以看源里进群详情）
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 负一屏调整
+
+Package: com.wkk.fytzssssss
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo
+Filename: ./debs/com.wkk.fytzssssss_1.0-1_iphoneos-arm64.deb
+Size: 984
+MD5sum: b1f548765a2bae04f4d5710afb9e3b55
+SHA1: a6947b420e8a449e4b2152e52373f0f025e90bfd
+SHA256: e9d2b4e57d821b336a99d23729714b35c1818bd1b1e5db09d5d95eee2d63997b
+Section: Tweaks
+Description: 打开app以iPad形式动画展开。详情可以加QQ1772773799看效果图，付费群使用（不止这一个插件 具体可以看源里进群详情）
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: IPadAnimation
+
+Package: com.wkk.fytzssssss
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo
+Filename: ./debs/com.wkk.fytzssssss_1.0-1_iphoneos-arm64e.deb
+Size: 1510
+MD5sum: deb389ab0b3709e371201be9779eb6f4
+SHA1: a19263ef38103a9614715fd0889299e8e02352e9
+SHA256: af881d99a80ec547dde4296adedea41583e7110d000d3343aa57df95d6d91bd9
+Section: Tweaks
+Description: 打开app以iPad形式动画展开。详情可以加QQ1772773799看效果图，付费群使用（不止这一个插件 具体可以看源里进群详情）
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: IPadAnimation
 
 Package: com.wkk.gaodehook
 Version: 1.0
