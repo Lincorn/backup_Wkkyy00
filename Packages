@@ -5495,6 +5495,117 @@ Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.
 Name: floatingView
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
 
+Package: com.be-huge.floating-view
+Version: 1.6.0-4
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 2692
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.be-huge.floating-view_1.6.0-4_iphoneos-arm64.deb
+Size: 668772
+MD5sum: 3fdb4c82b342e3f612cce5b2db6fd5e3
+SHA1: 77fa68b129e7cc63d67124e3b37963575f4f7a13
+SHA256: 8bd2ab13ba47bb80f57edf0adf469a563ebdaa91888f297320371da51a13be49
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+Name: floatingView
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Version: 1.6.0-4
+Architecture: iphoneos-arm64e
+Maintainer: be-huge
+Installed-Size: 2692
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.be-huge.floating-view_1.6.0-4_iphoneos-arm64e.deb
+Size: 1795020
+MD5sum: 9c8b7719d9bc3ecfe119139dafdc0903
+SHA1: f40cb5254750e07890d055710651f81f8bf48ec5
+SHA256: a8f56f0e6272ac6b45e4bb97ad74cd382a6e71ecd6f27f16a7f095031f541fc5
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+Name: floatingView
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Version: 1.6.0-5
+Architecture: iphoneos-arm64e
+Maintainer: be-huge
+Installed-Size: 2692
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.be-huge.floating-view_1.6.0-5_iphoneos-arm64e.deb
+Size: 1801316
+MD5sum: f2aaffc4830162f9376f8a2e46563375
+SHA1: bebaf57f8bd9beb45f32e1b2710870617cdb7a82
+SHA256: 109fe7bc9e2e43b856a0b0be1854b3ca821af5efddcbe0a0c3be8d0e3e5a25fb
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+Name: floatingView
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Version: 1.6.0-5
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 2692
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.be-huge.floating-view_1.6.0-5_iphoneos-arm64.deb
+Size: 669944
+MD5sum: ae55d2a87dc3d325fa982bc0fbcbbc7a
+SHA1: 0c7d5c5c91e1c90b1fac1a4f46087912397f4dc9
+SHA256: a2c9be0d150986ac1421fef38b2e0a4f7d45db5f5aa797b4b8141490dfce3f7d
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+Name: floatingView
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Version: 1.6.0-6
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 2692
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.be-huge.floating-view_1.6.0-6_iphoneos-arm64.deb
+Size: 669852
+MD5sum: a40467359edb468b850c9496ad0cb33e
+SHA1: 8c95801f84d3da3cbead7b23cc2b74332c07488f
+SHA256: b31c8b215c4fee108954b18f4e78660eedbfdd8da3b59d041b3fbf917d3611e6
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+Name: floatingView
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Version: 1.6.0-6
+Architecture: iphoneos-arm64e
+Maintainer: be-huge
+Installed-Size: 2692
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.be-huge.floating-view_1.6.0-6_iphoneos-arm64e.deb
+Size: 1795960
+MD5sum: d59b9cbd5661a6cdaeb60ed38d1b7f4f
+SHA1: 53748fa13d3fb2ec126c5ff0c2c289431af574cb
+SHA256: ca5075a98794d8d8e49cbf84ac5d206fbadc891c030937f344f42138e1ab3845
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+Name: floatingView
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
 Package: com.blbl
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -8958,6 +9069,39 @@ Author: Mao
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: BubbleBox
 
+Package: com.wkk.BubbleBox
+Version: 1.0-3
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.wkk.BubbleBox_1.0-3_iphoneos-arm64.deb
+Size: 1582924
+MD5sum: 15f0de908086e2ffffb5eb8018cc9de1
+SHA1: 921e9807a7c97c6512179b3e98dd16f595c186ae
+SHA256: fb99331d57bb8f4b0acf59de91db49faf99f30dd5b88b6f90c7b163747eadcc5
+Section: 微信插件
+Description: 气泡插件。不会兑换就注入WCRefine兑换，激活网址：https://k.youshop10.com/oEo3zzEp
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: BubbleBox
+
+Package: com.wkk.BubbleBox
+Version: 1.0-3
+Architecture: iphoneos-arm64e
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.wkk.BubbleBox_1.0-3_iphoneos-arm64e.deb
+Size: 4196180
+MD5sum: 9f62df752f03fb4401b6ba9ca112ed37
+SHA1: a7ff9d5964242e258c9147b5b838db67d3394e2b
+SHA256: 07fce3af2e63948b335ed9bb3eab0623a2dc466fbd3eb11ff7222955b6cbd4f5
+Section: 微信插件
+Description: 气泡插件。不会兑换就注入WCRefine兑换，激活网址：https://k.youshop10.com/oEo3zzEp
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: BubbleBox
+
 Package: com.wkk.ChoicyConfigPin
 Version: 1.0-2
 Architecture: iphoneos-arm64
@@ -11396,6 +11540,41 @@ Size: 5049680
 MD5sum: 90ef2af0503acb0d04890d1c59ba9e28
 SHA1: efb17778e0d3a78e9ee0975810a0803a8cd27d0b
 SHA256: 1f980984c094280c7431bf2ff8c2e53b14c4c43b56f5a00fd75b6073df78439d
+Section: Tweaks
+Description: App强大的管理器，可以查看路径/清理缓存/重制数据/降级等功能。
+Author: Fouad Raheb
+Icon: https://s1.imagehub.cc/images/2025/01/09/b246fc94201f32510a72d268435cfd4a.png
+Name: AppData
+
+Package: com.wkk.appdata
+Version: 1.4.7
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 14408
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.appdata_1.4.7_iphoneos-arm64e.deb
+Size: 4442808
+MD5sum: 2d67e628026ec1b9baf4c77dc7caeff7
+SHA1: 750504bc86f80267b8e9ca0fb95d0efd18f23588
+SHA256: 880b526c664fa871f929d60d6d0d08def16bad11c1b0dfc3d194a12d0a2011be
+Section: Tweaks
+Description: App强大的管理器，可以查看路径/清理缓存/重制数据/降级等功能。
+Author: Fouad Raheb
+Icon: https://s1.imagehub.cc/images/2025/01/09/b246fc94201f32510a72d268435cfd4a.png
+Name: AppData
+
+Package: com.wkk.appdata
+Version: 1.4.7
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 14408
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.appdata_1.4.7_iphoneos-arm64.deb
+Size: 1498012
+MD5sum: 2b0c762beed276892dc492c712c29e77
+SHA1: 24a6a15f7ce0dfa1c44f05d3cd991d405eb5bcaa
+SHA256: fe5a6cd6ff7e8636b3df17a0ba5307a2296b57b610c6b21d3d35b5ecdbb96c45
 Section: Tweaks
 Description: App强大的管理器，可以查看路径/清理缓存/重制数据/降级等功能。
 Author: Fouad Raheb
