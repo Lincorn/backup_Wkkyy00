@@ -8525,6 +8525,41 @@ Author: WeChat
 Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
 Name: 主题盒子
 
+Package: com.tencent.themebox
+Version: 2.3.2
+Architecture: iphoneos-arm64e
+Maintainer: WeChat
+Installed-Size: 6132
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tencent.themebox_2.3.2_iphoneos-arm64e.deb
+Size: 14968906
+MD5sum: bc7b0221240ee6999c6e101bd8e8ec36
+SHA1: 18bd2a88d0d3e6b5764670db03adb51f0a2f7164
+SHA256: 6765834264a774aefa8a3beea404c21d54bfc48fb3a67069ab91462f20b86813
+Section: 微信插件
+Description: 学习交流。
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+Name: 主题盒子
+
+Package: com.tencent.themebox
+Version: 2.3.2
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tencent.themebox_2.3.2_iphoneos-arm64.deb
+Size: 5530216
+MD5sum: fe7dac56b68465bc79dd225c03e5f309
+SHA1: db5e6603970cef6a6579f5b16d5b1345a57d79e0
+SHA256: 9d4ec7433bdfca837e3e619ca598b57e05c3a3fd77ef5d4f29f364af25ce797b
+Section: 微信插件
+Description: 学习交流。
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+Name: 主题盒子
+
 Package: com.thermal.hook
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -10977,6 +11012,43 @@ Dev: 君临
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WCRefine
 
+Package: com.wkk.WCRefine
+Version: 1.4-4
+Architecture: iphoneos-arm64e
+Maintainer: 热心网友
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.wkk.WCRefine_1.4-4_iphoneos-arm64e.deb
+Size: 14726840
+MD5sum: d05660798513e61469fe9187a69a9277
+SHA1: 131f7b8b9445a865b48efba56aa4f8e139c63a04
+SHA256: 86e2ee3522139069391da433ec9933cb9737bfb3ae2b2608ffcda01ad07514bd
+Section: 微信插件
+Priority: optional
+Description: 微信优化的重制版本，WCRefine基于微信8.0.64+版本制作。
+Author: 热心网友
+Dev: 君临
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCRefine
+
+Package: com.wkk.WCRefine
+Version: 1.4-4
+Architecture: iphoneos-arm64
+Maintainer: 热心网友
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.wkk.WCRefine_1.4-4_iphoneos-arm64.deb
+Size: 5109860
+MD5sum: ef571a57e246e5c68a1967e71a03be28
+SHA1: bc13518eb6165049bc44e64426d7c9b424f7cc7c
+SHA256: 5c511f327dbad701f312b5d3b29a32951ecc9125d7fc78bc67fcca47de90d3cf
+Section: 微信插件
+Priority: optional
+Description: 微信优化的重制版本，WCRefine基于微信8.0.64+版本制作。
+Author: 热心网友
+Dev: 君临
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCRefine
+
 Package: com.wkk.WCSafeMode
 Version: 1.0-1
 Architecture: iphoneos-arm64e
@@ -11116,6 +11188,41 @@ Tag: cydia::commercial
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: 微信悬浮底栏
+
+Package: com.wkk.WeChattextcolor
+Version: 1.0-9
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo
+Filename: ./debs/com.wkk.WeChattextcolor_1.0-9_iphoneos-arm64.deb
+Size: 1040
+MD5sum: 2ad748fde75231fdcd7e8ee2c99eacdd
+SHA1: e549202f7900a9932ebd54607c95fa334da067af
+SHA256: 7cb98e3f2022ba03e3c6c82a401302b9e281060d397418e1493d5aa38155f985
+Section: 微信插件
+Description: 适用于在使用微信助手或者微信净化更改气泡后，对于文字颜色的修改（对话、语音、通话、定位、文件）以便于解决使用上方两个插件更改气泡后，深色模式、浅色模式出现的观感bug。
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信气泡文字改色
+
+Package: com.wkk.WeChattextcolor
+Version: 1.0-9
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo
+Filename: ./debs/com.wkk.WeChattextcolor_1.0-9_iphoneos-arm64e.deb
+Size: 1664
+MD5sum: 4a4ae60c54e30e2a2be951684b98d0c1
+SHA1: 959e106672569c90f7a3b308dd0c5593cffc67ff
+SHA256: 00ae773537d9eaa0b2104b1774a1d8b41630b4ad27bfe9ece64814540e99e1fb
+Section: 微信插件
+Description: 适用于在使用微信助手或者微信净化更改气泡后，对于文字颜色的修改（对话、语音、通话、定位、文件）以便于解决使用上方两个插件更改气泡后，深色模式、浅色模式出现的观感bug。
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信气泡文字改色
 
 Package: com.wkk.aaaaaaaaaa
 Version: 1.0-1
@@ -13771,6 +13878,92 @@ Description: 正版砸壳备份。
 Author: opa334
 Icon: https://sini921.github.io/repo/sileodepiction/icon/crane.png
 Name: Crane
+
+Package: com.wkk.cscathook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.cscathook_1.0-1_iphoneos-arm64e.deb
+Size: 2860
+MD5sum: 0be54ea9f269e60349f24d850c5bd2e5
+SHA1: 7df9ea27714ad198bef720af215dd53ec28f4c84
+SHA256: ab86fc4207074db9527552cafdf20b0659e86bbc7f3343518159cef6feed0a97
+Section: Tweaks
+Description: cool
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 禁用解锁图标飞入
+
+Package: com.wkk.cscathook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.cscathook_1.0-1_iphoneos-arm64.deb
+Size: 2920
+MD5sum: b40dff418a76851c4cabbb499e315083
+SHA1: fd7719aa68302c75ba7e5d35d28da9b994a261e2
+SHA256: 63d23922ac49f681d2432a2fe7b3214b701e31288d4e7beeafb369f36a865aa1
+Section: Tweaks
+Description: cool
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 禁用解锁图标飞入
+
+Package: com.wkk.customcallbg
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: iosdump
+Installed-Size: 408
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.customcallbg_0.0.1_iphoneos-arm.deb
+Size: 28980
+MD5sum: 2b9ac352085da13e8e938fc4cee188dc
+SHA1: a5a1f463f0b93ed3675122e7f0b0a3e824d2b45d
+SHA256: 18097effc345285208d0f120fcc5b7c112206ebd2ac27011bf61b56618fdb892
+Section: Tweaks
+Description: iOS 14-17 自定义来去电背景插件
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: CustomCallBg
+
+Package: com.wkk.customcallbg
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 408
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.customcallbg_0.0.1_iphoneos-arm64e.deb
+Size: 40292
+MD5sum: 35457614f3460c1ae715bfa3ff7a6478
+SHA1: 394926fafd07b06002d45a5e3ccaa2c4afd2ef77
+SHA256: dceac52db5b1560a2ca205612c5c6013223ab194275bb59576be7ac224fba204
+Section: Tweaks
+Description: iOS 14-17 自定义来去电背景插件
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: CustomCallBg
+
+Package: com.wkk.customcallbg
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 408
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.customcallbg_0.0.1_iphoneos-arm64.deb
+Size: 29068
+MD5sum: 14938b2b4e1daaea5e364dcbf027f625
+SHA1: a50a272037063eb9768b6802b476e44c78510adb
+SHA256: 94412de7ae4c912584bc5ca7e33232dc9b342fd226fddaa1cc3a0755bb0632a9
+Section: Tweaks
+Description: iOS 14-17 自定义来去电背景插件
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: CustomCallBg
 
 Package: com.wkk.cxdebdylib
 Version: 1.0
