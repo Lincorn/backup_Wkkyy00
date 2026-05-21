@@ -20259,6 +20259,39 @@ Author: b4db1r3 <nfive060@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/01/03/817ff87a22c5e12c8147f4af053f8c42.png
 Name: OCD5
 
+Package: com.wkk.oleddarkmode
+Version: 0.5.1-11
+Architecture: iphoneos-arm64e
+Maintainer: @fr0st & b4db1r3 <nfive060@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/com.wkk.oleddarkmode_0.5.1-11_iphoneos-arm64e.deb
+Size: 12234
+MD5sum: fdf5004a6c18dd64190338ac504503da
+SHA1: 947d2e8ccb0f144b2e1804927463d0b5d8e9ba0e
+SHA256: 7d131a7315ec8bb3ea21c7cd3efb880d926670afed3ba15d656561e1c696a1bb
+Section: Tweaks
+Description: 让深色模式更深
+Author: @fr0st & b4db1r3 <nfive060@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: OLED Dark Mode
+
+Package: com.wkk.oleddarkmode
+Version: 0.5.1-11
+Architecture: iphoneos-arm64
+Maintainer: @fr0st & b4db1r3 <nfive060@gmail.com>
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/com.wkk.oleddarkmode_0.5.1-11_iphoneos-arm64.deb
+Size: 9448
+MD5sum: c61882ec2bd9de3993be06ccb7b41675
+SHA1: 12ce679c9d8d04013c422169ceb25b5bd29913f3
+SHA256: a5b358607e6242886f47d71418905272905a195653fb41dcbc01c4ce7b5ace4a
+Section: Tweaks
+Description: 让深色模式更深
+Author: @fr0st & b4db1r3 <nfive060@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: OLED Dark Mode
+
 Package: com.wkk.onehandwizard2
 Version: 1.0.6
 Architecture: iphoneos-arm64
@@ -22089,6 +22122,110 @@ Description: 将美观的小部件带到设置的顶部，已汉化。
 Author: shepgoba <arm64.deb@icloud.com>
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: SettingsWidgets
+
+Package: com.wkk.shellx
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 576
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.shellx_0.0.2_iphoneos-arm64.deb
+Size: 72336
+MD5sum: fb570d6e2d8bd2fa8941c071b4c84a99
+SHA1: f56166c7152a2c517eec3b4e421d32a781a57d7a
+SHA256: 9a71247b455e4ad0b7e1d1130917c771ab8e97264dbe87a9e7279d21b2cb36f9
+Section: Tweaks
+Description: 录屏/截图，自动套壳、水印工具，支持iOS14-17所有越狱
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: SHELLX
+
+Package: com.wkk.shellx
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: iosdump
+Installed-Size: 576
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.shellx_0.0.2_iphoneos-arm.deb
+Size: 72632
+MD5sum: 661eb5d4e19e93756fe6f7ab5ff14442
+SHA1: 47419f0b1feb8b23aaa4f67d4bd1afa75a82dbe1
+SHA256: 96e52302cd2802d575cbf65bd7b4d707d30d0120a47078269e7848b4da82829a
+Section: Tweaks
+Description: 录屏/截图，自动套壳、水印工具，支持iOS14-17所有越狱
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: SHELLX
+
+Package: com.wkk.shellx
+Version: 0.0.2
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 576
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.shellx_0.0.2_iphoneos-arm64e.deb
+Size: 101652
+MD5sum: 08f9bbedf5734f133a36593114da47b8
+SHA1: 15cbcdf95043d4e30bd956583f6c24b5afdc87f4
+SHA256: cb4d9882645cd8b973c9a53d909ea58c34a3a3904132c1f19c9b1f4115043d9b
+Section: Tweaks
+Description: 录屏/截图，自动套壳、水印工具，支持iOS14-17所有越狱
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: SHELLX
+
+Package: com.wkk.shellx
+Version: 0.0.3
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 576
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.shellx_0.0.3_iphoneos-arm64.deb
+Size: 73684
+MD5sum: d465895da9a959671abbb04bc64e3083
+SHA1: a05bfbc90d83789681186e08df1d75b5a2880845
+SHA256: ddbdf88907e136a8d507c94b4d3b7fd6258d2c85de0f47a170127234ebe308e8
+Section: Tweaks
+Description: 录屏/截图，自动套壳、水印工具，支持iOS14-17所有越狱
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: SHELLX
+
+Package: com.wkk.shellx
+Version: 0.0.3
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 576
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.shellx_0.0.3_iphoneos-arm64e.deb
+Size: 103336
+MD5sum: 24bdab74deb417de1f5c33725a082ab3
+SHA1: f4d3c2084e29dbc8f8eca755b5def5dec9513e2a
+SHA256: 4b96403d0f4098e3e11d31a53c2e98f45a247fc7ae04372d126e12c2e9284a97
+Section: Tweaks
+Description: 录屏/截图，自动套壳、水印工具，支持iOS14-17所有越狱
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: SHELLX
+
+Package: com.wkk.shellx
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: iosdump
+Installed-Size: 576
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.shellx_0.0.3_iphoneos-arm.deb
+Size: 73976
+MD5sum: 9ed0400595b6e29378883177fa7e820e
+SHA1: a4a5a73d2dcf4c6cf2b7719150131563fba5950f
+SHA256: ccb644c7b11ecf7f6810891860592bd6fb302d90aa9ff374183b6e579050d0db
+Section: Tweaks
+Description: 录屏/截图，自动套壳、水印工具，支持iOS14-17所有越狱
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: SHELLX
 
 Package: com.wkk.showmytouches
 Version: 1.2.1
