@@ -10416,6 +10416,41 @@ Author: huami
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WCPulse
 
+Package: com.wkk.WCPulse
+Version: 1.6-1
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 1348
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.WCPulse_1.6-1_iphoneos-arm64e.deb
+Size: 26786308
+MD5sum: 3607d57e7eecbe0fcbe43b3693430b00
+SHA1: b1def26126be918541fb812d3f08e148dacdeb75
+SHA256: d4edae311c45083040e322f5ec7ea0000b43e88935102e14dc1cd0ccd1b515c8
+Section: 微信插件
+Description: WCPulse
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCPulse
+
+Package: com.wkk.WCPulse
+Version: 1.6-1
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 1348
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.WCPulse_1.6-1_iphoneos-arm64.deb
+Size: 9849964
+MD5sum: d002c3646eece6dda58df4955b1da8f0
+SHA1: 482454cef44c6076b48686d23fe42a316114a80c
+SHA256: 0dca1e93fd5075718e21921c40340eb0681b9c9a1625807e9386748a1e3cb418
+Section: 微信插件
+Description: WCPulse
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCPulse
+
 Package: com.wkk.WCPush2Chat
 Version: 1.0-2
 Architecture: iphoneos-arm64
@@ -22227,6 +22262,58 @@ Author: iosdump
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: SHELLX
 
+Package: com.wkk.shellx
+Version: 0.0.5
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 576
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.shellx_0.0.5_iphoneos-arm64.deb
+Size: 81516
+MD5sum: afc0e174828b9a6c14f86dc3e214b833
+SHA1: aec5512fb5957ce971ae86b501b66226dfab85f3
+SHA256: dbc1218874376f8971736dd9e2636fe03cefe5e725ba86c9310d6868a3d46ffa
+Section: Tweaks
+Description: 录屏/截图，自动套壳、水印工具，支持iOS14-17所有越狱
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: SHELLX
+
+Package: com.wkk.shellx
+Version: 0.0.5
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 576
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.shellx_0.0.5_iphoneos-arm64e.deb
+Size: 115282
+MD5sum: d84fb6764f2c694ead7f7f35c6af93cc
+SHA1: 645e3044cb0e9cecae9753c57de0cc421451930e
+SHA256: 7d9df7dd94098cf873b0f812344661a4b72171f97e8032bb3eaa297844a0d8cb
+Section: Tweaks
+Description: 录屏/截图，自动套壳、水印工具，支持iOS14-17所有越狱
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: SHELLX
+
+Package: com.wkk.shellx
+Version: 0.0.5
+Architecture: iphoneos-arm
+Maintainer: iosdump
+Installed-Size: 576
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.shellx_0.0.5_iphoneos-arm.deb
+Size: 81852
+MD5sum: eff70e1b7db4484b1634a84efcc1cff1
+SHA1: 8aefbe71e0ad5b215a929a34a4d00b346d8ccae1
+SHA256: 2d54300d1bf18eb394203761e16f0a84bb6dfb165a91402c6402e6778bc1b483
+Section: Tweaks
+Description: 录屏/截图，自动套壳、水印工具，支持iOS14-17所有越狱
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: SHELLX
+
 Package: com.wkk.showmytouches
 Version: 1.2.1
 Architecture: iphoneos-arm64e
@@ -22695,6 +22782,41 @@ Description: 返回桌面及切换后台动画进行一定比例的缩放，双0
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: 神奇的交互动画
+
+Package: com.wkk.spzddddd
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo
+Filename: ./debs/com.wkk.spzddddd_1.0-1_iphoneos-arm64.deb
+Size: 972
+MD5sum: 5ee9ccbf552d07e9e79d4c87a3cdd665
+SHA1: 63808bcc85cab6c45f488f1b8ab6f46c03e02c43
+SHA256: 414b458f0acf699bfa7e763377b517c52cacbd0a4b9cc0254bdbe2e35f7a9200
+Section: Tweaks
+Description: 锁屏自动低电量，解锁自动恢复，排除通知中心。付费群使用（不止这一个插件 具体可以看源里进群详情）
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 锁屏自动低电量
+
+Package: com.wkk.spzddddd
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo
+Filename: ./debs/com.wkk.spzddddd_1.0-1_iphoneos-arm64e-1.deb
+Size: 1490
+MD5sum: 43844b4ab6f2a664d5539c62b3e45fe0
+SHA1: e495b61e11526f018f8b8c48a35b08b86b614734
+SHA256: 6131a1e374bd380fbf28a323abeb8c87331bebf838ae8432eb33e79c497be614
+Section: Tweaks
+Description: 锁屏自动低电量，解锁自动恢复，排除通知中心。付费群使用（不止这一个插件 具体可以看源里进群详情）
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 锁屏自动低电量
 
 Package: com.wkk.ssschook
 Version: 1.0-3
