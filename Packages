@@ -11340,41 +11340,41 @@ Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.
 Name: WCSafeMode
 
 Package: com.wkk.WeChatX
-Version: 1.1-1
+Version: 1.3-4
 Architecture: iphoneos-arm64e
 Maintainer: wkk
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: sudo
-Filename: ./debs/com.wkk.WeChatX_1.1-1_iphoneos-arm64e.deb
-Size: 1540
-MD5sum: 0e9f0e8a70c7dd3f3106321c6c80984d
-SHA1: 7e3405dd95553542e7b054266682d91c3b3309e1
-SHA256: 75ec8f67639d82d0f99656695a692fc843b772c1d1d16f00eb3bc47de848b693
+Filename: ./debs/com.wkk.WeChatX_1.3-4_iphoneos-arm64e.deb
+Size: 1498
+MD5sum: 5d081f6f49d02a5b714f189d9116abba
+SHA1: 89cb3f948f0dea200659141c15741de79e0c90b8
+SHA256: 9101d72102beeb3f84558d63ce4b0084a97bf33c80cdf3a93c6676e70c2a5a86
 Section: 微信插件
-Description: 致力于将市面上没有的一些功能集成在一个插件里（进展60%）付费群员使用。
+Description: 致力于将市面上没有的一些功能集成在一个插件里付费群员使用。
 Tag: cydia::commercial
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WeChatX
-Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/xfdl.json
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/WeChatX.json
 
 Package: com.wkk.WeChatX
-Version: 1.1-1
+Version: 1.3-4
 Architecture: iphoneos-arm64
 Maintainer: wkk
 Depends: sudo
-Filename: ./debs/com.wkk.WeChatX_1.1-1_iphoneos-arm64.deb
-Size: 996
-MD5sum: 15a84cefebcfcff33a50bcb8ee25f7f8
-SHA1: 60db194870b13a7752530abae475be2e2cf7b371
-SHA256: 986aa76f76d46c98e9583cf1919ff645b6750a34b1779f86fa1c9347841e550a
+Filename: ./debs/com.wkk.WeChatX_1.3-4_iphoneos-arm64.deb
+Size: 984
+MD5sum: 6d5852c5fc75395d1cd2d2389e7f7c4c
+SHA1: e57b4f6ec8f64244dc2a13ae3d3cb37ce641c6ac
+SHA256: f63d0d0ac2fab9dabeed4566ac28958e2c2c1ef7087b9edc9932d64dc461ce61
 Section: 微信插件
-Description: 致力于将市面上没有的一些功能集成在一个插件里（进展60%）付费群员使用。
+Description: 致力于将市面上没有的一些功能集成在一个插件里付费群员使用。
 Tag: cydia::commercial
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WeChatX
-Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/xfdl.json
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/WeChatX.json
 
 Package: com.wkk.WeChatbeautifully
 Version: 1.0
@@ -22260,35 +22260,35 @@ Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.
 Name: 禁用通知中心下拉手势
 
 Package: com.wkk.sbsssss
-Version: 1.0-1
+Version: 1.0-2
 Architecture: iphoneos-arm64
 Maintainer: wkk
 Depends: sudo
-Filename: ./debs/com.wkk.sbsssss_1.0-1_iphoneos-arm64.deb
-Size: 1024
-MD5sum: 0470dbc89a90c84ff108cd66160d3b16
-SHA1: e654a6014967b1453d81e0d0dcc169e68ee89368
-SHA256: ee448d8565e33465b39e5fe1a888b4e751f56e859085aa5b6de926642b842fdd
+Filename: ./debs/com.wkk.sbsssss_1.0-2_iphoneos-arm64.deb
+Size: 1136
+MD5sum: fe52b72677ce5eea2f8a645ddc845aa7
+SHA1: 43c7ed269c61926676b20061318ea8a6b341d686
+SHA256: 7c84305ceb94def162770213d97a5c013d53498b2ef08889e7c04f9ad9737e17
 Section: Tweaks
-Description: 多巴胺里重启springboard返回桌面图标动画像iOS26般跳动，非常好看，详情可以加QQ1772773799看效果图，付费群使用（不止这一个插件 具体可以看源里进群详情）
+Description: 多巴胺里重启springboard返回桌面图标动画像iOS26般跳动，非常好看，付费群使用，重启springboard好处是为了时刻让手机在良好的状态下运行越狱环境，以及不会经常出现无法排查的插件冲突现象，养成这个良好习惯。可以规避大部分的问题（不止这一个插件，具体可以看源里进群详情）
 Tag: cydia::commercial
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: 重启springboard动画重制
 
 Package: com.wkk.sbsssss
-Version: 1.0-1
+Version: 1.0-2
 Architecture: iphoneos-arm64e
 Maintainer: wkk
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: sudo
-Filename: ./debs/com.wkk.sbsssss_1.0-1_iphoneos-arm64e.deb
-Size: 1596
-MD5sum: 7a5dee989c7d97cf548d65eabc4f5505
-SHA1: 71b69004375aa96ffc161435186e961af61f7ba8
-SHA256: e194dce8b819badec8da02cfccade66465bda6de28474a07f0da43d72ce4b3f1
+Filename: ./debs/com.wkk.sbsssss_1.0-2_iphoneos-arm64e.deb
+Size: 1898
+MD5sum: 3149deab08359c9bcf32ca129052a263
+SHA1: c12d540549e06c3e5a44e6622ccebf85a4f62e98
+SHA256: 07fcb2080292b67475950cc3a3e83d196b3f668dab6b80c117477fac835c66bf
 Section: Tweaks
-Description: 多巴胺里重启springboard返回桌面图标动画像iOS26般跳动，非常好看，详情可以加QQ1772773799看效果图，付费群使用（不止这一个插件 具体可以看源里进群详情）
+Description: 多巴胺里重启springboard返回桌面图标动画像iOS26般跳动，非常好看，付费群使用，重启springboard好处是为了时刻让手机在良好的状态下运行越狱环境，以及不会经常出现无法排查的插件冲突现象，养成这个良好习惯。可以规避大部分的问题（不止这一个插件，具体可以看源里进群详情）
 Tag: cydia::commercial
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
@@ -22599,6 +22599,58 @@ Size: 173464
 MD5sum: 421791c6edbdc4807ee5d2bd960cedb2
 SHA1: 9b115b7901150dec1e41cb23a414a8a35c06cc24
 SHA256: 0f97dfd1c3c0b9353fdf5681d32ff4f3acd0528251b353575125f5f91a7aac87
+Section: Tweaks
+Description: 录屏/截图，自动套壳、水印工具，支持iOS14-17所有越狱
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: SHELLX
+
+Package: com.wkk.shellx
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: iosdump
+Installed-Size: 576
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.shellx_1.1.0_iphoneos-arm.deb
+Size: 136544
+MD5sum: 282a5f77e57719d52d14094d3efad829
+SHA1: d0b1239559a73b555b9e5c5e8c6137ebf8085c7c
+SHA256: 33a8ec3aa38bd86093136cd0defa62fcd078e0670a0cdbd652f525e92ccf48b9
+Section: Tweaks
+Description: 录屏/截图，自动套壳、水印工具，支持iOS14-17所有越狱
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: SHELLX
+
+Package: com.wkk.shellx
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 576
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.shellx_1.1.0_iphoneos-arm64.deb
+Size: 136772
+MD5sum: ca71f3d0b815eca99b4ebce52e5a1989
+SHA1: 406b13c721fd87570cdc5faad1f220adb9bcecbf
+SHA256: 7499775ca2c4338ba284d1e93eeff10d319eef7d6ff23b2df338f8bf132105a6
+Section: Tweaks
+Description: 录屏/截图，自动套壳、水印工具，支持iOS14-17所有越狱
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: SHELLX
+
+Package: com.wkk.shellx
+Version: 1.1.0
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 576
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.shellx_1.1.0_iphoneos-arm64e.deb
+Size: 187536
+MD5sum: 7ab665d2a5f871600104cb9e253a38b2
+SHA1: 10693c151731cd9886433a85e7b7b4cfd217c82e
+SHA256: 2a575d073081ab463ebc5e453c83e965720c335635318f60bbb272a765d93867
 Section: Tweaks
 Description: 录屏/截图，自动套壳、水印工具，支持iOS14-17所有越狱
 Author: iosdump
