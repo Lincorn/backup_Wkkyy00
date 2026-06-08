@@ -25598,35 +25598,35 @@ Icon: https://s1.imagehub.cc/images/2025/01/09/173b823a03cbe3c3d5342c56736f52cd.
 Name: WeChatUISwitchLoader
 
 Package: com.wkk.wechatx
-Version: 1.5-1
+Version: 1.5-3
 Architecture: iphoneos-arm64
 Maintainer: wkk
-Installed-Size: 1416
+Installed-Size: 2064
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.wechatx_1.5-1_iphoneos-arm64.deb
-Size: 310748
-MD5sum: 102bc1634ed1571f5c56c4187309277c
-SHA1: 7aa31b35d3f30b49d7e6f1eee9f4f0c4f60668df
-SHA256: 75048ae01b217ae2dec5c8b54587a7629a738db098a10240e9cfb030755dba6d
-Section: 微信插件
-Description: （修复若干bug 版本号不变）付费群插件免费开放，如果你想往里增加自己想要的功能，如果你想和我建立一个沟通的桥梁，联系我进付费群QQ1772773799，不止这一个插件！！（如果你发现某些bug，说明你用的有些插件太老了，没有人维护，请嘴下留情）
+Filename: ./debs/com.wkk.wechatx_1.5-3_iphoneos-arm64.deb
+Size: 448750
+MD5sum: a6ed9a1ff5f5021d81a96ffe9106a998
+SHA1: 46b7098b25e6c34ab476e9a07362f9d940627709
+SHA256: 0f0e97a7897a0e82672454d0d992f65108b4f11d1791f247dd0410884860c5f2
+Section: Tweaks
+Description: cool
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WeChatX
 
 Package: com.wkk.wechatx
-Version: 1.5-1
+Version: 1.5-3
 Architecture: iphoneos-arm64e
 Maintainer: wkk
-Installed-Size: 1416
+Installed-Size: 2064
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.wechatx_1.5-1_iphoneos-arm64e.deb
-Size: 309760
-MD5sum: 91af7905edf2e484879b003f1aa8fd54
-SHA1: b2257ff236d97661b3766034d1262b7dd70e8c6b
-SHA256: 85807894c04c7bb782ca741255a8021cc1c136166603e84f73e7be39006a6d84
-Section: 微信插件
-Description: （修复若干bug 版本号不变）付费群插件免费开放，如果你想往里增加自己想要的功能，如果你想和我建立一个沟通的桥梁，联系我进付费群QQ1772773799，不止这一个插件！！（如果你发现某些bug，说明你用的有些插件太老了，没有人维护，请嘴下留情）
+Filename: ./debs/com.wkk.wechatx_1.5-3_iphoneos-arm64e.deb
+Size: 449810
+MD5sum: 1d8acd62f567a4fd0d80266faeabe7c4
+SHA1: 4fe302be6c1d78c327e4e3d0d10ada0a9d1a5a30
+SHA256: d482f8e29d748fae718d487fe661d74096fd99772e4a46da2cdd315dc6fae947
+Section: Tweaks
+Description: cool
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WeChatX
