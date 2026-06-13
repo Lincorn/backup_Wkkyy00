@@ -18511,6 +18511,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: Hideiconx
 
+Package: com.wkk.iconxxxxxxsf
+Version: 1.0-7
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo
+Filename: ./debs/com.wkk.iconxxxxxxsf_1.0-7_iphoneos-arm64.deb
+Size: 904
+MD5sum: 0ef770a318725163f5986319fd957db9
+SHA1: b0a29ec42b7e5a6f58bb116b578f113669c7bb81
+SHA256: b1a11de72abc3c67c41f3fa1113bbb9c5f9789834a1fee59297b5da8cf1e53ac
+Section: Tweaks
+Description: 带设置项，可自由选择，付费群使用。
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 图标缩放
+
+Package: com.wkk.iconxxxxxxsf
+Version: 1.0-7
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo
+Filename: ./debs/com.wkk.iconxxxxxxsf_1.0-7_iphoneos-arm64e.deb
+Size: 1320
+MD5sum: f9fc0ebca54af03858ae3e745433f65c
+SHA1: 19d1b59c1810dbd8a625640ad1ef3eaadd8bd99b
+SHA256: 85fa52b521520892cc195755713e01447c0ce2cdd313b330ff0d15e133e9122e
+Section: Tweaks
+Description: 带设置项，可自由选择，付费群使用。
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 图标缩放
+
 Package: com.wkk.imaotai
 Version: 0.0.2
 Architecture: iphoneos-arm64e
@@ -25802,6 +25837,40 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WeChatX
 
+Package: com.wkk.wechatx
+Version: 1.5-4
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 2112
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.wechatx_1.5-4_iphoneos-arm64.deb
+Size: 460182
+MD5sum: 98852557835f0a509bd72dbb0530c3e4
+SHA1: 08774658b2870d4b7b88f4f9c6aca55ff193bda9
+SHA256: c8265a3d0c69e31e012fc95b3f02e14017d4a1d97c40f9e23fda2ad44ffc0f7a
+Section: Tweaks
+Description: cool
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatX
+
+Package: com.wkk.wechatx
+Version: 1.5-4
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 2112
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.wechatx_1.5-4_iphoneos-arm64e.deb
+Size: 460168
+MD5sum: a75dae9515a574a868e8966290d15a8f
+SHA1: f9c18cc3ce28e374a74869a793c8a156cf87efa4
+SHA256: cf71979d47338b3de90d9e9437f2b0890d7116b8fab5363d999bf41573f44344
+Section: Tweaks
+Description: cool
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatX
+
 Package: com.wkk.weibohook
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -26321,6 +26390,58 @@ Description: cool
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2026/02/01/48e983d1701766cc8c84c7edf962c359.png
 Name: 隐藏微信输入法logo
+
+Package: com.wkk.wxqzgz
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 208
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.wxqzgz_0.0.1_iphoneos-arm64e.deb
+Size: 74316
+MD5sum: d96b861dd91d21ec6aa1fb45becc9796
+SHA1: 71348be73ece5e2d9cbf6facc73b735d97b6373d
+SHA256: c14424ecda9606e30b7c4f3d796b0aec64d23cf29bd58fba88a9bd4246a0fc1e
+Section: 微信插件
+Description: 强制关注微信公众号。
+Author: lenglengyu
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信公众号强制关注
+
+Package: com.wkk.wxqzgz
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 208
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.wxqzgz_0.0.1_iphoneos-arm.deb
+Size: 53016
+MD5sum: 1dd3ef22482378188cabb881d9f6813f
+SHA1: 69523097604b099bb2ac30061618b99454dc64e7
+SHA256: c7e548af498cb8579578514b3005888d237f0a590d975046a348b989f5515395
+Section: 微信插件
+Description: 强制关注微信公众号。
+Author: lenglengyu
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信公众号强制关注
+
+Package: com.wkk.wxqzgz
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 208
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.wxqzgz_0.0.1_iphoneos-arm64.deb
+Size: 53200
+MD5sum: 56c33e4b3da9e9906fc1b67fced547b6
+SHA1: d281db92230e86891dabe41d7318a110266dfb7b
+SHA256: e696d1c72b8980fc995e1b2c2e9b90b5ddf99b08e357a7b2ff57e2e97385165c
+Section: 微信插件
+Description: 强制关注微信公众号。
+Author: lenglengyu
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信公众号强制关注
 
 Package: com.wkk.wxurlexpand
 Version: 0.2-0
