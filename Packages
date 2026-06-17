@@ -10712,10 +10712,10 @@ Installed-Size: 1348
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.wkk.WCPulse_1.6-3_iphoneos-arm64e.deb
-Size: 11651910
-MD5sum: c04ec96c7fee3f08d94feecd5a56ed4a
-SHA1: d44f1e1f31f93d5e53a5593dfcbc83460dca1945
-SHA256: cc587d11907a572d239d61a3482dd124dacf295ab7b1acf367f3a1383ae3d0b8
+Size: 11652200
+MD5sum: e361fe42332948fdef4256dddc21ac0a
+SHA1: ee5bdd2822ed00195da838d1c3e1b501b034b6b3
+SHA256: cf8c16e558004001593e597bda6ad5339332bf7fb86f04b23535c4f222a0b5dd
 Section: 微信插件
 Description: WCPulse
 Author: huami
@@ -10729,10 +10729,10 @@ Maintainer: huami
 Installed-Size: 1348
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.wkk.WCPulse_1.6-3_iphoneos-arm64.deb
-Size: 4259828
-MD5sum: 09ec43fb6c5c0de4c246653c22876fee
-SHA1: 70a9d7c95680af3a59ec0534511762ce94f56d27
-SHA256: 60fb4adf28ebe7f89324ddbcfd8aff0817fade1831b8bdc3fc8c2a1baecfa2db
+Size: 4259720
+MD5sum: ae0570fa120bceeb9dfc2343b672db50
+SHA1: bb979aeb8ac1fee0e2da665d6a1fa6ffa8e48d3c
+SHA256: ce5482e6bd4c45a5b06295a2c9da81ae70b67a477e31bee7f0ac326481aa8683
 Section: 微信插件
 Description: WCPulse
 Author: huami
@@ -18598,6 +18598,76 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: 图标缩放
 
+Package: com.wkk.iconxxxxxxsf99
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo
+Filename: ./debs/com.wkk.iconxxxxxxsf99_1.0-1_iphoneos-arm64e.deb
+Size: 1268
+MD5sum: 5e8357773d3829d93bbb8e12f983e5c4
+SHA1: f819815f49cac3732d350a847857aa4cc7b80de2
+SHA256: b1a314938a8b7384e371d592f7187e997b7f44ee3ed860e4bb005ddbd1920563
+Section: Tweaks
+Description: 付费群使用。
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 长按锁屏键录屏
+
+Package: com.wkk.iconxxxxxxsf99
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo
+Filename: ./debs/com.wkk.iconxxxxxxsf99_1.0-1_iphoneos-arm64.deb
+Size: 880
+MD5sum: 1eddad14ecfb2b6a21b18c32e11ccf03
+SHA1: f2b370fadf5efaf7f9ee2b25157fc0b8da61c355
+SHA256: 4762628ef80bcaf4f9a33abc1043c9de1dbe8ee844bbd7448aa734e28d15fe28
+Section: Tweaks
+Description: 付费群使用。
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 长按锁屏键录屏
+
+Package: com.wkk.iconxxxxxxsf9988
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo
+Filename: ./debs/com.wkk.iconxxxxxxsf9988_1.0-1_iphoneos-arm64e.deb
+Size: 1474
+MD5sum: 706daf7939f7fc5a4889562646549146
+SHA1: ca33c5d5ba4804daa279a2b0009caee42e068fdb
+SHA256: 78f4911d3c51c0aec0e29c197858e2ef7222b4d3b5622a7d54a10f244a84fb02
+Section: Tweaks
+Description: 对打游戏的人会友好，火力全开，帧数拉满，不会保存录入视频，付费群使用。
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 长按锁屏键假录屏
+
+Package: com.wkk.iconxxxxxxsf9988
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo
+Filename: ./debs/com.wkk.iconxxxxxxsf9988_1.0-1_iphoneos-arm64.deb
+Size: 956
+MD5sum: 077c1c81ee8449b15e6af8c5270bd1cc
+SHA1: 059f41accf401ccd8f9d2ac510908245446a2f58
+SHA256: a92d60b21f524abadff308761cea6eeccb5256163c1b2999fcead130ab2e29ec
+Section: Tweaks
+Description: 对打游戏的人会友好，火力全开，帧数拉满，不会保存录入视频，付费群使用。
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 长按锁屏键假录屏
+
 Package: com.wkk.imaotai
 Version: 0.0.2
 Architecture: iphoneos-arm64e
@@ -25856,16 +25926,16 @@ Icon: https://s1.imagehub.cc/images/2025/01/09/173b823a03cbe3c3d5342c56736f52cd.
 Name: WeChatUISwitchLoader
 
 Package: com.wkk.wechatx
-Version: 1.5-8
-Architecture: iphoneos-arm64e
+Version: 1.5-8+1
+Architecture: iphoneos-arm64
 Maintainer: wkk
-Installed-Size: 2068
+Installed-Size: 2084
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.wechatx_1.5-8_iphoneos-arm64e.deb
-Size: 465780
-MD5sum: 967853c634dbd69b9c2e2053f73814a2
-SHA1: a2f02f997a92c2aefa31776405358901da831b25
-SHA256: ed5fb7c73c56aaf58732d9a9ea43e15ba6cf612893692e0409aec28177c7f3c9
+Filename: ./debs/com.wkk.wechatx_1.5-8+1_iphoneos-arm64.deb
+Size: 471528
+MD5sum: 6d92560dfb48c2d2302634b0bece19a2
+SHA1: ce949eec374fb8e2a247a9e65062fa001b285b19
+SHA256: 884977f25de191994cc76ab73a640a5c7aa154e837a85c9c777b4db73e8a905a
 Section: 微信插件
 Description: 一个新生代的插件，主打自由定义与实用为主，更多功能由群友集思广益，如果你想实现自己想要的功能，有更好的想法，欢迎来我的付费群玩。wx号：chn137
 Author: wkk
@@ -25873,16 +25943,50 @@ Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.
 Name: WeChatX
 
 Package: com.wkk.wechatx
-Version: 1.5-8
+Version: 1.5-8+1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 2084
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.wechatx_1.5-8+1_iphoneos-arm64e.deb
+Size: 471880
+MD5sum: cb2efa957282276e1812bedaa86a5af4
+SHA1: 5f7cd33e66886e67b6f50408784d4db97b684d7f
+SHA256: 43e4db7e3d4f751a627375af385d89b02cfe87af122e65360b1de7c974ddf1d3
+Section: 微信插件
+Description: 一个新生代的插件，主打自由定义与实用为主，更多功能由群友集思广益，如果你想实现自己想要的功能，有更好的想法，欢迎来我的付费群玩。wx号：chn137
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatX
+
+Package: com.wkk.wechatx
+Version: 1.5-9
 Architecture: iphoneos-arm64
 Maintainer: wkk
-Installed-Size: 2068
+Installed-Size: 2164
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.wechatx_1.5-8_iphoneos-arm64.deb
-Size: 466316
-MD5sum: 8d821f4f4c587561117f7ac5d22747d4
-SHA1: 71a767b29adecf859cbfe222ee3e7afbdf5389c3
-SHA256: b4515f422150460043234fde333e69f982b8b4a7a6dff627f2fde0463e900463
+Filename: ./debs/com.wkk.wechatx_1.5-9_iphoneos-arm64.deb
+Size: 493666
+MD5sum: 29f9c11a1a1ffca9b4b3c224a65e8a34
+SHA1: 5aa6d34e93206f7855a5c1522535a13e136f0c1d
+SHA256: 836b875c5ac46e591da8555c36c0c5345abe710be5131eaed1b459ab6f99492f
+Section: 微信插件
+Description: 一个新生代的插件，主打自由定义与实用为主，更多功能由群友集思广益，如果你想实现自己想要的功能，有更好的想法，欢迎来我的付费群玩。wx号：chn137
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatX
+
+Package: com.wkk.wechatx
+Version: 1.5-9
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 2164
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.wechatx_1.5-9_iphoneos-arm64e.deb
+Size: 492378
+MD5sum: d0b00db175df7b1d56e5d3c13c8dbf24
+SHA1: 4f7bfbdf800e241c479f3172b12825680ad691ac
+SHA256: ab9e2b6999546bd42f68f5c0be619bea67620e5c571fea2d3e9888406695562b
 Section: 微信插件
 Description: 一个新生代的插件，主打自由定义与实用为主，更多功能由群友集思广益，如果你想实现自己想要的功能，有更好的想法，欢迎来我的付费群玩。wx号：chn137
 Author: wkk
@@ -28562,6 +28666,58 @@ Size: 169372
 MD5sum: 605cbfa498f78bd689355cacad091347
 SHA1: 1e2234c03d11bfd88840f7635befd41130a45b2e
 SHA256: a6b631409fece3d566fdc822c203802c031c9184f81d76b77df242be2a045567
+Section: Tweaks
+Description: Zone 插件用于设置.tendies交互壁纸/视频壁纸 支持iOS14-17
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Zone
+
+Package: com.wkk.zone
+Version: 2.0.0
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 664
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.zone_2.0.0_iphoneos-arm64.deb
+Size: 208256
+MD5sum: 9b8a754c4cf477849f1ae3e9fe6078a8
+SHA1: d7b80c389738da5dafd798890fc858eaab871225
+SHA256: 25bb2d5f36c24c0dbb78fe9aea034d2bce8c927ea88470f3946a50e8a04457f3
+Section: Tweaks
+Description: Zone 插件用于设置.tendies交互壁纸/视频壁纸 支持iOS14-17
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Zone
+
+Package: com.wkk.zone
+Version: 2.0.0
+Architecture: iphoneos-arm
+Maintainer: iosdump
+Installed-Size: 664
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.zone_2.0.0_iphoneos-arm.deb
+Size: 208336
+MD5sum: 0723b4ac777ea7fbb1deb10bd4540ff2
+SHA1: b8d20db56a518efc9d367dca54acb53640445bed
+SHA256: 2c94fae40e359c35ce3126c67f414519246dd40bb82876361362d0f37a37e069
+Section: Tweaks
+Description: Zone 插件用于设置.tendies交互壁纸/视频壁纸 支持iOS14-17
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Zone
+
+Package: com.wkk.zone
+Version: 2.0.0
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 664
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.zone_2.0.0_iphoneos-arm64e.deb
+Size: 277068
+MD5sum: 9159cd751ab9e425518ca0322aaf0be1
+SHA1: 806bb38d71f84096ae9286dfbb4bed92ab413a50
+SHA256: 3ca2400a5365285e8f7012932da4f8ca2d47357928404fd76776dde9468f48ef
 Section: Tweaks
 Description: Zone 插件用于设置.tendies交互壁纸/视频壁纸 支持iOS14-17
 Author: iosdump
