@@ -6502,6 +6502,39 @@ Author: Curtin
 Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
 Name: PKC
 
+Package: com.curtin.pkc
+Version: 0.9-8
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.curtin.pkc_0.9-8_iphoneos-arm64e.deb
+Size: 3777192
+MD5sum: fcefc067882ec8a191dd689dde3267e7
+SHA1: 6a09379b9375b46ab0a141f6932c965889904d73
+SHA256: aafb6b1bfab6c7e99c540f449efe352510fd2b9bc0fddf1cfbd544c88f478fca
+Section: 微信插件
+Priority: optional
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等。
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+Name: PKC
+
+Package: com.curtin.pkc
+Version: 0.9-8
+Architecture: iphoneos-arm64
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.curtin.pkc_0.9-8_iphoneos-arm64.deb
+Size: 1378848
+MD5sum: 1bd9dbebcad5f6c2efae1280c8277e8f
+SHA1: 062861aa4ad4b898a71742fae9ea96dea2755bce
+SHA256: f9911df89d0045dd2482d56e969b27a0cfb25adf3bb349b89262610667df2cf4
+Section: 微信插件
+Priority: optional
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等。
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+Name: PKC
+
 Package: com.cydiageek.morelinesnotifications
 Version: 1.0.4-1
 Architecture: iphoneos-arm64
@@ -17164,17 +17197,17 @@ Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.
 Name: FloatingView-Helper
 
 Package: com.wkk.folder4
-Version: 1.2-8
+Version: 1.3-0
 Architecture: iphoneos-arm64e
 Maintainer: wkk
 Installed-Size: 168
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.folder4_1.2-8_iphoneos-arm64e.deb
-Size: 14222
-MD5sum: 99e31f4d2b33952d3512ee04a00fd06f
-SHA1: d375a5cb4fc0de971e9944687ded695b72345414
-SHA256: 7b509e845af9ab4144d762b5650e7fa2ecc23536a503f5c58a8d171c412d1330
+Filename: ./debs/com.wkk.folder4_1.3-0_iphoneos-arm64e.deb
+Size: 14202
+MD5sum: c973ca54f0c32e9fa6d3250befde6c42
+SHA1: 7a37f0fb181df6c3d24f4be37ad5477ee87d2b16
+SHA256: 58d9a6bde363fafdcb31bc4577f3bb729364f92f54efe192d7718546dc45995e
 Section: Tweaks
 Description: 4x4的文件夹布局/隐藏打开后的文件夹背景/打开文件夹内app自动关闭文件夹/调整打开后文件夹布局整体为中心/修复springboard奔溃后文件夹图标剩9个/配合源里文件夹阴影使用将springboard占用压榨到最低。
 Author: wkk
@@ -17182,16 +17215,16 @@ Icon: https://s1.imagehub.cc/images/2026/01/17/9209c2f3055f3d518df1df10d0fee36e.
 Name: Folder4x4
 
 Package: com.wkk.folder4
-Version: 1.2-8
+Version: 1.3-0
 Architecture: iphoneos-arm64
 Maintainer: wkk
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.folder4_1.2-8_iphoneos-arm64.deb
-Size: 10528
-MD5sum: f18bbbf68b039c3c77ea1f656ba36c63
-SHA1: bebad4782307d6917e819252ff64737a9c4bc3fa
-SHA256: e21e13287a6897e5b512c68d753c7387b5acc53842b60f97f9011333c287a603
+Filename: ./debs/com.wkk.folder4_1.3-0_iphoneos-arm64.deb
+Size: 10504
+MD5sum: ca6369458add921519b477fa467ea4d0
+SHA1: bd9796850c801ccbbab67c756a4c7302afda69d9
+SHA256: cd122a8eebc2863ba4f455ea5dc59083fc1491cde9445c5551f6cd209b55dbae
 Section: Tweaks
 Description: 4x4的文件夹布局/隐藏打开后的文件夹背景/打开文件夹内app自动关闭文件夹/调整打开后文件夹布局整体为中心/修复springboard奔溃后文件夹图标剩9个/配合源里文件夹阴影使用将springboard占用压榨到最低。
 Author: wkk
@@ -26055,6 +26088,40 @@ Size: 608382
 MD5sum: 6b50f46debfdd3a9c8fe9de25f636c03
 SHA1: fd7bffc7b9ce2a7b896ceff83de2feed1f768229
 SHA256: d4f915ff263d4ba95e0406be173a06b574c74151c1cac60cfe689c641e97e2fe
+Section: 微信插件
+Description: 一个新生代的插件，主打自由定义与实用为主，更多功能由群友集思广益，如果你想实现自己想要的功能，有更好的想法，欢迎来我的付费群玩。wx号：chn137
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatX
+
+Package: com.wkk.wechatx
+Version: 1.6-4
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 2972
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.wechatx_1.6-4_iphoneos-arm64.deb
+Size: 785064
+MD5sum: c2e72e79c930f5a1a8b2fa3f2a075bf0
+SHA1: bd6b43b8fac2add0944c14db55438ae44785a083
+SHA256: c705325aad7915e3236239878c5e4c5225641b8fd82f79fcf31d0411d193781b
+Section: 微信插件
+Description: 一个新生代的插件，主打自由定义与实用为主，更多功能由群友集思广益，如果你想实现自己想要的功能，有更好的想法，欢迎来我的付费群玩。wx号：chn137
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatX
+
+Package: com.wkk.wechatx
+Version: 1.6-4
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 2972
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.wechatx_1.6-4_iphoneos-arm64e.deb
+Size: 784526
+MD5sum: e3de8e683947705d17b86420710ffea0
+SHA1: 70081c1d64116a265224910c3136f90b229ac71f
+SHA256: c0ed7bd5e304c0df0856dbd3dc531029f69fa3d113ded39872fb6f114409b810
 Section: 微信插件
 Description: 一个新生代的插件，主打自由定义与实用为主，更多功能由群友集思广益，如果你想实现自己想要的功能，有更好的想法，欢迎来我的付费群玩。wx号：chn137
 Author: wkk
