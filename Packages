@@ -19222,6 +19222,108 @@ Author: iosdump
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: JumpSelect
 
+Package: com.wkk.jumpselect
+Version: 0.0.4
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 444
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.jumpselect_0.0.4_iphoneos-arm64e.deb
+Size: 55660
+MD5sum: b9547d63da251d89862d2fe60e32fd2a
+SHA1: e8d21d7124608b904cedffbe0a158e4557402869
+SHA256: a9f5e53d8ac410f87d240c720137b13f5300772b2d1d54bd8d3c01141bb34696
+Section: Tweaks
+Description: iOS 14-17 App跳转拦截重定向选择器。
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: JumpSelect
+
+Package: com.wkk.jumpselect
+Version: 0.0.4
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 444
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.jumpselect_0.0.4_iphoneos-arm64.deb
+Size: 56672
+MD5sum: 1a75342babcfe9ecb74edc8d63185fe9
+SHA1: 0e1ed197d40df901a4748330fc4b309af5511866
+SHA256: 5e6059009904c00f2cc61172aa4a89d68c577dd602d864c8896979277de9044f
+Section: Tweaks
+Description: iOS 14-17 App跳转拦截重定向选择器。
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: JumpSelect
+
+Package: com.wkk.jumpselect
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: iosdump
+Installed-Size: 444
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.jumpselect_0.0.4_iphoneos-arm.deb
+Size: 56756
+MD5sum: 4ad74e63722cd60e9a80b27fa50258ba
+SHA1: e83e6c83a279ea27ca22a19e569944244bdda9d6
+SHA256: 2727719b0f4fa23782be5a664b23ffe6d51efe4b0bae9f3ef63a7c41783d1a25
+Section: Tweaks
+Description: iOS 14-17 App跳转拦截重定向选择器。
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: JumpSelect
+
+Package: com.wkk.jumpselect
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: iosdump
+Installed-Size: 444
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.jumpselect_1.0.0_iphoneos-arm.deb
+Size: 60812
+MD5sum: 08cac82ab681bcbbc38ddf621aa056f9
+SHA1: 5dce96a6ac87608a45088635fc7e8fe74cb7052a
+SHA256: 360dc8353f698798d5de742550bcc0ed1d731c16f50ea5b94a32034c816abf05
+Section: Tweaks
+Description: iOS 14-17 App跳转拦截重定向选择器。
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: JumpSelect
+
+Package: com.wkk.jumpselect
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 444
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.jumpselect_1.0.0_iphoneos-arm64.deb
+Size: 60864
+MD5sum: cf49e7325d44d71ba693a5a7132d0f06
+SHA1: a12680156829d218632c5f3b3782c3abc52a83be
+SHA256: aa2edb4f02195558286b9dd3d3c5a66f68c44393149686272a2495b50a9944fb
+Section: Tweaks
+Description: iOS 14-17 App跳转拦截重定向选择器。
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: JumpSelect
+
+Package: com.wkk.jumpselect
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 444
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.jumpselect_1.0.0_iphoneos-arm64e.deb
+Size: 59796
+MD5sum: e5aa64495a7e1abfc2774a8a24f374d9
+SHA1: 3b79a771fc4771d4a0e9cfd0e24e4fa3fd01ad3f
+SHA256: 0bf66062221c34df474854782a1bdc47b98ac396fa35faa3e61a191c688169cb
+Section: Tweaks
+Description: iOS 14-17 App跳转拦截重定向选择器。
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: JumpSelect
+
 Package: com.wkk.kaiguan
 Version: 1.0-1
 Architecture: iphoneos-arm64e
@@ -26275,6 +26377,74 @@ Size: 833134
 MD5sum: 236989c99576a357ff9a513f992f8eb8
 SHA1: bb28fe07f9e4a31c05e8a62383eafe7da024e132
 SHA256: fa2207f212b6cd2f2d47100dc38426e933a67ec6cdf1b76889fe3ba1058b548b
+Section: 微信插件
+Description: 一个新生代的插件，主打自由定义与实用为主，更多功能由群友集思广益，如果你想实现自己想要的功能，有更好的想法，欢迎来我的付费群玩。wx号：chn137
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatX
+
+Package: com.wkk.wechatx
+Version: 1.6-8
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 3280
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.wechatx_1.6-8_iphoneos-arm64.deb
+Size: 847462
+MD5sum: d83090f1a32360f9aafc8753332a9172
+SHA1: 24989d6903606028f7abb52465818c2020da5cda
+SHA256: b0decd7e611dbc6ca350688199b1062699a9528a537604b070a0c64b38cb3bd7
+Section: 微信插件
+Description: 一个新生代的插件，主打自由定义与实用为主，更多功能由群友集思广益，如果你想实现自己想要的功能，有更好的想法，欢迎来我的付费群玩。wx号：chn137
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatX
+
+Package: com.wkk.wechatx
+Version: 1.6-8
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 3280
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.wechatx_1.6-8_iphoneos-arm64e.deb
+Size: 843856
+MD5sum: 4bfb0b4120a5a8f1d709e21b59c4d55b
+SHA1: de6b94b411c59362d7daaffd129930b316a15230
+SHA256: ca0b14b2e1d31cc7530e641f635527d2317831887b15a976e4728a9f78e64ccd
+Section: 微信插件
+Description: 一个新生代的插件，主打自由定义与实用为主，更多功能由群友集思广益，如果你想实现自己想要的功能，有更好的想法，欢迎来我的付费群玩。wx号：chn137
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatX
+
+Package: com.wkk.wechatx
+Version: 1.6-9
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 3344
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.wechatx_1.6-9_iphoneos-arm64e.deb
+Size: 857022
+MD5sum: 8e6ee13dc290ed54eca865846f26e80e
+SHA1: 50a92fda4958340433ca7123dd0d9c69ccb29080
+SHA256: 75f61c17a054fcaa9172cb9eae6a97ac92bbddf8814f851850c0068a9aa0d1f5
+Section: 微信插件
+Description: 一个新生代的插件，主打自由定义与实用为主，更多功能由群友集思广益，如果你想实现自己想要的功能，有更好的想法，欢迎来我的付费群玩。wx号：chn137
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatX
+
+Package: com.wkk.wechatx
+Version: 1.6-9
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 3344
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.wechatx_1.6-9_iphoneos-arm64.deb
+Size: 859130
+MD5sum: 27b02e93d019346ca32319f03d36acde
+SHA1: e1be2066e738af114e7b75edd3a5bc8648529c73
+SHA256: 4808c22c739e516cae43bef1fe6f46e213df23eefcb6b43314f05b9a9f28a09b
 Section: 微信插件
 Description: 一个新生代的插件，主打自由定义与实用为主，更多功能由群友集思广益，如果你想实现自己想要的功能，有更好的想法，欢迎来我的付费群玩。wx号：chn137
 Author: wkk
