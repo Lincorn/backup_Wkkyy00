@@ -12723,6 +12723,58 @@ Author: Fouad Raheb
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: AppData
 
+Package: com.wkk.appdata.iosdump
+Version: 2.4.0
+Architecture: iphoneos-arm
+Maintainer: iosdump
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdatas, com.netskao.appdata, cn.zqbb.appdata, com.fouadraheb.appdata
+Filename: ./debs/com.wkk.appdata.iosdump_2.4.0_iphoneos-arm.deb
+Size: 1045860
+MD5sum: dc94e7fa092c275a55b8b96c439b74a1
+SHA1: 20aca248011e2569613c3b2fd0fdfa63fad099bf
+SHA256: e15c8c5b9f2c38902d3740477ba04255fde08f3f58a2c675657e672a187bf6f6
+Section: Tweaks
+Description: 修复ios17+上的选择应用版本降级时导致SpringBoard崩溃问题，修复其它小问题并优化修改图标逻辑以及添加长按应用图标禁用应用通知，说明：单击应用图标可修改图标，长按可禁用通知，恢复再次长按即可，恢复通知可能会有些许延迟，已在ios14.3、15.4、16.4.1、17.0，测试并且所有修改仅在SpringBoard层面生效。
+Author: Fouad Raheb
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: AppData
+
+Package: com.wkk.appdata.iosdump
+Version: 2.4.0
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdatas, com.netskao.appdata, cn.zqbb.appdata, com.fouadraheb.appdata
+Filename: ./debs/com.wkk.appdata.iosdump_2.4.0_iphoneos-arm64e.deb
+Size: 2380796
+MD5sum: 8f7c5d89a9369c477b9d46eda5331847
+SHA1: db5942a6fc502295700909db6c48089e2590c4ba
+SHA256: 075941e3236abbbbc4de5c22eb727dc2377d3dd456db52ef6a7120ff21ea1fc8
+Section: Tweaks
+Description: 修复ios17+上的选择应用版本降级时导致SpringBoard崩溃问题，修复其它小问题并优化修改图标逻辑以及添加长按应用图标禁用应用通知，说明：单击应用图标可修改图标，长按可禁用通知，恢复再次长按即可，恢复通知可能会有些许延迟，已在ios14.3、15.4、16.4.1、17.0，测试并且所有修改仅在SpringBoard层面生效。
+Author: Fouad Raheb
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: AppData
+
+Package: com.wkk.appdata.iosdump
+Version: 2.4.0
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdatas, com.netskao.appdata, cn.zqbb.appdata, com.fouadraheb.appdata
+Filename: ./debs/com.wkk.appdata.iosdump_2.4.0_iphoneos-arm64.deb
+Size: 1045208
+MD5sum: 3df03067b97d0d1ca5c4319cdff7fbc3
+SHA1: 935e37db0aaf77121eab602df43288ab4ca45a8b
+SHA256: 13b3cc499a5a4e56c158e0afb1fddb35d4ca4db275e075c9e28118e001b387c2
+Section: Tweaks
+Description: 修复ios17+上的选择应用版本降级时导致SpringBoard崩溃问题，修复其它小问题并优化修改图标逻辑以及添加长按应用图标禁用应用通知，说明：单击应用图标可修改图标，长按可禁用通知，恢复再次长按即可，恢复通知可能会有些许延迟，已在ios14.3、15.4、16.4.1、17.0，测试并且所有修改仅在SpringBoard层面生效。
+Author: Fouad Raheb
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: AppData
+
 Package: com.wkk.apppad
 Version: 1.1.3
 Architecture: iphoneos-arm64
@@ -17131,6 +17183,40 @@ Description: Filza的滑动多选功能。
 Author: korboy <korboybeats@gmail.com>
 Icon: https://sini921.github.io/repo/sileodepiction/icon/filzaswipeselect.png
 Name: FilzaSwipeSelect
+
+Package: com.wkk.flex
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: Joshua Wheeler & wkk
+Installed-Size: 3020
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.flex_1.0-1_iphoneos-arm64.deb
+Size: 649844
+MD5sum: f2d2631df9d58975889b9dee0608b2d9
+SHA1: b45de709bd1045da810f115a549bec084951ad80
+SHA256: 2869762d4203335fb327f76680243136a88a811603b57cd009a6caa242565137
+Section: Tweaks
+Description: 一个好用的Flex改版，同时按住音量+和-呼出，长按类名即可复制类名，无设置项。
+Author: Joshua Wheeler & wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Flex
+
+Package: com.wkk.flex
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: Joshua Wheeler & wkk
+Installed-Size: 3020
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.flex_1.0-1_iphoneos-arm64e.deb
+Size: 647744
+MD5sum: 42d0baee36b12f92f0dba38ceee6d46b
+SHA1: db70a6cc5b044431a233ba879761955829ea990c
+SHA256: 39b10710cc3d00fbbe4167348ed05af22c2cee6fd284f0fdcc2039f2f1069ee9
+Section: Tweaks
+Description: 一个好用的Flex改版，同时按住音量+和-呼出，长按类名即可复制类名，无设置项。
+Author: Joshua Wheeler & wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Flex
 
 Package: com.wkk.flex3beta
 Version: 1.0-1
