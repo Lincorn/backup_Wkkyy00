@@ -9701,15 +9701,15 @@ Icon: https://s1.imagehub.cc/images/2025/02/28/5d3f253f3ccddbc8c8bc3f13771a9af0.
 Name: SquidExtender配置
 
 Package: com.wkk.Systemxxxxx
-Version: 1.2-0
+Version: 1.2-2
 Architecture: iphoneos-arm64
 Maintainer: wkk
 Depends: sudo
-Filename: ./debs/com.wkk.Systemxxxxx_1.2-0_iphoneos-arm64.deb
+Filename: ./debs/com.wkk.Systemxxxxx_1.2-2_iphoneos-arm64.deb
 Size: 1168
-MD5sum: 2730de744ede240c8b6f3427d16c48e0
-SHA1: 1642dd81e79d600fd7b591c8d002079c853abec8
-SHA256: 78ec1be09638437c7f9ad199a7cefc11681c60cf12018059335e29ddb87efccd
+MD5sum: c088840484e41f3f4c6a28af5844bd81
+SHA1: d74622f51353da8474d72e024f03af6f5c68332f
+SHA256: f5f2fb15df670ab338ed0cdb4b8d61da73582c11c581db5d8b7412221e486ed6
 Section: Tweaks
 Description: 全新的军刀插件，针对系统的增强与精简的集合插件支持iOS15-17（更换图标/文件夹布局精简/角标美化/相册增强/设置实用功能/静音vpn映射/全网都没有的mac运行指示点/禁用、隐藏系统内冗余地方等几十个实用功能）如果想加什么功能或者有好的想法，欢迎来我的付费群玩，源内所有蓝标插件仅付费群使用。
 Tag: cydia::commercial
@@ -11761,16 +11761,16 @@ Architecture: iphoneos-arm64
 Maintainer: wkk
 Depends: sudo
 Filename: ./debs/com.wkk.aaaaaaaaaaa22233_1.3-5_iphoneos-arm64.deb
-Size: 1340
-MD5sum: dd90fcc8e40f01a9271fba6fd9baab21
-SHA1: 69a7c2f705cefa23b54f6068a8fc75b8e5b6348e
-SHA256: 1841defce0ebfff8dce860485cb71722eaa1795e38e5ec98f84e5b4c8f62e975
+Size: 1344
+MD5sum: 112966fe3737259eadbbd0ff043e24bd
+SHA1: a2ae7d5d7bc6e26b078ee7371e5537e30550608f
+SHA256: 6c143c6957fb1955b0c33223303b51f464bb072f3c3b5d1d3495e7265e5c8c07
 Section: Tweaks
-Description: 之前因某些原因源内去广告插件将不再更新维护，付费群已稳定两个多月，QQ/微信双群均已建好，群内已上传自制文件260+，全部为一手制作，插件覆盖范围不局限于App去广告、优化（主流APP全覆盖）偏门App可现做，同时包含各种偏门类/便捷操作类系统级插件、微信插件等各种实用内容。群内任何需求任何问题都可提出，力所能及的都会尽力帮助解决，全方位满足大家的越狱需求，让各位少走弯路，进群58元/人，感谢已经入群的几百位大哥们一直以来的支持与信任！需要的朋友可加我QQ：1772773799
+Description: 之前因某些原因源内去广告插件将不再更新维护，QQ/微信双群均已建好，群内已上传自制文件280+，全部为一手制作，插件覆盖范围不局限于App去广告、优化（主流APP全覆盖）偏门App可现做，同时包含各种偏门类/便捷操作类系统级插件（SystemX）、微信插件（WeChatX）等各种实用内容。群内任何需求任何问题都可提出，力所能及的都会尽力帮助解决，全方位满足大家的越狱需求，让各位少走弯路，进群58元/人，感谢已经入群的几百位大哥们一直以来的支持与信任！需要的朋友可加我QQ：1772773799
 Tag: cydia::commercial
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
-Name: 付费群公告
+Name: 付费群 欢迎来玩
 
 Package: com.wkk.aaaaaaaaaaa222338888
 Version: 1.1-0
@@ -26864,13 +26864,13 @@ Package: com.wkk.wechatx
 Version: 1.8-7
 Architecture: iphoneos-arm64
 Maintainer: wkk
-Installed-Size: 6104
+Installed-Size: 6216
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.wkk.wechatx_1.8-7_iphoneos-arm64.deb
-Size: 1479090
-MD5sum: 8b45d688351951035f2b30e9218b7364
-SHA1: e3ef1adaf29ceea97b497fcd64b54f7d3204be40
-SHA256: 8ca1993e4af588412bad1560aead7fc0a4c46b661884fa6586bd003f0a0119cd
+Size: 1515110
+MD5sum: 695cd056c67e6f2977d4e645a9efc007
+SHA1: eba77189d6760f292525f815074c8bbfda47ed8d
+SHA256: 24575e3e86a549bb7319ed6051aca85415ca636937614fa262b002be54ee64e2
 Section: 微信插件
 Description: 一个新生代的插件，主打自由定义与实用为主，更多功能由群友集思广益，如果你想实现自己想要的功能，有更好的想法，欢迎来我的付费群玩。wx号：chn137
 Author: wkk
@@ -26881,13 +26881,13 @@ Package: com.wkk.wechatx
 Version: 1.8-7
 Architecture: iphoneos-arm64e
 Maintainer: wkk
-Installed-Size: 6104
+Installed-Size: 6216
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.wkk.wechatx_1.8-7_iphoneos-arm64e.deb
-Size: 1481016
-MD5sum: d28335a6e0ae1e0ca571a6a09174b81d
-SHA1: d33b698f49b43ddcb5985cdd63787278f25f577c
-SHA256: 0eba78cac230e66b6e97fa56a08feac161aa36ac0d765cd1eb6fdef7368e4dcc
+Size: 1513552
+MD5sum: a513fd3d2d7ca28e9b5fc2a133cc5a34
+SHA1: e78954b1461a242162ce7b87f6f851f788cbf095
+SHA256: e1c4de689283b7c793ef6785c072a512a26272b97318d3453c56644419995c80
 Section: 微信插件
 Description: 一个新生代的插件，主打自由定义与实用为主，更多功能由群友集思广益，如果你想实现自己想要的功能，有更好的想法，欢迎来我的付费群玩。wx号：chn137
 Author: wkk
