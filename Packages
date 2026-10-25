@@ -9864,6 +9864,23 @@ Icon: https://s1.imagehub.cc/images/2025/12/29/79018e0c97a38b0c2da262e3bf40edb1.
 Name: CCswitchdata
 Sponsor: wkk
 
+Package: com.wkk.cctimermemory
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 17.0)
+Filename: ./debs/com.wkk.cctimermemory_1.0-1_iphoneos-arm64e.deb
+Size: 7636
+MD5sum: 8711e6804e97507f097254db6db661d8
+SHA1: 54733ffea7fce8f68178fc0daa534d7c6fc4c2a6
+SHA256: d5656724e725daa781530f4ca0c69ab2130182c179d4555ba4ae84afac755ab2
+Section: Tweaks
+Description: 控制中心记录上次倒计时时间，点击直接启动，仅适配 iOS 17.0–17.3.1 relaxin 越狱。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: CCTimerMemory
+
 Package: com.wkk.cctunneltap
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -19192,6 +19209,40 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2026/02/23/68af2a96e1fa8dcfb7935b2eb407ffad.png
 Name: 顺丰速运NoAds
 
+Package: com.wkk.sileofaststart
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 208
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debs/com.wkk.sileofaststart_1.0-2_iphoneos-arm64.deb
+Size: 21928
+MD5sum: d3251dade1a4fdc674c004e2f0b62bb9
+SHA1: f5f6deb229e2fcdc0c560501cb36d9a67a031144
+SHA256: 8fa362c1ddf4e2514491f14434d4e52d3b85f4d0e0aec2a4b6dcde417ea7588c
+Section: Tweaks
+Description: 禁止 sileo 每次进入都自动化刷新拖慢用户的等待行为，以便于更高效的管理与加载已安装的插件，便于用户卸载/安装插件，支持Dopamine 与 relaxin 所有的越狱设备，需要刷新源与插件需手动刷新。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Sileo Fast Start
+
+Package: com.wkk.sileofaststart
+Version: 1.0-2
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 208
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debs/com.wkk.sileofaststart_1.0-2_iphoneos-arm64e.deb
+Size: 21848
+MD5sum: 5d9e96e5de372ec40312431ca022d39e
+SHA1: 32a6b6879c0dc39facd8cbe5cb20f9005a10d611
+SHA256: fb44b853a460ed7e909ee63b18aa8c92472053c0812c732eb887c4740ae5d568
+Section: Tweaks
+Description: 禁止 sileo 每次进入都自动化刷新拖慢用户的等待行为，以便于更高效的管理与加载已安装的插件，便于用户卸载/安装插件，支持Dopamine 与 relaxin 所有的越狱设备，需要刷新源与插件需手动刷新。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Sileo Fast Start
+
 Package: com.wkk.sileomh
 Version: 1.0-1
 Architecture: iphoneos-arm64
@@ -24770,6 +24821,43 @@ Description: load preferences in style
 Author: Dhinak G <dhinak@dhinak.net>
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: PreferenceLoader (Top)
+
+Package: re.frida.server
+Version: 16.1.4
+Architecture: iphoneos-arm64e
+Maintainer: Ole André Vadla Ravnås <oleavr@nowsecure.com>
+Installed-Size: 60116
+Pre-Depends: rootless-compat(>= 0.9)
+Conflicts: re.frida.server64
+Filename: ./debs/re.frida.server_16.1.4_iphoneos-arm64e.deb
+Size: 53241442
+MD5sum: 54c33bd5d1391cc13fa95c9689366457
+SHA1: 0f3009babcc3f7f81517e37adb5acc386a311a8e
+SHA256: c94325f1032e6307544b0ca0385260df3a826c9fe1f443f0b295604083cbb595
+Section: Development
+Priority: optional
+Homepage: https://frida.re/
+Description: Observe and reprogram running programs.
+Author: Frida Developers <oleavr@nowsecure.com>
+Name: Frida
+
+Package: re.frida.server
+Version: 16.1.4
+Architecture: iphoneos-arm64
+Maintainer: Ole André Vadla Ravnås <oleavr@nowsecure.com>
+Installed-Size: 60116
+Conflicts: re.frida.server64
+Filename: ./debs/re.frida.server_16.1.4_iphoneos-arm64.deb
+Size: 17824532
+MD5sum: d044aa5cadd516201ed2b2f0fc454aa3
+SHA1: c9bcd73e65aaf96681b0e6f0e6fbd3c5e24b6f0d
+SHA256: 85cf1906a303768978c4486db127d44b785b3584ba8002e11850bff4253a7429
+Section: Development
+Priority: optional
+Homepage: https://frida.re/
+Description: Observe and reprogram running programs.
+Author: Frida Developers <oleavr@nowsecure.com>
+Name: Frida
 
 Package: ru.domo.cocoatop64
 Version: 2.2.4-2
